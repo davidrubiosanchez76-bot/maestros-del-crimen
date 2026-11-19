@@ -1,0 +1,101 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "daly",
+    "nombre": "Carroll John Daly",
+    "nombreCompleto": "Carroll John Daly",
+    "nacimiento": "1889",
+    "fallecimiento": "1958",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "Yonkers, Estados Unidos",
+    "fin": "Los Ángeles, Estados Unidos",
+    "debutNegro": 1926,
+    "debutPorVerificar": true,
+    "seudonimos": [],
+    "generos": [
+      "hardboiled"
+    ],
+    "imagen": "",
+    "resumen": "Pionero del detective duro en las revistas pulp y creador de Race Williams.",
+    "bio": [
+      "En Black Mask contribuyó a definir la voz y los métodos del investigador hardboiled antes de su consolidación en la novela.",
+      "Race Williams se convirtió en una de las figuras populares de la ficción detectivesca de entreguerras."
+    ],
+    "apunte": "Race Williams comenzó a aparecer en Black Mask en 1923. Sus métodos expeditivos anticiparon algunos rasgos del detective duro que se harían populares después.",
+    "articulos": [
+      {
+        "titulo": "CARROLL JOHN DALY | Y con él nació el detective duro de verdad",
+        "url": "https://balasyestrellas.blogspot.com/2025/04/carroll-john-daly-con-el-llego-el.html"
+      }
+    ],
+    "personajes": [
+      "race"
+    ],
+    "series": [
+      "race"
+    ],
+    "obras": [
+      "whitecircle",
+      "snarl"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "race",
+      "nombre": "Race Williams",
+      "autor": "daly",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "race",
+      "obras": [
+        "snarl"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador privado creado por Carroll John Daly, de métodos expeditivos y código personal al margen de muchas convenciones."
+    }
+  ],
+  "series": [
+    {
+      "id": "race",
+      "nombre": "Race Williams",
+      "autor": "daly",
+      "descripcion": "Ciclo de novelas protagonizadas por el detective Race Williams."
+    }
+  ],
+  "obras": [
+    {
+      "id": "whitecircle",
+      "titulo": "The White Circle",
+      "original": "The White Circle",
+      "anio": 1926,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Una muestra temprana de la narrativa criminal de Carroll John Daly. Sinopsis completa pendiente de documentar."
+    },
+    {
+      "id": "snarl",
+      "titulo": "El rugido de la bestia",
+      "original": "The Snarl of the Beast",
+      "anio": 1927,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "race",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Race Williams se enfrenta a un criminal temido al que la policía trata de detener. La investigación combina acción y métodos expeditivos."
+    }
+  ]
+}
