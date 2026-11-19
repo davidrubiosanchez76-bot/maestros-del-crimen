@@ -27,13 +27,24 @@
     "articulos": [],
     "personajes": [
       "collins-betteredge",
-      "collins-cuff"
+      "collins-cuff",
+      "collins-marian",
+      "collins-fosco",
+      "collins-valeria",
+      "collins-magdalen"
     ],
     "series": [],
     "obras": [
       "collins-the-woman-in-white",
       "collins-armadale",
-      "collins-the-moonstone"
+      "collins-the-moonstone",
+      "collins-the-dead-secret",
+      "collins-no-name",
+      "collins-man-and-wife",
+      "collins-the-new-magdalen",
+      "collins-the-law-and-the-lady",
+      "collins-the-haunted-hotel",
+      "collins-the-legacy-of-cain"
     ]
   },
   "personajes": [
@@ -76,6 +87,86 @@
       ],
       "articulos": [],
       "descripcion": "Investigador policial que atiende a los detalles materiales en el caso del diamante."
+    },
+    {
+      "id": "collins-marian",
+      "nombre": "Marian Halcombe",
+      "autor": "collins",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "collins-the-woman-in-white"
+      ],
+      "articulos": [],
+      "descripcion": "Una de las protagonistas de La dama de blanco; su inteligencia y voluntad resultan esenciales frente a los engaños."
+    },
+    {
+      "id": "collins-fosco",
+      "nombre": "Conde Fosco",
+      "autor": "collins",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Antagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "",
+      "obras": [
+        "collins-the-woman-in-white"
+      ],
+      "articulos": [],
+      "descripcion": "Personaje de La dama de blanco de gran encanto social y capacidad de manipulación."
+    },
+    {
+      "id": "collins-valeria",
+      "nombre": "Valeria Brinton",
+      "autor": "collins",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "collins-the-law-and-the-lady"
+      ],
+      "articulos": [],
+      "descripcion": "Mujer que investiga el pasado judicial de su marido en La ley y la dama."
+    },
+    {
+      "id": "collins-magdalen",
+      "nombre": "Magdalen Vanstone",
+      "autor": "collins",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "collins-no-name"
+      ],
+      "articulos": [],
+      "descripcion": "Joven de Sin nombre que busca recuperar lo que considera legítimamente suyo."
     }
   ],
   "series": [],
@@ -121,6 +212,104 @@
         "psychological thriller"
       ],
       "sinopsis": "La desaparición de un diamante durante una celebración familiar desencadena una investigación de secretos y versiones divergentes."
+    },
+    {
+      "id": "collins-the-dead-secret",
+      "titulo": "El secreto de Sarah",
+      "original": "The Dead Secret",
+      "anio": 1857,
+      "autor": "collins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una promesa de silencio y unos documentos ocultos condicionan el destino de una familia."
+    },
+    {
+      "id": "collins-no-name",
+      "titulo": "Sin nombre",
+      "original": "No Name",
+      "anio": 1862,
+      "autor": "collins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Dos hermanas descubren que una cuestión legal amenaza su posición y su herencia."
+    },
+    {
+      "id": "collins-man-and-wife",
+      "titulo": "Marido y mujer",
+      "original": "Man and Wife",
+      "anio": 1870,
+      "autor": "collins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "La vida de varias parejas queda afectada por la complejidad de las leyes matrimoniales y las apariencias sociales."
+    },
+    {
+      "id": "collins-the-new-magdalen",
+      "titulo": "La nueva Magdalena",
+      "original": "The New Magdalen",
+      "anio": 1873,
+      "autor": "collins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una mujer intenta rehacer su vida después de asumir una identidad que pertenece a otra persona."
+    },
+    {
+      "id": "collins-the-law-and-the-lady",
+      "titulo": "La ley y la dama",
+      "original": "The Law and the Lady",
+      "anio": 1875,
+      "autor": "collins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una mujer investiga por su cuenta un antiguo proceso judicial que amenaza su matrimonio."
+    },
+    {
+      "id": "collins-the-haunted-hotel",
+      "titulo": "El hotel encantado",
+      "original": "The Haunted Hotel",
+      "anio": 1878,
+      "autor": "collins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una desaparición en Venecia y unos sucesos aparentemente sobrenaturales ponen en duda lo que se sabe de una tragedia."
+    },
+    {
+      "id": "collins-the-legacy-of-cain",
+      "titulo": "El legado de Caín",
+      "original": "The Legacy of Cain",
+      "anio": 1889,
+      "autor": "collins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una historia de filiación, secretos y responsabilidad enfrenta las ideas sobre herencia y conducta."
     }
   ]
 }
