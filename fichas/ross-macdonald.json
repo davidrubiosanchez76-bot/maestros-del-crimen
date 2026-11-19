@@ -38,7 +38,22 @@
       "ross-macdonald-the-dark-tunnel",
       "ross-macdonald-the-moving-target",
       "ross-macdonald-the-drowning-pool",
-      "ross-macdonald-the-galton-case"
+      "ross-macdonald-the-galton-case",
+      "ross-macdonald-the-way-some-people-die",
+      "ross-macdonald-the-ivory-grin",
+      "ross-macdonald-find-a-victim",
+      "ross-macdonald-the-barbarous-coast",
+      "ross-macdonald-the-doomsters",
+      "ross-macdonald-the-wycherly-woman",
+      "ross-macdonald-the-zebra-striped-hearse",
+      "ross-macdonald-the-chill",
+      "ross-macdonald-the-far-side-of-the-dollar",
+      "ross-macdonald-black-money",
+      "ross-macdonald-the-instant-enemy",
+      "ross-macdonald-the-goodbye-look",
+      "ross-macdonald-the-underground-man",
+      "ross-macdonald-sleeping-beauty",
+      "ross-macdonald-the-blue-hammer"
     ]
   },
   "personajes": [
@@ -59,7 +74,22 @@
       "obras": [
         "ross-macdonald-the-moving-target",
         "ross-macdonald-the-drowning-pool",
-        "ross-macdonald-the-galton-case"
+        "ross-macdonald-the-galton-case",
+        "ross-macdonald-the-way-some-people-die",
+        "ross-macdonald-the-ivory-grin",
+        "ross-macdonald-find-a-victim",
+        "ross-macdonald-the-barbarous-coast",
+        "ross-macdonald-the-doomsters",
+        "ross-macdonald-the-wycherly-woman",
+        "ross-macdonald-the-zebra-striped-hearse",
+        "ross-macdonald-the-chill",
+        "ross-macdonald-the-far-side-of-the-dollar",
+        "ross-macdonald-black-money",
+        "ross-macdonald-the-instant-enemy",
+        "ross-macdonald-the-goodbye-look",
+        "ross-macdonald-the-underground-man",
+        "ross-macdonald-sleeping-beauty",
+        "ross-macdonald-the-blue-hammer"
       ],
       "articulos": [],
       "descripcion": "Detective privado observador que rastrea crímenes escondidos en el pasado familiar."
@@ -129,6 +159,216 @@
         "psychological thriller"
       ],
       "sinopsis": "La búsqueda de un heredero desaparecido conduce a Archer a explorar secretos de identidad y diferencias sociales."
+    },
+    {
+      "id": "ross-macdonald-the-way-some-people-die",
+      "titulo": "La forma en que algunos mueren",
+      "original": "The Way Some People Die",
+      "anio": 1951,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Archer busca a una joven desaparecida y se interna en un ambiente de drogas y delincuencia."
+    },
+    {
+      "id": "ross-macdonald-the-ivory-grin",
+      "titulo": "La sonrisa de marfil",
+      "original": "The Ivory Grin",
+      "anio": 1952,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un encargo de vigilancia conduce a Archer a una intriga de identidades y asesinatos."
+    },
+    {
+      "id": "ross-macdonald-find-a-victim",
+      "titulo": "Find a Victim",
+      "original": "Find a Victim",
+      "anio": 1954,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un herido junto a una carretera involucra a Archer en un conflicto que llega hasta una pequeña localidad."
+    },
+    {
+      "id": "ross-macdonald-the-barbarous-coast",
+      "titulo": "La costa bárbara",
+      "original": "The Barbarous Coast",
+      "anio": 1956,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una desaparición conecta Hollywood y ambientes acomodados con violencia y secretos."
+    },
+    {
+      "id": "ross-macdonald-the-doomsters",
+      "titulo": "The Doomsters",
+      "original": "The Doomsters",
+      "anio": 1958,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Archer investiga la suerte de un joven fugado y los conflictos ocultos de una familia."
+    },
+    {
+      "id": "ross-macdonald-the-wycherly-woman",
+      "titulo": "La mujer Wycherly",
+      "original": "The Wycherly Woman",
+      "anio": 1961,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un padre contrata a Archer para localizar a su hija desaparecida."
+    },
+    {
+      "id": "ross-macdonald-the-zebra-striped-hearse",
+      "titulo": "The Zebra-Striped Hearse",
+      "original": "The Zebra-Striped Hearse",
+      "anio": 1962,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una relación sentimental en apariencia sospechosa arrastra a Archer hacia un caso de identidad y dinero."
+    },
+    {
+      "id": "ross-macdonald-the-chill",
+      "titulo": "El escalofrío",
+      "original": "The Chill",
+      "anio": 1964,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una joven desaparece tras un viaje y la pesquisa destapa recuerdos y conflictos en varias generaciones."
+    },
+    {
+      "id": "ross-macdonald-the-far-side-of-the-dollar",
+      "titulo": "El otro lado del dólar",
+      "original": "The Far Side of the Dollar",
+      "anio": 1965,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "La desaparición de un adolescente de una escuela privada obliga a Archer a examinar su familia."
+    },
+    {
+      "id": "ross-macdonald-black-money",
+      "titulo": "Dinero negro",
+      "original": "Black Money",
+      "anio": 1966,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una investigación sobre un hombre de identidad dudosa gira alrededor de la riqueza y la impostura."
+    },
+    {
+      "id": "ross-macdonald-the-instant-enemy",
+      "titulo": "The Instant Enemy",
+      "original": "The Instant Enemy",
+      "anio": 1968,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un secuestro y las tensiones entre padres e hijos revelan errores del pasado."
+    },
+    {
+      "id": "ross-macdonald-the-goodbye-look",
+      "titulo": "La mirada del adiós",
+      "original": "The Goodbye Look",
+      "anio": 1969,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Archer sigue el rastro de un objeto robado y descubre viejas culpas familiares."
+    },
+    {
+      "id": "ross-macdonald-the-underground-man",
+      "titulo": "El hombre subterráneo",
+      "original": "The Underground Man",
+      "anio": 1971,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un incendio y la desaparición de un niño acercan al detective a secretos intergeneracionales."
+    },
+    {
+      "id": "ross-macdonald-sleeping-beauty",
+      "titulo": "La bella durmiente",
+      "original": "Sleeping Beauty",
+      "anio": 1973,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una joven desaparecida y un desastre ecológico conectan familias poderosas y resentimientos."
+    },
+    {
+      "id": "ross-macdonald-the-blue-hammer",
+      "titulo": "El martillo azul",
+      "original": "The Blue Hammer",
+      "anio": 1976,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un cuadro desaparecido lleva a Archer a investigar falsificaciones, parentescos y memoria."
     }
   ]
 }
