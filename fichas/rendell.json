@@ -37,7 +37,17 @@
       "rendell-from-doon-with-death",
       "rendell-a-judgement-in-stone",
       "rendell-a-dark-adapted-eye",
-      "rendell-the-bridesmaid"
+      "rendell-the-bridesmaid",
+      "rendell-a-new-lease-of-death",
+      "rendell-wolf-to-the-slaughter",
+      "rendell-the-best-man-to-die",
+      "rendell-a-guilty-thing-surprised",
+      "rendell-no-more-dying-then",
+      "rendell-murder-being-once-done",
+      "rendell-some-lie-and-some-die",
+      "rendell-a-fatal-inversion",
+      "rendell-the-house-of-stairs",
+      "rendell-gallowglass"
     ]
   },
   "personajes": [
@@ -56,7 +66,14 @@
       ],
       "serie": "rendell-wexford",
       "obras": [
-        "rendell-from-doon-with-death"
+        "rendell-from-doon-with-death",
+        "rendell-a-new-lease-of-death",
+        "rendell-wolf-to-the-slaughter",
+        "rendell-the-best-man-to-die",
+        "rendell-a-guilty-thing-surprised",
+        "rendell-no-more-dying-then",
+        "rendell-murder-being-once-done",
+        "rendell-some-lie-and-some-die"
       ],
       "articulos": [],
       "descripcion": "Inspector perspicaz de la policía inglesa y observador de conflictos familiares."
@@ -105,7 +122,7 @@
       "original": "A Dark-Adapted Eye",
       "anio": 1986,
       "autor": "rendell",
-      "seudonimo": "",
+      "seudonimo": "Barbara Vine",
       "serie": "",
       "generos": [
         "whodunit",
@@ -126,6 +143,146 @@
         "psychological thriller"
       ],
       "sinopsis": "La fascinación de un hombre por una mujer misteriosa transforma su vida y sus lealtades."
+    },
+    {
+      "id": "rendell-a-new-lease-of-death",
+      "titulo": "A New Lease of Death",
+      "original": "A New Lease of Death",
+      "anio": 1967,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "El inspector Wexford vuelve sobre una investigación cuyos efectos perduran."
+    },
+    {
+      "id": "rendell-wolf-to-the-slaughter",
+      "titulo": "Wolf to the Slaughter",
+      "original": "Wolf to the Slaughter",
+      "anio": 1967,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "La desaparición de una mujer lleva a Wexford a investigar un mundo de apariencias."
+    },
+    {
+      "id": "rendell-the-best-man-to-die",
+      "titulo": "The Best Man to Die",
+      "original": "The Best Man to Die",
+      "anio": 1969,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un asesinato durante el entorno de una boda abre una investigación policial."
+    },
+    {
+      "id": "rendell-a-guilty-thing-surprised",
+      "titulo": "A Guilty Thing Surprised",
+      "original": "A Guilty Thing Surprised",
+      "anio": 1970,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "El hallazgo de una víctima en los jardines de una residencia lleva a revisar conflictos privados."
+    },
+    {
+      "id": "rendell-no-more-dying-then",
+      "titulo": "No More Dying Then",
+      "original": "No More Dying Then",
+      "anio": 1971,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "La desaparición de niños obliga a la policía a afrontar un caso especialmente delicado."
+    },
+    {
+      "id": "rendell-murder-being-once-done",
+      "titulo": "Murder Being Once Done",
+      "original": "Murder Being Once Done",
+      "anio": 1972,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Wexford investiga una muerte en Londres mientras debe lidiar con problemas personales."
+    },
+    {
+      "id": "rendell-some-lie-and-some-die",
+      "titulo": "Some Lie and Some Die",
+      "original": "Some Lie and Some Die",
+      "anio": 1973,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un festival musical termina relacionado con el hallazgo de un cadáver."
+    },
+    {
+      "id": "rendell-a-fatal-inversion",
+      "titulo": "A Fatal Inversion",
+      "original": "A Fatal Inversion",
+      "anio": 1987,
+      "autor": "rendell",
+      "seudonimo": "Barbara Vine",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un hecho criminal antiguo reaparece y altera la vida de quienes intentaron enterrarlo."
+    },
+    {
+      "id": "rendell-the-house-of-stairs",
+      "titulo": "The House of Stairs",
+      "original": "The House of Stairs",
+      "anio": 1988,
+      "autor": "rendell",
+      "seudonimo": "Barbara Vine",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un grupo de relaciones marcadas por la dependencia y los secretos vuelve a salir a la luz."
+    },
+    {
+      "id": "rendell-gallowglass",
+      "titulo": "Gallowglass",
+      "original": "Gallowglass",
+      "anio": 1990,
+      "autor": "rendell",
+      "seudonimo": "Barbara Vine",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una obsesión y una relación desigual condicionan el desarrollo de una trama criminal."
     }
   ]
 }
