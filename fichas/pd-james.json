@@ -37,7 +37,20 @@
       "pd-james-cover-her-face",
       "pd-james-a-mind-to-murder",
       "pd-james-shroud-for-a-nightingale",
-      "pd-james-an-unsuitable-job-for-a-woman"
+      "pd-james-an-unsuitable-job-for-a-woman",
+      "pd-james-unnatural-causes",
+      "pd-james-the-black-tower",
+      "pd-james-death-of-an-expert-witness",
+      "pd-james-the-skull-beneath-the-skin",
+      "pd-james-a-taste-for-death",
+      "pd-james-devices-and-desires",
+      "pd-james-original-sin",
+      "pd-james-a-certain-justice",
+      "pd-james-death-in-holy-orders",
+      "pd-james-the-murder-room",
+      "pd-james-the-lighthouse",
+      "pd-james-the-private-patient",
+      "pd-james-innocent-blood"
     ]
   },
   "personajes": [
@@ -58,7 +71,18 @@
       "obras": [
         "pd-james-cover-her-face",
         "pd-james-a-mind-to-murder",
-        "pd-james-shroud-for-a-nightingale"
+        "pd-james-shroud-for-a-nightingale",
+        "pd-james-unnatural-causes",
+        "pd-james-the-black-tower",
+        "pd-james-death-of-an-expert-witness",
+        "pd-james-a-taste-for-death",
+        "pd-james-devices-and-desires",
+        "pd-james-original-sin",
+        "pd-james-a-certain-justice",
+        "pd-james-death-in-holy-orders",
+        "pd-james-the-murder-room",
+        "pd-james-the-lighthouse",
+        "pd-james-the-private-patient"
       ],
       "articulos": [],
       "descripcion": "Investigador de Scotland Yard y poeta, dotado de gran introspección."
@@ -78,7 +102,8 @@
       ],
       "serie": "pd-james-cordelia",
       "obras": [
-        "pd-james-an-unsuitable-job-for-a-woman"
+        "pd-james-an-unsuitable-job-for-a-woman",
+        "pd-james-the-skull-beneath-the-skin"
       ],
       "articulos": [],
       "descripcion": "Joven detective privada que investiga con sensibilidad e independencia."
@@ -154,6 +179,188 @@
         "police procedural"
       ],
       "sinopsis": "Una joven detective privada recibe un caso de aparente suicidio y descubre circunstancias que cuestionan esa versión."
+    },
+    {
+      "id": "pd-james-unnatural-causes",
+      "titulo": "Muertes poco naturales",
+      "original": "Unnatural Causes",
+      "anio": 1967,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Un escritor aparece muerto y Dalgliesh investiga las relaciones de una comunidad costera."
+    },
+    {
+      "id": "pd-james-the-black-tower",
+      "titulo": "La torre negra",
+      "original": "The Black Tower",
+      "anio": 1975,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Una muerte aparentemente natural en una institución despierta sospechas."
+    },
+    {
+      "id": "pd-james-death-of-an-expert-witness",
+      "titulo": "La muerte de un forense",
+      "original": "Death of an Expert Witness",
+      "anio": 1977,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "El crimen en un laboratorio forense obliga a revisar las tensiones de su personal."
+    },
+    {
+      "id": "pd-james-the-skull-beneath-the-skin",
+      "titulo": "La calavera bajo la piel",
+      "original": "The Skull Beneath the Skin",
+      "anio": 1982,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-cordelia",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Cordelia Gray investiga amenazas contra una actriz y un crimen en una isla."
+    },
+    {
+      "id": "pd-james-a-taste-for-death",
+      "titulo": "Sabor a muerte",
+      "original": "A Taste for Death",
+      "anio": 1986,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Dos cadáveres aparecen en una iglesia londinense y Dalgliesh reconstruye sus vidas."
+    },
+    {
+      "id": "pd-james-devices-and-desires",
+      "titulo": "Intrigas y deseos",
+      "original": "Devices and Desires",
+      "anio": 1989,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Un asesino serial perturba una costa donde también se libran conflictos familiares e industriales."
+    },
+    {
+      "id": "pd-james-original-sin",
+      "titulo": "El pecado original",
+      "original": "Original Sin",
+      "anio": 1994,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "El mundo editorial londinense se convierte en escenario de un asesinato."
+    },
+    {
+      "id": "pd-james-a-certain-justice",
+      "titulo": "Una cierta justicia",
+      "original": "A Certain Justice",
+      "anio": 1997,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Una abogada aparece muerta y la investigación revela rivalidades profesionales."
+    },
+    {
+      "id": "pd-james-death-in-holy-orders",
+      "titulo": "Muerte en el seminario",
+      "original": "Death in Holy Orders",
+      "anio": 2001,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Una muerte en un seminario exige a Dalgliesh examinar secretos institucionales."
+    },
+    {
+      "id": "pd-james-the-murder-room",
+      "titulo": "La sala del crimen",
+      "original": "The Murder Room",
+      "anio": 2003,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Un asesinato vinculado a un museo del crimen despierta preguntas sobre el pasado y el presente."
+    },
+    {
+      "id": "pd-james-the-lighthouse",
+      "titulo": "El faro",
+      "original": "The Lighthouse",
+      "anio": 2005,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Un fallecimiento en una isla frecuentada por invitados exclusivos pone a prueba la pesquisa policial."
+    },
+    {
+      "id": "pd-james-the-private-patient",
+      "titulo": "The Private Patient",
+      "original": "The Private Patient",
+      "anio": 2008,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Una muerte en una clínica privada tras una operación desencadena la última investigación de Dalgliesh."
+    },
+    {
+      "id": "pd-james-innocent-blood",
+      "titulo": "Sangre inocente",
+      "original": "Innocent Blood",
+      "anio": 1980,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Una joven descubre información perturbadora sobre sus orígenes familiares."
     }
   ]
 }
