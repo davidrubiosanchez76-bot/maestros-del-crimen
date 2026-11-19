@@ -27,14 +27,20 @@
     "articulos": [],
     "personajes": [
       "higgins-eddie",
-      "higgins-cogan"
+      "higgins-cogan",
+      "higgins-digger"
     ],
     "series": [],
     "obras": [
       "higgins-the-friends-of-eddie-coyle",
       "higgins-the-digger-s-game",
       "higgins-cogan-s-trade",
-      "higgins-the-rat-on-fire"
+      "higgins-the-rat-on-fire",
+      "higgins-a-city-on-a-hill",
+      "higgins-the-judgment-of-deke-hunter",
+      "higgins-kennedy-for-the-defense",
+      "higgins-the-patriot-game",
+      "higgins-a-choice-of-enemies"
     ]
   },
   "personajes": [
@@ -77,6 +83,26 @@
       ],
       "articulos": [],
       "descripcion": "Profesional del hampa enviado a resolver un problema de dinero y disciplina criminal."
+    },
+    {
+      "id": "higgins-digger",
+      "nombre": "Digger Dougherty",
+      "autor": "higgins",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "higgins-the-digger-s-game"
+      ],
+      "articulos": [],
+      "descripcion": "Protagonista de The Digger's Game, vinculado a negocios y apuestas del ambiente criminal de Boston."
     }
   ],
   "series": [],
@@ -136,6 +162,76 @@
         "crime thriller"
       ],
       "sinopsis": "Una investigación sobre un incendio fraudulento saca a la luz ambiciones y relaciones oportunistas."
+    },
+    {
+      "id": "higgins-a-city-on-a-hill",
+      "titulo": "A City on a Hill",
+      "original": "A City on a Hill",
+      "anio": 1975,
+      "autor": "higgins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un caso de política y criminalidad transcurre en un ambiente de poder local."
+    },
+    {
+      "id": "higgins-the-judgment-of-deke-hunter",
+      "titulo": "The Judgment of Deke Hunter",
+      "original": "The Judgment of Deke Hunter",
+      "anio": 1976,
+      "autor": "higgins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Una intriga criminal muestra el funcionamiento de instituciones y alianzas."
+    },
+    {
+      "id": "higgins-kennedy-for-the-defense",
+      "titulo": "Kennedy for the Defense",
+      "original": "Kennedy for the Defense",
+      "anio": 1980,
+      "autor": "higgins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "La justicia y la defensa penal estructuran una novela de diálogos y ambigüedades."
+    },
+    {
+      "id": "higgins-the-patriot-game",
+      "titulo": "The Patriot Game",
+      "original": "The Patriot Game",
+      "anio": 1982,
+      "autor": "higgins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Crimen, relaciones de poder y lealtades se combinan en la trayectoria de sus protagonistas."
+    },
+    {
+      "id": "higgins-a-choice-of-enemies",
+      "titulo": "A Choice of Enemies",
+      "original": "A Choice of Enemies",
+      "anio": 1984,
+      "autor": "higgins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "La delincuencia organizada y las obligaciones personales se cruzan en una historia de Higgins."
     }
   ]
 }
