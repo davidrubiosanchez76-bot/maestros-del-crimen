@@ -32,8 +32,7 @@
       "mcbain-carella"
     ],
     "series": [
-      "mcbain-87",
-      "mcbain-hope"
+      "mcbain-87"
     ],
     "obras": [
       "mcbain-cop-hater",
@@ -73,12 +72,6 @@
       "nombre": "Distrito 87",
       "autor": "mcbain",
       "descripcion": "Novelas corales del imaginario Distrito 87."
-    },
-    {
-      "id": "mcbain-hope",
-      "nombre": "Matthew Hope",
-      "autor": "mcbain",
-      "descripcion": "Serie del abogado Matthew Hope, publicada también bajo Ed McBain."
     }
   ],
   "obras": [
