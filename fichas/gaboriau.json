@@ -1,0 +1,131 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "gaboriau",
+    "nombre": "Émile Gaboriau",
+    "nombreCompleto": "Émile Gaboriau",
+    "nacimiento": "1832",
+    "fallecimiento": "1873",
+    "origen": "Francia",
+    "pais": "Francia",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1866,
+    "seudonimos": [],
+    "generos": [
+      "whodunit",
+      "police procedural"
+    ],
+    "imagen": "",
+    "resumen": "Pionero de la investigación policial francesa y creador de Monsieur Lecoq.",
+    "bio": [
+      "Periodista y narrador francés. Trasladó a la novela por entregas las pesquisas minuciosas, los interrogatorios y la reconstrucción del pasado de los sospechosos.",
+      "Sus folletines prepararon el camino al detective moderno. La información documental, el método y las relaciones sociales son tan importantes como la intuición."
+    ],
+    "apunte": "Lecoq es uno de los grandes antecedentes literarios de Sherlock Holmes; Gaboriau insistía en el trabajo sostenido y en la interpretación de indicios, no solo en la deducción espectacular.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "gaboriau-lecoq"
+    ],
+    "series": [
+      "gaboriau-lecoq"
+    ],
+    "obras": [
+      "gaboriau-l-affaire-lerouge",
+      "gaboriau-le-crime-d-orcival",
+      "gaboriau-le-dossier-n-113",
+      "gaboriau-monsieur-lecoq"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "gaboriau-lecoq",
+      "nombre": "Monsieur Lecoq",
+      "autor": "gaboriau",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "gaboriau-lecoq",
+      "obras": [
+        "gaboriau-le-crime-d-orcival",
+        "gaboriau-le-dossier-n-113",
+        "gaboriau-monsieur-lecoq"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador francés metódico y observador."
+    }
+  ],
+  "series": [
+    {
+      "id": "gaboriau-lecoq",
+      "nombre": "Monsieur Lecoq",
+      "autor": "gaboriau",
+      "descripcion": "Investigaciones del policía francés."
+    }
+  ],
+  "obras": [
+    {
+      "id": "gaboriau-l-affaire-lerouge",
+      "titulo": "El caso Lerouge",
+      "original": "L'Affaire Lerouge",
+      "anio": 1866,
+      "autor": "gaboriau",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Una muerte revela identidades ocultas y secretos de familia que requieren un minucioso examen de testimonios."
+    },
+    {
+      "id": "gaboriau-le-crime-d-orcival",
+      "titulo": "El crimen de Orcival",
+      "original": "Le Crime d'Orcival",
+      "anio": 1867,
+      "autor": "gaboriau",
+      "seudonimo": "",
+      "serie": "gaboriau-lecoq",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "La muerte de una mujer respetable abre una pesquisa sobre ambiciones, afectos y versiones contradictorias."
+    },
+    {
+      "id": "gaboriau-le-dossier-n-113",
+      "titulo": "El expediente 113",
+      "original": "Le Dossier n° 113",
+      "anio": 1867,
+      "autor": "gaboriau",
+      "seudonimo": "",
+      "serie": "gaboriau-lecoq",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Un robo bancario aparentemente sencillo conduce a la investigación de un pasado de rivalidades y engaños."
+    },
+    {
+      "id": "gaboriau-monsieur-lecoq",
+      "titulo": "Monsieur Lecoq",
+      "original": "Monsieur Lecoq",
+      "anio": 1868,
+      "autor": "gaboriau",
+      "seudonimo": "",
+      "serie": "gaboriau-lecoq",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Un episodio violento en las afueras parisinas arrastra a Lecoq hacia una compleja trama de falsas identidades."
+    }
+  ]
+}
