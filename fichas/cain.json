@@ -1,0 +1,141 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "cain",
+    "nombre": "James M. Cain",
+    "nombreCompleto": "James M. Cain",
+    "nacimiento": "1892",
+    "fallecimiento": "1977",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1934,
+    "seudonimos": [],
+    "generos": [
+      "crook story",
+      "psychological thriller"
+    ],
+    "imagen": "",
+    "resumen": "Maestro del noir de deseo, ambición y fatalidad contado desde el delincuente.",
+    "bio": [
+      "Periodista y novelista estadounidense que desplazó el interés desde la resolución de crímenes hacia las circunstancias y deseos que llevan a cometerlos.",
+      "El cartero siempre llama dos veces y Perdición son dos hitos del noir sin detective central. Sus personajes viven bajo la presión de la economía, la sexualidad y la posibilidad del fracaso."
+    ],
+    "apunte": "Perdición circuló primero por entregas en 1936 y apareció en volumen en 1943. La distinción de fechas es importante para evitar atribuir a la primera edición en libro el nacimiento de la historia.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "cain-frank",
+      "cain-neff"
+    ],
+    "series": [],
+    "obras": [
+      "cain-the-postman-always-rings-twice",
+      "cain-serenade",
+      "cain-mildred-pierce",
+      "cain-double-indemnity"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "cain-frank",
+      "nombre": "Frank Chambers",
+      "autor": "cain",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "cain-the-postman-always-rings-twice"
+      ],
+      "articulos": [],
+      "descripcion": "Vagabundo protagonista de El cartero siempre llama dos veces."
+    },
+    {
+      "id": "cain-neff",
+      "nombre": "Walter Huff",
+      "autor": "cain",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "cain-double-indemnity"
+      ],
+      "articulos": [],
+      "descripcion": "Vendedor de seguros involucrado en el plan de Perdición; llamado Walter Neff en la película."
+    }
+  ],
+  "series": [],
+  "obras": [
+    {
+      "id": "cain-the-postman-always-rings-twice",
+      "titulo": "El cartero siempre llama dos veces",
+      "original": "The Postman Always Rings Twice",
+      "anio": 1934,
+      "autor": "cain",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un vagabundo y una mujer casada planean librarse del marido de ella y descubren que el deseo no elimina la culpa."
+    },
+    {
+      "id": "cain-serenade",
+      "titulo": "Serenata",
+      "original": "Serenade",
+      "anio": 1937,
+      "autor": "cain",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un cantante en declive intenta reconstruir su vida mientras relaciones afectivas y conflictos personales lo arrastran a una espiral incierta."
+    },
+    {
+      "id": "cain-mildred-pierce",
+      "titulo": "Mildred Pierce",
+      "original": "Mildred Pierce",
+      "anio": 1941,
+      "autor": "cain",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una mujer trata de sostener su independencia económica y familiar durante la Depresión, enfrentándose a ambiciones y decepciones."
+    },
+    {
+      "id": "cain-double-indemnity",
+      "titulo": "Perdición",
+      "original": "Double Indemnity",
+      "anio": 1943,
+      "autor": "cain",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un vendedor de seguros se enreda en un plan homicida donde las pólizas y la codicia se convierten en instrumentos del delito; publicado inicialmente por entregas en 1936."
+    }
+  ]
+}
