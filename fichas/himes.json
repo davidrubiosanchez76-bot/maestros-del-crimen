@@ -1,0 +1,156 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "himes",
+    "nombre": "Chester Himes",
+    "nombreCompleto": "Chester Himes",
+    "nacimiento": "1909",
+    "fallecimiento": "1984",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1957,
+    "seudonimos": [],
+    "generos": [
+      "hardboiled",
+      "police procedural"
+    ],
+    "imagen": "",
+    "resumen": "Creador de Sepulturero Jones y Ataúd Ed Johnson, detectives del Harlem criminal.",
+    "bio": [
+      "Novelista estadounidense de origen afroamericano, cuya obra anterior a la serie policial abordó la discriminación y la violencia social.",
+      "Sus novelas de Harlem mezclaron humor negro, persecuciones y situaciones grotescas para retratar racismo, corrupción, supervivencia y trabajo policial."
+    ],
+    "apunte": "Su primera novela criminal de Harlem se publicó en inglés como For Love of Imabelle (1957) y en Francia como La Reine des pommes (1958), antes de circular con otros títulos.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "himes-jones",
+      "himes-johnson"
+    ],
+    "series": [
+      "himes-harlem"
+    ],
+    "obras": [
+      "himes-for-love-of-imabelle",
+      "himes-the-real-cool-killers",
+      "himes-the-crazy-kill",
+      "himes-cotton-comes-to-harlem"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "himes-jones",
+      "nombre": "Grave Digger Jones (Sepulturero Jones)",
+      "autor": "himes",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "himes-harlem",
+      "obras": [
+        "himes-for-love-of-imabelle",
+        "himes-the-real-cool-killers",
+        "himes-the-crazy-kill",
+        "himes-cotton-comes-to-harlem"
+      ],
+      "articulos": [],
+      "descripcion": "Policía de Harlem cuya dureza convive con su conocimiento del barrio."
+    },
+    {
+      "id": "himes-johnson",
+      "nombre": "Coffin Ed Johnson (Ataúd Ed)",
+      "autor": "himes",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "himes-harlem",
+      "obras": [
+        "himes-for-love-of-imabelle",
+        "himes-the-real-cool-killers",
+        "himes-the-crazy-kill",
+        "himes-cotton-comes-to-harlem"
+      ],
+      "articulos": [],
+      "descripcion": "Compañero de Jones, célebre por su carácter y por la violencia del ambiente en que trabaja."
+    }
+  ],
+  "series": [
+    {
+      "id": "himes-harlem",
+      "nombre": "Sepulturero Jones y Ataúd Ed Johnson",
+      "autor": "himes",
+      "descripcion": "Ciclo policial de Harlem con dos detectives afroamericanos."
+    }
+  ],
+  "obras": [
+    {
+      "id": "himes-for-love-of-imabelle",
+      "titulo": "La reina de las manzanas",
+      "original": "For Love of Imabelle",
+      "anio": 1957,
+      "autor": "himes",
+      "seudonimo": "",
+      "serie": "himes-harlem",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una estafa en Harlem precipita un encadenamiento de violencia y persecuciones que obliga a intervenir a los detectives Jones y Johnson."
+    },
+    {
+      "id": "himes-the-real-cool-killers",
+      "titulo": "The Real Cool Killers",
+      "original": "The Real Cool Killers",
+      "anio": 1959,
+      "autor": "himes",
+      "seudonimo": "",
+      "serie": "himes-harlem",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una muerte en Harlem arrastra a dos policías por un vecindario lleno de tensiones y alianzas imprevistas."
+    },
+    {
+      "id": "himes-the-crazy-kill",
+      "titulo": "The Crazy Kill",
+      "original": "The Crazy Kill",
+      "anio": 1959,
+      "autor": "himes",
+      "seudonimo": "",
+      "serie": "himes-harlem",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una investigación en Harlem mezcla delito, engaños y humor negro en una cadena de episodios vertiginosos."
+    },
+    {
+      "id": "himes-cotton-comes-to-harlem",
+      "titulo": "Algodón en Harlem",
+      "original": "Cotton Comes to Harlem",
+      "anio": 1965,
+      "autor": "himes",
+      "seudonimo": "",
+      "serie": "himes-harlem",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una operación financiera fraudulenta provoca un enfrentamiento entre delincuentes y policías en Harlem."
+    }
+  ]
+}
