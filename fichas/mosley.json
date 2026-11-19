@@ -26,16 +26,38 @@
     "articulos": [],
     "personajes": [
       "mosley-easy",
-      "mosley-mouse"
+      "mosley-mouse",
+      "mosley-fearless",
+      "mosley-paris",
+      "mosley-mcgill"
     ],
     "series": [
-      "mosley-rawlins"
+      "mosley-rawlins",
+      "mosley-fearless",
+      "mosley-mcgill"
     ],
     "obras": [
       "mosley-devil-in-a-blue-dress",
       "mosley-a-red-death",
       "mosley-white-butterfly",
-      "mosley-black-betty"
+      "mosley-black-betty",
+      "mosley-a-little-yellow-dog",
+      "mosley-gone-fishin",
+      "mosley-bad-boy-brawly-brown",
+      "mosley-little-scarlet",
+      "mosley-cinnamon-kiss",
+      "mosley-blonde-faith",
+      "mosley-little-green",
+      "mosley-rose-gold",
+      "mosley-charcoal-joe",
+      "mosley-blood-grove",
+      "mosley-farewell-amethystine",
+      "mosley-fearless-jones",
+      "mosley-fear-itself",
+      "mosley-fear-of-the-dark",
+      "mosley-the-long-fall",
+      "mosley-known-to-evil",
+      "mosley-when-the-thrill-is-gone"
     ]
   },
   "personajes": [
@@ -57,7 +79,18 @@
         "mosley-devil-in-a-blue-dress",
         "mosley-a-red-death",
         "mosley-white-butterfly",
-        "mosley-black-betty"
+        "mosley-black-betty",
+        "mosley-a-little-yellow-dog",
+        "mosley-gone-fishin",
+        "mosley-bad-boy-brawly-brown",
+        "mosley-little-scarlet",
+        "mosley-cinnamon-kiss",
+        "mosley-blonde-faith",
+        "mosley-little-green",
+        "mosley-rose-gold",
+        "mosley-charcoal-joe",
+        "mosley-blood-grove",
+        "mosley-farewell-amethystine"
       ],
       "articulos": [],
       "descripcion": "Hombre afroamericano que investiga en Los Ángeles y conoce sus comunidades desde dentro."
@@ -80,10 +113,87 @@
         "mosley-devil-in-a-blue-dress",
         "mosley-a-red-death",
         "mosley-white-butterfly",
-        "mosley-black-betty"
+        "mosley-black-betty",
+        "mosley-a-little-yellow-dog",
+        "mosley-gone-fishin",
+        "mosley-bad-boy-brawly-brown",
+        "mosley-little-scarlet",
+        "mosley-cinnamon-kiss",
+        "mosley-blonde-faith",
+        "mosley-little-green",
+        "mosley-rose-gold",
+        "mosley-charcoal-joe",
+        "mosley-blood-grove",
+        "mosley-farewell-amethystine"
       ],
       "articulos": [],
       "descripcion": "Amigo de Rawlins y figura recurrente cuya manera de actuar contrasta con la del protagonista."
+    },
+    {
+      "id": "mosley-fearless",
+      "nombre": "Fearless Jones",
+      "autor": "mosley",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "mosley-fearless",
+      "obras": [
+        "mosley-fearless-jones",
+        "mosley-fear-itself",
+        "mosley-fear-of-the-dark"
+      ],
+      "articulos": [],
+      "descripcion": "Hombre valeroso cuya ayuda resulta decisiva para Paris Minton en sus problemas criminales."
+    },
+    {
+      "id": "mosley-paris",
+      "nombre": "Paris Minton",
+      "autor": "mosley",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "mosley-fearless",
+      "obras": [
+        "mosley-fearless-jones",
+        "mosley-fear-itself",
+        "mosley-fear-of-the-dark"
+      ],
+      "articulos": [],
+      "descripcion": "Librero que intenta sobrevivir a intrigas peligrosas con ayuda de Fearless Jones."
+    },
+    {
+      "id": "mosley-mcgill",
+      "nombre": "Leonid McGill",
+      "autor": "mosley",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "mosley-mcgill",
+      "obras": [
+        "mosley-the-long-fall",
+        "mosley-known-to-evil",
+        "mosley-when-the-thrill-is-gone"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador de Nueva York con un pasado comprometido y voluntad de cambiar."
     }
   ],
   "series": [
@@ -92,6 +202,18 @@
       "nombre": "Easy Rawlins",
       "autor": "mosley",
       "descripcion": "Novelas del investigador Ezekiel «Easy» Rawlins."
+    },
+    {
+      "id": "mosley-fearless",
+      "nombre": "Fearless Jones",
+      "autor": "mosley",
+      "descripcion": "Serie de Fearless Jones y Paris Minton."
+    },
+    {
+      "id": "mosley-mcgill",
+      "nombre": "Leonid McGill",
+      "autor": "mosley",
+      "descripcion": "Investigaciones del detective neoyorquino Leonid McGill."
     }
   ],
   "obras": [
@@ -146,6 +268,227 @@
         "hardboiled"
       ],
       "sinopsis": "La búsqueda de una mujer vinculada a su pasado lleva a Rawlins por nuevos conflictos de Los Ángeles."
+    },
+    {
+      "id": "mosley-a-little-yellow-dog",
+      "titulo": "A Little Yellow Dog",
+      "original": "A Little Yellow Dog",
+      "anio": 1996,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Easy Rawlins acepta ayudar a una mujer y se ve implicado en una investigación peligrosa."
+    },
+    {
+      "id": "mosley-gone-fishin",
+      "titulo": "Gone Fishin'",
+      "original": "Gone Fishin'",
+      "anio": 1997,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Historia anterior a otros casos de Rawlins, centrada en sus relaciones de juventud."
+    },
+    {
+      "id": "mosley-bad-boy-brawly-brown",
+      "titulo": "Bad Boy Brawly Brown",
+      "original": "Bad Boy Brawly Brown",
+      "anio": 2002,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Easy busca a un joven vinculado a movimientos políticos y conflictos familiares."
+    },
+    {
+      "id": "mosley-little-scarlet",
+      "titulo": "Little Scarlet",
+      "original": "Little Scarlet",
+      "anio": 2004,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Una muerte tras disturbios sociales conduce a Rawlins a una investigación tensa."
+    },
+    {
+      "id": "mosley-cinnamon-kiss",
+      "titulo": "Cinnamon Kiss",
+      "original": "Cinnamon Kiss",
+      "anio": 2005,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Una necesidad familiar obliga a Easy a aceptar un encargo especialmente arriesgado."
+    },
+    {
+      "id": "mosley-blonde-faith",
+      "titulo": "Blonde Faith",
+      "original": "Blonde Faith",
+      "anio": 2007,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "La desaparición de un amigo lleva a Rawlins a enfrentarse con su entorno criminal."
+    },
+    {
+      "id": "mosley-little-green",
+      "titulo": "Little Green",
+      "original": "Little Green",
+      "anio": 2013,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Easy Rawlins regresa a la actividad en el ambiente político y cultural del Los Ángeles de los sesenta."
+    },
+    {
+      "id": "mosley-rose-gold",
+      "titulo": "Rose Gold",
+      "original": "Rose Gold",
+      "anio": 2014,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Un secuestro complicado da lugar a una investigación que cruza clases y conflictos sociales."
+    },
+    {
+      "id": "mosley-charcoal-joe",
+      "titulo": "Charcoal Joe",
+      "original": "Charcoal Joe",
+      "anio": 2016,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Una petición para ayudar a un joven acusado de crimen lleva a Easy a indagar en intereses poderosos."
+    },
+    {
+      "id": "mosley-blood-grove",
+      "titulo": "Blood Grove",
+      "original": "Blood Grove",
+      "anio": 2021,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Un veterano acude a Rawlins por un posible homicidio en circunstancias difíciles de recordar."
+    },
+    {
+      "id": "mosley-farewell-amethystine",
+      "titulo": "Farewell, Amethystine",
+      "original": "Farewell, Amethystine",
+      "anio": 2024,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Una búsqueda personal se transforma en una nueva investigación en la California de otra época."
+    },
+    {
+      "id": "mosley-fearless-jones",
+      "titulo": "Fearless Jones",
+      "original": "Fearless Jones",
+      "anio": 2001,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-fearless",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Paris Minton busca ayuda del valiente Fearless Jones ante amenazas y delincuentes."
+    },
+    {
+      "id": "mosley-fear-itself",
+      "titulo": "Fear Itself",
+      "original": "Fear Itself",
+      "anio": 2003,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-fearless",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Paris Minton y Fearless Jones vuelven a verse envueltos en una peligrosa intriga."
+    },
+    {
+      "id": "mosley-fear-of-the-dark",
+      "titulo": "Fear of the Dark",
+      "original": "Fear of the Dark",
+      "anio": 2006,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-fearless",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Un nuevo asunto delictivo obliga a los protagonistas a internarse en ambientes hostiles."
+    },
+    {
+      "id": "mosley-the-long-fall",
+      "titulo": "The Long Fall",
+      "original": "The Long Fall",
+      "anio": 2009,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-mcgill",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "El investigador Leonid McGill intenta alejarse de su pasado mientras acepta encargos problemáticos."
+    },
+    {
+      "id": "mosley-known-to-evil",
+      "titulo": "Known to Evil",
+      "original": "Known to Evil",
+      "anio": 2010,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-mcgill",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "McGill busca a una joven y descubre una trama de intereses criminales."
+    },
+    {
+      "id": "mosley-when-the-thrill-is-gone",
+      "titulo": "When the Thrill Is Gone",
+      "original": "When the Thrill Is Gone",
+      "anio": 2011,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-mcgill",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Un encargo de protección coloca al detective frente a amenazas poco claras."
     }
   ]
 }
