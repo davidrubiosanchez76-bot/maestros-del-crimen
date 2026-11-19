@@ -1,0 +1,148 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "highsmith",
+    "nombre": "Patricia Highsmith",
+    "nombreCompleto": "Patricia Highsmith",
+    "nacimiento": "1921",
+    "fallecimiento": "1995",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1950,
+    "seudonimos": [
+      "Claire Morgan"
+    ],
+    "generos": [
+      "psychological thriller",
+      "crook story"
+    ],
+    "imagen": "",
+    "resumen": "Renovadora del suspense psicológico y creadora del ambiguo Tom Ripley.",
+    "bio": [
+      "Novelista estadounidense que exploró la identidad, la culpa y los impulsos obsesivos sin confiar necesariamente al lector una conciencia moral estable.",
+      "Extraños en un tren inició su trayectoria criminal en 1950; su serie de Ripley dio una posición central a un protagonista capaz de ejercer encanto y violencia."
+    ],
+    "apunte": "Bajo el nombre Claire Morgan publicó El precio de la sal (1952), ajena al género criminal. Esa producción no determina su fecha de entrada en la cronología policiaca.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "highsmith-ripley"
+    ],
+    "series": [
+      "highsmith-ripley"
+    ],
+    "obras": [
+      "highsmith-strangers-on-a-train",
+      "highsmith-the-talented-mr-ripley",
+      "highsmith-the-cry-of-the-owl",
+      "highsmith-ripley-under-ground",
+      "highsmith-ripley-s-game"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "highsmith-ripley",
+      "nombre": "Tom Ripley",
+      "autor": "highsmith",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "highsmith-ripley",
+      "obras": [
+        "highsmith-the-talented-mr-ripley",
+        "highsmith-ripley-under-ground",
+        "highsmith-ripley-s-game"
+      ],
+      "articulos": [],
+      "descripcion": "Personaje seductor y amoral que se mueve entre impostura, deseo de ascenso y crimen."
+    }
+  ],
+  "series": [
+    {
+      "id": "highsmith-ripley",
+      "nombre": "Tom Ripley",
+      "autor": "highsmith",
+      "descripcion": "Cinco novelas sobre el suplantador y estafador Tom Ripley."
+    }
+  ],
+  "obras": [
+    {
+      "id": "highsmith-strangers-on-a-train",
+      "titulo": "Extraños en un tren",
+      "original": "Strangers on a Train",
+      "anio": 1950,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Dos desconocidos conversan durante un viaje y uno propone intercambiar asesinatos para eliminar los motivos que los delatarían."
+    },
+    {
+      "id": "highsmith-the-talented-mr-ripley",
+      "titulo": "El talento de Mr. Ripley",
+      "original": "The Talented Mr. Ripley",
+      "anio": 1955,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "highsmith-ripley",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Un joven es enviado a Europa para convencer a un heredero de que regrese a casa, pero la fascinación y la ambición alteran sus planes."
+    },
+    {
+      "id": "highsmith-the-cry-of-the-owl",
+      "titulo": "El grito de la lechuza",
+      "original": "The Cry of the Owl",
+      "anio": 1962,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Un hombre observa a una joven desde fuera de su casa y desencadena una cadena de interpretaciones y sospechas."
+    },
+    {
+      "id": "highsmith-ripley-under-ground",
+      "titulo": "La máscara de Ripley",
+      "original": "Ripley Under Ground",
+      "anio": 1970,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "highsmith-ripley",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Ripley se involucra en un negocio de falsificaciones artísticas cuya estabilidad depende de mantener secretos peligrosos."
+    },
+    {
+      "id": "highsmith-ripley-s-game",
+      "titulo": "El juego de Ripley",
+      "original": "Ripley's Game",
+      "anio": 1974,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "highsmith-ripley",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Una organización criminal entra en la vida de un hombre común mediante una propuesta tan tentadora como destructiva."
+    }
+  ]
+}
