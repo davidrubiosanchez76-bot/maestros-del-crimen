@@ -1,0 +1,132 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "vazquez-montalban",
+    "nombre": "Manuel Vázquez Montalbán",
+    "nombreCompleto": "Manuel Vázquez Montalbán",
+    "nacimiento": "1939",
+    "fallecimiento": "2003",
+    "origen": "España",
+    "pais": "España",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1974,
+    "seudonimos": [],
+    "generos": [
+      "hardboiled",
+      "police procedural"
+    ],
+    "imagen": "",
+    "resumen": "Creador de Pepe Carvalho y gran referente de la novela negra española.",
+    "bio": [
+      "Escritor, periodista y ensayista barcelonés que convirtió la investigación de Pepe Carvalho en una observación de la política, la memoria, la gastronomía y los cambios sociales de España.",
+      "Carvalho apareció en una obra anterior, pero Tatuaje (1974) suele considerarse el arranque de sus novelas propiamente policiacas."
+    ],
+    "apunte": "Carvalho quema libros en su chimenea y cocina con pasión; estos hábitos son parte esencial de una personalidad que cuestiona la cultura oficial tanto como el orden social.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "vazquez-montalban-carvalho"
+    ],
+    "series": [
+      "vazquez-montalban-carvalho"
+    ],
+    "obras": [
+      "vazquez-montalban-tatuaje",
+      "vazquez-montalban-la-soledad-del-manager",
+      "vazquez-montalban-los-mares-del-sur",
+      "vazquez-montalban-asesinato-en-el-comite-central"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "vazquez-montalban-carvalho",
+      "nombre": "Pepe Carvalho",
+      "autor": "vazquez-montalban",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "vazquez-montalban-carvalho",
+      "obras": [
+        "vazquez-montalban-tatuaje",
+        "vazquez-montalban-la-soledad-del-manager",
+        "vazquez-montalban-los-mares-del-sur",
+        "vazquez-montalban-asesinato-en-el-comite-central"
+      ],
+      "articulos": [],
+      "descripcion": "Detective privado barcelonés, escéptico, culto y aficionado a la cocina."
+    }
+  ],
+  "series": [
+    {
+      "id": "vazquez-montalban-carvalho",
+      "nombre": "Pepe Carvalho",
+      "autor": "vazquez-montalban",
+      "descripcion": "Serie del detective Pepe Carvalho y su universo barcelonés."
+    }
+  ],
+  "obras": [
+    {
+      "id": "vazquez-montalban-tatuaje",
+      "titulo": "Tatuaje",
+      "original": "Tatuaje",
+      "anio": 1974,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "El hallazgo de un cadáver con una inscripción tatuada lleva a Carvalho a reconstruir una identidad y sus secretos."
+    },
+    {
+      "id": "vazquez-montalban-la-soledad-del-manager",
+      "titulo": "La soledad del mánager",
+      "original": "La soledad del mánager",
+      "anio": 1977,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una muerte en el mundo empresarial impulsa una investigación sobre poder y apariencias en la España de la Transición."
+    },
+    {
+      "id": "vazquez-montalban-los-mares-del-sur",
+      "titulo": "Los mares del Sur",
+      "original": "Los mares del Sur",
+      "anio": 1979,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Carvalho intenta aclarar la muerte de un empresario mientras recorre barrios y contradicciones de Barcelona."
+    },
+    {
+      "id": "vazquez-montalban-asesinato-en-el-comite-central",
+      "titulo": "Asesinato en el Comité Central",
+      "original": "Asesinato en el Comité Central",
+      "anio": 1981,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Un crimen dentro de una reunión política obliga a Carvalho a investigar lealtades, historia y disputas internas."
+    }
+  ]
+}
