@@ -54,7 +54,31 @@
       "carr-the-reader-is-warned",
       "carr-she-died-a-lady",
       "carr-he-wouldn-t-kill-patience",
-      "carr-the-curse-of-the-bronze-lamp"
+      "carr-the-curse-of-the-bronze-lamp",
+      "carr-castle-skull",
+      "carr-poison-in-jest",
+      "carr-the-corpse-in-the-waxworks",
+      "carr-the-eight-of-swords",
+      "carr-the-blind-barber",
+      "carr-death-watch",
+      "carr-the-four-false-weapons",
+      "carr-to-wake-the-dead",
+      "carr-the-crooked-hinge",
+      "carr-the-black-spectacles",
+      "carr-the-problem-of-the-wire-cage",
+      "carr-the-case-of-the-constant-suicides",
+      "carr-the-emperor-s-snuff-box",
+      "carr-till-death-do-us-part",
+      "carr-he-who-whispers",
+      "carr-the-sleeping-sphinx",
+      "carr-my-late-wives",
+      "carr-a-graveyard-to-let",
+      "carr-behind-the-crimson-blind",
+      "carr-dead-man-s-knock",
+      "carr-in-spite-of-thunder",
+      "carr-the-bowstring-murders",
+      "carr-nine-and-death-makes-ten",
+      "carr-and-so-to-murder"
     ]
   },
   "personajes": [
@@ -73,7 +97,10 @@
       ],
       "serie": "carr-bencolin",
       "obras": [
-        "carr-it-walks-by-night"
+        "carr-it-walks-by-night",
+        "carr-castle-skull",
+        "carr-the-corpse-in-the-waxworks",
+        "carr-the-four-false-weapons"
       ],
       "articulos": [],
       "descripcion": "Comisario francés cuya inteligencia desmonta apariencias extraordinarias."
@@ -96,7 +123,20 @@
         "carr-the-hollow-man",
         "carr-hag-s-nook",
         "carr-the-mad-hatter-mystery",
-        "carr-the-arabian-nights-murder"
+        "carr-the-arabian-nights-murder",
+        "carr-the-eight-of-swords",
+        "carr-the-blind-barber",
+        "carr-death-watch",
+        "carr-to-wake-the-dead",
+        "carr-the-crooked-hinge",
+        "carr-the-black-spectacles",
+        "carr-the-problem-of-the-wire-cage",
+        "carr-the-case-of-the-constant-suicides",
+        "carr-till-death-do-us-part",
+        "carr-he-who-whispers",
+        "carr-the-sleeping-sphinx",
+        "carr-dead-man-s-knock",
+        "carr-in-spite-of-thunder"
       ],
       "articulos": [],
       "descripcion": "Detective aficionado de gran erudición y especialista en imposibles."
@@ -127,7 +167,12 @@
         "carr-the-reader-is-warned",
         "carr-she-died-a-lady",
         "carr-he-wouldn-t-kill-patience",
-        "carr-the-curse-of-the-bronze-lamp"
+        "carr-the-curse-of-the-bronze-lamp",
+        "carr-my-late-wives",
+        "carr-a-graveyard-to-let",
+        "carr-behind-the-crimson-blind",
+        "carr-nine-and-death-makes-ten",
+        "carr-and-so-to-murder"
       ],
       "articulos": [],
       "descripcion": "Baronet e investigador de personalidad explosiva, protagonista de las novelas firmadas Carter Dickson."
@@ -387,6 +432,318 @@
         "whodunit"
       ],
       "sinopsis": "Un misterio de desaparición se relaciona con el supuesto poder de un objeto antiguo."
+    },
+    {
+      "id": "carr-castle-skull",
+      "titulo": "El castillo de la calavera",
+      "original": "Castle Skull",
+      "anio": 1931,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-bencolin",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un misterio de asesinato rodea un castillo y a sus habitantes."
+    },
+    {
+      "id": "carr-poison-in-jest",
+      "titulo": "Veneno en broma",
+      "original": "Poison in Jest",
+      "anio": 1932,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte sospechosa obliga a reconstruir un ambiente de relaciones tensas."
+    },
+    {
+      "id": "carr-the-corpse-in-the-waxworks",
+      "titulo": "El crimen de las figuras de cera",
+      "original": "The Corpse in the Waxworks",
+      "anio": 1932,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-bencolin",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un crimen en el entorno de un museo de figuras de cera plantea un enigma."
+    },
+    {
+      "id": "carr-the-eight-of-swords",
+      "titulo": "El ocho de espadas",
+      "original": "The Eight of Swords",
+      "anio": 1934,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un asesinato desconcertante lleva a Gideon Fell a examinar varios engaños."
+    },
+    {
+      "id": "carr-the-blind-barber",
+      "titulo": "El barbero ciego",
+      "original": "The Blind Barber",
+      "anio": 1934,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un barco y una cadena de sucesos extraños constituyen un caso de crimen imposible."
+    },
+    {
+      "id": "carr-death-watch",
+      "titulo": "El reloj de la muerte",
+      "original": "Death-Watch",
+      "anio": 1935,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un crimen cometido en circunstancias anómalas exige precisar tiempos y movimientos."
+    },
+    {
+      "id": "carr-the-four-false-weapons",
+      "titulo": "Las cuatro armas falsas",
+      "original": "The Four False Weapons",
+      "anio": 1937,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-bencolin",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Bencolin regresa para una investigación marcada por pistas deliberadamente engañosas."
+    },
+    {
+      "id": "carr-to-wake-the-dead",
+      "titulo": "El brazalete romano",
+      "original": "To Wake the Dead",
+      "anio": 1937,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un asesinato durante una estancia de hotel obliga a revisar indicios extraños."
+    },
+    {
+      "id": "carr-the-crooked-hinge",
+      "titulo": "Noche de brujas",
+      "original": "The Crooked Hinge",
+      "anio": 1938,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "La disputa de dos identidades y una muerte forman un enigma para Gideon Fell."
+    },
+    {
+      "id": "carr-the-black-spectacles",
+      "titulo": "Las gafas negras",
+      "original": "The Black Spectacles",
+      "anio": 1939,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una prueba visual y una muerte ponen a examen la capacidad de deducción del detective."
+    },
+    {
+      "id": "carr-the-problem-of-the-wire-cage",
+      "titulo": "La jaula mortal",
+      "original": "The Problem of the Wire Cage",
+      "anio": 1939,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un asesinato en un lugar de acceso aparentemente imposible desconcierta a los investigadores."
+    },
+    {
+      "id": "carr-the-case-of-the-constant-suicides",
+      "titulo": "El caso de los suicidios constantes",
+      "original": "The Case of the Constant Suicides",
+      "anio": 1941,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una serie de muertes en una residencia escocesa plantea la posibilidad del crimen."
+    },
+    {
+      "id": "carr-the-emperor-s-snuff-box",
+      "titulo": "La tabaquera del emperador",
+      "original": "The Emperor's Snuff-Box",
+      "anio": 1942,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una mujer observa un crimen y se encuentra atrapada en una intriga de sospechas."
+    },
+    {
+      "id": "carr-till-death-do-us-part",
+      "titulo": "Hasta que la muerte nos separe",
+      "original": "Till Death Do Us Part",
+      "anio": 1944,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un misterio de identidades y muertes afecta a una comunidad campestre."
+    },
+    {
+      "id": "carr-he-who-whispers",
+      "titulo": "El que susurra",
+      "original": "He Who Whispers",
+      "anio": 1946,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte aparentemente imposible y rumores sobre vampirismo ponen a prueba a Fell."
+    },
+    {
+      "id": "carr-the-sleeping-sphinx",
+      "titulo": "La esfinge durmiente",
+      "original": "The Sleeping Sphinx",
+      "anio": 1947,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un homicidio y el pasado de los sospechosos forman una pesquisa intrincada."
+    },
+    {
+      "id": "carr-my-late-wives",
+      "titulo": "Mis mujeres muertas",
+      "original": "My Late Wives",
+      "anio": 1946,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Merrivale investiga un caso de engaños e identidades vinculados a matrimonios."
+    },
+    {
+      "id": "carr-a-graveyard-to-let",
+      "titulo": "Se alquila un cementerio",
+      "original": "A Graveyard to Let",
+      "anio": 1949,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un enigma relacionado con una piscina y una desaparición involucra a Merrivale."
+    },
+    {
+      "id": "carr-behind-the-crimson-blind",
+      "titulo": "Detrás de las persianas rojas",
+      "original": "Behind the Crimson Blind",
+      "anio": 1953,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un caso de apariencias engañosas reclama la ayuda de Merrivale."
+    },
+    {
+      "id": "carr-dead-man-s-knock",
+      "titulo": "La llamada del muerto",
+      "original": "Dead Man's Knock",
+      "anio": 1958,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte en apariencia desconcertante lleva a Fell a indagar en motivos ocultos."
+    },
+    {
+      "id": "carr-in-spite-of-thunder",
+      "titulo": "Pese al trueno",
+      "original": "In Spite of Thunder",
+      "anio": 1960,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "La investigación de una muerte se complica por reputaciones y sospechas."
+    },
+    {
+      "id": "carr-the-bowstring-murders",
+      "titulo": "Con guantes de acero",
+      "original": "The Bowstring Murders",
+      "anio": 1933,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una investigación de asesinato en una residencia introduce un crimen difícil de explicar."
+    },
+    {
+      "id": "carr-nine-and-death-makes-ten",
+      "titulo": "Nueve y la muerte son diez",
+      "original": "Nine—and Death Makes Ten",
+      "anio": 1940,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una serie de muertes durante un viaje en barco desencadena la intervención de Merrivale."
+    },
+    {
+      "id": "carr-and-so-to-murder",
+      "titulo": "Y así... al crimen",
+      "original": "And So to Murder",
+      "anio": 1940,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "En los estudios cinematográficos surgen amenazas y un caso criminal."
     }
   ]
 }
