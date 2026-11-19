@@ -1,0 +1,105 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "mccoy",
+    "nombre": "Horace McCoy",
+    "nombreCompleto": "Horace McCoy",
+    "nacimiento": "1897",
+    "fallecimiento": "1955",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1935,
+    "seudonimos": [],
+    "generos": [
+      "crook story",
+      "psychological thriller"
+    ],
+    "imagen": "",
+    "resumen": "Cronista de la desesperación social en el noir de la Gran Depresión.",
+    "bio": [
+      "Periodista, guionista y novelista estadounidense vinculado al ambiente pulp de Black Mask. Su ficción expone el deterioro económico, la falta de oportunidades y la violencia cotidiana.",
+      "¿Acaso no matan a los caballos? convirtió los maratones de baile de la Depresión en una metáfora brutal de la explotación del sufrimiento."
+    ],
+    "apunte": "La adaptación cinematográfica de su primera novela, Danzad, danzad, malditos, llegó en 1969, mucho después de su muerte, y contribuyó a redescubrir su obra.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "mccoy-robert"
+    ],
+    "series": [],
+    "obras": [
+      "mccoy-they-shoot-horses-don-t-they",
+      "mccoy-no-pockets-in-a-shroud",
+      "mccoy-kiss-tomorrow-goodbye"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "mccoy-robert",
+      "nombre": "Robert Syverten",
+      "autor": "mccoy",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "mccoy-they-shoot-horses-don-t-they"
+      ],
+      "articulos": [],
+      "descripcion": "Joven inmerso en la explotación de los maratones de baile de la Gran Depresión."
+    }
+  ],
+  "series": [],
+  "obras": [
+    {
+      "id": "mccoy-they-shoot-horses-don-t-they",
+      "titulo": "¿Acaso no matan a los caballos?",
+      "original": "They Shoot Horses, Don't They?",
+      "anio": 1935,
+      "autor": "mccoy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Dos jóvenes participan en un agotador concurso de baile mientras la pobreza y el espectáculo convierten su desesperación en entretenimiento."
+    },
+    {
+      "id": "mccoy-no-pockets-in-a-shroud",
+      "titulo": "Un sudario no tiene bolsillos",
+      "original": "No Pockets in a Shroud",
+      "anio": 1937,
+      "autor": "mccoy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un periodista desafía la corrupción y el silencio de las instituciones mientras busca publicar verdades incómodas."
+    },
+    {
+      "id": "mccoy-kiss-tomorrow-goodbye",
+      "titulo": "Kiss Tomorrow Goodbye",
+      "original": "Kiss Tomorrow Goodbye",
+      "anio": 1948,
+      "autor": "mccoy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un criminal violento trata de prosperar en un mundo de chantajes, corrupción y lealtades quebradas."
+    }
+  ]
+}
