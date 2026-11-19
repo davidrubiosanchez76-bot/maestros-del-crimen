@@ -28,16 +28,33 @@
     "articulos": [],
     "personajes": [
       "carr-bencolin",
-      "carr-fell"
+      "carr-fell",
+      "carr-merrivale-personaje"
     ],
     "series": [
       "carr-bencolin",
-      "carr-fell"
+      "carr-fell",
+      "carr-merrivale"
     ],
     "obras": [
       "carr-it-walks-by-night",
       "carr-the-hollow-man",
-      "carr-the-burning-court"
+      "carr-the-burning-court",
+      "carr-hag-s-nook",
+      "carr-the-mad-hatter-mystery",
+      "carr-the-plague-court-murders",
+      "carr-the-white-priory-murders",
+      "carr-the-red-widow-murders",
+      "carr-the-unicorn-murders",
+      "carr-the-arabian-nights-murder",
+      "carr-the-punch-and-judy-murders",
+      "carr-the-ten-teacups",
+      "carr-the-judas-window",
+      "carr-death-in-five-boxes",
+      "carr-the-reader-is-warned",
+      "carr-she-died-a-lady",
+      "carr-he-wouldn-t-kill-patience",
+      "carr-the-curse-of-the-bronze-lamp"
     ]
   },
   "personajes": [
@@ -76,10 +93,44 @@
       ],
       "serie": "carr-fell",
       "obras": [
-        "carr-the-hollow-man"
+        "carr-the-hollow-man",
+        "carr-hag-s-nook",
+        "carr-the-mad-hatter-mystery",
+        "carr-the-arabian-nights-murder"
       ],
       "articulos": [],
       "descripcion": "Detective aficionado de gran erudición y especialista en imposibles."
+    },
+    {
+      "id": "carr-merrivale-personaje",
+      "nombre": "Sir Henry Merrivale",
+      "autor": "carr",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "carr-merrivale",
+      "obras": [
+        "carr-the-plague-court-murders",
+        "carr-the-white-priory-murders",
+        "carr-the-red-widow-murders",
+        "carr-the-unicorn-murders",
+        "carr-the-punch-and-judy-murders",
+        "carr-the-ten-teacups",
+        "carr-the-judas-window",
+        "carr-death-in-five-boxes",
+        "carr-the-reader-is-warned",
+        "carr-she-died-a-lady",
+        "carr-he-wouldn-t-kill-patience",
+        "carr-the-curse-of-the-bronze-lamp"
+      ],
+      "articulos": [],
+      "descripcion": "Baronet e investigador de personalidad explosiva, protagonista de las novelas firmadas Carter Dickson."
     }
   ],
   "series": [
@@ -94,6 +145,12 @@
       "nombre": "Doctor Gideon Fell",
       "autor": "carr",
       "descripcion": "Novelas protagonizadas por Gideon Fell."
+    },
+    {
+      "id": "carr-merrivale",
+      "nombre": "Sir Henry Merrivale",
+      "autor": "carr",
+      "descripcion": "Novelas de Sir Henry Merrivale, publicadas por Carr como Carter Dickson."
     }
   ],
   "obras": [
@@ -135,6 +192,201 @@
         "whodunit"
       ],
       "sinopsis": "Unos hechos inquietantes relacionados con un asesinato antiguo confunden lo sobrenatural y lo policial."
+    },
+    {
+      "id": "carr-hag-s-nook",
+      "titulo": "La guarida de la bruja",
+      "original": "Hag's Nook",
+      "anio": 1933,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Primer caso de Gideon Fell: una muerte rodeada de leyendas y aparentes imposibilidades."
+    },
+    {
+      "id": "carr-the-mad-hatter-mystery",
+      "titulo": "El misterio del sombrerero loco",
+      "original": "The Mad Hatter Mystery",
+      "anio": 1933,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Fell investiga una muerte entre enigmas, bromas y escenarios londinenses."
+    },
+    {
+      "id": "carr-the-plague-court-murders",
+      "titulo": "El patio de la plaga",
+      "original": "The Plague Court Murders",
+      "anio": 1934,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "El investigador Merrivale se enfrenta a un asesinato que parece desafiar una estancia cerrada."
+    },
+    {
+      "id": "carr-the-white-priory-murders",
+      "titulo": "Sangre en el espejo de la Reina",
+      "original": "The White Priory Murders",
+      "anio": 1934,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un crimen deja una huella imposible alrededor de un edificio aislado."
+    },
+    {
+      "id": "carr-the-red-widow-murders",
+      "titulo": "Los crímenes de la viuda roja",
+      "original": "The Red Widow Murders",
+      "anio": 1935,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte en una habitación cerrada desafía las explicaciones ordinarias."
+    },
+    {
+      "id": "carr-the-unicorn-murders",
+      "titulo": "Los crímenes del unicornio",
+      "original": "The Unicorn Murders",
+      "anio": 1935,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Merrivale investiga una intriga internacional de identidades y crimen."
+    },
+    {
+      "id": "carr-the-arabian-nights-murder",
+      "titulo": "The Arabian Nights Murder",
+      "original": "The Arabian Nights Murder",
+      "anio": 1936,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un asesinato inusual en el entorno de un museo obliga a Fell a revisar las coartadas."
+    },
+    {
+      "id": "carr-the-punch-and-judy-murders",
+      "titulo": "Los crímenes de polichinela",
+      "original": "The Punch and Judy Murders",
+      "anio": 1936,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Merrivale investiga una sucesión de incidentes y equívocos ligados a un crimen."
+    },
+    {
+      "id": "carr-the-ten-teacups",
+      "titulo": "La policía está invitada",
+      "original": "The Ten Teacups",
+      "anio": 1937,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una escena criminal que parece imposible se organiza alrededor de diez tazas de té."
+    },
+    {
+      "id": "carr-the-judas-window",
+      "titulo": "La ventana de Judas",
+      "original": "The Judas Window",
+      "anio": 1938,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte en un cuarto cerrado exige descubrir una vía de ataque insospechada."
+    },
+    {
+      "id": "carr-death-in-five-boxes",
+      "titulo": "Muerte en cinco cajas",
+      "original": "Death in Five Boxes",
+      "anio": 1938,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Merrivale se ocupa de un caso que combina intoxicaciones y testimonios."
+    },
+    {
+      "id": "carr-the-reader-is-warned",
+      "titulo": "Advertencia al lector",
+      "original": "The Reader is Warned",
+      "anio": 1939,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte aparentemente anunciada plantea un desafío a Merrivale."
+    },
+    {
+      "id": "carr-she-died-a-lady",
+      "titulo": "Murió como una dama",
+      "original": "She Died a Lady",
+      "anio": 1943,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "La muerte de una mujer en circunstancias desconcertantes enfrenta a Merrivale a un nuevo enigma."
+    },
+    {
+      "id": "carr-he-wouldn-t-kill-patience",
+      "titulo": "Empezó entre fieras",
+      "original": "He Wouldn't Kill Patience",
+      "anio": 1944,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un caso en un establecimiento de animales genera una explicación que parece imposible."
+    },
+    {
+      "id": "carr-the-curse-of-the-bronze-lamp",
+      "titulo": "La lámpara de bronce",
+      "original": "The Curse of the Bronze Lamp",
+      "anio": 1945,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un misterio de desaparición se relaciona con el supuesto poder de un objeto antiguo."
     }
   ]
 }
