@@ -1,0 +1,131 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "rendell",
+    "nombre": "Ruth Rendell",
+    "nombreCompleto": "Ruth Rendell",
+    "nacimiento": "1930",
+    "fallecimiento": "2015",
+    "origen": "Reino Unido",
+    "pais": "Reino Unido",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1964,
+    "seudonimos": [
+      "Barbara Vine"
+    ],
+    "generos": [
+      "whodunit",
+      "psychological thriller"
+    ],
+    "imagen": "",
+    "resumen": "Maestra del suspense psicológico y creadora del inspector Wexford.",
+    "bio": [
+      "Escritora británica que alternó las investigaciones del inspector Reginald Wexford con novelas independientes centradas en obsesiones, secretos y violencia doméstica.",
+      "Bajo el seudónimo Barbara Vine exploró en particular la memoria, la identidad y las tensiones familiares con formas narrativas próximas a la tragedia psicológica."
+    ],
+    "apunte": "Rendell no dejó de ser una autora de misterio cuando publicó como Barbara Vine: empleó ese nombre para distinguir una línea de suspense y reconstrucción del pasado con un tono propio.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "rendell-wexford"
+    ],
+    "series": [
+      "rendell-wexford"
+    ],
+    "obras": [
+      "rendell-from-doon-with-death",
+      "rendell-a-judgement-in-stone",
+      "rendell-a-dark-adapted-eye",
+      "rendell-the-bridesmaid"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "rendell-wexford",
+      "nombre": "Reginald Wexford",
+      "autor": "rendell",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "rendell-wexford",
+      "obras": [
+        "rendell-from-doon-with-death"
+      ],
+      "articulos": [],
+      "descripcion": "Inspector perspicaz de la policía inglesa y observador de conflictos familiares."
+    }
+  ],
+  "series": [
+    {
+      "id": "rendell-wexford",
+      "nombre": "Inspector Wexford",
+      "autor": "rendell",
+      "descripcion": "Investigaciones del inspector Reginald Wexford."
+    }
+  ],
+  "obras": [
+    {
+      "id": "rendell-from-doon-with-death",
+      "titulo": "Un asesinato nada corriente",
+      "original": "From Doon with Death",
+      "anio": 1964,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "La muerte de una mujer conduce al inspector Wexford hacia secretos personales que su entorno ignoraba."
+    },
+    {
+      "id": "rendell-a-judgement-in-stone",
+      "titulo": "Un juicio de piedra",
+      "original": "A Judgement in Stone",
+      "anio": 1977,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "La vida de una familia acomodada se cruza con un conflicto devastador que la novela examina desde el principio."
+    },
+    {
+      "id": "rendell-a-dark-adapted-eye",
+      "titulo": "El ojo oscuro",
+      "original": "A Dark-Adapted Eye",
+      "anio": 1986,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un relato familiar marcado por el silencio revisa un crimen antiguo desde recuerdos enfrentados; publicado como Barbara Vine."
+    },
+    {
+      "id": "rendell-the-bridesmaid",
+      "titulo": "La dama de honor",
+      "original": "The Bridesmaid",
+      "anio": 1989,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "La fascinación de un hombre por una mujer misteriosa transforma su vida y sus lealtades."
+    }
+  ]
+}
