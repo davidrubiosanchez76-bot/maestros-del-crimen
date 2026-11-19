@@ -25,7 +25,10 @@
     "alcanceBibliografia": "selección inicial no exhaustiva",
     "articulos": [],
     "personajes": [
-      "marsh-alleyn"
+      "marsh-alleyn",
+      "marsh-troy",
+      "marsh-fox",
+      "marsh-bathgate"
     ],
     "series": [
       "marsh-alleyn"
@@ -33,7 +36,36 @@
     "obras": [
       "marsh-a-man-lay-dead",
       "marsh-enter-a-murderer",
-      "marsh-death-in-a-white-tie"
+      "marsh-death-in-a-white-tie",
+      "marsh-the-nursing-home-murder",
+      "marsh-death-in-ecstasy",
+      "marsh-vintage-murder",
+      "marsh-artists-in-crime",
+      "marsh-overture-to-death",
+      "marsh-death-at-the-bar",
+      "marsh-surfeit-of-lampreys",
+      "marsh-death-and-the-dancing-footman",
+      "marsh-colour-scheme",
+      "marsh-died-in-the-wool",
+      "marsh-final-curtain",
+      "marsh-a-wreath-for-rivera",
+      "marsh-night-at-the-vulcan",
+      "marsh-spinsters-in-jeopardy",
+      "marsh-scales-of-justice",
+      "marsh-death-of-a-fool",
+      "marsh-singing-in-the-shrouds",
+      "marsh-false-scent",
+      "marsh-hand-in-glove",
+      "marsh-dead-water",
+      "marsh-killer-dolphin",
+      "marsh-clutch-of-constables",
+      "marsh-when-in-rome",
+      "marsh-tied-up-in-tinsel",
+      "marsh-black-as-he-s-painted",
+      "marsh-last-ditch",
+      "marsh-a-grave-mistake",
+      "marsh-photo-finish",
+      "marsh-light-thickens"
     ]
   },
   "personajes": [
@@ -58,6 +90,68 @@
       ],
       "articulos": [],
       "descripcion": "Inspector de Scotland Yard cultivado y metódico."
+    },
+    {
+      "id": "marsh-troy",
+      "nombre": "Agatha Troy",
+      "autor": "marsh",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "marsh-artists-in-crime"
+      ],
+      "articulos": [],
+      "descripcion": "Pintora que entabla una relación con Alleyn y se convierte en figura recurrente de sus novelas."
+    },
+    {
+      "id": "marsh-fox",
+      "nombre": "Inspector Edward Fox",
+      "autor": "marsh",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "marsh-death-in-a-white-tie",
+        "marsh-artists-in-crime"
+      ],
+      "articulos": [],
+      "descripcion": "Miembro habitual del equipo investigador del inspector Alleyn."
+    },
+    {
+      "id": "marsh-bathgate",
+      "nombre": "Nigel Bathgate",
+      "autor": "marsh",
+      "ocupacion": "Periodista",
+      "ocupacionDetalle": "Periodista",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "marsh-a-man-lay-dead",
+        "marsh-enter-a-murderer"
+      ],
+      "articulos": [],
+      "descripcion": "Periodista que acompaña a Alleyn en varias de sus primeras investigaciones."
     }
   ],
   "series": [
@@ -107,6 +201,383 @@
         "whodunit"
       ],
       "sinopsis": "Un crimen ligado a salones elegantes y chantajes complica la pesquisa del inspector Alleyn."
+    },
+    {
+      "id": "marsh-the-nursing-home-murder",
+      "titulo": "The Nursing Home Murder",
+      "original": "The Nursing Home Murder",
+      "anio": 1935,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un crimen en un centro sanitario exige investigar relaciones profesionales y personales."
+    },
+    {
+      "id": "marsh-death-in-ecstasy",
+      "titulo": "Death in Ecstasy",
+      "original": "Death in Ecstasy",
+      "anio": 1936,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte durante una ceremonia religiosa lleva al inspector Alleyn a investigar a sus participantes."
+    },
+    {
+      "id": "marsh-vintage-murder",
+      "titulo": "Vintage Murder",
+      "original": "Vintage Murder",
+      "anio": 1937,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una compañía teatral en Nueva Zelanda queda afectada por un asesinato."
+    },
+    {
+      "id": "marsh-artists-in-crime",
+      "titulo": "Artistas del crimen",
+      "original": "Artists in Crime",
+      "anio": 1938,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un asesinato en el entorno artístico permite a Alleyn conocer a la pintora Agatha Troy."
+    },
+    {
+      "id": "marsh-overture-to-death",
+      "titulo": "Overture to Death",
+      "original": "Overture to Death",
+      "anio": 1939,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un delito en una comunidad rural estalla durante las actividades de un grupo teatral."
+    },
+    {
+      "id": "marsh-death-at-the-bar",
+      "titulo": "Death at the Bar",
+      "original": "Death at the Bar",
+      "anio": 1940,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "La muerte de un hombre en un establecimiento hostelero despierta sospechas sobre una aparente fatalidad."
+    },
+    {
+      "id": "marsh-surfeit-of-lampreys",
+      "titulo": "Empacho de lampreas",
+      "original": "Surfeit of Lampreys",
+      "anio": 1940,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un asesinato afecta a una familia aristocrática y a su complejo círculo de relaciones."
+    },
+    {
+      "id": "marsh-death-and-the-dancing-footman",
+      "titulo": "Death and the Dancing Footman",
+      "original": "Death and the Dancing Footman",
+      "anio": 1941,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un crimen durante una reunión en una casa aislada obliga a interpretar tensiones entre invitados."
+    },
+    {
+      "id": "marsh-colour-scheme",
+      "titulo": "Colour Scheme",
+      "original": "Colour Scheme",
+      "anio": 1943,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una investigación criminal tiene como escenario una zona termal de Nueva Zelanda."
+    },
+    {
+      "id": "marsh-died-in-the-wool",
+      "titulo": "Muerte en la lana",
+      "original": "Died in the Wool",
+      "anio": 1944,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un crimen en una comunidad rural neozelandesa conduce a una pesquisa de recuerdos y relaciones."
+    },
+    {
+      "id": "marsh-final-curtain",
+      "titulo": "Telón final",
+      "original": "Final Curtain",
+      "anio": 1947,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una figura del teatro y su familia quedan envueltas en un caso que llega a Alleyn."
+    },
+    {
+      "id": "marsh-a-wreath-for-rivera",
+      "titulo": "A Wreath for Rivera",
+      "original": "A Wreath for Rivera",
+      "anio": 1949,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un asesinato relacionado con el mundo de la música abre una investigación policial."
+    },
+    {
+      "id": "marsh-night-at-the-vulcan",
+      "titulo": "Night at the Vulcan",
+      "original": "Night at the Vulcan",
+      "anio": 1951,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Alleyn investiga un caso en una compañía teatral, entre ensayos y tensiones profesionales."
+    },
+    {
+      "id": "marsh-spinsters-in-jeopardy",
+      "titulo": "Spinsters in Jeopardy",
+      "original": "Spinsters in Jeopardy",
+      "anio": 1953,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una aparente estancia de vacaciones se convierte en una intriga de delitos y actividades clandestinas."
+    },
+    {
+      "id": "marsh-scales-of-justice",
+      "titulo": "Scales of Justice",
+      "original": "Scales of Justice",
+      "anio": 1955,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte en una comunidad británica acomodada provoca una investigación de vínculos personales."
+    },
+    {
+      "id": "marsh-death-of-a-fool",
+      "titulo": "Death of a Fool",
+      "original": "Death of a Fool",
+      "anio": 1956,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un crimen durante una celebración tradicional presenta a Alleyn un escenario de ritos y sospechas."
+    },
+    {
+      "id": "marsh-singing-in-the-shrouds",
+      "titulo": "Singing in the Shrouds",
+      "original": "Singing in the Shrouds",
+      "anio": 1958,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un asesinato en un barco exige investigar a sus pasajeros."
+    },
+    {
+      "id": "marsh-false-scent",
+      "titulo": "Falso perfume",
+      "original": "False Scent",
+      "anio": 1959,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "El mundo teatral se ve alterado por la muerte de una actriz célebre."
+    },
+    {
+      "id": "marsh-hand-in-glove",
+      "titulo": "Hand in Glove",
+      "original": "Hand in Glove",
+      "anio": 1962,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte vinculada a una propiedad y a relaciones familiares lleva a Alleyn a buscar motivos ocultos."
+    },
+    {
+      "id": "marsh-dead-water",
+      "titulo": "Dead Water",
+      "original": "Dead Water",
+      "anio": 1963,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un asesinato en una isla turística da origen a una investigación sobre intereses enfrentados."
+    },
+    {
+      "id": "marsh-killer-dolphin",
+      "titulo": "El delfín asesino",
+      "original": "Killer Dolphin",
+      "anio": 1966,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "El teatro vuelve a convertirse en un ambiente decisivo para un crimen."
+    },
+    {
+      "id": "marsh-clutch-of-constables",
+      "titulo": "Clutch of Constables",
+      "original": "Clutch of Constables",
+      "anio": 1968,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte a bordo de un crucero fluvial conduce a una pesquisa policial."
+    },
+    {
+      "id": "marsh-when-in-rome",
+      "titulo": "When in Rome",
+      "original": "When in Rome",
+      "anio": 1968,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una visita turística a Roma queda vinculada a una investigación sobre delitos y robos."
+    },
+    {
+      "id": "marsh-tied-up-in-tinsel",
+      "titulo": "Tied Up in Tinsel",
+      "original": "Tied Up in Tinsel",
+      "anio": 1972,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un asesinato durante unas vacaciones navideñas altera la rutina de una residencia."
+    },
+    {
+      "id": "marsh-black-as-he-s-painted",
+      "titulo": "Black As He's Painted",
+      "original": "Black As He's Painted",
+      "anio": 1974,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un atentado y la violencia política se mezclan en un caso de investigación criminal."
+    },
+    {
+      "id": "marsh-last-ditch",
+      "titulo": "La última zanja",
+      "original": "Last Ditch",
+      "anio": 1976,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte relacionada con una pequeña comunidad insular plantea preguntas a Alleyn."
+    },
+    {
+      "id": "marsh-a-grave-mistake",
+      "titulo": "A Grave Mistake",
+      "original": "A Grave Mistake",
+      "anio": 1978,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte aparentemente autoinfligida resulta más problemática de lo que parecía."
+    },
+    {
+      "id": "marsh-photo-finish",
+      "titulo": "Photo Finish",
+      "original": "Photo Finish",
+      "anio": 1980,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un artista famoso se ve vinculado a una investigación criminal en Nueva Zelanda."
+    },
+    {
+      "id": "marsh-light-thickens",
+      "titulo": "Light Thickens",
+      "original": "Light Thickens",
+      "anio": 1982,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una producción teatral de Macbeth queda atravesada por un crimen."
     }
   ]
 }
