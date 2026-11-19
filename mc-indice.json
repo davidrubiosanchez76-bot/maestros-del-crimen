@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-19-ampliacion-02",
+  "version": "2026-11-19-ampliacion-03",
   "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · índice de consulta sin sinopsis extensas",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -25,7 +25,15 @@
     "ross-macdonald": "fichas/ross-macdonald.json",
     "mccoy": "fichas/mccoy.json",
     "marsh": "fichas/marsh.json",
-    "dorothy-hughes": "fichas/dorothy-hughes.json"
+    "dorothy-hughes": "fichas/dorothy-hughes.json",
+    "highsmith": "fichas/highsmith.json",
+    "mcbain": "fichas/mcbain.json",
+    "pd-james": "fichas/pd-james.json",
+    "rendell": "fichas/rendell.json",
+    "sjowall-wahloo": "fichas/sjowall-wahloo.json",
+    "vazquez-montalban": "fichas/vazquez-montalban.json",
+    "taibo-ii": "fichas/taibo-ii.json",
+    "higgins": "fichas/higgins.json"
   },
   "autores": [
     {
@@ -908,6 +916,279 @@
         "dorothy-hughes-ride-the-pink-horse",
         "dorothy-hughes-in-a-lonely-place",
         "dorothy-hughes-the-expendable-man"
+      ]
+    },
+    {
+      "id": "highsmith",
+      "nombre": "Patricia Highsmith",
+      "nombreCompleto": "Patricia Highsmith",
+      "nacimiento": "1921",
+      "fallecimiento": "1995",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1950,
+      "seudonimos": [
+        "Claire Morgan"
+      ],
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "imagen": "",
+      "resumen": "Renovadora del suspense psicológico y creadora del ambiguo Tom Ripley.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "highsmith-ripley"
+      ],
+      "series": [
+        "highsmith-ripley"
+      ],
+      "obras": [
+        "highsmith-strangers-on-a-train",
+        "highsmith-the-talented-mr-ripley",
+        "highsmith-the-cry-of-the-owl",
+        "highsmith-ripley-under-ground",
+        "highsmith-ripley-s-game"
+      ]
+    },
+    {
+      "id": "mcbain",
+      "nombre": "Ed McBain",
+      "nombreCompleto": "Ed McBain",
+      "nacimiento": "1926",
+      "fallecimiento": "2005",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1956,
+      "seudonimos": [
+        "Evan Hunter",
+        "Hunt Collins",
+        "Curt Cannon"
+      ],
+      "generos": [
+        "police procedural"
+      ],
+      "imagen": "",
+      "resumen": "Impulsor del police procedural coral con las novelas del Distrito 87.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "mcbain-carella"
+      ],
+      "series": [
+        "mcbain-87",
+        "mcbain-hope"
+      ],
+      "obras": [
+        "mcbain-cop-hater",
+        "mcbain-the-mugger",
+        "mcbain-the-pusher",
+        "mcbain-king-s-ransom"
+      ]
+    },
+    {
+      "id": "pd-james",
+      "nombre": "P. D. James",
+      "nombreCompleto": "P. D. James",
+      "nacimiento": "1920",
+      "fallecimiento": "2014",
+      "origen": "Reino Unido",
+      "pais": "Reino Unido",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1962,
+      "seudonimos": [],
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "imagen": "",
+      "resumen": "Referente de la novela detectivesca literaria y creadora de Adam Dalgliesh.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "pd-james-dalgliesh",
+        "pd-james-gray"
+      ],
+      "series": [
+        "pd-james-dalgliesh",
+        "pd-james-cordelia"
+      ],
+      "obras": [
+        "pd-james-cover-her-face",
+        "pd-james-a-mind-to-murder",
+        "pd-james-shroud-for-a-nightingale",
+        "pd-james-an-unsuitable-job-for-a-woman"
+      ]
+    },
+    {
+      "id": "rendell",
+      "nombre": "Ruth Rendell",
+      "nombreCompleto": "Ruth Rendell",
+      "nacimiento": "1930",
+      "fallecimiento": "2015",
+      "origen": "Reino Unido",
+      "pais": "Reino Unido",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1964,
+      "seudonimos": [
+        "Barbara Vine"
+      ],
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "imagen": "",
+      "resumen": "Maestra del suspense psicológico y creadora del inspector Wexford.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "rendell-wexford"
+      ],
+      "series": [
+        "rendell-wexford"
+      ],
+      "obras": [
+        "rendell-from-doon-with-death",
+        "rendell-a-judgement-in-stone",
+        "rendell-a-dark-adapted-eye",
+        "rendell-the-bridesmaid"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo",
+      "nombre": "Maj Sjöwall y Per Wahlöö",
+      "nombreCompleto": "Maj Sjöwall y Per Wahlöö",
+      "nacimiento": "1935 (Sjöwall) / 1926 (Wahlöö)",
+      "fallecimiento": "2020 (Sjöwall) / 1975 (Wahlöö)",
+      "origen": "Suecia",
+      "pais": "Suecia",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1965,
+      "seudonimos": [],
+      "generos": [
+        "police procedural"
+      ],
+      "imagen": "",
+      "resumen": "Pareja de autores del ciclo Martin Beck y pionera del policial social escandinavo.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "sjowall-wahloo-beck"
+      ],
+      "series": [
+        "sjowall-wahloo-beck"
+      ],
+      "obras": [
+        "sjowall-wahloo-roseanna",
+        "sjowall-wahloo-mannen-pa-balkongen",
+        "sjowall-wahloo-den-skrattande-polisen",
+        "sjowall-wahloo-terroristerna"
+      ]
+    },
+    {
+      "id": "vazquez-montalban",
+      "nombre": "Manuel Vázquez Montalbán",
+      "nombreCompleto": "Manuel Vázquez Montalbán",
+      "nacimiento": "1939",
+      "fallecimiento": "2003",
+      "origen": "España",
+      "pais": "España",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1974,
+      "seudonimos": [],
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "imagen": "",
+      "resumen": "Creador de Pepe Carvalho y gran referente de la novela negra española.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "vazquez-montalban-carvalho"
+      ],
+      "series": [
+        "vazquez-montalban-carvalho"
+      ],
+      "obras": [
+        "vazquez-montalban-tatuaje",
+        "vazquez-montalban-la-soledad-del-manager",
+        "vazquez-montalban-los-mares-del-sur",
+        "vazquez-montalban-asesinato-en-el-comite-central"
+      ]
+    },
+    {
+      "id": "taibo-ii",
+      "nombre": "Paco Ignacio Taibo II",
+      "nombreCompleto": "Paco Ignacio Taibo II",
+      "nacimiento": "1949",
+      "fallecimiento": "",
+      "origen": "México",
+      "pais": "México",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1976,
+      "seudonimos": [],
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "imagen": "",
+      "resumen": "Impulsor del neopolicial latinoamericano y creador de Héctor Belascoarán Shayne.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "taibo-ii-belascoaran"
+      ],
+      "series": [
+        "taibo-ii-belascoaran"
+      ],
+      "obras": [
+        "taibo-ii-dias-de-combate",
+        "taibo-ii-cosa-facil",
+        "taibo-ii-no-habra-final-feliz",
+        "taibo-ii-desvanecidos-difuntos"
+      ]
+    },
+    {
+      "id": "higgins",
+      "nombre": "George V. Higgins",
+      "nombreCompleto": "George V. Higgins",
+      "nacimiento": "1939",
+      "fallecimiento": "1999",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1970,
+      "seudonimos": [],
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "imagen": "",
+      "resumen": "Novelista del hampa de Boston y maestro de los diálogos criminales.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "higgins-eddie",
+        "higgins-cogan"
+      ],
+      "series": [],
+      "obras": [
+        "higgins-the-friends-of-eddie-coyle",
+        "higgins-the-digger-s-game",
+        "higgins-cogan-s-trade",
+        "higgins-the-rat-on-fire"
       ]
     }
   ],
@@ -1868,6 +2149,212 @@
         "dorothy-hughes-in-a-lonely-place"
       ],
       "articulos": []
+    },
+    {
+      "id": "highsmith-ripley",
+      "nombre": "Tom Ripley",
+      "autor": "highsmith",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "highsmith-ripley",
+      "obras": [
+        "highsmith-the-talented-mr-ripley",
+        "highsmith-ripley-under-ground",
+        "highsmith-ripley-s-game"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "mcbain-carella",
+      "nombre": "Steve Carella",
+      "autor": "mcbain",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "mcbain-87",
+      "obras": [
+        "mcbain-cop-hater",
+        "mcbain-the-mugger",
+        "mcbain-the-pusher",
+        "mcbain-king-s-ransom"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "pd-james-dalgliesh",
+      "nombre": "Adam Dalgliesh",
+      "autor": "pd-james",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "pd-james-dalgliesh",
+      "obras": [
+        "pd-james-cover-her-face",
+        "pd-james-a-mind-to-murder",
+        "pd-james-shroud-for-a-nightingale"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "pd-james-gray",
+      "nombre": "Cordelia Gray",
+      "autor": "pd-james",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "pd-james-cordelia",
+      "obras": [
+        "pd-james-an-unsuitable-job-for-a-woman"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "rendell-wexford",
+      "nombre": "Reginald Wexford",
+      "autor": "rendell",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "rendell-wexford",
+      "obras": [
+        "rendell-from-doon-with-death"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "sjowall-wahloo-beck",
+      "nombre": "Martin Beck",
+      "autor": "sjowall-wahloo",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "sjowall-wahloo-beck",
+      "obras": [
+        "sjowall-wahloo-roseanna",
+        "sjowall-wahloo-mannen-pa-balkongen",
+        "sjowall-wahloo-den-skrattande-polisen",
+        "sjowall-wahloo-terroristerna"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "vazquez-montalban-carvalho",
+      "nombre": "Pepe Carvalho",
+      "autor": "vazquez-montalban",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "vazquez-montalban-carvalho",
+      "obras": [
+        "vazquez-montalban-tatuaje",
+        "vazquez-montalban-la-soledad-del-manager",
+        "vazquez-montalban-los-mares-del-sur",
+        "vazquez-montalban-asesinato-en-el-comite-central"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "taibo-ii-belascoaran",
+      "nombre": "Héctor Belascoarán Shayne",
+      "autor": "taibo-ii",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "taibo-ii-belascoaran",
+      "obras": [
+        "taibo-ii-dias-de-combate",
+        "taibo-ii-cosa-facil",
+        "taibo-ii-no-habra-final-feliz",
+        "taibo-ii-desvanecidos-difuntos"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "higgins-eddie",
+      "nombre": "Eddie Coyle",
+      "autor": "higgins",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "higgins-the-friends-of-eddie-coyle"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "higgins-cogan",
+      "nombre": "Jackie Cogan",
+      "autor": "higgins",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "higgins-cogan-s-trade"
+      ],
+      "articulos": []
     }
   ],
   "series": [
@@ -2014,6 +2501,60 @@
       "nombre": "Roderick Alleyn",
       "autor": "marsh",
       "descripcion": "Investigaciones del inspector Roderick Alleyn."
+    },
+    {
+      "id": "highsmith-ripley",
+      "nombre": "Tom Ripley",
+      "autor": "highsmith",
+      "descripcion": "Cinco novelas sobre el suplantador y estafador Tom Ripley."
+    },
+    {
+      "id": "mcbain-87",
+      "nombre": "Distrito 87",
+      "autor": "mcbain",
+      "descripcion": "Novelas corales del imaginario Distrito 87."
+    },
+    {
+      "id": "mcbain-hope",
+      "nombre": "Matthew Hope",
+      "autor": "mcbain",
+      "descripcion": "Serie del abogado Matthew Hope, publicada también bajo Ed McBain."
+    },
+    {
+      "id": "pd-james-dalgliesh",
+      "nombre": "Adam Dalgliesh",
+      "autor": "pd-james",
+      "descripcion": "Investigaciones del comandante y poeta Adam Dalgliesh."
+    },
+    {
+      "id": "pd-james-cordelia",
+      "nombre": "Cordelia Gray",
+      "autor": "pd-james",
+      "descripcion": "Novelas de la detective privada Cordelia Gray."
+    },
+    {
+      "id": "rendell-wexford",
+      "nombre": "Inspector Wexford",
+      "autor": "rendell",
+      "descripcion": "Investigaciones del inspector Reginald Wexford."
+    },
+    {
+      "id": "sjowall-wahloo-beck",
+      "nombre": "Martin Beck",
+      "autor": "sjowall-wahloo",
+      "descripcion": "Diez novelas de Martin Beck escritas conjuntamente entre 1965 y 1975."
+    },
+    {
+      "id": "vazquez-montalban-carvalho",
+      "nombre": "Pepe Carvalho",
+      "autor": "vazquez-montalban",
+      "descripcion": "Serie del detective Pepe Carvalho y su universo barcelonés."
+    },
+    {
+      "id": "taibo-ii-belascoaran",
+      "nombre": "Héctor Belascoarán Shayne",
+      "autor": "taibo-ii",
+      "descripcion": "Serie del investigador Héctor Belascoarán Shayne."
     }
   ],
   "obras": [
@@ -4179,6 +4720,427 @@
         "psychological thriller",
         "crime thriller"
       ]
+    },
+    {
+      "id": "highsmith-strangers-on-a-train",
+      "titulo": "Extraños en un tren",
+      "original": "Strangers on a Train",
+      "anio": 1950,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-the-talented-mr-ripley",
+      "titulo": "El talento de Mr. Ripley",
+      "original": "The Talented Mr. Ripley",
+      "anio": 1955,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "highsmith-ripley",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-the-cry-of-the-owl",
+      "titulo": "El grito de la lechuza",
+      "original": "The Cry of the Owl",
+      "anio": 1962,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-ripley-under-ground",
+      "titulo": "La máscara de Ripley",
+      "original": "Ripley Under Ground",
+      "anio": 1970,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "highsmith-ripley",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-ripley-s-game",
+      "titulo": "El juego de Ripley",
+      "original": "Ripley's Game",
+      "anio": 1974,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "highsmith-ripley",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "mcbain-cop-hater",
+      "titulo": "Odio",
+      "original": "Cop Hater",
+      "anio": 1956,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-the-mugger",
+      "titulo": "The Mugger",
+      "original": "The Mugger",
+      "anio": 1956,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-the-pusher",
+      "titulo": "The Pusher",
+      "original": "The Pusher",
+      "anio": 1956,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-king-s-ransom",
+      "titulo": "Rescate",
+      "original": "King's Ransom",
+      "anio": 1959,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-cover-her-face",
+      "titulo": "Cubridle el rostro",
+      "original": "Cover Her Face",
+      "anio": 1962,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-a-mind-to-murder",
+      "titulo": "Una mente asesina",
+      "original": "A Mind to Murder",
+      "anio": 1963,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-shroud-for-a-nightingale",
+      "titulo": "Mortaja para un ruiseñor",
+      "original": "Shroud for a Nightingale",
+      "anio": 1971,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-an-unsuitable-job-for-a-woman",
+      "titulo": "Un trabajo poco adecuado para una mujer",
+      "original": "An Unsuitable Job for a Woman",
+      "anio": 1972,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-cordelia",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "rendell-from-doon-with-death",
+      "titulo": "Un asesinato nada corriente",
+      "original": "From Doon with Death",
+      "anio": 1964,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-a-judgement-in-stone",
+      "titulo": "Un juicio de piedra",
+      "original": "A Judgement in Stone",
+      "anio": 1977,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-a-dark-adapted-eye",
+      "titulo": "A Dark-Adapted Eye",
+      "original": "A Dark-Adapted Eye",
+      "anio": 1986,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-the-bridesmaid",
+      "titulo": "La dama de honor",
+      "original": "The Bridesmaid",
+      "anio": 1989,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-roseanna",
+      "titulo": "Roseanna",
+      "original": "Roseanna",
+      "anio": 1965,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-mannen-pa-balkongen",
+      "titulo": "El hombre del balcón",
+      "original": "Mannen på balkongen",
+      "anio": 1967,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-den-skrattande-polisen",
+      "titulo": "El policía que ríe",
+      "original": "Den skrattande polisen",
+      "anio": 1968,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-terroristerna",
+      "titulo": "Los terroristas",
+      "original": "Terroristerna",
+      "anio": 1975,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-tatuaje",
+      "titulo": "Tatuaje",
+      "original": "Tatuaje",
+      "anio": 1974,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-la-soledad-del-manager",
+      "titulo": "La soledad del manager",
+      "original": "La soledad del manager",
+      "anio": 1977,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-los-mares-del-sur",
+      "titulo": "Los mares del Sur",
+      "original": "Los mares del Sur",
+      "anio": 1979,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-asesinato-en-el-comite-central",
+      "titulo": "Asesinato en el Comité Central",
+      "original": "Asesinato en el Comité Central",
+      "anio": 1981,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "taibo-ii-dias-de-combate",
+      "titulo": "Días de combate",
+      "original": "Días de combate",
+      "anio": 1976,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "taibo-ii-cosa-facil",
+      "titulo": "Cosa fácil",
+      "original": "Cosa fácil",
+      "anio": 1977,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "taibo-ii-no-habra-final-feliz",
+      "titulo": "No habrá final feliz",
+      "original": "No habrá final feliz",
+      "anio": 1981,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "taibo-ii-desvanecidos-difuntos",
+      "titulo": "Desvanecidos difuntos",
+      "original": "Desvanecidos difuntos",
+      "anio": 1991,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "higgins-the-friends-of-eddie-coyle",
+      "titulo": "Los amigos de Eddie Coyle",
+      "original": "The Friends of Eddie Coyle",
+      "anio": 1970,
+      "autor": "higgins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "higgins-the-digger-s-game",
+      "titulo": "The Digger's Game",
+      "original": "The Digger's Game",
+      "anio": 1973,
+      "autor": "higgins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "higgins-cogan-s-trade",
+      "titulo": "Mátalos suavemente",
+      "original": "Cogan's Trade",
+      "anio": 1974,
+      "autor": "higgins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "higgins-the-rat-on-fire",
+      "titulo": "The Rat on Fire",
+      "original": "The Rat on Fire",
+      "anio": 1981,
+      "autor": "higgins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
     }
   ],
   "destacados": {
@@ -4295,12 +5257,52 @@
       "dorothy-hughes-the-so-blue-marble",
       "dorothy-hughes-in-a-lonely-place",
       "dorothy-hughes-the-expendable-man"
+    ],
+    "highsmith": [
+      "highsmith-strangers-on-a-train",
+      "highsmith-the-cry-of-the-owl",
+      "highsmith-ripley-s-game"
+    ],
+    "mcbain": [
+      "mcbain-cop-hater",
+      "mcbain-the-pusher",
+      "mcbain-king-s-ransom"
+    ],
+    "pd-james": [
+      "pd-james-cover-her-face",
+      "pd-james-shroud-for-a-nightingale",
+      "pd-james-an-unsuitable-job-for-a-woman"
+    ],
+    "rendell": [
+      "rendell-from-doon-with-death",
+      "rendell-a-dark-adapted-eye",
+      "rendell-the-bridesmaid"
+    ],
+    "sjowall-wahloo": [
+      "sjowall-wahloo-roseanna",
+      "sjowall-wahloo-den-skrattande-polisen",
+      "sjowall-wahloo-terroristerna"
+    ],
+    "vazquez-montalban": [
+      "vazquez-montalban-tatuaje",
+      "vazquez-montalban-los-mares-del-sur",
+      "vazquez-montalban-asesinato-en-el-comite-central"
+    ],
+    "taibo-ii": [
+      "taibo-ii-dias-de-combate",
+      "taibo-ii-no-habra-final-feliz",
+      "taibo-ii-desvanecidos-difuntos"
+    ],
+    "higgins": [
+      "higgins-the-friends-of-eddie-coyle",
+      "higgins-cogan-s-trade",
+      "higgins-the-rat-on-fire"
     ]
   },
   "totales": {
-    "autores": 23,
-    "personajes": 45,
-    "series": 24,
-    "obras": 178
+    "autores": 31,
+    "personajes": 55,
+    "series": 33,
+    "obras": 211
   }
 }
