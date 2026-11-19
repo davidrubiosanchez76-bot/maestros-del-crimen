@@ -25,7 +25,7 @@
       "Bajo el seudónimo Barbara Vine exploró en particular la memoria, la identidad y las tensiones familiares con formas narrativas próximas a la tragedia psicológica."
     ],
     "apunte": "Rendell no dejó de ser una autora de misterio cuando publicó como Barbara Vine: empleó ese nombre para distinguir una línea de suspense y reconstrucción del pasado con un tono propio.",
-    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "alcanceBibliografia": "24 novelas del inspector Wexford completas; otras novelas independientes y de Barbara Vine, selección aún no exhaustiva",
     "articulos": [],
     "personajes": [
       "rendell-wexford"
@@ -47,7 +47,27 @@
       "rendell-some-lie-and-some-die",
       "rendell-a-fatal-inversion",
       "rendell-the-house-of-stairs",
-      "rendell-gallowglass"
+      "rendell-gallowglass",
+      "rendell-shake-hands-for-ever",
+      "rendell-a-sleeping-life",
+      "rendell-put-on-by-cunning",
+      "rendell-the-speaker-of-mandarin",
+      "rendell-an-unkindness-of-ravens",
+      "rendell-the-veiled-one",
+      "rendell-kissing-the-gunner-s-daughter",
+      "rendell-simisola",
+      "rendell-road-rage",
+      "rendell-harm-done",
+      "rendell-the-babes-in-the-wood",
+      "rendell-end-in-tears",
+      "rendell-not-in-the-flesh",
+      "rendell-the-monster-in-the-box",
+      "rendell-the-vault",
+      "rendell-no-man-s-nightingale"
+    ],
+    "fuentesDocumentales": [
+      "https://ruthrendell.info/wexford/",
+      "https://es.wikipedia.org/wiki/Ruth_Rendell"
     ]
   },
   "personajes": [
@@ -73,7 +93,23 @@
         "rendell-a-guilty-thing-surprised",
         "rendell-no-more-dying-then",
         "rendell-murder-being-once-done",
-        "rendell-some-lie-and-some-die"
+        "rendell-some-lie-and-some-die",
+        "rendell-shake-hands-for-ever",
+        "rendell-a-sleeping-life",
+        "rendell-put-on-by-cunning",
+        "rendell-the-speaker-of-mandarin",
+        "rendell-an-unkindness-of-ravens",
+        "rendell-the-veiled-one",
+        "rendell-kissing-the-gunner-s-daughter",
+        "rendell-simisola",
+        "rendell-road-rage",
+        "rendell-harm-done",
+        "rendell-the-babes-in-the-wood",
+        "rendell-end-in-tears",
+        "rendell-not-in-the-flesh",
+        "rendell-the-monster-in-the-box",
+        "rendell-the-vault",
+        "rendell-no-man-s-nightingale"
       ],
       "articulos": [],
       "descripcion": "Inspector perspicaz de la policía inglesa y observador de conflictos familiares."
@@ -146,7 +182,7 @@
     },
     {
       "id": "rendell-a-new-lease-of-death",
-      "titulo": "A New Lease of Death",
+      "titulo": "Falsa identidad",
       "original": "A New Lease of Death",
       "anio": 1967,
       "autor": "rendell",
@@ -160,7 +196,7 @@
     },
     {
       "id": "rendell-wolf-to-the-slaughter",
-      "titulo": "Wolf to the Slaughter",
+      "titulo": "Camino del matadero",
       "original": "Wolf to the Slaughter",
       "anio": 1967,
       "autor": "rendell",
@@ -174,7 +210,7 @@
     },
     {
       "id": "rendell-the-best-man-to-die",
-      "titulo": "The Best Man to Die",
+      "titulo": "Un cadáver para la boda",
       "original": "The Best Man to Die",
       "anio": 1969,
       "autor": "rendell",
@@ -188,7 +224,7 @@
     },
     {
       "id": "rendell-a-guilty-thing-surprised",
-      "titulo": "A Guilty Thing Surprised",
+      "titulo": "En la oscuridad del bosque",
       "original": "A Guilty Thing Surprised",
       "anio": 1970,
       "autor": "rendell",
@@ -202,7 +238,7 @@
     },
     {
       "id": "rendell-no-more-dying-then",
-      "titulo": "No More Dying Then",
+      "titulo": "No más muertes",
       "original": "No More Dying Then",
       "anio": 1971,
       "autor": "rendell",
@@ -216,7 +252,7 @@
     },
     {
       "id": "rendell-murder-being-once-done",
-      "titulo": "Murder Being Once Done",
+      "titulo": "Después del asesinato",
       "original": "Murder Being Once Done",
       "anio": 1972,
       "autor": "rendell",
@@ -230,7 +266,7 @@
     },
     {
       "id": "rendell-some-lie-and-some-die",
-      "titulo": "Some Lie and Some Die",
+      "titulo": "Algunos mienten, otros mueren",
       "original": "Some Lie and Some Die",
       "anio": 1973,
       "autor": "rendell",
@@ -283,6 +319,230 @@
         "psychological thriller"
       ],
       "sinopsis": "Una obsesión y una relación desigual condicionan el desarrollo de una trama criminal."
+    },
+    {
+      "id": "rendell-shake-hands-for-ever",
+      "titulo": "Eterna despedida",
+      "original": "Shake Hands for Ever",
+      "anio": 1975,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una muerte en un domicilio obliga a Wexford a examinar conflictos de familia y detalles desconcertantes."
+    },
+    {
+      "id": "rendell-a-sleeping-life",
+      "titulo": "Una vida durmiente",
+      "original": "A Sleeping Life",
+      "anio": 1978,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "El hallazgo de un cadáver conduce al inspector a investigar quién era realmente la víctima."
+    },
+    {
+      "id": "rendell-put-on-by-cunning",
+      "titulo": "El juego de los astutos",
+      "original": "Put On by Cunning",
+      "anio": 1981,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Wexford debe esclarecer las dudas que rodean una muerte y las relaciones de sus allegados."
+    },
+    {
+      "id": "rendell-the-speaker-of-mandarin",
+      "titulo": "Un cuento chino",
+      "original": "The Speaker of Mandarin",
+      "anio": 1983,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un viaje y un caso posterior llevan a Wexford a revisar conexiones aparentemente remotas."
+    },
+    {
+      "id": "rendell-an-unkindness-of-ravens",
+      "titulo": "La crueldad de los cuervos",
+      "original": "An Unkindness of Ravens",
+      "anio": 1985,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "El asesinato de un hombre está relacionado con tensiones y secretos de su entorno."
+    },
+    {
+      "id": "rendell-the-veiled-one",
+      "titulo": "El rostro velado",
+      "original": "The Veiled One",
+      "anio": 1988,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "La muerte de una mujer en un aparcamiento obliga a los investigadores a revisar indicios y sospechosos."
+    },
+    {
+      "id": "rendell-kissing-the-gunner-s-daughter",
+      "titulo": "Un beso para mi asesino",
+      "original": "Kissing the Gunner's Daughter",
+      "anio": 1991,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un crimen violento en una casa familiar abre una investigación de coartadas y lealtades."
+    },
+    {
+      "id": "rendell-simisola",
+      "titulo": "Simisola",
+      "original": "Simisola",
+      "anio": 1994,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "La desaparición de una joven conduce a Wexford a examinar diferencias sociales y prejuicios."
+    },
+    {
+      "id": "rendell-road-rage",
+      "titulo": "Carretera de odio",
+      "original": "Road Rage",
+      "anio": 1997,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una protesta medioambiental coincide con una investigación criminal llena de amenazas."
+    },
+    {
+      "id": "rendell-harm-done",
+      "titulo": "El daño está hecho",
+      "original": "Harm Done",
+      "anio": 1999,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una serie de casos lleva a Wexford a investigar violencia, miedo y desigualdades en su comunidad."
+    },
+    {
+      "id": "rendell-the-babes-in-the-wood",
+      "titulo": "Perdidos en la noche",
+      "original": "The Babes in the Wood",
+      "anio": 2002,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "La desaparición de dos niños durante una inundación obliga a reconstruir cuidadosamente lo ocurrido."
+    },
+    {
+      "id": "rendell-end-in-tears",
+      "titulo": "End in Tears",
+      "original": "End in Tears",
+      "anio": 2005,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una muerte inesperada conduce a Wexford por una investigación que revela ocultamientos y relaciones peligrosas."
+    },
+    {
+      "id": "rendell-not-in-the-flesh",
+      "titulo": "Not in the Flesh",
+      "original": "Not in the Flesh",
+      "anio": 2007,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "El hallazgo de restos humanos obliga al inspector a investigar un crimen antiguo y sus conexiones."
+    },
+    {
+      "id": "rendell-the-monster-in-the-box",
+      "titulo": "The Monster in the Box",
+      "original": "The Monster in the Box",
+      "anio": 2009,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una sospecha que Wexford arrastra desde hace tiempo regresa y afecta a su modo de investigar."
+    },
+    {
+      "id": "rendell-the-vault",
+      "titulo": "The Vault",
+      "original": "The Vault",
+      "anio": 2011,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Wexford, retirado, colabora con antiguos colegas para esclarecer la aparición de varios cadáveres."
+    },
+    {
+      "id": "rendell-no-man-s-nightingale",
+      "titulo": "No Man's Nightingale",
+      "original": "No Man's Nightingale",
+      "anio": 2013,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "La muerte de una mujer vinculada a una parroquia sitúa a Wexford en una nueva investigación."
     }
   ]
 }
