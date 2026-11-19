@@ -25,7 +25,10 @@
     "apunte": "Hannibal Lecter apareció por primera vez en El dragón rojo (1981), antes de ocupar un lugar mucho más destacado en sus libros posteriores.",
     "articulos": [],
     "personajes": [
-      "lecter"
+      "lecter",
+      "harris-starling",
+      "harris-graham",
+      "harris-crawford"
     ],
     "series": [
       "lecter"
@@ -34,7 +37,8 @@
       "dragon",
       "silencio",
       "hannibal",
-      "origen"
+      "origen",
+      "harris-cari-mora"
     ]
   },
   "personajes": [
@@ -61,6 +65,68 @@
       ],
       "articulos": [],
       "descripcion": "Psiquiatra y figura criminal de enorme presencia literaria. Su papel cambia según la novela, sin que aquí desvelemos los giros de cada historia."
+    },
+    {
+      "id": "harris-starling",
+      "nombre": "Clarice Starling",
+      "autor": "harris",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "harris-lecter",
+      "obras": [
+        "silencio",
+        "hannibal"
+      ],
+      "articulos": [],
+      "descripcion": "Agente del FBI que entrevista a Hannibal Lecter durante la investigación de un asesino serial."
+    },
+    {
+      "id": "harris-graham",
+      "nombre": "Will Graham",
+      "autor": "harris",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "harris-lecter",
+      "obras": [
+        "dragon"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador de conductas criminales con excepcional capacidad para reconstruir la mente de los asesinos."
+    },
+    {
+      "id": "harris-crawford",
+      "nombre": "Jack Crawford",
+      "autor": "harris",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "harris-lecter",
+      "obras": [
+        "dragon",
+        "silencio"
+      ],
+      "articulos": [],
+      "descripcion": "Agente federal y responsable de investigaciones criminales en varias novelas del ciclo Lecter."
     }
   ],
   "series": [
@@ -124,6 +190,20 @@
         "psychological thriller"
       ],
       "sinopsis": "La novela retrocede al pasado de Hannibal Lecter y explora acontecimientos que marcaron su juventud, antes de las historias más conocidas."
+    },
+    {
+      "id": "harris-cari-mora",
+      "titulo": "Cari Mora",
+      "original": "Cari Mora",
+      "anio": 2019,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una mujer en Miami se ve envuelta en la búsqueda de una fortuna oculta y en la amenaza de criminales."
     }
   ]
 }
