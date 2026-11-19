@@ -1,0 +1,132 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "taibo-ii",
+    "nombre": "Paco Ignacio Taibo II",
+    "nombreCompleto": "Paco Ignacio Taibo II",
+    "nacimiento": "1949",
+    "fallecimiento": "",
+    "origen": "México",
+    "pais": "México",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1976,
+    "seudonimos": [],
+    "generos": [
+      "hardboiled",
+      "crime thriller"
+    ],
+    "imagen": "",
+    "resumen": "Impulsor del neopolicial latinoamericano y creador de Héctor Belascoarán Shayne.",
+    "bio": [
+      "Escritor y periodista nacido en España y radicado en México desde niño. Su obra policial cruza aventuras, política, humor y retratos de la Ciudad de México.",
+      "Con el detective Belascoarán Shayne impulsó una narrativa criminal que combina la investigación con preocupaciones sociales y una mirada crítica sobre el poder."
+    ],
+    "apunte": "Belascoarán Shayne es un investigador singular que se separa del modelo clásico del detective impecable: los daños físicos, el humor y el paisaje urbano influyen en su manera de actuar.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "taibo-ii-belascoaran"
+    ],
+    "series": [
+      "taibo-ii-belascoaran"
+    ],
+    "obras": [
+      "taibo-ii-dias-de-combate",
+      "taibo-ii-cosa-facil",
+      "taibo-ii-no-habra-final-feliz",
+      "taibo-ii-desvanecidos-difuntos"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "taibo-ii-belascoaran",
+      "nombre": "Héctor Belascoarán Shayne",
+      "autor": "taibo-ii",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "taibo-ii-belascoaran",
+      "obras": [
+        "taibo-ii-dias-de-combate",
+        "taibo-ii-cosa-facil",
+        "taibo-ii-no-habra-final-feliz",
+        "taibo-ii-desvanecidos-difuntos"
+      ],
+      "articulos": [],
+      "descripcion": "Detective mexicano marcado por la ironía y los conflictos de su ciudad."
+    }
+  ],
+  "series": [
+    {
+      "id": "taibo-ii-belascoaran",
+      "nombre": "Héctor Belascoarán Shayne",
+      "autor": "taibo-ii",
+      "descripcion": "Serie del investigador Héctor Belascoarán Shayne."
+    }
+  ],
+  "obras": [
+    {
+      "id": "taibo-ii-dias-de-combate",
+      "titulo": "Días de combate",
+      "original": "Días de combate",
+      "anio": 1976,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Un ingeniero transformado en detective busca a un asesino serial en una ciudad llena de pistas y desencuentros."
+    },
+    {
+      "id": "taibo-ii-cosa-facil",
+      "titulo": "Cosa fácil",
+      "original": "Cosa fácil",
+      "anio": 1977,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Belascoarán Shayne enlaza investigaciones aparentemente distintas en una ciudad donde nada resulta sencillo."
+    },
+    {
+      "id": "taibo-ii-no-habra-final-feliz",
+      "titulo": "No habrá final feliz",
+      "original": "No habrá final feliz",
+      "anio": 1981,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "El detective se enfrenta a un caso violento que pone a prueba su resistencia en un ambiente político oscuro."
+    },
+    {
+      "id": "taibo-ii-desvanecidos-difuntos",
+      "titulo": "Desvanecidos difuntos",
+      "original": "Desvanecidos difuntos",
+      "anio": 1991,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una investigación extraña arrastra a Belascoarán a mentiras, pérdidas y recuerdos que desafían la explicación convencional."
+    }
+  ]
+}
