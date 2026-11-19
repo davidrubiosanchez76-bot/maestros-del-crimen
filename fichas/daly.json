@@ -22,7 +22,7 @@
       "En Black Mask contribuyó a definir la voz y los métodos del investigador hardboiled antes de su consolidación en la novela.",
       "Race Williams se convirtió en una de las figuras populares de la ficción detectivesca de entreguerras."
     ],
-    "apunte": "Race Williams comenzó a aparecer en Black Mask en 1923. Sus métodos expeditivos anticiparon algunos rasgos del detective duro que se harían populares después.",
+    "apunte": "Race Williams comenzó a aparecer en Black Mask en 1923. Sus métodos expeditivos anticiparon algunos rasgos del detective duro que se harían populares después. La obra de Daly desarrolló además otras figuras propias —Vee Brown, Satan Hall, Mr. Strang, Terry Mack y Clay Holt— que no deben confundirse con Race Williams. Varias de ellas aparecieron sobre todo en relatos pulp.",
     "articulos": [
       {
         "titulo": "CARROLL JOHN DALY | Y con él nació el detective duro de verdad",
@@ -30,14 +30,44 @@
       }
     ],
     "personajes": [
-      "race"
+      "race",
+      "daly-vee",
+      "daly-satan",
+      "daly-strang",
+      "daly-terry-mack-character",
+      "daly-three-gun-terry",
+      "daly-clay-holt",
+      "daly-marty-day"
     ],
     "series": [
-      "race"
+      "race",
+      "daly-vee-brown",
+      "daly-satan-hall",
+      "daly-mr-strang",
+      "daly-terry-mack"
     ],
     "obras": [
       "whitecircle",
-      "snarl"
+      "snarl",
+      "daly-the-man-in-the-shadows",
+      "daly-the-hidden-hand",
+      "daly-the-tag-murders",
+      "daly-tainted-power",
+      "daly-the-third-murderer",
+      "daly-the-amateur-murderer",
+      "daly-murder-won-t-wait",
+      "daly-murder-from-the-east",
+      "daly-the-mystery-of-the-smoking-gun",
+      "daly-mr-strang",
+      "daly-emperor-of-evil",
+      "daly-better-corpses",
+      "daly-the-legion-of-our-living-dead",
+      "daly-murder-at-our-house",
+      "daly-ready-to-burn"
+    ],
+    "fuentesDocumentales": [
+      "https://thrillingdetective.com/2020/02/15/carroll-john-daly/",
+      "https://www.stopyourekillingme.com/D_Authors/Daly_Carroll-John.html"
     ]
   },
   "personajes": [
@@ -56,10 +86,154 @@
       ],
       "serie": "race",
       "obras": [
-        "snarl"
+        "snarl",
+        "daly-the-hidden-hand",
+        "daly-the-tag-murders",
+        "daly-tainted-power",
+        "daly-the-third-murderer",
+        "daly-the-amateur-murderer",
+        "daly-murder-from-the-east",
+        "daly-better-corpses"
       ],
       "articulos": [],
       "descripcion": "Investigador privado creado por Carroll John Daly, de métodos expeditivos y código personal al margen de muchas convenciones."
+    },
+    {
+      "id": "daly-vee",
+      "nombre": "Vee Brown",
+      "autor": "daly",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "daly-vee-brown",
+      "obras": [
+        "daly-murder-won-t-wait",
+        "daly-emperor-of-evil"
+      ],
+      "articulos": [],
+      "descripcion": "También llamado Vivian Brown y «The Crime Machine»; músico y colaborador investigador de la fiscalía de Manhattan."
+    },
+    {
+      "id": "daly-satan",
+      "nombre": "Satan Hall",
+      "autor": "daly",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "daly-satan-hall",
+      "obras": [
+        "daly-the-mystery-of-the-smoking-gun",
+        "daly-ready-to-burn"
+      ],
+      "articulos": [],
+      "descripcion": "Detective de homicidios de Nueva York, de apariencia inquietante y métodos extremadamente expeditivos."
+    },
+    {
+      "id": "daly-strang",
+      "nombre": "Mr. Strang",
+      "autor": "daly",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "daly-mr-strang",
+      "obras": [
+        "daly-mr-strang",
+        "daly-the-legion-of-our-living-dead"
+      ],
+      "articulos": [],
+      "descripcion": "Vengador de las historias pulp que persigue delincuentes con un código propio."
+    },
+    {
+      "id": "daly-terry-mack-character",
+      "nombre": "Terry Mack",
+      "autor": "daly",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "daly-terry-mack",
+      "obras": [
+        "daly-the-man-in-the-shadows"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador protagonista de relatos y de The Man in the Shadows."
+    },
+    {
+      "id": "daly-three-gun-terry",
+      "nombre": "Three Gun Terry",
+      "autor": "daly",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [],
+      "articulos": [],
+      "descripcion": "Protagonista temprano de los relatos de Black Mask y precursor de Race Williams."
+    },
+    {
+      "id": "daly-clay-holt",
+      "nombre": "Clay Holt",
+      "autor": "daly",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [],
+      "articulos": [],
+      "descripcion": "Detective de relatos de Dime Detective, antecedente de una temprana adaptación cinematográfica de Daly."
+    },
+    {
+      "id": "daly-marty-day",
+      "nombre": "Marty Day",
+      "autor": "daly",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [],
+      "articulos": [],
+      "descripcion": "Antiguo millonario arruinado convertido en vengador junto al misterioso Reckoner en relatos pulp."
     }
   ],
   "series": [
@@ -68,6 +242,30 @@
       "nombre": "Race Williams",
       "autor": "daly",
       "descripcion": "Ciclo de novelas protagonizadas por el detective Race Williams."
+    },
+    {
+      "id": "daly-vee-brown",
+      "nombre": "Vee Brown",
+      "autor": "daly",
+      "descripcion": "Investigaciones de Vivian «Vee» Brown, personaje de novelas y relatos pulp."
+    },
+    {
+      "id": "daly-satan-hall",
+      "nombre": "Satan Hall",
+      "autor": "daly",
+      "descripcion": "Ciclo del detective de homicidios Satan Hall, con novelas y relatos."
+    },
+    {
+      "id": "daly-mr-strang",
+      "nombre": "Mr. Strang",
+      "autor": "daly",
+      "descripcion": "Serie de ficción criminal protagonizada por el justiciero Mr. Strang."
+    },
+    {
+      "id": "daly-terry-mack",
+      "nombre": "Terry Mack",
+      "autor": "daly",
+      "descripcion": "Ciclo pulp de Terry Mack, del que existe una novela y relatos."
     }
   ],
   "obras": [
@@ -96,6 +294,201 @@
         "hardboiled"
       ],
       "sinopsis": "Race Williams se enfrenta a un criminal temido al que la policía trata de detener. La investigación combina acción y métodos expeditivos."
+    },
+    {
+      "id": "daly-the-man-in-the-shadows",
+      "titulo": "The Man in the Shadows",
+      "original": "The Man in the Shadows",
+      "anio": 1928,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "daly-terry-mack",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Novela protagonizada por Terry Mack, figura de las primeras aventuras pulp de Daly."
+    },
+    {
+      "id": "daly-the-hidden-hand",
+      "titulo": "The Hidden Hand",
+      "original": "The Hidden Hand",
+      "anio": 1929,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "race",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Nueva investigación del detective Race Williams dentro de la línea de ficción de acción de Black Mask."
+    },
+    {
+      "id": "daly-the-tag-murders",
+      "titulo": "The Tag Murders",
+      "original": "The Tag Murders",
+      "anio": 1930,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "race",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Una aventura criminal de Race Williams, publicada en la primera etapa de su ciclo novelesco."
+    },
+    {
+      "id": "daly-tainted-power",
+      "titulo": "Tainted Power",
+      "original": "Tainted Power",
+      "anio": 1931,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "race",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Novela del ciclo Race Williams centrada en su particular forma de enfrentarse a los delincuentes."
+    },
+    {
+      "id": "daly-the-third-murderer",
+      "titulo": "The Third Murderer",
+      "original": "The Third Murderer",
+      "anio": 1933,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "race",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Otro caso de Race Williams, detective privado expeditivo del Nueva York de entreguerras."
+    },
+    {
+      "id": "daly-the-amateur-murderer",
+      "titulo": "The Amateur Murderer",
+      "original": "The Amateur Murderer",
+      "anio": 1933,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "race",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Un episodio novelesco de Race Williams, con el tono de acción característica del hardboiled pulp."
+    },
+    {
+      "id": "daly-murder-won-t-wait",
+      "titulo": "Murder Won't Wait",
+      "original": "Murder Won't Wait",
+      "anio": 1933,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "daly-vee-brown",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Primera novela protagonizada por Vee Brown, investigador vinculado al mundo musical y criminal."
+    },
+    {
+      "id": "daly-murder-from-the-east",
+      "titulo": "Murder from the East",
+      "original": "Murder from the East",
+      "anio": 1935,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "race",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Una novela de Race Williams reelaborada a partir de relatos aparecidos previamente en Black Mask."
+    },
+    {
+      "id": "daly-the-mystery-of-the-smoking-gun",
+      "titulo": "The Mystery of the Smoking Gun",
+      "original": "The Mystery of the Smoking Gun",
+      "anio": 1936,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "daly-satan-hall",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Misterio criminal protagonizado por el policía Satan Hall; también identificado como Death's Juggler."
+    },
+    {
+      "id": "daly-mr-strang",
+      "titulo": "Mr. Strang",
+      "original": "Mr. Strang",
+      "anio": 1936,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "daly-mr-strang",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Novela del vengador Mr. Strang reconstruida a partir de narraciones pulp anteriores."
+    },
+    {
+      "id": "daly-emperor-of-evil",
+      "titulo": "Emperor of Evil",
+      "original": "Emperor of Evil",
+      "anio": 1936,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "daly-vee-brown",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Un nuevo caso de Vee Brown, construido a partir de relatos de Dime Detective."
+    },
+    {
+      "id": "daly-better-corpses",
+      "titulo": "Better Corpses",
+      "original": "Better Corpses",
+      "anio": 1940,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "race",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Otra novela protagonizada por Race Williams, publicada al final de su etapa de mayor popularidad."
+    },
+    {
+      "id": "daly-the-legion-of-our-living-dead",
+      "titulo": "The Legion of Our Living Dead",
+      "original": "The Legion of Our Living Dead",
+      "anio": 1947,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "daly-mr-strang",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Novela con Mr. Strang, personaje que ejerce la justicia mediante métodos extremos."
+    },
+    {
+      "id": "daly-murder-at-our-house",
+      "titulo": "Murder at Our House",
+      "original": "Murder at Our House",
+      "anio": 1950,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Novela criminal independiente de Daly publicada en la última etapa de su carrera."
+    },
+    {
+      "id": "daly-ready-to-burn",
+      "titulo": "Ready to Burn",
+      "original": "Ready to Burn",
+      "anio": 1951,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "daly-satan-hall",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Novela del detective Satan Hall ensamblada a partir de historias publicadas en revistas pulp."
     }
   ]
 }
