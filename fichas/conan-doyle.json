@@ -26,7 +26,11 @@
     "articulos": [],
     "personajes": [
       "conan-doyle-holmes",
-      "conan-doyle-watson"
+      "conan-doyle-watson",
+      "conan-doyle-moriarty",
+      "conan-doyle-lestrade",
+      "conan-doyle-mycroft",
+      "conan-doyle-irene"
     ],
     "series": [
       "conan-doyle-holmes"
@@ -84,6 +88,83 @@
       ],
       "articulos": [],
       "descripcion": "Médico, compañero y narrador de buena parte de las investigaciones de Holmes."
+    },
+    {
+      "id": "conan-doyle-moriarty",
+      "nombre": "Profesor James Moriarty",
+      "autor": "conan-doyle",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Antagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "",
+      "obras": [
+        "conan-doyle-the-valley-of-fear"
+      ],
+      "articulos": [],
+      "descripcion": "Adversario de Holmes y figura clave de su mitología, principalmente en relatos."
+    },
+    {
+      "id": "conan-doyle-lestrade",
+      "nombre": "Inspector Lestrade",
+      "autor": "conan-doyle",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "conan-doyle-a-study-in-scarlet",
+        "conan-doyle-the-hound-of-the-baskervilles"
+      ],
+      "articulos": [],
+      "descripcion": "Inspector de Scotland Yard que reaparece en múltiples aventuras de Holmes."
+    },
+    {
+      "id": "conan-doyle-mycroft",
+      "nombre": "Mycroft Holmes",
+      "autor": "conan-doyle",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [],
+      "articulos": [],
+      "descripcion": "Hermano de Sherlock Holmes, de extraordinaria capacidad intelectual y vínculos con el Estado; protagonismo principalmente en relatos."
+    },
+    {
+      "id": "conan-doyle-irene",
+      "nombre": "Irene Adler",
+      "autor": "conan-doyle",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [],
+      "articulos": [],
+      "descripcion": "Cantante y figura memorable de Un escándalo en Bohemia, relato de Sherlock Holmes."
     }
   ],
   "series": [
