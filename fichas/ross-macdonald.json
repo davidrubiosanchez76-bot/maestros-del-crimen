@@ -1,0 +1,134 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "ross-macdonald",
+    "nombre": "Ross Macdonald",
+    "nombreCompleto": "Ross Macdonald",
+    "nacimiento": "1915",
+    "fallecimiento": "1983",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1944,
+    "seudonimos": [
+      "Kenneth Millar",
+      "John Macdonald"
+    ],
+    "generos": [
+      "hardboiled",
+      "psychological thriller"
+    ],
+    "imagen": "",
+    "resumen": "Autor del detective Lew Archer, que llevó el hardboiled hacia los secretos familiares.",
+    "bio": [
+      "Kenneth Millar, conocido literariamente como Ross Macdonald, creció entre Estados Unidos y Canadá. Publicó novelas de misterio antes de crear a Lew Archer en 1949.",
+      "La saga combina investigación privada con conflictos familiares, memoria, culpa y desigualdades californianas; es un puente fundamental entre Hammett, Chandler y el noir psicológico."
+    ],
+    "apunte": "Su primera novela criminal, The Dark Tunnel (1944), apareció con el nombre Kenneth Millar. Lew Archer llegó cinco años después en The Moving Target.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "ross-macdonald-archer"
+    ],
+    "series": [
+      "ross-macdonald-archer"
+    ],
+    "obras": [
+      "ross-macdonald-the-dark-tunnel",
+      "ross-macdonald-the-moving-target",
+      "ross-macdonald-the-drowning-pool",
+      "ross-macdonald-the-galton-case"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "ross-macdonald-archer",
+      "nombre": "Lew Archer",
+      "autor": "ross-macdonald",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "ross-macdonald-archer",
+      "obras": [
+        "ross-macdonald-the-moving-target",
+        "ross-macdonald-the-drowning-pool",
+        "ross-macdonald-the-galton-case"
+      ],
+      "articulos": [],
+      "descripcion": "Detective privado observador que rastrea crímenes escondidos en el pasado familiar."
+    }
+  ],
+  "series": [
+    {
+      "id": "ross-macdonald-archer",
+      "nombre": "Lew Archer",
+      "autor": "ross-macdonald",
+      "descripcion": "Investigaciones privadas de Lew Archer en California."
+    }
+  ],
+  "obras": [
+    {
+      "id": "ross-macdonald-the-dark-tunnel",
+      "titulo": "The Dark Tunnel",
+      "original": "The Dark Tunnel",
+      "anio": 1944,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una intriga de espionaje y sospechas en torno a una comunidad académica pone a prueba a un investigador."
+    },
+    {
+      "id": "ross-macdonald-the-moving-target",
+      "titulo": "El blanco móvil",
+      "original": "The Moving Target",
+      "anio": 1949,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Lew Archer investiga la desaparición de un millonario y descubre las tensiones de su círculo cercano."
+    },
+    {
+      "id": "ross-macdonald-the-drowning-pool",
+      "titulo": "La piscina de los ahogados",
+      "original": "The Drowning Pool",
+      "anio": 1950,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una mujer recibe una amenaza y Archer se interna en un caso de chantaje, resentimientos y poder económico."
+    },
+    {
+      "id": "ross-macdonald-the-galton-case",
+      "titulo": "El caso Galton",
+      "original": "The Galton Case",
+      "anio": 1959,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "La búsqueda de un heredero desaparecido conduce a Archer a explorar secretos de identidad y diferencias sociales."
+    }
+  ]
+}
