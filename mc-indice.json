@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-19-ampliacion-01",
+  "version": "2026-11-19-ampliacion-02",
   "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · índice de consulta sin sinopsis extensas",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -17,7 +17,15 @@
     "conan-doyle": "fichas/conan-doyle.json",
     "leroux": "fichas/leroux.json",
     "sayers": "fichas/sayers.json",
-    "hammett": "fichas/hammett.json"
+    "hammett": "fichas/hammett.json",
+    "carr": "fichas/carr.json",
+    "gardner": "fichas/gardner.json",
+    "cain": "fichas/cain.json",
+    "woolrich": "fichas/woolrich.json",
+    "ross-macdonald": "fichas/ross-macdonald.json",
+    "mccoy": "fichas/mccoy.json",
+    "marsh": "fichas/marsh.json",
+    "dorothy-hughes": "fichas/dorothy-hughes.json"
   },
   "autores": [
     {
@@ -635,6 +643,271 @@
         "hammett-the-maltese-falcon",
         "hammett-the-glass-key",
         "hammett-the-thin-man"
+      ]
+    },
+    {
+      "id": "carr",
+      "nombre": "John Dickson Carr",
+      "nombreCompleto": "John Dickson Carr",
+      "nacimiento": "1906",
+      "fallecimiento": "1977",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1930,
+      "seudonimos": [
+        "Carter Dickson"
+      ],
+      "generos": [
+        "whodunit"
+      ],
+      "imagen": "",
+      "resumen": "Maestro del crimen imposible y de los enigmas de habitación cerrada.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "carr-bencolin",
+        "carr-fell"
+      ],
+      "series": [
+        "carr-bencolin",
+        "carr-fell"
+      ],
+      "obras": [
+        "carr-it-walks-by-night",
+        "carr-the-hollow-man",
+        "carr-the-burning-court"
+      ]
+    },
+    {
+      "id": "gardner",
+      "nombre": "Erle Stanley Gardner",
+      "nombreCompleto": "Erle Stanley Gardner",
+      "nacimiento": "1889",
+      "fallecimiento": "1970",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1933,
+      "seudonimos": [
+        "A. A. Fair"
+      ],
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "imagen": "",
+      "resumen": "Creador del abogado Perry Mason y figura clave de la novela judicial popular.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "gardner-mason",
+        "gardner-della",
+        "gardner-drake"
+      ],
+      "series": [
+        "gardner-mason"
+      ],
+      "obras": [
+        "gardner-the-case-of-the-velvet-claws",
+        "gardner-the-case-of-the-sulky-girl",
+        "gardner-the-case-of-the-howling-dog"
+      ]
+    },
+    {
+      "id": "cain",
+      "nombre": "James M. Cain",
+      "nombreCompleto": "James M. Cain",
+      "nacimiento": "1892",
+      "fallecimiento": "1977",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1934,
+      "seudonimos": [],
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "imagen": "",
+      "resumen": "Maestro del noir de deseo, ambición y fatalidad contado desde el delincuente.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "cain-frank",
+        "cain-neff"
+      ],
+      "series": [],
+      "obras": [
+        "cain-the-postman-always-rings-twice",
+        "cain-serenade",
+        "cain-mildred-pierce",
+        "cain-double-indemnity"
+      ]
+    },
+    {
+      "id": "woolrich",
+      "nombre": "Cornell Woolrich",
+      "nombreCompleto": "Cornell Woolrich",
+      "nacimiento": "1903",
+      "fallecimiento": "1968",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1940,
+      "seudonimos": [
+        "William Irish",
+        "George Hopley"
+      ],
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "imagen": "",
+      "resumen": "Uno de los maestros del suspense fatalista y de la paranoia noir.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "woolrich-scott"
+      ],
+      "series": [],
+      "obras": [
+        "woolrich-the-bride-wore-black",
+        "woolrich-phantom-lady",
+        "woolrich-deadline-at-dawn",
+        "woolrich-night-has-a-thousand-eyes"
+      ]
+    },
+    {
+      "id": "ross-macdonald",
+      "nombre": "Ross Macdonald",
+      "nombreCompleto": "Ross Macdonald",
+      "nacimiento": "1915",
+      "fallecimiento": "1983",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1944,
+      "seudonimos": [
+        "Kenneth Millar",
+        "John Macdonald"
+      ],
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "imagen": "",
+      "resumen": "Autor del detective Lew Archer, que llevó el hardboiled hacia los secretos familiares.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "ross-macdonald-archer"
+      ],
+      "series": [
+        "ross-macdonald-archer"
+      ],
+      "obras": [
+        "ross-macdonald-the-dark-tunnel",
+        "ross-macdonald-the-moving-target",
+        "ross-macdonald-the-drowning-pool",
+        "ross-macdonald-the-galton-case"
+      ]
+    },
+    {
+      "id": "mccoy",
+      "nombre": "Horace McCoy",
+      "nombreCompleto": "Horace McCoy",
+      "nacimiento": "1897",
+      "fallecimiento": "1955",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1935,
+      "seudonimos": [],
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "imagen": "",
+      "resumen": "Cronista de la desesperación social en el noir de la Gran Depresión.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "mccoy-robert"
+      ],
+      "series": [],
+      "obras": [
+        "mccoy-they-shoot-horses-don-t-they",
+        "mccoy-no-pockets-in-a-shroud",
+        "mccoy-kiss-tomorrow-goodbye"
+      ]
+    },
+    {
+      "id": "marsh",
+      "nombre": "Ngaio Marsh",
+      "nombreCompleto": "Ngaio Marsh",
+      "nacimiento": "1895",
+      "fallecimiento": "1982",
+      "origen": "Nueva Zelanda",
+      "pais": "Nueva Zelanda",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1934,
+      "seudonimos": [],
+      "generos": [
+        "whodunit"
+      ],
+      "imagen": "",
+      "resumen": "Gran autora de la Edad de Oro y creadora del inspector Roderick Alleyn.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "marsh-alleyn"
+      ],
+      "series": [
+        "marsh-alleyn"
+      ],
+      "obras": [
+        "marsh-a-man-lay-dead",
+        "marsh-enter-a-murderer",
+        "marsh-death-in-a-white-tie"
+      ]
+    },
+    {
+      "id": "dorothy-hughes",
+      "nombre": "Dorothy B. Hughes",
+      "nombreCompleto": "Dorothy B. Hughes",
+      "nacimiento": "1904",
+      "fallecimiento": "1993",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1940,
+      "seudonimos": [],
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "imagen": "",
+      "resumen": "Gran novelista del suspense psicológico y las miradas inquietantes de la violencia.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "dorothy-hughes-dix"
+      ],
+      "series": [],
+      "obras": [
+        "dorothy-hughes-the-so-blue-marble",
+        "dorothy-hughes-ride-the-pink-horse",
+        "dorothy-hughes-in-a-lonely-place",
+        "dorothy-hughes-the-expendable-man"
       ]
     }
   ],
@@ -1357,6 +1630,244 @@
         "hammett-the-thin-man"
       ],
       "articulos": []
+    },
+    {
+      "id": "carr-bencolin",
+      "nombre": "Henri Bencolin",
+      "autor": "carr",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "carr-bencolin",
+      "obras": [
+        "carr-it-walks-by-night"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "carr-fell",
+      "nombre": "Doctor Gideon Fell",
+      "autor": "carr",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "carr-fell",
+      "obras": [
+        "carr-the-hollow-man"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "gardner-mason",
+      "nombre": "Perry Mason",
+      "autor": "gardner",
+      "ocupacion": "Abogado / justicia",
+      "ocupacionDetalle": "Abogado / justicia",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "gardner-mason",
+      "obras": [
+        "gardner-the-case-of-the-velvet-claws",
+        "gardner-the-case-of-the-sulky-girl",
+        "gardner-the-case-of-the-howling-dog"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "gardner-della",
+      "nombre": "Della Street",
+      "autor": "gardner",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Femenino",
+      "roles": [
+        "Compañero / ayudante"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "gardner-mason",
+      "obras": [
+        "gardner-the-case-of-the-velvet-claws",
+        "gardner-the-case-of-the-sulky-girl",
+        "gardner-the-case-of-the-howling-dog"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "gardner-drake",
+      "nombre": "Paul Drake",
+      "autor": "gardner",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "gardner-mason",
+      "obras": [
+        "gardner-the-case-of-the-velvet-claws",
+        "gardner-the-case-of-the-sulky-girl",
+        "gardner-the-case-of-the-howling-dog"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "cain-frank",
+      "nombre": "Frank Chambers",
+      "autor": "cain",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "cain-the-postman-always-rings-twice"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "cain-neff",
+      "nombre": "Walter Huff",
+      "autor": "cain",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "cain-double-indemnity"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "woolrich-scott",
+      "nombre": "Scott Henderson",
+      "autor": "woolrich",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "woolrich-phantom-lady"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "ross-macdonald-archer",
+      "nombre": "Lew Archer",
+      "autor": "ross-macdonald",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "ross-macdonald-archer",
+      "obras": [
+        "ross-macdonald-the-moving-target",
+        "ross-macdonald-the-drowning-pool",
+        "ross-macdonald-the-galton-case"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "mccoy-robert",
+      "nombre": "Robert Syverten",
+      "autor": "mccoy",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "mccoy-they-shoot-horses-don-t-they"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "marsh-alleyn",
+      "nombre": "Roderick Alleyn",
+      "autor": "marsh",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "marsh-alleyn",
+      "obras": [
+        "marsh-a-man-lay-dead",
+        "marsh-enter-a-murderer",
+        "marsh-death-in-a-white-tie"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "dorothy-hughes-dix",
+      "nombre": "Dix Steele",
+      "autor": "dorothy-hughes",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "",
+      "obras": [
+        "dorothy-hughes-in-a-lonely-place"
+      ],
+      "articulos": []
     }
   ],
   "series": [
@@ -1473,6 +1984,36 @@
       "nombre": "Nick y Nora Charles",
       "autor": "hammett",
       "descripcion": "Personajes centrales de El hombre delgado."
+    },
+    {
+      "id": "carr-bencolin",
+      "nombre": "Henri Bencolin",
+      "autor": "carr",
+      "descripcion": "Investigaciones del comisario Henri Bencolin."
+    },
+    {
+      "id": "carr-fell",
+      "nombre": "Doctor Gideon Fell",
+      "autor": "carr",
+      "descripcion": "Novelas protagonizadas por Gideon Fell."
+    },
+    {
+      "id": "gardner-mason",
+      "nombre": "Perry Mason",
+      "autor": "gardner",
+      "descripcion": "Serie del abogado defensor Perry Mason."
+    },
+    {
+      "id": "ross-macdonald-archer",
+      "nombre": "Lew Archer",
+      "autor": "ross-macdonald",
+      "descripcion": "Investigaciones privadas de Lew Archer en California."
+    },
+    {
+      "id": "marsh-alleyn",
+      "nombre": "Roderick Alleyn",
+      "autor": "marsh",
+      "descripcion": "Investigaciones del inspector Roderick Alleyn."
     }
   ],
   "obras": [
@@ -3280,6 +3821,364 @@
         "hardboiled",
         "crook story"
       ]
+    },
+    {
+      "id": "carr-it-walks-by-night",
+      "titulo": "It Walks by Night",
+      "original": "It Walks by Night",
+      "anio": 1930,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-bencolin",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-hollow-man",
+      "titulo": "Los tres ataúdes",
+      "original": "The Hollow Man",
+      "anio": 1935,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-burning-court",
+      "titulo": "La cámara ardiente",
+      "original": "The Burning Court",
+      "anio": 1937,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-velvet-claws",
+      "titulo": "El caso de las garras de terciopelo",
+      "original": "The Case of the Velvet Claws",
+      "anio": 1933,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-sulky-girl",
+      "titulo": "The Case of the Sulky Girl",
+      "original": "The Case of the Sulky Girl",
+      "anio": 1933,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-howling-dog",
+      "titulo": "El caso del perro aullador",
+      "original": "The Case of the Howling Dog",
+      "anio": 1934,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "cain-the-postman-always-rings-twice",
+      "titulo": "El cartero siempre llama dos veces",
+      "original": "The Postman Always Rings Twice",
+      "anio": 1934,
+      "autor": "cain",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "cain-serenade",
+      "titulo": "Serenata",
+      "original": "Serenade",
+      "anio": 1937,
+      "autor": "cain",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "cain-mildred-pierce",
+      "titulo": "Mildred Pierce",
+      "original": "Mildred Pierce",
+      "anio": 1941,
+      "autor": "cain",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "cain-double-indemnity",
+      "titulo": "Perdición",
+      "original": "Double Indemnity",
+      "anio": 1943,
+      "autor": "cain",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "woolrich-the-bride-wore-black",
+      "titulo": "La novia vestía de negro",
+      "original": "The Bride Wore Black",
+      "anio": 1940,
+      "autor": "woolrich",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "woolrich-phantom-lady",
+      "titulo": "La dama fantasma",
+      "original": "Phantom Lady",
+      "anio": 1942,
+      "autor": "woolrich",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "woolrich-deadline-at-dawn",
+      "titulo": "Deadline at Dawn",
+      "original": "Deadline at Dawn",
+      "anio": 1944,
+      "autor": "woolrich",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "woolrich-night-has-a-thousand-eyes",
+      "titulo": "La noche tiene mil ojos",
+      "original": "Night Has a Thousand Eyes",
+      "anio": 1945,
+      "autor": "woolrich",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-dark-tunnel",
+      "titulo": "The Dark Tunnel",
+      "original": "The Dark Tunnel",
+      "anio": 1944,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-moving-target",
+      "titulo": "El blanco móvil",
+      "original": "The Moving Target",
+      "anio": 1949,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-drowning-pool",
+      "titulo": "La piscina de los ahogados",
+      "original": "The Drowning Pool",
+      "anio": 1950,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-galton-case",
+      "titulo": "El caso Galton",
+      "original": "The Galton Case",
+      "anio": 1959,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "mccoy-they-shoot-horses-don-t-they",
+      "titulo": "¿Acaso no matan a los caballos?",
+      "original": "They Shoot Horses, Don't They?",
+      "anio": 1935,
+      "autor": "mccoy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "mccoy-no-pockets-in-a-shroud",
+      "titulo": "Un sudario no tiene bolsillos",
+      "original": "No Pockets in a Shroud",
+      "anio": 1937,
+      "autor": "mccoy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "mccoy-kiss-tomorrow-goodbye",
+      "titulo": "Kiss Tomorrow Goodbye",
+      "original": "Kiss Tomorrow Goodbye",
+      "anio": 1948,
+      "autor": "mccoy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "marsh-a-man-lay-dead",
+      "titulo": "A Man Lay Dead",
+      "original": "A Man Lay Dead",
+      "anio": 1934,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "marsh-alleyn",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "marsh-enter-a-murderer",
+      "titulo": "Enter a Murderer",
+      "original": "Enter a Murderer",
+      "anio": 1935,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "marsh-alleyn",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "marsh-death-in-a-white-tie",
+      "titulo": "Death in a White Tie",
+      "original": "Death in a White Tie",
+      "anio": 1938,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "marsh-alleyn",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "dorothy-hughes-the-so-blue-marble",
+      "titulo": "The So Blue Marble",
+      "original": "The So Blue Marble",
+      "anio": 1940,
+      "autor": "dorothy-hughes",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "dorothy-hughes-ride-the-pink-horse",
+      "titulo": "Ride the Pink Horse",
+      "original": "Ride the Pink Horse",
+      "anio": 1946,
+      "autor": "dorothy-hughes",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "dorothy-hughes-in-a-lonely-place",
+      "titulo": "En un lugar solitario",
+      "original": "In a Lonely Place",
+      "anio": 1947,
+      "autor": "dorothy-hughes",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "dorothy-hughes-the-expendable-man",
+      "titulo": "El hombre prescindible",
+      "original": "The Expendable Man",
+      "anio": 1963,
+      "autor": "dorothy-hughes",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
     }
   ],
   "destacados": {
@@ -3356,12 +4255,52 @@
       "hammett-red-harvest",
       "hammett-the-maltese-falcon",
       "hammett-the-thin-man"
+    ],
+    "carr": [
+      "carr-it-walks-by-night",
+      "carr-the-hollow-man",
+      "carr-the-burning-court"
+    ],
+    "gardner": [
+      "gardner-the-case-of-the-velvet-claws",
+      "gardner-the-case-of-the-sulky-girl",
+      "gardner-the-case-of-the-howling-dog"
+    ],
+    "cain": [
+      "cain-the-postman-always-rings-twice",
+      "cain-mildred-pierce",
+      "cain-double-indemnity"
+    ],
+    "woolrich": [
+      "woolrich-the-bride-wore-black",
+      "woolrich-deadline-at-dawn",
+      "woolrich-night-has-a-thousand-eyes"
+    ],
+    "ross-macdonald": [
+      "ross-macdonald-the-dark-tunnel",
+      "ross-macdonald-the-drowning-pool",
+      "ross-macdonald-the-galton-case"
+    ],
+    "mccoy": [
+      "mccoy-they-shoot-horses-don-t-they",
+      "mccoy-no-pockets-in-a-shroud",
+      "mccoy-kiss-tomorrow-goodbye"
+    ],
+    "marsh": [
+      "marsh-a-man-lay-dead",
+      "marsh-enter-a-murderer",
+      "marsh-death-in-a-white-tie"
+    ],
+    "dorothy-hughes": [
+      "dorothy-hughes-the-so-blue-marble",
+      "dorothy-hughes-in-a-lonely-place",
+      "dorothy-hughes-the-expendable-man"
     ]
   },
   "totales": {
-    "autores": 15,
-    "personajes": 33,
-    "series": 19,
-    "obras": 150
+    "autores": 23,
+    "personajes": 45,
+    "series": 24,
+    "obras": 178
   }
 }
