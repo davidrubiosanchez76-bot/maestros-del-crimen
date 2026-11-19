@@ -34,7 +34,14 @@
     "obras": [
       "malet-120-rue-de-la-gare",
       "malet-les-rats-de-montsouris",
-      "malet-brouillard-au-pont-de-tolbiac"
+      "malet-brouillard-au-pont-de-tolbiac",
+      "malet-le-soleil-nait-derriere-le-louvre",
+      "malet-des-kilometres-de-linceuls",
+      "malet-fievre-au-marais",
+      "malet-la-nuit-de-saint-germain-des-pres",
+      "malet-m-as-tu-vu-en-cadavre",
+      "malet-les-eaux-troubles-de-javel",
+      "malet-casse-pipe-a-la-nation"
     ]
   },
   "personajes": [
@@ -55,7 +62,14 @@
       "obras": [
         "malet-120-rue-de-la-gare",
         "malet-les-rats-de-montsouris",
-        "malet-brouillard-au-pont-de-tolbiac"
+        "malet-brouillard-au-pont-de-tolbiac",
+        "malet-le-soleil-nait-derriere-le-louvre",
+        "malet-des-kilometres-de-linceuls",
+        "malet-fievre-au-marais",
+        "malet-la-nuit-de-saint-germain-des-pres",
+        "malet-m-as-tu-vu-en-cadavre",
+        "malet-les-eaux-troubles-de-javel",
+        "malet-casse-pipe-a-la-nation"
       ],
       "articulos": [],
       "descripcion": "Investigador parisino irónico, áspero y conocedor de la ciudad."
@@ -111,6 +125,104 @@
         "whodunit"
       ],
       "sinopsis": "Burma investiga un crimen en el París del distrito XIII y recorre los ecos de su propia juventud."
+    },
+    {
+      "id": "malet-le-soleil-nait-derriere-le-louvre",
+      "titulo": "Le Soleil naît derrière le Louvre",
+      "original": "Le Soleil naît derrière le Louvre",
+      "anio": 1954,
+      "autor": "malet",
+      "seudonimo": "",
+      "serie": "malet-burma",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ],
+      "sinopsis": "Nestor Burma investiga un caso ambientado en las inmediaciones del Louvre y las calles de París."
+    },
+    {
+      "id": "malet-des-kilometres-de-linceuls",
+      "titulo": "Des kilomètres de linceuls",
+      "original": "Des kilomètres de linceuls",
+      "anio": 1955,
+      "autor": "malet",
+      "seudonimo": "",
+      "serie": "malet-burma",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ],
+      "sinopsis": "El detective se mueve por un distrito parisino marcado por una nueva intriga criminal."
+    },
+    {
+      "id": "malet-fievre-au-marais",
+      "titulo": "Fièvre au Marais",
+      "original": "Fièvre au Marais",
+      "anio": 1955,
+      "autor": "malet",
+      "seudonimo": "",
+      "serie": "malet-burma",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ],
+      "sinopsis": "Una investigación lleva a Burma por los ambientes del Marais."
+    },
+    {
+      "id": "malet-la-nuit-de-saint-germain-des-pres",
+      "titulo": "La Nuit de Saint-Germain-des-Prés",
+      "original": "La Nuit de Saint-Germain-des-Prés",
+      "anio": 1955,
+      "autor": "malet",
+      "seudonimo": "",
+      "serie": "malet-burma",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ],
+      "sinopsis": "Burma se adentra en el mundo nocturno de Saint-Germain-des-Prés."
+    },
+    {
+      "id": "malet-m-as-tu-vu-en-cadavre",
+      "titulo": "M'as-tu vu en cadavre?",
+      "original": "M'as-tu vu en cadavre?",
+      "anio": 1956,
+      "autor": "malet",
+      "seudonimo": "",
+      "serie": "malet-burma",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ],
+      "sinopsis": "Una investigación sobre una muerte atraviesa el mundo del espectáculo y las apariencias."
+    },
+    {
+      "id": "malet-les-eaux-troubles-de-javel",
+      "titulo": "Les Eaux troubles de Javel",
+      "original": "Les Eaux troubles de Javel",
+      "anio": 1957,
+      "autor": "malet",
+      "seudonimo": "",
+      "serie": "malet-burma",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ],
+      "sinopsis": "Burma investiga un caso en otro de los barrios parisinos del ciclo."
+    },
+    {
+      "id": "malet-casse-pipe-a-la-nation",
+      "titulo": "Casse-pipe à la Nation",
+      "original": "Casse-pipe à la Nation",
+      "anio": 1957,
+      "autor": "malet",
+      "seudonimo": "",
+      "serie": "malet-burma",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ],
+      "sinopsis": "Nestor Burma se enfrenta a un nuevo misterio en la zona de Nation."
     }
   ]
 }
