@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-19-39-autores-32-nuevos",
+  "version": "2026-11-19-39-autores-32-nuevos-v2",
   "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · algunas bibliografías son selecciones iniciales que se ampliarán progresivamente.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -4909,7 +4909,7 @@
     },
     {
       "id": "carr-it-walks-by-night",
-      "titulo": "It Walks by Night",
+      "titulo": "Anda de noche",
       "original": "It Walks by Night",
       "anio": 1930,
       "autor": "carr",
@@ -5114,7 +5114,7 @@
     },
     {
       "id": "ross-macdonald-the-drowning-pool",
-      "titulo": "La piscina de los ahogados",
+      "titulo": "La piscina mortal",
       "original": "The Drowning Pool",
       "anio": 1950,
       "autor": "ross-macdonald",
@@ -5432,7 +5432,7 @@
     },
     {
       "id": "rendell-from-doon-with-death",
-      "titulo": "Un asesinato nada corriente",
+      "titulo": "Dedicatoria mortal",
       "original": "From Doon with Death",
       "anio": 1964,
       "autor": "rendell",
