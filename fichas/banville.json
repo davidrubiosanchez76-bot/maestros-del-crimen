@@ -1,0 +1,114 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "banville",
+    "nombre": "John Banville",
+    "nombreCompleto": "William John Banville",
+    "nacimiento": "1945",
+    "fallecimiento": "",
+    "origen": "Irlanda",
+    "pais": "Irlanda",
+    "lugar": "Wexford, Irlanda",
+    "fin": "",
+    "debutNegro": 2006,
+    "seudonimos": [
+      "Benjamin Black"
+    ],
+    "generos": [
+      "psychological thriller",
+      "police procedural"
+    ],
+    "imagen": "",
+    "resumen": "Novelista irlandés que publicó parte de su ficción criminal como Benjamin Black, especialmente la serie Quirke.",
+    "bio": [
+      "Su obra reúne novelas literarias y una línea de ficción criminal que durante años publicó bajo el nombre Benjamin Black.",
+      "En la serie Quirke utiliza la investigación como vía para explorar secretos familiares y tensiones sociales de la Irlanda de mediados del siglo XX."
+    ],
+    "apunte": "Para parte de su narrativa criminal adoptó el seudónimo Benjamin Black y creó a Quirke, patólogo cuya serie transcurre en la Irlanda de mediados del siglo XX.",
+    "articulos": [],
+    "personajes": [
+      "quirke"
+    ],
+    "series": [
+      "quirke"
+    ],
+    "obras": [
+      "christine",
+      "cisne",
+      "april"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "quirke",
+      "nombre": "Quirke",
+      "autor": "banville",
+      "ocupacion": "Médico / sanitario",
+      "ocupacionDetalle": "Patólogo forense",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "quirke",
+      "obras": [
+        "christine",
+        "cisne",
+        "april"
+      ],
+      "articulos": [],
+      "descripcion": "Patólogo dublinés cuya curiosidad por ciertas muertes lo conduce a investigaciones y secretos familiares."
+    }
+  ],
+  "series": [
+    {
+      "id": "quirke",
+      "nombre": "Quirke",
+      "autor": "banville",
+      "descripcion": "Novelas protagonizadas por el patólogo Quirke."
+    }
+  ],
+  "obras": [
+    {
+      "id": "christine",
+      "titulo": "El secreto de Christine",
+      "original": "Christine Falls",
+      "anio": 2006,
+      "autor": "banville",
+      "seudonimo": "Benjamin Black",
+      "serie": "quirke",
+      "generos": [
+        "psychological thriller"
+      ],
+      "sinopsis": "En el Dublín de mediados del siglo XX, el patólogo Quirke detecta irregularidades en torno a una muerte. Su investigación choca con los silencios de su entorno."
+    },
+    {
+      "id": "cisne",
+      "titulo": "El otro nombre de Laura",
+      "original": "The Silver Swan",
+      "anio": 2007,
+      "autor": "banville",
+      "seudonimo": "Benjamin Black",
+      "serie": "quirke",
+      "generos": [
+        "psychological thriller"
+      ],
+      "sinopsis": "Quirke se enfrenta a un nuevo caso tras la muerte de una mujer. La investigación descubre tensiones familiares y relaciones difíciles de explicar."
+    },
+    {
+      "id": "april",
+      "titulo": "En busca de April",
+      "original": "Elegy for April",
+      "anio": 2010,
+      "autor": "banville",
+      "seudonimo": "Benjamin Black",
+      "serie": "quirke",
+      "generos": [
+        "psychological thriller"
+      ],
+      "sinopsis": "La desaparición de una joven impulsa a Quirke a investigar entre amistades y secretos en la sociedad dublinesa de la época."
+    }
+  ]
+}
