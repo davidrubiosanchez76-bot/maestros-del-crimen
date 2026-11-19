@@ -32,7 +32,9 @@
     "obras": [
       "mccoy-they-shoot-horses-don-t-they",
       "mccoy-no-pockets-in-a-shroud",
-      "mccoy-kiss-tomorrow-goodbye"
+      "mccoy-kiss-tomorrow-goodbye",
+      "mccoy-i-should-have-stayed-home",
+      "mccoy-scalpel"
     ]
   },
   "personajes": [
@@ -100,6 +102,34 @@
         "psychological thriller"
       ],
       "sinopsis": "Un criminal violento trata de prosperar en un mundo de chantajes, corrupción y lealtades quebradas."
+    },
+    {
+      "id": "mccoy-i-should-have-stayed-home",
+      "titulo": "I Should Have Stayed Home",
+      "original": "I Should Have Stayed Home",
+      "anio": 1938,
+      "autor": "mccoy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un aspirante a actor conoce los abusos y las frustraciones de Hollywood."
+    },
+    {
+      "id": "mccoy-scalpel",
+      "titulo": "Scalpel",
+      "original": "Scalpel",
+      "anio": 1952,
+      "autor": "mccoy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Ambiciones profesionales y tensiones morales se cruzan en el entorno de un cirujano."
     }
   ]
 }
