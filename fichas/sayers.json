@@ -35,7 +35,15 @@
       "sayers-whose-body",
       "sayers-clouds-of-witness",
       "sayers-strong-poison",
-      "sayers-gaudy-night"
+      "sayers-gaudy-night",
+      "sayers-unnatural-death",
+      "sayers-the-unpleasantness-at-the-bellona-club",
+      "sayers-the-documents-in-the-case",
+      "sayers-the-five-red-herrings",
+      "sayers-have-his-carcase",
+      "sayers-murder-must-advertise",
+      "sayers-the-nine-tailors",
+      "sayers-busman-s-honeymoon"
     ]
   },
   "personajes": [
@@ -78,7 +86,9 @@
       "serie": "sayers-wimsey",
       "obras": [
         "sayers-strong-poison",
-        "sayers-gaudy-night"
+        "sayers-gaudy-night",
+        "sayers-whose-body",
+        "sayers-clouds-of-witness"
       ],
       "articulos": [],
       "descripcion": "Novelista de misterio independiente y colaboradora en investigaciones."
@@ -144,6 +154,110 @@
         "whodunit"
       ],
       "sinopsis": "Harriet Vane se enfrenta a mensajes intimidatorios y misterios en un colegio universitario de Oxford."
+    },
+    {
+      "id": "sayers-unnatural-death",
+      "titulo": "Unnatural Death",
+      "original": "Unnatural Death",
+      "anio": 1927,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte aparentemente natural obliga a Wimsey a examinar las sospechas que nadie quiere formular."
+    },
+    {
+      "id": "sayers-the-unpleasantness-at-the-bellona-club",
+      "titulo": "The Unpleasantness at the Bellona Club",
+      "original": "The Unpleasantness at the Bellona Club",
+      "anio": 1928,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un anciano aparece muerto en su club y el momento exacto de su fallecimiento se vuelve decisivo."
+    },
+    {
+      "id": "sayers-the-documents-in-the-case",
+      "titulo": "The Documents in the Case",
+      "original": "The Documents in the Case",
+      "anio": 1930,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un crimen de envenenamiento se reconstruye mediante cartas y documentos; escrito con Robert Eustace."
+    },
+    {
+      "id": "sayers-the-five-red-herrings",
+      "titulo": "Cinco pistas falsas",
+      "original": "The Five Red Herrings",
+      "anio": 1931,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "El hallazgo del cuerpo de un pintor en Escocia desencadena una pesquisa con numerosas coartadas."
+    },
+    {
+      "id": "sayers-have-his-carcase",
+      "titulo": "Have His Carcase",
+      "original": "Have His Carcase",
+      "anio": 1932,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Harriet Vane descubre un cadáver en la costa y Wimsey participa en la investigación."
+    },
+    {
+      "id": "sayers-murder-must-advertise",
+      "titulo": "Murder Must Advertise",
+      "original": "Murder Must Advertise",
+      "anio": 1933,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Wimsey entra en una agencia publicitaria para investigar una muerte desconcertante."
+    },
+    {
+      "id": "sayers-the-nine-tailors",
+      "titulo": "Los nueve sastres",
+      "original": "The Nine Tailors",
+      "anio": 1934,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Campanas, un cadáver y un pueblo inglés forman un misterio construido sobre el paso del tiempo."
+    },
+    {
+      "id": "sayers-busman-s-honeymoon",
+      "titulo": "Luna de miel",
+      "original": "Busman's Honeymoon",
+      "anio": 1937,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Wimsey y Harriet afrontan un crimen durante unos días que esperaban dedicar a su vida privada."
     }
   ]
 }
