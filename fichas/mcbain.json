@@ -1,0 +1,138 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "mcbain",
+    "nombre": "Ed McBain",
+    "nombreCompleto": "Ed McBain",
+    "nacimiento": "1926",
+    "fallecimiento": "2005",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1956,
+    "seudonimos": [
+      "Evan Hunter",
+      "Hunt Collins",
+      "Curt Cannon"
+    ],
+    "generos": [
+      "police procedural"
+    ],
+    "imagen": "",
+    "resumen": "Impulsor del police procedural coral con las novelas del Distrito 87.",
+    "bio": [
+      "Ed McBain fue uno de los seudónimos literarios de Evan Hunter, escritor estadounidense que renovó la ficción policial al hacer de una comisaría el verdadero protagonista.",
+      "Las novelas del Distrito 87 reparten la atención entre agentes y líneas de investigación, con una ciudad ficticia que recuerda a Nueva York y un tratamiento próximo al trabajo cotidiano de la policía."
+    ],
+    "apunte": "Evan Hunter firmó también otras novelas, incluida Semilla de maldad (The Blackboard Jungle), pero el inicio de la serie policiaca con el nombre Ed McBain se sitúa en Odio (Cop Hater), 1956.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "mcbain-carella"
+    ],
+    "series": [
+      "mcbain-87",
+      "mcbain-hope"
+    ],
+    "obras": [
+      "mcbain-cop-hater",
+      "mcbain-the-mugger",
+      "mcbain-the-pusher",
+      "mcbain-king-s-ransom"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "mcbain-carella",
+      "nombre": "Steve Carella",
+      "autor": "mcbain",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "mcbain-87",
+      "obras": [
+        "mcbain-cop-hater",
+        "mcbain-the-mugger",
+        "mcbain-the-pusher",
+        "mcbain-king-s-ransom"
+      ],
+      "articulos": [],
+      "descripcion": "Detective del Distrito 87, miembro destacado de un conjunto policial."
+    }
+  ],
+  "series": [
+    {
+      "id": "mcbain-87",
+      "nombre": "Distrito 87",
+      "autor": "mcbain",
+      "descripcion": "Novelas corales del imaginario Distrito 87."
+    },
+    {
+      "id": "mcbain-hope",
+      "nombre": "Matthew Hope",
+      "autor": "mcbain",
+      "descripcion": "Serie del abogado Matthew Hope, publicada también bajo Ed McBain."
+    }
+  ],
+  "obras": [
+    {
+      "id": "mcbain-cop-hater",
+      "titulo": "Odio",
+      "original": "Cop Hater",
+      "anio": 1956,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Una serie de asesinatos contra agentes de una comisaría obliga a los detectives a buscar qué une a las víctimas."
+    },
+    {
+      "id": "mcbain-the-mugger",
+      "titulo": "The Mugger",
+      "original": "The Mugger",
+      "anio": 1956,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Un delincuente aterroriza a las mujeres de la ciudad mientras la policía intenta identificarlo."
+    },
+    {
+      "id": "mcbain-the-pusher",
+      "titulo": "The Pusher",
+      "original": "The Pusher",
+      "anio": 1956,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Una muerte relacionada con el tráfico de drogas abre una investigación que pone en tensión a varios miembros del Distrito 87."
+    },
+    {
+      "id": "mcbain-king-s-ransom",
+      "titulo": "Rescate",
+      "original": "King's Ransom",
+      "anio": 1959,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "El secuestro de un niño precipita un conflicto entre dinero, familia e investigación policial."
+    }
+  ]
+}
