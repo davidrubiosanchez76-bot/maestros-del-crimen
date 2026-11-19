@@ -30,15 +30,33 @@
     "personajes": [
       "gardner-mason",
       "gardner-della",
-      "gardner-drake"
+      "gardner-drake",
+      "gardner-cool",
+      "gardner-lam"
     ],
     "series": [
-      "gardner-mason"
+      "gardner-mason",
+      "gardner-cool-lam"
     ],
     "obras": [
       "gardner-the-case-of-the-velvet-claws",
       "gardner-the-case-of-the-sulky-girl",
-      "gardner-the-case-of-the-howling-dog"
+      "gardner-the-case-of-the-howling-dog",
+      "gardner-the-case-of-the-curious-bride",
+      "gardner-the-case-of-the-counterfeit-eye",
+      "gardner-the-case-of-the-sleepwalker-s-niece",
+      "gardner-the-case-of-the-stuttering-bishop",
+      "gardner-the-case-of-the-dangerous-dowager",
+      "gardner-the-case-of-the-lame-canary",
+      "gardner-the-case-of-the-substitute-face",
+      "gardner-the-case-of-the-perjured-parrot",
+      "gardner-the-case-of-the-rolling-bones",
+      "gardner-the-case-of-the-silent-partner",
+      "gardner-the-case-of-the-empty-tin",
+      "gardner-the-case-of-the-crooked-candle",
+      "gardner-the-bigger-they-come",
+      "gardner-turn-on-the-heat",
+      "gardner-gold-comes-in-bricks"
     ]
   },
   "personajes": [
@@ -59,7 +77,19 @@
       "obras": [
         "gardner-the-case-of-the-velvet-claws",
         "gardner-the-case-of-the-sulky-girl",
-        "gardner-the-case-of-the-howling-dog"
+        "gardner-the-case-of-the-howling-dog",
+        "gardner-the-case-of-the-curious-bride",
+        "gardner-the-case-of-the-counterfeit-eye",
+        "gardner-the-case-of-the-sleepwalker-s-niece",
+        "gardner-the-case-of-the-stuttering-bishop",
+        "gardner-the-case-of-the-dangerous-dowager",
+        "gardner-the-case-of-the-lame-canary",
+        "gardner-the-case-of-the-substitute-face",
+        "gardner-the-case-of-the-perjured-parrot",
+        "gardner-the-case-of-the-rolling-bones",
+        "gardner-the-case-of-the-silent-partner",
+        "gardner-the-case-of-the-empty-tin",
+        "gardner-the-case-of-the-crooked-candle"
       ],
       "articulos": [],
       "descripcion": "Abogado defensor que investiga con tenacidad y desafía las apariencias judiciales."
@@ -81,7 +111,19 @@
       "obras": [
         "gardner-the-case-of-the-velvet-claws",
         "gardner-the-case-of-the-sulky-girl",
-        "gardner-the-case-of-the-howling-dog"
+        "gardner-the-case-of-the-howling-dog",
+        "gardner-the-case-of-the-curious-bride",
+        "gardner-the-case-of-the-counterfeit-eye",
+        "gardner-the-case-of-the-sleepwalker-s-niece",
+        "gardner-the-case-of-the-stuttering-bishop",
+        "gardner-the-case-of-the-dangerous-dowager",
+        "gardner-the-case-of-the-lame-canary",
+        "gardner-the-case-of-the-substitute-face",
+        "gardner-the-case-of-the-perjured-parrot",
+        "gardner-the-case-of-the-rolling-bones",
+        "gardner-the-case-of-the-silent-partner",
+        "gardner-the-case-of-the-empty-tin",
+        "gardner-the-case-of-the-crooked-candle"
       ],
       "articulos": [],
       "descripcion": "Secretaria y colaboradora indispensable de Mason."
@@ -103,10 +145,66 @@
       "obras": [
         "gardner-the-case-of-the-velvet-claws",
         "gardner-the-case-of-the-sulky-girl",
-        "gardner-the-case-of-the-howling-dog"
+        "gardner-the-case-of-the-howling-dog",
+        "gardner-the-case-of-the-curious-bride",
+        "gardner-the-case-of-the-counterfeit-eye",
+        "gardner-the-case-of-the-sleepwalker-s-niece",
+        "gardner-the-case-of-the-stuttering-bishop",
+        "gardner-the-case-of-the-dangerous-dowager",
+        "gardner-the-case-of-the-lame-canary",
+        "gardner-the-case-of-the-substitute-face",
+        "gardner-the-case-of-the-perjured-parrot",
+        "gardner-the-case-of-the-rolling-bones",
+        "gardner-the-case-of-the-silent-partner",
+        "gardner-the-case-of-the-empty-tin",
+        "gardner-the-case-of-the-crooked-candle"
       ],
       "articulos": [],
       "descripcion": "Investigador privado que ayuda a Mason a conseguir información."
+    },
+    {
+      "id": "gardner-cool",
+      "nombre": "Bertha Cool",
+      "autor": "gardner",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "gardner-cool-lam",
+      "obras": [
+        "gardner-the-bigger-they-come",
+        "gardner-turn-on-the-heat",
+        "gardner-gold-comes-in-bricks"
+      ],
+      "articulos": [],
+      "descripcion": "Directora de una agencia privada, de fuerte carácter y gran interés por los negocios."
+    },
+    {
+      "id": "gardner-lam",
+      "nombre": "Donald Lam",
+      "autor": "gardner",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "gardner-cool-lam",
+      "obras": [
+        "gardner-the-bigger-they-come",
+        "gardner-turn-on-the-heat",
+        "gardner-gold-comes-in-bricks"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador de la agencia de Bertha Cool, ingenioso y poco convencional."
     }
   ],
   "series": [
@@ -115,6 +213,12 @@
       "nombre": "Perry Mason",
       "autor": "gardner",
       "descripcion": "Serie del abogado defensor Perry Mason."
+    },
+    {
+      "id": "gardner-cool-lam",
+      "nombre": "Bertha Cool y Donald Lam",
+      "autor": "gardner",
+      "descripcion": "Serie de investigadores privados publicada como A. A. Fair."
     }
   ],
   "obras": [
@@ -159,6 +263,216 @@
         "crime thriller"
       ],
       "sinopsis": "Una consulta aparentemente menor conduce al abogado a una red de sospechas, desapariciones y violencia."
+    },
+    {
+      "id": "gardner-the-case-of-the-curious-bride",
+      "titulo": "The Case of the Curious Bride",
+      "original": "The Case of the Curious Bride",
+      "anio": 1934,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Un nuevo encargo jurídico arrastra a Perry Mason hacia un posible asesinato."
+    },
+    {
+      "id": "gardner-the-case-of-the-counterfeit-eye",
+      "titulo": "The Case of the Counterfeit Eye",
+      "original": "The Case of the Counterfeit Eye",
+      "anio": 1935,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Una investigación sobre un ojo artificial se mezcla con una acusación de homicidio."
+    },
+    {
+      "id": "gardner-the-case-of-the-sleepwalker-s-niece",
+      "titulo": "The Case of the Sleepwalker's Niece",
+      "original": "The Case of the Sleepwalker's Niece",
+      "anio": 1936,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Un conflicto familiar alrededor de una herencia acaba exigiendo las habilidades de Mason."
+    },
+    {
+      "id": "gardner-the-case-of-the-stuttering-bishop",
+      "titulo": "The Case of the Stuttering Bishop",
+      "original": "The Case of the Stuttering Bishop",
+      "anio": 1936,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Un clérigo lleva al abogado un caso de identidades y secretos."
+    },
+    {
+      "id": "gardner-the-case-of-the-dangerous-dowager",
+      "titulo": "The Case of the Dangerous Dowager",
+      "original": "The Case of the Dangerous Dowager",
+      "anio": 1937,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Mason se enfrenta a las amenazas que rodean a una mujer adinerada y a su familia."
+    },
+    {
+      "id": "gardner-the-case-of-the-lame-canary",
+      "titulo": "The Case of the Lame Canary",
+      "original": "The Case of the Lame Canary",
+      "anio": 1937,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Un indicio doméstico aparentemente secundario toma importancia en una causa de asesinato."
+    },
+    {
+      "id": "gardner-the-case-of-the-substitute-face",
+      "titulo": "The Case of the Substitute Face",
+      "original": "The Case of the Substitute Face",
+      "anio": 1938,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Una nueva defensa lleva a Mason hacia una trama de fotografías, identidades y acusaciones."
+    },
+    {
+      "id": "gardner-the-case-of-the-perjured-parrot",
+      "titulo": "The Case of the Perjured Parrot",
+      "original": "The Case of the Perjured Parrot",
+      "anio": 1939,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Las palabras de un loro complican un caso donde los testimonios pueden ser engañosos."
+    },
+    {
+      "id": "gardner-the-case-of-the-rolling-bones",
+      "titulo": "The Case of the Rolling Bones",
+      "original": "The Case of the Rolling Bones",
+      "anio": 1939,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Mason se ocupa de un conflicto familiar donde las circunstancias de una muerte parecen sospechosas."
+    },
+    {
+      "id": "gardner-the-case-of-the-silent-partner",
+      "titulo": "The Case of the Silent Partner",
+      "original": "The Case of the Silent Partner",
+      "anio": 1940,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Una disputa de negocios conduce al abogado a un asunto penal."
+    },
+    {
+      "id": "gardner-the-case-of-the-empty-tin",
+      "titulo": "The Case of the Empty Tin",
+      "original": "The Case of the Empty Tin",
+      "anio": 1941,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Un objeto corriente adquiere valor como posible prueba en una causa criminal."
+    },
+    {
+      "id": "gardner-the-case-of-the-crooked-candle",
+      "titulo": "The Case of the Crooked Candle",
+      "original": "The Case of the Crooked Candle",
+      "anio": 1944,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Un misterio en una embarcación exige poner a prueba las coartadas de los implicados."
+    },
+    {
+      "id": "gardner-the-bigger-they-come",
+      "titulo": "The Bigger They Come",
+      "original": "The Bigger They Come",
+      "anio": 1939,
+      "autor": "gardner",
+      "seudonimo": "A. A. Fair",
+      "serie": "gardner-cool-lam",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Primera novela de la agencia de Bertha Cool y Donald Lam, publicada con el seudónimo A. A. Fair."
+    },
+    {
+      "id": "gardner-turn-on-the-heat",
+      "titulo": "Turn On the Heat",
+      "original": "Turn On the Heat",
+      "anio": 1940,
+      "autor": "gardner",
+      "seudonimo": "A. A. Fair",
+      "serie": "gardner-cool-lam",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Un nuevo caso de Cool y Lam combina vigilancia, engaños y relaciones empresariales."
+    },
+    {
+      "id": "gardner-gold-comes-in-bricks",
+      "titulo": "Gold Comes in Bricks",
+      "original": "Gold Comes in Bricks",
+      "anio": 1940,
+      "autor": "gardner",
+      "seudonimo": "A. A. Fair",
+      "serie": "gardner-cool-lam",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "La agencia investiga una trama donde dinero y falsedad afectan a varias personas."
     }
   ]
 }
