@@ -1,0 +1,139 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "simenon",
+    "nombre": "Georges Simenon",
+    "nombreCompleto": "Georges Joseph Christian Simenon",
+    "nacimiento": "1903",
+    "fallecimiento": "1989",
+    "origen": "Bélgica",
+    "pais": "Bélgica",
+    "lugar": "Lieja, Bélgica",
+    "fin": "Lausana, Suiza",
+    "debutNegro": 1931,
+    "debutPorVerificar": true,
+    "seudonimos": [
+      "Georges Sim",
+      "Jean du Perry",
+      "Christian Brulls",
+      "Gom Gut",
+      "Luc Dorsan",
+      "Jean Dorsage",
+      "Georges d’Isly",
+      "Gaston Vialis",
+      "Jacques Dersonne",
+      "Germain d’Antibes",
+      "Georges-Martin Georges",
+      "Plick et Hock"
+    ],
+    "generos": [
+      "police procedural",
+      "psychological thriller"
+    ],
+    "imagen": "",
+    "resumen": "Escritor belga de extraordinaria producción, conocido por el comisario Jules Maigret y sus novelas psicológicas.",
+    "bio": [
+      "Comenzó en el periodismo y escribió abundantemente bajo diferentes seudónimos antes de consolidar su obra firmada como Georges Simenon.",
+      "Alternó los casos de Maigret con novelas centradas en la condición humana y la presión de las circunstancias."
+    ],
+    "apunte": "Su producción no se limitó a Maigret. Paralelamente escribió novelas independientes, a menudo llamadas «novelas duras», más centradas en las tensiones humanas que en resolver un enigma.",
+    "articulos": [],
+    "personajes": [
+      "maigret"
+    ],
+    "series": [
+      "maigret"
+    ],
+    "obras": [
+      "pietr",
+      "perro",
+      "nieve",
+      "gato"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "maigret",
+      "nombre": "Jules Maigret",
+      "autor": "simenon",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Comisario de policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "maigret",
+      "obras": [
+        "pietr",
+        "perro"
+      ],
+      "articulos": [],
+      "descripcion": "Comisario parisino que investiga atendiendo tanto a las pruebas como al ambiente humano que rodea los hechos."
+    }
+  ],
+  "series": [
+    {
+      "id": "maigret",
+      "nombre": "Comisario Maigret",
+      "autor": "simenon",
+      "descripcion": "Casos del comisario Jules Maigret."
+    }
+  ],
+  "obras": [
+    {
+      "id": "pietr",
+      "titulo": "Pietr, el Letón",
+      "original": "Pietr-le-Letton",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "El comisario Maigret sigue la pista de un sospechoso internacional que llega a París. Su investigación descubre identidades y relaciones difíciles de desenredar."
+    },
+    {
+      "id": "perro",
+      "titulo": "El perro canelo",
+      "original": "Le Chien jaune",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Una serie de sucesos inquietantes altera la vida de una localidad costera francesa. Maigret investiga las tensiones que se esconden detrás de la aparente tranquilidad."
+    },
+    {
+      "id": "nieve",
+      "titulo": "La nieve estaba sucia",
+      "original": "La Neige était sale",
+      "anio": 1948,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ],
+      "sinopsis": "En una ciudad bajo ocupación, un joven se deja arrastrar por la violencia y la indiferencia. Una novela sombría sobre la responsabilidad y la degradación moral."
+    },
+    {
+      "id": "gato",
+      "titulo": "El gato",
+      "original": "Le Chat",
+      "anio": 1967,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ],
+      "sinopsis": "Dos personas mayores comparten una convivencia consumida por el resentimiento. La tensión cotidiana revela un conflicto íntimo cada vez más asfixiante."
+    }
+  ]
+}
