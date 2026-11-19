@@ -1,0 +1,115 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "durrenmatt",
+    "nombre": "Friedrich Dürrenmatt",
+    "nombreCompleto": "Friedrich Dürrenmatt",
+    "nacimiento": "1921",
+    "fallecimiento": "1990",
+    "origen": "Suiza",
+    "pais": "Suiza",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1950,
+    "seudonimos": [],
+    "generos": [
+      "whodunit",
+      "psychological thriller"
+    ],
+    "imagen": "",
+    "resumen": "Dramaturgo y novelista que sometió las reglas del policial a una crítica filosófica.",
+    "bio": [
+      "Escritor suizo de lengua alemana, célebre también por su dramaturgia. Sus novelas policiales cuestionan la capacidad de la justicia para dominar el azar y probar todas las verdades.",
+      "El comisario Bärlach y la novela La promesa permiten observar cómo un mecanismo detectivesco se convierte en reflexión moral."
+    ],
+    "apunte": "El juez y su verdugo apareció inicialmente por entregas en 1950–1951 y como libro en 1952; La sospecha siguió una trayectoria similar. El año del expediente señala la primera publicación de la narración.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "durrenmatt-barlach"
+    ],
+    "series": [
+      "durrenmatt-barlach"
+    ],
+    "obras": [
+      "durrenmatt-der-richter-und-sein-henker",
+      "durrenmatt-der-verdacht",
+      "durrenmatt-das-versprechen"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "durrenmatt-barlach",
+      "nombre": "Hans Bärlach",
+      "autor": "durrenmatt",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "durrenmatt-barlach",
+      "obras": [
+        "durrenmatt-der-richter-und-sein-henker",
+        "durrenmatt-der-verdacht"
+      ],
+      "articulos": [],
+      "descripcion": "Comisario suizo cuyo pensamiento pone a prueba la relación entre ley, justicia y azar."
+    }
+  ],
+  "series": [
+    {
+      "id": "durrenmatt-barlach",
+      "nombre": "Comisario Bärlach",
+      "autor": "durrenmatt",
+      "descripcion": "Dos novelas policiales con el comisario Hans Bärlach."
+    }
+  ],
+  "obras": [
+    {
+      "id": "durrenmatt-der-richter-und-sein-henker",
+      "titulo": "El juez y su verdugo",
+      "original": "Der Richter und sein Henker",
+      "anio": 1950,
+      "autor": "durrenmatt",
+      "seudonimo": "",
+      "serie": "durrenmatt-barlach",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "El comisario Bärlach investiga el asesinato de un policía y se enfrenta a las consecuencias de un viejo antagonismo."
+    },
+    {
+      "id": "durrenmatt-der-verdacht",
+      "titulo": "La sospecha",
+      "original": "Der Verdacht",
+      "anio": 1951,
+      "autor": "durrenmatt",
+      "seudonimo": "",
+      "serie": "durrenmatt-barlach",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una sospecha sobre el pasado de un médico lleva a Bärlach a una investigación tan peligrosa como moralmente difícil."
+    },
+    {
+      "id": "durrenmatt-das-versprechen",
+      "titulo": "La promesa",
+      "original": "Das Versprechen",
+      "anio": 1958,
+      "autor": "durrenmatt",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un investigador queda atrapado por una promesa hecha a una familia y por un caso que desafía los esquemas racionales del género."
+    }
+  ]
+}
