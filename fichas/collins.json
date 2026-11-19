@@ -1,0 +1,126 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "collins",
+    "nombre": "Wilkie Collins",
+    "nombreCompleto": "Wilkie Collins",
+    "nacimiento": "1824",
+    "fallecimiento": "1889",
+    "origen": "Reino Unido",
+    "pais": "Reino Unido",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1860,
+    "seudonimos": [],
+    "generos": [
+      "whodunit",
+      "psychological thriller"
+    ],
+    "imagen": "",
+    "resumen": "Maestro de la novela de sensación y precursor del misterio detectivesco.",
+    "bio": [
+      "Escritor británico de novelas por entregas, identidades inciertas, herencias y testimonios cruzados. La dama de blanco marcó un modelo de suspense de enorme difusión.",
+      "La piedra lunar consolidó una estructura de investigación relatada por distintos narradores y es la novela de referencia para este expediente."
+    ],
+    "apunte": "Gabriel Betteredge, mayordomo y narrador de La piedra lunar, consulta Robinson Crusoe como un oráculo. Su personalidad hace que una figura aparentemente secundaria resulte inolvidable.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "collins-betteredge",
+      "collins-cuff"
+    ],
+    "series": [],
+    "obras": [
+      "collins-the-woman-in-white",
+      "collins-armadale",
+      "collins-the-moonstone"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "collins-betteredge",
+      "nombre": "Gabriel Betteredge",
+      "autor": "collins",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "collins-the-moonstone"
+      ],
+      "articulos": [],
+      "descripcion": "Mayordomo y narrador memorable; interpreta la vida a través de Robinson Crusoe."
+    },
+    {
+      "id": "collins-cuff",
+      "nombre": "Sargento Cuff",
+      "autor": "collins",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "collins-the-moonstone"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador policial que atiende a los detalles materiales en el caso del diamante."
+    }
+  ],
+  "series": [],
+  "obras": [
+    {
+      "id": "collins-the-woman-in-white",
+      "titulo": "La dama de blanco",
+      "original": "The Woman in White",
+      "anio": 1860,
+      "autor": "collins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un encuentro nocturno con una mujer vestida de blanco inicia un misterio de identidades, manipulación y herencias."
+    },
+    {
+      "id": "collins-armadale",
+      "titulo": "Armadale",
+      "original": "Armadale",
+      "anio": 1866,
+      "autor": "collins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Dos hombres ligados por un nombre y un pasado familiar se convierten en objetivos de una peligrosa conspiración."
+    },
+    {
+      "id": "collins-the-moonstone",
+      "titulo": "La piedra lunar",
+      "original": "The Moonstone",
+      "anio": 1868,
+      "autor": "collins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "La desaparición de un diamante durante una celebración familiar desencadena una investigación de secretos y versiones divergentes."
+    }
+  ]
+}
