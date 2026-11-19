@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-19-39-autores-32-nuevos-v3",
+  "version": "2026-11-19-featured-deduplicated",
   "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · algunas bibliografías son selecciones iniciales que se ampliarán progresivamente.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -6105,7 +6105,6 @@
     ],
     "hume": [
       "hume-the-mystery-of-a-hansom-cab",
-      "hume-madame-midas",
       "hume-madame-midas"
     ],
     "conan-doyle": [
