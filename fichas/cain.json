@@ -34,7 +34,12 @@
       "cain-the-postman-always-rings-twice",
       "cain-serenade",
       "cain-mildred-pierce",
-      "cain-double-indemnity"
+      "cain-double-indemnity",
+      "cain-past-all-dishonor",
+      "cain-the-butterfly",
+      "cain-the-moth",
+      "cain-jealous-woman",
+      "cain-galatea"
     ]
   },
   "personajes": [
@@ -136,6 +141,76 @@
         "psychological thriller"
       ],
       "sinopsis": "Un vendedor de seguros se enreda en un plan homicida donde las pólizas y la codicia se convierten en instrumentos del delito; publicado inicialmente por entregas en 1936."
+    },
+    {
+      "id": "cain-past-all-dishonor",
+      "titulo": "Past All Dishonor",
+      "original": "Past All Dishonor",
+      "anio": 1946,
+      "autor": "cain",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una relación sentimental en el Oeste estadounidense se convierte en fuente de peligros y conflictos."
+    },
+    {
+      "id": "cain-the-butterfly",
+      "titulo": "The Butterfly",
+      "original": "The Butterfly",
+      "anio": 1947,
+      "autor": "cain",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una historia de deseo y tensiones familiares que termina amenazada por violencia."
+    },
+    {
+      "id": "cain-the-moth",
+      "titulo": "The Moth",
+      "original": "The Moth",
+      "anio": 1948,
+      "autor": "cain",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Ambición, poder económico y problemas personales dominan la trayectoria de un hombre."
+    },
+    {
+      "id": "cain-jealous-woman",
+      "titulo": "Jealous Woman",
+      "original": "Jealous Woman",
+      "anio": 1950,
+      "autor": "cain",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una historia de celos y dominio conduce a situaciones de amenaza y conflicto."
+    },
+    {
+      "id": "cain-galatea",
+      "titulo": "Galatea",
+      "original": "Galatea",
+      "anio": 1953,
+      "autor": "cain",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "La ambición y las relaciones humanas se convierten en el motor de una trama de engaños."
     }
   ]
 }
