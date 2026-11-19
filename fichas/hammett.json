@@ -1,0 +1,222 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "hammett",
+    "nombre": "Dashiell Hammett",
+    "nombreCompleto": "Dashiell Hammett",
+    "nacimiento": "1894",
+    "fallecimiento": "1961",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1929,
+    "seudonimos": [],
+    "generos": [
+      "hardboiled",
+      "crook story"
+    ],
+    "imagen": "",
+    "resumen": "Gran renovador del hardboiled y de la novela criminal moderna.",
+    "bio": [
+      "Antes de escribir trabajó como investigador de Pinkerton. Publicó relatos pulp y en 1929 inició una breve pero decisiva novelística de cinco títulos.",
+      "Sustituyó el juego de salón por escenarios de corrupción política, intereses económicos y violencia donde la moral del investigador nunca es sencilla."
+    ],
+    "apunte": "El Agente de la Continental no recibe un nombre propio en las historias. Su identidad se construye por lo que hace y por su forma de observar a los demás.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "hammett-op",
+      "hammett-spade",
+      "hammett-nick",
+      "hammett-nora"
+    ],
+    "series": [
+      "hammett-continental",
+      "hammett-spade",
+      "hammett-charles"
+    ],
+    "obras": [
+      "hammett-red-harvest",
+      "hammett-the-dain-curse",
+      "hammett-the-maltese-falcon",
+      "hammett-the-glass-key",
+      "hammett-the-thin-man"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "hammett-op",
+      "nombre": "Agente de la Continental",
+      "autor": "hammett",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "hammett-continental",
+      "obras": [
+        "hammett-red-harvest",
+        "hammett-the-dain-curse"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador profesional anónimo habituado a casos violentos."
+    },
+    {
+      "id": "hammett-spade",
+      "nombre": "Sam Spade",
+      "autor": "hammett",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "hammett-spade",
+      "obras": [
+        "hammett-the-maltese-falcon"
+      ],
+      "articulos": [],
+      "descripcion": "Detective privado de San Francisco; independiente y reservado."
+    },
+    {
+      "id": "hammett-nick",
+      "nombre": "Nick Charles",
+      "autor": "hammett",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "hammett-charles",
+      "obras": [
+        "hammett-the-thin-man"
+      ],
+      "articulos": [],
+      "descripcion": "Exdetective que vuelve a investigar acompañado de su esposa."
+    },
+    {
+      "id": "hammett-nora",
+      "nombre": "Nora Charles",
+      "autor": "hammett",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "hammett-charles",
+      "obras": [
+        "hammett-the-thin-man"
+      ],
+      "articulos": [],
+      "descripcion": "Compañera de Nick, ingeniosa y decisiva para la dinámica de la historia."
+    }
+  ],
+  "series": [
+    {
+      "id": "hammett-continental",
+      "nombre": "Agente de la Continental",
+      "autor": "hammett",
+      "descripcion": "Aventuras del agente anónimo de la agencia Continental."
+    },
+    {
+      "id": "hammett-spade",
+      "nombre": "Sam Spade",
+      "autor": "hammett",
+      "descripcion": "Investigaciones del detective privado Sam Spade."
+    },
+    {
+      "id": "hammett-charles",
+      "nombre": "Nick y Nora Charles",
+      "autor": "hammett",
+      "descripcion": "Personajes centrales de El hombre delgado."
+    }
+  ],
+  "obras": [
+    {
+      "id": "hammett-red-harvest",
+      "titulo": "Cosecha roja",
+      "original": "Red Harvest",
+      "anio": 1929,
+      "autor": "hammett",
+      "seudonimo": "",
+      "serie": "hammett-continental",
+      "generos": [
+        "hardboiled",
+        "crook story"
+      ],
+      "sinopsis": "Un detective llega a una ciudad dominada por criminales, empresarios y políticos que compiten por el control."
+    },
+    {
+      "id": "hammett-the-dain-curse",
+      "titulo": "La maldición de los Dain",
+      "original": "The Dain Curse",
+      "anio": 1929,
+      "autor": "hammett",
+      "seudonimo": "",
+      "serie": "hammett-continental",
+      "generos": [
+        "hardboiled",
+        "crook story"
+      ],
+      "sinopsis": "Una investigación sobre robos y muertes conecta a un detective con los secretos de una familia."
+    },
+    {
+      "id": "hammett-the-maltese-falcon",
+      "titulo": "El halcón maltés",
+      "original": "The Maltese Falcon",
+      "anio": 1930,
+      "autor": "hammett",
+      "seudonimo": "",
+      "serie": "hammett-spade",
+      "generos": [
+        "hardboiled",
+        "crook story"
+      ],
+      "sinopsis": "Sam Spade se ve arrastrado a una disputa por una codiciada estatuilla y sus perseguidores."
+    },
+    {
+      "id": "hammett-the-glass-key",
+      "titulo": "La llave de cristal",
+      "original": "The Glass Key",
+      "anio": 1931,
+      "autor": "hammett",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crook story"
+      ],
+      "sinopsis": "La muerte de un hombre complica la relación entre un jefe político local y sus aliados."
+    },
+    {
+      "id": "hammett-the-thin-man",
+      "titulo": "El hombre delgado",
+      "original": "The Thin Man",
+      "anio": 1934,
+      "autor": "hammett",
+      "seudonimo": "",
+      "serie": "hammett-charles",
+      "generos": [
+        "hardboiled",
+        "crook story"
+      ],
+      "sinopsis": "Nick y Nora Charles investigan una desaparición vinculada a una familia plagada de secretos."
+    }
+  ]
+}
