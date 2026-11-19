@@ -34,7 +34,8 @@
     "obras": [
       "durrenmatt-der-richter-und-sein-henker",
       "durrenmatt-der-verdacht",
-      "durrenmatt-das-versprechen"
+      "durrenmatt-das-versprechen",
+      "durrenmatt-der-auftrag"
     ]
   },
   "personajes": [
@@ -110,6 +111,20 @@
         "psychological thriller"
       ],
       "sinopsis": "Un investigador queda atrapado por una promesa hecha a una familia y por un caso que desafía los esquemas racionales del género."
+    },
+    {
+      "id": "durrenmatt-der-auftrag",
+      "titulo": "El encargo",
+      "original": "Der Auftrag",
+      "anio": 1986,
+      "autor": "durrenmatt",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una documentalista recibe el encargo de investigar una muerte misteriosa en un país del norte de África."
     }
   ]
 }
