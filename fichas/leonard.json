@@ -1,0 +1,120 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "leonard",
+    "nombre": "Elmore Leonard",
+    "nombreCompleto": "Elmore Leonard",
+    "nacimiento": "1925",
+    "fallecimiento": "2013",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1969,
+    "seudonimos": [],
+    "generos": [
+      "crook story",
+      "crime thriller"
+    ],
+    "imagen": "",
+    "resumen": "Maestro del diálogo, el humor seco y el crimen contado desde dentro.",
+    "bio": [
+      "Escritor estadounidense que empezó publicando relatos y novelas del Oeste y entró posteriormente en la narrativa criminal moderna.",
+      "Sus novelas presentan delincuentes, policías y oportunistas en equilibrios cambiantes, con diálogos ágiles que revelan la información sin largas explicaciones."
+    ],
+    "apunte": "La gran trayectoria de Leonard como autor de westerns es anterior a The Big Bounce (1969), título que se toma aquí como arranque de su novelística criminal.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "leonard-ryan"
+    ],
+    "series": [],
+    "obras": [
+      "leonard-the-big-bounce",
+      "leonard-fifty-two-pickup",
+      "leonard-swag",
+      "leonard-labrava"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "leonard-ryan",
+      "nombre": "Jack Ryan",
+      "autor": "leonard",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "leonard-the-big-bounce"
+      ],
+      "articulos": [],
+      "descripcion": "Exjugador de béisbol y protagonista de The Big Bounce."
+    }
+  ],
+  "series": [],
+  "obras": [
+    {
+      "id": "leonard-the-big-bounce",
+      "titulo": "The Big Bounce",
+      "original": "The Big Bounce",
+      "anio": 1969,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un exjugador de béisbol se involucra con una mujer imprevisible y una serie de planes cada vez más peligrosos."
+    },
+    {
+      "id": "leonard-fifty-two-pickup",
+      "titulo": "52 Pickup",
+      "original": "Fifty-Two Pickup",
+      "anio": 1974,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un empresario se enfrenta a una extorsión que convierte su vida privada en un campo de amenazas y cálculos."
+    },
+    {
+      "id": "leonard-swag",
+      "titulo": "Swag",
+      "original": "Swag",
+      "anio": 1976,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Dos delincuentes diseñan reglas para prosperar a base de robos, pero su asociación comienza a tambalearse."
+    },
+    {
+      "id": "leonard-labrava",
+      "titulo": "LaBrava",
+      "original": "LaBrava",
+      "anio": 1983,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un fotógrafo que vive en Miami se ve arrastrado por los problemas de una antigua estrella del cine."
+    }
+  ]
+}
