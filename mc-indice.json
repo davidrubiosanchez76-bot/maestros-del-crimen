@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-19-big-novel-series-3",
+  "version": "2026-11-19-simenon-mcbain-leonard",
   "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · algunas bibliografías son selecciones iniciales que se ampliarán progresivamente.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -228,7 +228,10 @@
       "resumen": "Escritor belga de extraordinaria producción, conocido por el comisario Jules Maigret y sus novelas psicológicas.",
       "articulos": [],
       "personajes": [
-        "maigret"
+        "maigret",
+        "simenon-madame-maigret",
+        "simenon-lucas",
+        "simenon-janvier"
       ],
       "series": [
         "maigret"
@@ -237,7 +240,38 @@
         "pietr",
         "perro",
         "nieve",
-        "gato"
+        "gato",
+        "simenon-le-charretier-de-la-providence",
+        "simenon-monsieur-gallet-decede",
+        "simenon-le-pendu-de-saint-pholien",
+        "simenon-la-nuit-du-carrefour",
+        "simenon-un-crime-en-hollande",
+        "simenon-au-rendez-vous-des-terre-neuvas",
+        "simenon-la-danseuse-du-gai-moulin",
+        "simenon-le-port-des-brumes",
+        "simenon-le-fou-de-bergerac",
+        "simenon-liberty-bar",
+        "simenon-l-affaire-saint-fiacre",
+        "simenon-la-guinguette-a-deux-sous",
+        "simenon-maigret-et-son-mort",
+        "simenon-maigret-chez-le-coroner",
+        "simenon-maigret-et-la-vieille-dame",
+        "simenon-maigret-au-picratt-s",
+        "simenon-maigret-a-peur",
+        "simenon-maigret-tend-un-piege",
+        "simenon-la-maison-du-canal",
+        "simenon-les-gens-d-en-face",
+        "simenon-les-s-urs-lacroix",
+        "simenon-l-homme-qui-regardait-passer-les-trains",
+        "simenon-la-veuve-couderc",
+        "simenon-le-cercle-des-mahe",
+        "simenon-trois-chambres-a-manhattan",
+        "simenon-pedigree",
+        "simenon-les-fantomes-du-chapelier",
+        "simenon-le-fond-de-la-bouteille",
+        "simenon-les-volets-verts",
+        "simenon-la-mort-de-belle",
+        "simenon-les-anneaux-de-bicetre"
       ]
     },
     {
@@ -1120,7 +1154,11 @@
       "alcanceBibliografia": "selección inicial no exhaustiva",
       "articulos": [],
       "personajes": [
-        "mcbain-carella"
+        "mcbain-carella",
+        "mcbain-meyer",
+        "mcbain-kling",
+        "mcbain-hawes",
+        "mcbain-ollie"
       ],
       "series": [
         "mcbain-87"
@@ -1129,7 +1167,25 @@
         "mcbain-cop-hater",
         "mcbain-the-mugger",
         "mcbain-the-pusher",
-        "mcbain-king-s-ransom"
+        "mcbain-king-s-ransom",
+        "mcbain-the-con-man",
+        "mcbain-killer-s-choice",
+        "mcbain-killer-s-payoff",
+        "mcbain-lady-killer",
+        "mcbain-killer-s-wedge",
+        "mcbain-til-death",
+        "mcbain-give-the-boys-a-great-big-hand",
+        "mcbain-the-heckler",
+        "mcbain-see-them-die",
+        "mcbain-lady-lady-i-did-it",
+        "mcbain-like-love",
+        "mcbain-ten-plus-one",
+        "mcbain-ax",
+        "mcbain-he-who-hesitates",
+        "mcbain-doll",
+        "mcbain-eighty-million-eyes",
+        "mcbain-fuzz",
+        "mcbain-fat-ollie-s-book"
       ]
     },
     {
@@ -1595,14 +1651,30 @@
       "alcanceBibliografia": "selección inicial no exhaustiva",
       "articulos": [],
       "personajes": [
-        "leonard-ryan"
+        "leonard-ryan",
+        "leonard-folley",
+        "leonard-raylan",
+        "leonard-karen"
       ],
       "series": [],
       "obras": [
         "leonard-the-big-bounce",
         "leonard-fifty-two-pickup",
         "leonard-swag",
-        "leonard-labrava"
+        "leonard-labrava",
+        "leonard-unknown-man-no-89",
+        "leonard-the-hunted",
+        "leonard-the-switch",
+        "leonard-city-primeval-high-noon-in-detroit",
+        "leonard-split-images",
+        "leonard-glitz",
+        "leonard-bandits",
+        "leonard-freaky-deaky",
+        "leonard-get-shorty",
+        "leonard-pronto",
+        "leonard-riding-the-rap",
+        "leonard-out-of-sight",
+        "leonard-rum-punch"
       ]
     },
     {
@@ -1922,26 +1994,6 @@
       "perfiles": [],
       "serie": "",
       "obras": [],
-      "articulos": []
-    },
-    {
-      "id": "maigret",
-      "nombre": "Jules Maigret",
-      "autor": "simenon",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Comisario de policía",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "maigret",
-      "obras": [
-        "pietr",
-        "perro"
-      ],
       "articulos": []
     },
     {
@@ -2281,28 +2333,6 @@
       "articulos": []
     },
     {
-      "id": "mcbain-carella",
-      "nombre": "Steve Carella",
-      "autor": "mcbain",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Policía",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "mcbain-87",
-      "obras": [
-        "mcbain-cop-hater",
-        "mcbain-the-mugger",
-        "mcbain-the-pusher",
-        "mcbain-king-s-ransom"
-      ],
-      "articulos": []
-    },
-    {
       "id": "taibo-ii-belascoaran",
       "nombre": "Héctor Belascoarán Shayne",
       "autor": "taibo-ii",
@@ -2548,25 +2578,6 @@
       "obras": [
         "durrenmatt-der-richter-und-sein-henker",
         "durrenmatt-der-verdacht"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "leonard-ryan",
-      "nombre": "Jack Ryan",
-      "autor": "leonard",
-      "ocupacion": "Delincuente",
-      "ocupacionDetalle": "Delincuente",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Antihéroe"
-      ],
-      "serie": "",
-      "obras": [
-        "leonard-the-big-bounce"
       ],
       "articulos": []
     },
@@ -3663,6 +3674,435 @@
         "gardner-the-bigger-they-come",
         "gardner-turn-on-the-heat",
         "gardner-gold-comes-in-bricks"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "maigret",
+      "nombre": "Jules Maigret",
+      "autor": "simenon",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Comisario de policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "maigret",
+      "obras": [
+        "pietr",
+        "perro",
+        "simenon-le-charretier-de-la-providence",
+        "simenon-monsieur-gallet-decede",
+        "simenon-le-pendu-de-saint-pholien",
+        "simenon-la-nuit-du-carrefour",
+        "simenon-un-crime-en-hollande",
+        "simenon-au-rendez-vous-des-terre-neuvas",
+        "simenon-la-danseuse-du-gai-moulin",
+        "simenon-le-port-des-brumes",
+        "simenon-le-fou-de-bergerac",
+        "simenon-liberty-bar",
+        "simenon-l-affaire-saint-fiacre",
+        "simenon-la-guinguette-a-deux-sous",
+        "simenon-maigret-et-son-mort",
+        "simenon-maigret-chez-le-coroner",
+        "simenon-maigret-et-la-vieille-dame",
+        "simenon-maigret-au-picratt-s",
+        "simenon-maigret-a-peur",
+        "simenon-maigret-tend-un-piege"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "simenon-madame-maigret",
+      "nombre": "Louise Maigret",
+      "autor": "simenon",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "maigret",
+      "obras": [
+        "pietr",
+        "perro",
+        "simenon-le-charretier-de-la-providence",
+        "simenon-monsieur-gallet-decede",
+        "simenon-le-pendu-de-saint-pholien",
+        "simenon-la-nuit-du-carrefour",
+        "simenon-un-crime-en-hollande",
+        "simenon-au-rendez-vous-des-terre-neuvas",
+        "simenon-la-danseuse-du-gai-moulin",
+        "simenon-le-port-des-brumes",
+        "simenon-le-fou-de-bergerac",
+        "simenon-liberty-bar",
+        "simenon-l-affaire-saint-fiacre",
+        "simenon-la-guinguette-a-deux-sous",
+        "simenon-maigret-et-son-mort",
+        "simenon-maigret-chez-le-coroner",
+        "simenon-maigret-et-la-vieille-dame",
+        "simenon-maigret-au-picratt-s",
+        "simenon-maigret-a-peur",
+        "simenon-maigret-tend-un-piege"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "simenon-lucas",
+      "nombre": "Inspector Lucas",
+      "autor": "simenon",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "maigret",
+      "obras": [
+        "pietr",
+        "perro",
+        "simenon-le-charretier-de-la-providence",
+        "simenon-monsieur-gallet-decede",
+        "simenon-le-pendu-de-saint-pholien",
+        "simenon-la-nuit-du-carrefour",
+        "simenon-un-crime-en-hollande",
+        "simenon-au-rendez-vous-des-terre-neuvas",
+        "simenon-la-danseuse-du-gai-moulin",
+        "simenon-le-port-des-brumes",
+        "simenon-le-fou-de-bergerac",
+        "simenon-liberty-bar",
+        "simenon-l-affaire-saint-fiacre",
+        "simenon-la-guinguette-a-deux-sous",
+        "simenon-maigret-et-son-mort",
+        "simenon-maigret-chez-le-coroner",
+        "simenon-maigret-et-la-vieille-dame",
+        "simenon-maigret-au-picratt-s",
+        "simenon-maigret-a-peur",
+        "simenon-maigret-tend-un-piege"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "simenon-janvier",
+      "nombre": "Inspector Janvier",
+      "autor": "simenon",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "maigret",
+      "obras": [
+        "pietr",
+        "perro",
+        "simenon-le-charretier-de-la-providence",
+        "simenon-monsieur-gallet-decede",
+        "simenon-le-pendu-de-saint-pholien",
+        "simenon-la-nuit-du-carrefour",
+        "simenon-un-crime-en-hollande",
+        "simenon-au-rendez-vous-des-terre-neuvas",
+        "simenon-la-danseuse-du-gai-moulin",
+        "simenon-le-port-des-brumes",
+        "simenon-le-fou-de-bergerac",
+        "simenon-liberty-bar",
+        "simenon-l-affaire-saint-fiacre",
+        "simenon-la-guinguette-a-deux-sous",
+        "simenon-maigret-et-son-mort",
+        "simenon-maigret-chez-le-coroner",
+        "simenon-maigret-et-la-vieille-dame",
+        "simenon-maigret-au-picratt-s",
+        "simenon-maigret-a-peur",
+        "simenon-maigret-tend-un-piege"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "mcbain-carella",
+      "nombre": "Steve Carella",
+      "autor": "mcbain",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "mcbain-87",
+      "obras": [
+        "mcbain-cop-hater",
+        "mcbain-the-mugger",
+        "mcbain-the-pusher",
+        "mcbain-king-s-ransom",
+        "mcbain-the-con-man",
+        "mcbain-killer-s-choice",
+        "mcbain-killer-s-payoff",
+        "mcbain-lady-killer",
+        "mcbain-killer-s-wedge",
+        "mcbain-til-death",
+        "mcbain-give-the-boys-a-great-big-hand",
+        "mcbain-the-heckler",
+        "mcbain-see-them-die",
+        "mcbain-lady-lady-i-did-it",
+        "mcbain-like-love",
+        "mcbain-ten-plus-one",
+        "mcbain-ax",
+        "mcbain-he-who-hesitates",
+        "mcbain-doll",
+        "mcbain-eighty-million-eyes",
+        "mcbain-fuzz",
+        "mcbain-fat-ollie-s-book"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "mcbain-meyer",
+      "nombre": "Meyer Meyer",
+      "autor": "mcbain",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "mcbain-87",
+      "obras": [
+        "mcbain-cop-hater",
+        "mcbain-the-mugger",
+        "mcbain-the-pusher",
+        "mcbain-king-s-ransom",
+        "mcbain-the-con-man",
+        "mcbain-killer-s-choice",
+        "mcbain-killer-s-payoff",
+        "mcbain-lady-killer",
+        "mcbain-killer-s-wedge",
+        "mcbain-til-death",
+        "mcbain-give-the-boys-a-great-big-hand",
+        "mcbain-the-heckler",
+        "mcbain-see-them-die",
+        "mcbain-lady-lady-i-did-it",
+        "mcbain-like-love",
+        "mcbain-ten-plus-one",
+        "mcbain-ax",
+        "mcbain-he-who-hesitates",
+        "mcbain-doll",
+        "mcbain-eighty-million-eyes",
+        "mcbain-fuzz",
+        "mcbain-fat-ollie-s-book"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "mcbain-kling",
+      "nombre": "Bert Kling",
+      "autor": "mcbain",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "mcbain-87",
+      "obras": [
+        "mcbain-cop-hater",
+        "mcbain-the-mugger",
+        "mcbain-the-pusher",
+        "mcbain-king-s-ransom",
+        "mcbain-the-con-man",
+        "mcbain-killer-s-choice",
+        "mcbain-killer-s-payoff",
+        "mcbain-lady-killer",
+        "mcbain-killer-s-wedge",
+        "mcbain-til-death",
+        "mcbain-give-the-boys-a-great-big-hand",
+        "mcbain-the-heckler",
+        "mcbain-see-them-die",
+        "mcbain-lady-lady-i-did-it",
+        "mcbain-like-love",
+        "mcbain-ten-plus-one",
+        "mcbain-ax",
+        "mcbain-he-who-hesitates",
+        "mcbain-doll",
+        "mcbain-eighty-million-eyes",
+        "mcbain-fuzz",
+        "mcbain-fat-ollie-s-book"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "mcbain-hawes",
+      "nombre": "Cotton Hawes",
+      "autor": "mcbain",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "mcbain-87",
+      "obras": [
+        "mcbain-cop-hater",
+        "mcbain-the-mugger",
+        "mcbain-the-pusher",
+        "mcbain-king-s-ransom",
+        "mcbain-the-con-man",
+        "mcbain-killer-s-choice",
+        "mcbain-killer-s-payoff",
+        "mcbain-lady-killer",
+        "mcbain-killer-s-wedge",
+        "mcbain-til-death",
+        "mcbain-give-the-boys-a-great-big-hand",
+        "mcbain-the-heckler",
+        "mcbain-see-them-die",
+        "mcbain-lady-lady-i-did-it",
+        "mcbain-like-love",
+        "mcbain-ten-plus-one",
+        "mcbain-ax",
+        "mcbain-he-who-hesitates",
+        "mcbain-doll",
+        "mcbain-eighty-million-eyes",
+        "mcbain-fuzz",
+        "mcbain-fat-ollie-s-book"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "mcbain-ollie",
+      "nombre": "Fat Ollie Weeks",
+      "autor": "mcbain",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "mcbain-87",
+      "obras": [
+        "mcbain-cop-hater",
+        "mcbain-the-mugger",
+        "mcbain-the-pusher",
+        "mcbain-king-s-ransom",
+        "mcbain-the-con-man",
+        "mcbain-killer-s-choice",
+        "mcbain-killer-s-payoff",
+        "mcbain-lady-killer",
+        "mcbain-killer-s-wedge",
+        "mcbain-til-death",
+        "mcbain-give-the-boys-a-great-big-hand",
+        "mcbain-the-heckler",
+        "mcbain-see-them-die",
+        "mcbain-lady-lady-i-did-it",
+        "mcbain-like-love",
+        "mcbain-ten-plus-one",
+        "mcbain-ax",
+        "mcbain-he-who-hesitates",
+        "mcbain-doll",
+        "mcbain-eighty-million-eyes",
+        "mcbain-fuzz",
+        "mcbain-fat-ollie-s-book"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "leonard-ryan",
+      "nombre": "Jack Ryan",
+      "autor": "leonard",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "leonard-the-big-bounce"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "leonard-folley",
+      "nombre": "Jack Foley",
+      "autor": "leonard",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "leonard-out-of-sight"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "leonard-raylan",
+      "nombre": "Raylan Givens",
+      "autor": "leonard",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "leonard-pronto",
+        "leonard-riding-the-rap"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "leonard-karen",
+      "nombre": "Karen Sisco",
+      "autor": "leonard",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "leonard-out-of-sight"
       ],
       "articulos": []
     }
@@ -4889,54 +5329,6 @@
       "generos": []
     },
     {
-      "id": "pietr",
-      "titulo": "Pietr, el Letón",
-      "original": "Pietr-le-Letton",
-      "anio": 1931,
-      "autor": "simenon",
-      "seudonimo": "",
-      "serie": "maigret",
-      "generos": [
-        "police procedural"
-      ]
-    },
-    {
-      "id": "perro",
-      "titulo": "El perro canelo",
-      "original": "Le Chien jaune",
-      "anio": 1931,
-      "autor": "simenon",
-      "seudonimo": "",
-      "serie": "maigret",
-      "generos": [
-        "police procedural"
-      ]
-    },
-    {
-      "id": "nieve",
-      "titulo": "La nieve estaba sucia",
-      "original": "La Neige était sale",
-      "anio": 1948,
-      "autor": "simenon",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "gato",
-      "titulo": "El gato",
-      "original": "Le Chat",
-      "anio": 1967,
-      "autor": "simenon",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "psychological thriller"
-      ]
-    },
-    {
       "id": "aqui",
       "titulo": "Aquí y ahora",
       "original": "Now and on Earth",
@@ -5706,54 +6098,6 @@
       ]
     },
     {
-      "id": "mcbain-cop-hater",
-      "titulo": "Odio",
-      "original": "Cop Hater",
-      "anio": 1956,
-      "autor": "mcbain",
-      "seudonimo": "",
-      "serie": "mcbain-87",
-      "generos": [
-        "police procedural"
-      ]
-    },
-    {
-      "id": "mcbain-the-mugger",
-      "titulo": "The Mugger",
-      "original": "The Mugger",
-      "anio": 1956,
-      "autor": "mcbain",
-      "seudonimo": "",
-      "serie": "mcbain-87",
-      "generos": [
-        "police procedural"
-      ]
-    },
-    {
-      "id": "mcbain-the-pusher",
-      "titulo": "The Pusher",
-      "original": "The Pusher",
-      "anio": 1956,
-      "autor": "mcbain",
-      "seudonimo": "",
-      "serie": "mcbain-87",
-      "generos": [
-        "police procedural"
-      ]
-    },
-    {
-      "id": "mcbain-king-s-ransom",
-      "titulo": "Rescate",
-      "original": "King's Ransom",
-      "anio": 1959,
-      "autor": "mcbain",
-      "seudonimo": "",
-      "serie": "mcbain-87",
-      "generos": [
-        "police procedural"
-      ]
-    },
-    {
       "id": "taibo-ii-dias-de-combate",
       "titulo": "Días de combate",
       "original": "Días de combate",
@@ -6137,58 +6481,6 @@
       "generos": [
         "whodunit",
         "psychological thriller"
-      ]
-    },
-    {
-      "id": "leonard-the-big-bounce",
-      "titulo": "The Big Bounce",
-      "original": "The Big Bounce",
-      "anio": 1969,
-      "autor": "leonard",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "crook story",
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "leonard-fifty-two-pickup",
-      "titulo": "52 Pickup",
-      "original": "Fifty-Two Pickup",
-      "anio": 1974,
-      "autor": "leonard",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "crook story",
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "leonard-swag",
-      "titulo": "Swag",
-      "original": "Swag",
-      "anio": 1976,
-      "autor": "leonard",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "crook story",
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "leonard-labrava",
-      "titulo": "LaBrava",
-      "original": "LaBrava",
-      "anio": 1983,
-      "autor": "leonard",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "crook story",
-        "crime thriller"
       ]
     },
     {
@@ -8835,6 +9127,942 @@
         "whodunit",
         "crime thriller"
       ]
+    },
+    {
+      "id": "pietr",
+      "titulo": "Pietr, el Letón",
+      "original": "Pietr-le-Letton",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "perro",
+      "titulo": "El perro canelo",
+      "original": "Le Chien jaune",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "nieve",
+      "titulo": "La nieve estaba sucia",
+      "original": "La Neige était sale",
+      "anio": 1948,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "gato",
+      "titulo": "El gato",
+      "original": "Le Chat",
+      "anio": 1967,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-le-charretier-de-la-providence",
+      "titulo": "El arriero de «La Providence»",
+      "original": "Le Charretier de la Providence",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-monsieur-gallet-decede",
+      "titulo": "Monsieur Gallet, décédé",
+      "original": "Monsieur Gallet, décédé",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-le-pendu-de-saint-pholien",
+      "titulo": "El ahorcado de Saint-Pholien",
+      "original": "Le Pendu de Saint-Pholien",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-la-nuit-du-carrefour",
+      "titulo": "La noche de la encrucijada",
+      "original": "La Nuit du carrefour",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-un-crime-en-hollande",
+      "titulo": "Un crimen en Holanda",
+      "original": "Un crime en Hollande",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-au-rendez-vous-des-terre-neuvas",
+      "titulo": "Au rendez-vous des Terre-Neuvas",
+      "original": "Au rendez-vous des Terre-Neuvas",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-la-danseuse-du-gai-moulin",
+      "titulo": "La bailarina del Gai-Moulin",
+      "original": "La Danseuse du Gai-Moulin",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-le-port-des-brumes",
+      "titulo": "El puerto de las brumas",
+      "original": "Le Port des brumes",
+      "anio": 1932,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-le-fou-de-bergerac",
+      "titulo": "El loco de Bergerac",
+      "original": "Le Fou de Bergerac",
+      "anio": 1932,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-liberty-bar",
+      "titulo": "Liberty Bar",
+      "original": "Liberty Bar",
+      "anio": 1932,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-l-affaire-saint-fiacre",
+      "titulo": "El caso Saint-Fiacre",
+      "original": "L'Affaire Saint-Fiacre",
+      "anio": 1932,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-la-guinguette-a-deux-sous",
+      "titulo": "La guinguette de los dos céntimos",
+      "original": "La Guinguette à deux sous",
+      "anio": 1932,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-maigret-et-son-mort",
+      "titulo": "El muerto de Maigret",
+      "original": "Maigret et son mort",
+      "anio": 1948,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-maigret-chez-le-coroner",
+      "titulo": "Maigret en los dominios del córoner",
+      "original": "Maigret chez le coroner",
+      "anio": 1949,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-maigret-et-la-vieille-dame",
+      "titulo": "Maigret y la vieja dama",
+      "original": "Maigret et la vieille dame",
+      "anio": 1950,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-maigret-au-picratt-s",
+      "titulo": "Maigret en el Picratt’s",
+      "original": "Maigret au Picratt's",
+      "anio": 1951,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-maigret-a-peur",
+      "titulo": "Maigret tiene miedo",
+      "original": "Maigret a peur",
+      "anio": 1953,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-maigret-tend-un-piege",
+      "titulo": "Maigret tiende una trampa",
+      "original": "Maigret tend un piège",
+      "anio": 1955,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-la-maison-du-canal",
+      "titulo": "La casa del canal",
+      "original": "La Maison du canal",
+      "anio": 1933,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-les-gens-d-en-face",
+      "titulo": "Los vecinos de enfrente",
+      "original": "Les Gens d'en face",
+      "anio": 1933,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-les-s-urs-lacroix",
+      "titulo": "Las hermanas Lacroix",
+      "original": "Les Sœurs Lacroix",
+      "anio": 1938,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-l-homme-qui-regardait-passer-les-trains",
+      "titulo": "El hombre que miraba pasar los trenes",
+      "original": "L'Homme qui regardait passer les trains",
+      "anio": 1938,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-la-veuve-couderc",
+      "titulo": "La viuda Couderc",
+      "original": "La Veuve Couderc",
+      "anio": 1942,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-le-cercle-des-mahe",
+      "titulo": "El círculo de los Mahé",
+      "original": "Le Cercle des Mahé",
+      "anio": 1946,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-trois-chambres-a-manhattan",
+      "titulo": "Tres habitaciones en Manhattan",
+      "original": "Trois Chambres à Manhattan",
+      "anio": 1946,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-pedigree",
+      "titulo": "Pedigrí",
+      "original": "Pedigree",
+      "anio": 1948,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-les-fantomes-du-chapelier",
+      "titulo": "Los fantasmas del sombrerero",
+      "original": "Les Fantômes du chapelier",
+      "anio": 1949,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-le-fond-de-la-bouteille",
+      "titulo": "El fondo de la botella",
+      "original": "Le Fond de la bouteille",
+      "anio": 1949,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-les-volets-verts",
+      "titulo": "Los postigos verdes",
+      "original": "Les Volets verts",
+      "anio": 1950,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-la-mort-de-belle",
+      "titulo": "La muerte de Belle",
+      "original": "La Mort de Belle",
+      "anio": 1952,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "simenon-les-anneaux-de-bicetre",
+      "titulo": "Las campanas de Bicêtre",
+      "original": "Les Anneaux de Bicêtre",
+      "anio": 1963,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "mcbain-cop-hater",
+      "titulo": "Odio",
+      "original": "Cop Hater",
+      "anio": 1956,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-the-mugger",
+      "titulo": "The Mugger",
+      "original": "The Mugger",
+      "anio": 1956,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-the-pusher",
+      "titulo": "The Pusher",
+      "original": "The Pusher",
+      "anio": 1956,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-king-s-ransom",
+      "titulo": "Rescate",
+      "original": "King's Ransom",
+      "anio": 1959,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-the-con-man",
+      "titulo": "The Con Man",
+      "original": "The Con Man",
+      "anio": 1957,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-killer-s-choice",
+      "titulo": "Killer's Choice",
+      "original": "Killer's Choice",
+      "anio": 1958,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-killer-s-payoff",
+      "titulo": "Killer's Payoff",
+      "original": "Killer's Payoff",
+      "anio": 1958,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-lady-killer",
+      "titulo": "Lady Killer",
+      "original": "Lady Killer",
+      "anio": 1958,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-killer-s-wedge",
+      "titulo": "Killer's Wedge",
+      "original": "Killer's Wedge",
+      "anio": 1959,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-til-death",
+      "titulo": "'Til Death",
+      "original": "'Til Death",
+      "anio": 1959,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-give-the-boys-a-great-big-hand",
+      "titulo": "Give the Boys a Great Big Hand",
+      "original": "Give the Boys a Great Big Hand",
+      "anio": 1960,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-the-heckler",
+      "titulo": "The Heckler",
+      "original": "The Heckler",
+      "anio": 1960,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-see-them-die",
+      "titulo": "See Them Die",
+      "original": "See Them Die",
+      "anio": 1960,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-lady-lady-i-did-it",
+      "titulo": "Lady, Lady, I Did It!",
+      "original": "Lady, Lady, I Did It!",
+      "anio": 1961,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-like-love",
+      "titulo": "Like Love",
+      "original": "Like Love",
+      "anio": 1962,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-ten-plus-one",
+      "titulo": "Ten Plus One",
+      "original": "Ten Plus One",
+      "anio": 1963,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-ax",
+      "titulo": "Ax",
+      "original": "Ax",
+      "anio": 1964,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-he-who-hesitates",
+      "titulo": "He Who Hesitates",
+      "original": "He Who Hesitates",
+      "anio": 1965,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-doll",
+      "titulo": "Doll",
+      "original": "Doll",
+      "anio": 1965,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-eighty-million-eyes",
+      "titulo": "Eighty Million Eyes",
+      "original": "Eighty Million Eyes",
+      "anio": 1966,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-fuzz",
+      "titulo": "Fuzz",
+      "original": "Fuzz",
+      "anio": 1968,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcbain-fat-ollie-s-book",
+      "titulo": "Fat Ollie's Book",
+      "original": "Fat Ollie's Book",
+      "anio": 2002,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "leonard-the-big-bounce",
+      "titulo": "The Big Bounce",
+      "original": "The Big Bounce",
+      "anio": 1969,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-fifty-two-pickup",
+      "titulo": "52 Pickup",
+      "original": "Fifty-Two Pickup",
+      "anio": 1974,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-swag",
+      "titulo": "Swag",
+      "original": "Swag",
+      "anio": 1976,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-labrava",
+      "titulo": "LaBrava",
+      "original": "LaBrava",
+      "anio": 1983,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-unknown-man-no-89",
+      "titulo": "Unknown Man No. 89",
+      "original": "Unknown Man No. 89",
+      "anio": 1977,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-the-hunted",
+      "titulo": "The Hunted",
+      "original": "The Hunted",
+      "anio": 1977,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-the-switch",
+      "titulo": "The Switch",
+      "original": "The Switch",
+      "anio": 1978,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-city-primeval-high-noon-in-detroit",
+      "titulo": "City Primeval",
+      "original": "City Primeval: High Noon in Detroit",
+      "anio": 1980,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-split-images",
+      "titulo": "Split Images",
+      "original": "Split Images",
+      "anio": 1981,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-glitz",
+      "titulo": "Glitz",
+      "original": "Glitz",
+      "anio": 1985,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-bandits",
+      "titulo": "Bandits",
+      "original": "Bandits",
+      "anio": 1987,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-freaky-deaky",
+      "titulo": "Freaky Deaky",
+      "original": "Freaky Deaky",
+      "anio": 1988,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-get-shorty",
+      "titulo": "Cómo conquistar Hollywood",
+      "original": "Get Shorty",
+      "anio": 1990,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-pronto",
+      "titulo": "Pronto",
+      "original": "Pronto",
+      "anio": 1993,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-riding-the-rap",
+      "titulo": "Riding the Rap",
+      "original": "Riding the Rap",
+      "anio": 1995,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-out-of-sight",
+      "titulo": "Un romance muy peligroso",
+      "original": "Out of Sight",
+      "anio": 1996,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-rum-punch",
+      "titulo": "Rum Punch",
+      "original": "Rum Punch",
+      "anio": 1992,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
     }
   ],
   "destacados": {
@@ -9036,8 +10264,8 @@
   },
   "totales": {
     "autores": 39,
-    "personajes": 90,
+    "personajes": 100,
     "series": 45,
-    "obras": 394
+    "obras": 456
   }
 }
