@@ -25,7 +25,9 @@
     "alcanceBibliografia": "selección inicial no exhaustiva",
     "articulos": [],
     "personajes": [
-      "sjowall-wahloo-beck"
+      "sjowall-wahloo-beck",
+      "sjowall-kollberg",
+      "sjowall-gunvald"
     ],
     "series": [
       "sjowall-wahloo-beck"
@@ -34,7 +36,13 @@
       "sjowall-wahloo-roseanna",
       "sjowall-wahloo-mannen-pa-balkongen",
       "sjowall-wahloo-den-skrattande-polisen",
-      "sjowall-wahloo-terroristerna"
+      "sjowall-wahloo-terroristerna",
+      "sjowall-wahloo-mannen-som-gick-upp-i-rok",
+      "sjowall-wahloo-brandbilen-som-forsvann",
+      "sjowall-wahloo-polis-polis-potatismos",
+      "sjowall-wahloo-den-vedervardige-mannen-fran-saffle",
+      "sjowall-wahloo-det-slutna-rummet",
+      "sjowall-wahloo-polismordaren"
     ]
   },
   "personajes": [
@@ -56,10 +64,74 @@
         "sjowall-wahloo-roseanna",
         "sjowall-wahloo-mannen-pa-balkongen",
         "sjowall-wahloo-den-skrattande-polisen",
-        "sjowall-wahloo-terroristerna"
+        "sjowall-wahloo-terroristerna",
+        "sjowall-wahloo-mannen-som-gick-upp-i-rok",
+        "sjowall-wahloo-brandbilen-som-forsvann",
+        "sjowall-wahloo-polis-polis-potatismos",
+        "sjowall-wahloo-den-vedervardige-mannen-fran-saffle",
+        "sjowall-wahloo-det-slutna-rummet",
+        "sjowall-wahloo-polismordaren"
       ],
       "articulos": [],
       "descripcion": "Inspector sueco que combina pesquisa profesional con mirada crítica al entorno social."
+    },
+    {
+      "id": "sjowall-kollberg",
+      "nombre": "Lennart Kollberg",
+      "autor": "sjowall-wahloo",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "sjowall-wahloo-beck",
+      "obras": [
+        "sjowall-wahloo-roseanna",
+        "sjowall-wahloo-mannen-pa-balkongen",
+        "sjowall-wahloo-den-skrattande-polisen",
+        "sjowall-wahloo-terroristerna",
+        "sjowall-wahloo-mannen-som-gick-upp-i-rok",
+        "sjowall-wahloo-brandbilen-som-forsvann",
+        "sjowall-wahloo-polis-polis-potatismos",
+        "sjowall-wahloo-den-vedervardige-mannen-fran-saffle",
+        "sjowall-wahloo-det-slutna-rummet",
+        "sjowall-wahloo-polismordaren"
+      ],
+      "articulos": [],
+      "descripcion": "Compañero de Martin Beck, observador e incisivo, con visión crítica del oficio."
+    },
+    {
+      "id": "sjowall-gunvald",
+      "nombre": "Gunvald Larsson",
+      "autor": "sjowall-wahloo",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "sjowall-wahloo-beck",
+      "obras": [
+        "sjowall-wahloo-roseanna",
+        "sjowall-wahloo-mannen-pa-balkongen",
+        "sjowall-wahloo-den-skrattande-polisen",
+        "sjowall-wahloo-terroristerna",
+        "sjowall-wahloo-mannen-som-gick-upp-i-rok",
+        "sjowall-wahloo-brandbilen-som-forsvann",
+        "sjowall-wahloo-polis-polis-potatismos",
+        "sjowall-wahloo-den-vedervardige-mannen-fran-saffle",
+        "sjowall-wahloo-det-slutna-rummet",
+        "sjowall-wahloo-polismordaren"
+      ],
+      "articulos": [],
+      "descripcion": "Policía de fuerte temperamento y métodos directos, figura recurrente de la serie."
     }
   ],
   "series": [
@@ -122,6 +194,84 @@
         "police procedural"
       ],
       "sinopsis": "Martin Beck afronta un caso de violencia política y amenazas en el que las instituciones también quedan bajo examen."
+    },
+    {
+      "id": "sjowall-wahloo-mannen-som-gick-upp-i-rok",
+      "titulo": "El hombre que se esfumó",
+      "original": "Mannen som gick upp i rök",
+      "anio": 1966,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Martin Beck viaja para averiguar qué le ha ocurrido a un periodista desaparecido."
+    },
+    {
+      "id": "sjowall-wahloo-brandbilen-som-forsvann",
+      "titulo": "El coche de bomberos que desapareció",
+      "original": "Brandbilen som försvann",
+      "anio": 1969,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Un incendio y varias muertes obligan a la brigada a reconstruir un caso de apariencia confusa."
+    },
+    {
+      "id": "sjowall-wahloo-polis-polis-potatismos",
+      "titulo": "Asesinato en el Savoy",
+      "original": "Polis, polis, potatismos!",
+      "anio": 1970,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Un asesinato en un hotel conduce a Beck por ambientes empresariales y relaciones de poder."
+    },
+    {
+      "id": "sjowall-wahloo-den-vedervardige-mannen-fran-saffle",
+      "titulo": "El abominable hombre de Säffle",
+      "original": "Den vedervärdige mannen från Säffle",
+      "anio": 1971,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "La muerte de un policía plantea a sus compañeros interrogantes sobre su carrera y el uso de la violencia."
+    },
+    {
+      "id": "sjowall-wahloo-det-slutna-rummet",
+      "titulo": "La habitación cerrada",
+      "original": "Det slutna rummet",
+      "anio": 1972,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Dos líneas de investigación aparentemente separadas muestran las contradicciones del trabajo policial."
+    },
+    {
+      "id": "sjowall-wahloo-polismordaren",
+      "titulo": "El asesino de policías",
+      "original": "Polismördaren",
+      "anio": 1974,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Un caso complejo desencadena tensiones entre investigación, medios y autoridades."
     }
   ]
 }
