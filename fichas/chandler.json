@@ -1,0 +1,187 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "chandler",
+    "nombre": "Raymond Chandler",
+    "nombreCompleto": "Raymond Thornton Chandler",
+    "nacimiento": "1888",
+    "fallecimiento": "1959",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "Chicago, Illinois, Estados Unidos",
+    "fin": "La Jolla, California, Estados Unidos",
+    "debutNegro": 1939,
+    "seudonimos": [],
+    "generos": [
+      "hardboiled"
+    ],
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6k7P5wp_21aYxRb7pFwN8wZntltX_prS3NE_xfaU3nzKF4zKgE_PsX4z7EAmYiphwKoraODINN6fOciqjKK2dFI2O834th2FoBaEziIGkozBsj7-_eLKWNHXdndUNRGhpRbHDtySj-oY5oswTGpoHHOcYJx7uqBBR2lzQbNr6XQVTOgv95zYR-VdBmFc/s320/chandler.jpg",
+    "resumen": "Novelista, cuentista y guionista estadounidense, renovador del hardboiled y creador del detective privado Philip Marlowe.",
+    "bio": [
+      "Nació en Chicago en 1888, pero creció y estudió en Inglaterra, donde recibió una formación clásica. Tras regresar a Estados Unidos en 1912, participó en la Primera Guerra Mundial en las fuerzas canadienses y, ya instalado en California, trabajó durante años en el sector petrolero.",
+      "Al perder su empleo en los años de la Gran Depresión, se dedicó a escribir relatos criminales para revistas pulp. Su primera historia en Black Mask apareció en 1933. Con El sueño eterno (1939) inició las novelas de Philip Marlowe, un investigador solitario e irónico que intenta mantener una ética propia frente a la corrupción y el dinero.",
+      "Publicó siete novelas completas protagonizadas por Marlowe y trabajó también como guionista en Hollywood, entre otros proyectos en Perdición (Double Indemnity). Tras la muerte de su esposa Cissy en 1954 vivió años difíciles. Falleció en La Jolla en 1959. Su prosa, sus diálogos y su mirada crítica sobre Los Ángeles contribuyeron decisivamente al prestigio literario de la novela negra."
+    ],
+    "apunte": "Chandler utilizó un método que él mismo llamaba «canibalizar»: recuperaba argumentos, escenas y personajes de sus relatos publicados en revistas pulp para convertirlos en novelas nuevas. El sueño eterno, por ejemplo, se construyó en gran parte a partir de Killer in the Rain (1935) y The Curtain (1936). No se trataba de una simple reedición: reorganizaba y enriquecía aquel material hasta crear una historia distinta.",
+    "articulos": [],
+    "personajes": [
+      "marlowe"
+    ],
+    "series": [
+      "marlowe"
+    ],
+    "obras": [
+      "sueno",
+      "adios",
+      "ventana",
+      "dama",
+      "hermana",
+      "largo",
+      "playback",
+      "poodle"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "marlowe",
+      "nombre": "Philip Marlowe",
+      "autor": "chandler",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado en Los Ángeles; antiguo investigador de la fiscalía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "marlowe",
+      "obras": [
+        "sueno",
+        "adios",
+        "ventana",
+        "dama",
+        "hermana",
+        "largo",
+        "playback",
+        "poodle"
+      ],
+      "articulos": [],
+      "descripcion": "Detective privado de Los Ángeles, observador, sarcástico y tenaz, que procura conservar su integridad mientras se mueve entre criminales, policías y grandes fortunas. Es el protagonista de las siete novelas completas de Chandler y de una continuación póstuma terminada por Robert B. Parker."
+    }
+  ],
+  "series": [
+    {
+      "id": "marlowe",
+      "nombre": "Philip Marlowe",
+      "autor": "chandler",
+      "descripcion": "Ciclo de siete novelas completas protagonizadas por Philip Marlowe (1939-1958). Incluye además La historia de Poodle Springs (1989), novela póstuma comenzada por Chandler y completada por Robert B. Parker."
+    }
+  ],
+  "obras": [
+    {
+      "id": "sueno",
+      "titulo": "El sueño eterno",
+      "original": "The Big Sleep",
+      "anio": 1939,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "El general Sternwood, anciano y enfermo, contrata a Philip Marlowe para ocuparse de un chantaje que amenaza a su familia. El detective entra así en un laberinto de apuestas, negocios turbios y secretos domésticos, en un Los Ángeles donde la riqueza sirve para ocultar demasiadas cosas. Cada respuesta abre nuevas preguntas y la investigación pone a prueba la independencia de Marlowe."
+    },
+    {
+      "id": "adios",
+      "titulo": "Adiós, muñeca",
+      "original": "Farewell, My Lovely",
+      "anio": 1940,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Un hombre enorme y recién salido de prisión busca a Velma, la mujer a la que amaba antes de ser encarcelado. Marlowe presencia uno de sus violentos intentos de encontrarla y termina involucrado en una sucesión de pesquisas, engaños y encuentros peligrosos. Lo que parecía una búsqueda sentimental conduce al detective por distintos ambientes de Los Ángeles, desde locales marginales hasta casas acomodadas."
+    },
+    {
+      "id": "ventana",
+      "titulo": "La ventana alta",
+      "original": "The High Window",
+      "anio": 1942,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Una viuda adinerada encarga a Marlowe que recupere una rara y valiosa moneda de oro desaparecida de su colección. Las sospechas recaen sobre una persona de la familia, pero el detective descubre pronto que el caso no se reduce a una simple sustracción. El rastro de la moneda lo introduce en un ambiente de avaricia, miedo y relaciones familiares deterioradas."
+    },
+    {
+      "id": "dama",
+      "titulo": "La dama del lago",
+      "original": "The Lady in the Lake",
+      "anio": 1943,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Derace Kingsley contrata a Marlowe para encontrar a su esposa, Crystal, cuyo paradero desconoce desde hace semanas. La búsqueda lo lleva fuera de Los Ángeles, hasta una zona montañosa de lagos y cabañas donde aparece un nuevo misterio. Entre identidades confusas y testimonios contradictorios, el detective tendrá que determinar qué relación guardan las distintas desapariciones."
+    },
+    {
+      "id": "hermana",
+      "titulo": "La hermana pequeña",
+      "original": "The Little Sister",
+      "anio": 1949,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Orfamay Quest llega desde Kansas a la oficina de Marlowe para pedirle que localice a su hermano desaparecido. La investigación empieza modestamente, pero pronto se extiende a la industria del cine, las aspiraciones de fama y las redes criminales de Los Ángeles. Chandler utiliza el caso para mostrar el contraste entre el brillo de Hollywood y los intereses que se esconden detrás. También publicada en español como La hermana menor."
+    },
+    {
+      "id": "largo",
+      "titulo": "El largo adiós",
+      "original": "The Long Goodbye",
+      "anio": 1953,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Marlowe entabla amistad con Terry Lennox, un hombre marcado por su pasado y por una relación matrimonial difícil. Cuando Lennox se ve envuelto en un asunto criminal, la lealtad del detective lo sitúa frente a la policía, el dinero y las apariencias sociales. La investigación acaba convirtiéndose en una reflexión sobre la amistad, la soledad y el precio de mantener un código personal."
+    },
+    {
+      "id": "playback",
+      "titulo": "Playback",
+      "original": "Playback",
+      "anio": 1958,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Un cliente contrata a Marlowe para seguir discretamente a una mujer que viaja a California y parece esconder algo. El detective pronto se pregunta quién es realmente su objetivo y por qué despierta tanto interés. Al tratar de descubrirlo, se enfrenta a presiones y amenazas y debe decidir hasta dónde está dispuesto a cumplir un encargo que le resulta cada vez menos claro."
+    },
+    {
+      "id": "poodle",
+      "titulo": "La historia de Poodle Springs",
+      "original": "Poodle Springs",
+      "anio": 1989,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Obra póstuma y de autoría compartida: Raymond Chandler dejó escritos los primeros capítulos y Robert B. Parker completó la novela, publicada en 1989. Marlowe, ahora casado con una heredera rica, vive en el elegante enclave de Poodle Springs. Su nueva situación económica y matrimonial no lo aparta de los casos turbios ni de los secretos que se ocultan tras la respetabilidad de sus vecinos."
+    }
+  ]
+}
