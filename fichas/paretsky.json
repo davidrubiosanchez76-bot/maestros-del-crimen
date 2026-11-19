@@ -1,0 +1,132 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "paretsky",
+    "nombre": "Sara Paretsky",
+    "nombreCompleto": "Sara Paretsky",
+    "nacimiento": "1947",
+    "fallecimiento": "",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1982,
+    "seudonimos": [],
+    "generos": [
+      "hardboiled",
+      "crime thriller"
+    ],
+    "imagen": "",
+    "resumen": "Creadora de V. I. Warshawski y renovadora del detective privado femenino.",
+    "bio": [
+      "Novelista estadounidense que trasladó a la ficción detectivesca preocupaciones sobre corrupción empresarial, desigualdad y autonomía de las mujeres.",
+      "V. I. Warshawski, detective de Chicago, combina la tradición hardboiled con investigación social, acción y redes personales complejas."
+    ],
+    "apunte": "Warshawski no es una simple versión femenina de un detective masculino: tiene una voz propia, una red de afectos y una relación crítica con la política urbana de Chicago.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "paretsky-vi"
+    ],
+    "series": [
+      "paretsky-warshawski"
+    ],
+    "obras": [
+      "paretsky-indemnity-only",
+      "paretsky-deadlock",
+      "paretsky-burn-marks",
+      "paretsky-hard-time"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "paretsky-vi",
+      "nombre": "V. I. Warshawski",
+      "autor": "paretsky",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "paretsky-warshawski",
+      "obras": [
+        "paretsky-indemnity-only",
+        "paretsky-deadlock",
+        "paretsky-burn-marks",
+        "paretsky-hard-time"
+      ],
+      "articulos": [],
+      "descripcion": "Detective de Chicago tenaz e independiente que investiga crimen y corrupción."
+    }
+  ],
+  "series": [
+    {
+      "id": "paretsky-warshawski",
+      "nombre": "V. I. Warshawski",
+      "autor": "paretsky",
+      "descripcion": "Investigaciones de la detective privada Victoria Iphigenia Warshawski."
+    }
+  ],
+  "obras": [
+    {
+      "id": "paretsky-indemnity-only",
+      "titulo": "Valor seguro",
+      "original": "Indemnity Only",
+      "anio": 1982,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Warshawski investiga la desaparición de una joven y encuentra una red de intereses financieros y violencia."
+    },
+    {
+      "id": "paretsky-deadlock",
+      "titulo": "Punto muerto",
+      "original": "Deadlock",
+      "anio": 1984,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Un caso personal desemboca en una investigación que vincula navegación, dinero y crimen."
+    },
+    {
+      "id": "paretsky-burn-marks",
+      "titulo": "Marcas de fuego",
+      "original": "Burn Marks",
+      "anio": 1990,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "La desaparición de una mujer y un incendio conducen a la detective hacia una trama de intereses inmobiliarios."
+    },
+    {
+      "id": "paretsky-hard-time",
+      "titulo": "Tiempos difíciles",
+      "original": "Hard Time",
+      "anio": 1999,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "La vida de una joven víctima de violencia abre una investigación que lleva a Warshawski hacia instituciones y abusos."
+    }
+  ]
+}
