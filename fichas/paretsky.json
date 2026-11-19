@@ -26,7 +26,9 @@
     "alcanceBibliografia": "selección inicial no exhaustiva",
     "articulos": [],
     "personajes": [
-      "paretsky-vi"
+      "paretsky-vi",
+      "paretsky-lotty",
+      "paretsky-contreras"
     ],
     "series": [
       "paretsky-warshawski"
@@ -35,7 +37,23 @@
       "paretsky-indemnity-only",
       "paretsky-deadlock",
       "paretsky-burn-marks",
-      "paretsky-hard-time"
+      "paretsky-hard-time",
+      "paretsky-killing-orders",
+      "paretsky-bitter-medicine",
+      "paretsky-blood-shot",
+      "paretsky-guardian-angel",
+      "paretsky-tunnel-vision",
+      "paretsky-total-recall",
+      "paretsky-blacklist",
+      "paretsky-fire-sale",
+      "paretsky-hardball",
+      "paretsky-body-work",
+      "paretsky-breakdown",
+      "paretsky-critical-mass",
+      "paretsky-brush-back",
+      "paretsky-fallout",
+      "paretsky-shell-game",
+      "paretsky-dead-land"
     ]
   },
   "personajes": [
@@ -61,6 +79,42 @@
       ],
       "articulos": [],
       "descripcion": "Detective de Chicago tenaz e independiente que investiga crimen y corrupción."
+    },
+    {
+      "id": "paretsky-lotty",
+      "nombre": "Lotty Herschel",
+      "autor": "paretsky",
+      "ocupacion": "Médico / sanitario",
+      "ocupacionDetalle": "Médico / sanitario",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "paretsky-warshawski",
+      "obras": [],
+      "articulos": [],
+      "descripcion": "Médica y amiga de Warshawski, figura significativa de su círculo personal y profesional."
+    },
+    {
+      "id": "paretsky-contreras",
+      "nombre": "Mr. Contreras",
+      "autor": "paretsky",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "paretsky-warshawski",
+      "obras": [],
+      "articulos": [],
+      "descripcion": "Vecino de Warshawski y colaborador recurrente en sus asuntos cotidianos."
     }
   ],
   "series": [
@@ -127,6 +181,230 @@
         "crime thriller"
       ],
       "sinopsis": "La vida de una joven víctima de violencia abre una investigación que lleva a Warshawski hacia instituciones y abusos."
+    },
+    {
+      "id": "paretsky-killing-orders",
+      "titulo": "Killing Orders",
+      "original": "Killing Orders",
+      "anio": 1985,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una investigación vincula a Warshawski con irregularidades económicas y relaciones familiares."
+    },
+    {
+      "id": "paretsky-bitter-medicine",
+      "titulo": "Medicina amarga",
+      "original": "Bitter Medicine",
+      "anio": 1987,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Un caso médico despierta sospechas que conducen a corrupción y violencia."
+    },
+    {
+      "id": "paretsky-blood-shot",
+      "titulo": "Blood Shot",
+      "original": "Blood Shot",
+      "anio": 1988,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Warshawski investiga una desaparición con raíces en el pasado industrial de Chicago."
+    },
+    {
+      "id": "paretsky-guardian-angel",
+      "titulo": "Ángel guardián",
+      "original": "Guardian Angel",
+      "anio": 1992,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "La detective interviene en un asunto de vecinos que termina conectado con intereses empresariales."
+    },
+    {
+      "id": "paretsky-tunnel-vision",
+      "titulo": "Tunnel Vision",
+      "original": "Tunnel Vision",
+      "anio": 1994,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Un caso de desaparición y peligros empresariales obliga a la investigadora a enfrentarse al poder."
+    },
+    {
+      "id": "paretsky-total-recall",
+      "titulo": "Total Recall",
+      "original": "Total Recall",
+      "anio": 2001,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una investigación lleva a Warshawski hacia memorias dolorosas y conflictos legales."
+    },
+    {
+      "id": "paretsky-blacklist",
+      "titulo": "Lista negra",
+      "original": "Blacklist",
+      "anio": 2003,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una muerte en una propiedad acomodada descubre secretos políticos y discriminación."
+    },
+    {
+      "id": "paretsky-fire-sale",
+      "titulo": "Fire Sale",
+      "original": "Fire Sale",
+      "anio": 2005,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Warshawski investiga conflictos empresariales en una comunidad económicamente vulnerable."
+    },
+    {
+      "id": "paretsky-hardball",
+      "titulo": "Hardball",
+      "original": "Hardball",
+      "anio": 2009,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una indagación sobre sucesos antiguos reabre episodios de injusticia y violencia policial."
+    },
+    {
+      "id": "paretsky-body-work",
+      "titulo": "Body Work",
+      "original": "Body Work",
+      "anio": 2010,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una artista en Chicago se ve vinculada a un asesinato que involucra a Warshawski."
+    },
+    {
+      "id": "paretsky-breakdown",
+      "titulo": "Breakdown",
+      "original": "Breakdown",
+      "anio": 2012,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "La detective se enfrenta a secretos familiares y políticos en un caso de gran repercusión."
+    },
+    {
+      "id": "paretsky-critical-mass",
+      "titulo": "Critical Mass",
+      "original": "Critical Mass",
+      "anio": 2013,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una desaparición conecta a Warshawski con secretos científicos del pasado."
+    },
+    {
+      "id": "paretsky-brush-back",
+      "titulo": "Brush Back",
+      "original": "Brush Back",
+      "anio": 2015,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "La detective revisa un crimen y viejos agravios de su comunidad."
+    },
+    {
+      "id": "paretsky-fallout",
+      "titulo": "Fallout",
+      "original": "Fallout",
+      "anio": 2017,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una búsqueda conduce a Warshawski fuera de Chicago y hacia un caso de identidad."
+    },
+    {
+      "id": "paretsky-shell-game",
+      "titulo": "Shell Game",
+      "original": "Shell Game",
+      "anio": 2018,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Varios casos conectan desapariciones y negocios con conflictos de inmigración."
+    },
+    {
+      "id": "paretsky-dead-land",
+      "titulo": "Dead Land",
+      "original": "Dead Land",
+      "anio": 2020,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una investigación relacionada con la violencia urbana y política vuelve a poner en riesgo a la detective."
     }
   ]
 }
