@@ -27,16 +27,33 @@
     "articulos": [],
     "personajes": [
       "ellroy-bucky",
-      "ellroy-bud"
+      "ellroy-bud",
+      "ellroy-lloyd",
+      "ellroy-exley",
+      "ellroy-dudley",
+      "ellroy-bondurant"
     ],
     "series": [
-      "ellroy-cuarteto-la"
+      "ellroy-cuarteto-la",
+      "ellroy-hopkins",
+      "ellroy-american"
     ],
     "obras": [
       "ellroy-brown-s-requiem",
       "ellroy-the-black-dahlia",
       "ellroy-the-big-nowhere",
-      "ellroy-l-a-confidential"
+      "ellroy-l-a-confidential",
+      "ellroy-clandestine",
+      "ellroy-blood-on-the-moon",
+      "ellroy-because-the-night",
+      "ellroy-suicide-hill",
+      "ellroy-white-jazz",
+      "ellroy-american-tabloid",
+      "ellroy-the-cold-six-thousand",
+      "ellroy-blood-s-a-rover",
+      "ellroy-perfidia",
+      "ellroy-this-storm",
+      "ellroy-the-enchanters"
     ]
   },
   "personajes": [
@@ -55,7 +72,9 @@
       ],
       "serie": "ellroy-cuarteto-la",
       "obras": [
-        "ellroy-the-black-dahlia"
+        "ellroy-the-black-dahlia",
+        "ellroy-the-big-nowhere",
+        "ellroy-l-a-confidential"
       ],
       "articulos": [],
       "descripcion": "Policía marcado por la investigación del crimen de la Dalia Negra."
@@ -75,10 +94,98 @@
       ],
       "serie": "ellroy-cuarteto-la",
       "obras": [
-        "ellroy-l-a-confidential"
+        "ellroy-l-a-confidential",
+        "ellroy-the-black-dahlia",
+        "ellroy-the-big-nowhere"
       ],
       "articulos": [],
       "descripcion": "Policía de métodos violentos y convicciones difíciles de conciliar con la institución."
+    },
+    {
+      "id": "ellroy-lloyd",
+      "nombre": "Lloyd Hopkins",
+      "autor": "ellroy",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "ellroy-hopkins",
+      "obras": [
+        "ellroy-blood-on-the-moon",
+        "ellroy-because-the-night",
+        "ellroy-suicide-hill"
+      ],
+      "articulos": [],
+      "descripcion": "Detective de Los Ángeles obsesionado con el crimen y de conducta problemática."
+    },
+    {
+      "id": "ellroy-exley",
+      "nombre": "Edmund Exley",
+      "autor": "ellroy",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "ellroy-cuarteto-la",
+      "obras": [
+        "ellroy-l-a-confidential",
+        "ellroy-the-black-dahlia",
+        "ellroy-the-big-nowhere"
+      ],
+      "articulos": [],
+      "descripcion": "Policía ambicioso y calculador del universo de L. A. Confidential."
+    },
+    {
+      "id": "ellroy-dudley",
+      "nombre": "Dudley Smith",
+      "autor": "ellroy",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Antagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "",
+      "obras": [
+        "ellroy-l-a-confidential",
+        "ellroy-the-cold-six-thousand"
+      ],
+      "articulos": [],
+      "descripcion": "Figura policial recurrente de enorme poder y moralidad turbia."
+    },
+    {
+      "id": "ellroy-bondurant",
+      "nombre": "Pete Bondurant",
+      "autor": "ellroy",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "ellroy-american",
+      "obras": [
+        "ellroy-american-tabloid",
+        "ellroy-the-cold-six-thousand"
+      ],
+      "articulos": [],
+      "descripcion": "Personaje del submundo criminal y político de la trilogía americana."
     }
   ],
   "series": [
@@ -87,6 +194,18 @@
       "nombre": "Cuarteto de Los Ángeles",
       "autor": "ellroy",
       "descripcion": "Ciclo sobre Los Ángeles: La Dalia Negra, El gran desierto, L.A. Confidential y Jazz blanco."
+    },
+    {
+      "id": "ellroy-hopkins",
+      "nombre": "Lloyd Hopkins",
+      "autor": "ellroy",
+      "descripcion": "Trilogía policiaca de Lloyd Hopkins."
+    },
+    {
+      "id": "ellroy-american",
+      "nombre": "Trilogía americana",
+      "autor": "ellroy",
+      "descripcion": "Trilogía formada por American Tabloid, The Cold Six Thousand y Blood's a Rover."
     }
   ],
   "obras": [
@@ -145,6 +264,160 @@
         "crime thriller"
       ],
       "sinopsis": "La corrupción policial y los negocios oscuros atraviesan la carrera de varios agentes en el Los Ángeles de los años cincuenta."
+    },
+    {
+      "id": "ellroy-clandestine",
+      "titulo": "Clandestino",
+      "original": "Clandestine",
+      "anio": 1982,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una investigación temprana muestra las contradicciones personales de un policía en Los Ángeles."
+    },
+    {
+      "id": "ellroy-blood-on-the-moon",
+      "titulo": "Sangre en la luna",
+      "original": "Blood on the Moon",
+      "anio": 1984,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "El detective Lloyd Hopkins persigue a un asesino y se enfrenta a obsesiones y violencia."
+    },
+    {
+      "id": "ellroy-because-the-night",
+      "titulo": "A causa de la noche",
+      "original": "Because the Night",
+      "anio": 1984,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Un caso de brutalidad y crimen lleva a Lloyd Hopkins hacia un entramado criminal."
+    },
+    {
+      "id": "ellroy-suicide-hill",
+      "titulo": "La colina de los suicidas",
+      "original": "Suicide Hill",
+      "anio": 1986,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Hopkins investiga un asunto violento mientras sus relaciones personales se tensan."
+    },
+    {
+      "id": "ellroy-white-jazz",
+      "titulo": "Jazz blanco",
+      "original": "White Jazz",
+      "anio": 1992,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "La corrupción policial y la violencia de Los Ángeles culminan en una trama coral."
+    },
+    {
+      "id": "ellroy-american-tabloid",
+      "titulo": "América",
+      "original": "American Tabloid",
+      "anio": 1995,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Crimen organizado, política y agencias de seguridad se entrelazan en vísperas de un magnicidio."
+    },
+    {
+      "id": "ellroy-the-cold-six-thousand",
+      "titulo": "Seis de los grandes",
+      "original": "The Cold Six Thousand",
+      "anio": 2001,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Los conflictos políticos y criminales estadounidenses se mezclan con una trama de conspiraciones."
+    },
+    {
+      "id": "ellroy-blood-s-a-rover",
+      "titulo": "Sangre vagabunda",
+      "original": "Blood's a Rover",
+      "anio": 2009,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Última parte de una trilogía de ficción sobre violencia, política y el crimen estadounidense."
+    },
+    {
+      "id": "ellroy-perfidia",
+      "titulo": "Perfidia",
+      "original": "Perfidia",
+      "anio": 2014,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Un crimen en el Los Ángeles de la Segunda Guerra Mundial muestra tensiones raciales y policías corruptos."
+    },
+    {
+      "id": "ellroy-this-storm",
+      "titulo": "Esta tormenta",
+      "original": "This Storm",
+      "anio": 2019,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Varias investigaciones se cruzan en Los Ángeles durante la Segunda Guerra Mundial."
+    },
+    {
+      "id": "ellroy-the-enchanters",
+      "titulo": "The Enchanters",
+      "original": "The Enchanters",
+      "anio": 2023,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Un investigador vuelve a enfrentar los secretos y abusos de poder de Hollywood."
     }
   ]
 }
