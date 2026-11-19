@@ -1,0 +1,87 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "hume",
+    "nombre": "Fergus Hume",
+    "nombreCompleto": "Fergus Hume",
+    "nacimiento": "1859",
+    "fallecimiento": "1932",
+    "origen": "Australia",
+    "pais": "Australia",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1886,
+    "seudonimos": [],
+    "generos": [
+      "whodunit"
+    ],
+    "imagen": "",
+    "resumen": "Autor de El misterio del coche de punto, éxito mundial del policial popular.",
+    "bio": [
+      "Nació en Inglaterra y se formó en Nueva Zelanda y Australia. Su primer gran éxito aprovechó el paisaje social de Melbourne como escenario criminal.",
+      "Escribió una producción muy abundante; la presente bibliografía recoge una selección inicial para no confundir títulos menos documentados."
+    ],
+    "apunte": "Tras el éxito comercial de El misterio del coche de punto, Hume obtuvo muchos menos ingresos de los que cabría esperar: había cedido los derechos en condiciones desfavorables.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "hume-gorby"
+    ],
+    "series": [],
+    "obras": [
+      "hume-the-mystery-of-a-hansom-cab",
+      "hume-madame-midas"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "hume-gorby",
+      "nombre": "Detective Gorby",
+      "autor": "hume",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Sin clasificar"
+      ],
+      "serie": "",
+      "obras": [
+        "hume-the-mystery-of-a-hansom-cab"
+      ],
+      "articulos": [],
+      "descripcion": "Agente que participa en la investigación del crimen del coche de punto."
+    }
+  ],
+  "series": [],
+  "obras": [
+    {
+      "id": "hume-the-mystery-of-a-hansom-cab",
+      "titulo": "El misterio del coche de punto",
+      "original": "The Mystery of a Hansom Cab",
+      "anio": 1886,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un hombre aparece muerto en un coche de alquiler de Melbourne, lo que revela secretos entre distintas capas de la sociedad."
+    },
+    {
+      "id": "hume-madame-midas",
+      "titulo": "Madame Midas",
+      "original": "Madame Midas",
+      "anio": 1888,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una mujer vinculada a la riqueza minera australiana trata de defenderse de engaños, amenazas y ambiciones."
+    }
+  ]
+}
