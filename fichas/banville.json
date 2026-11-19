@@ -27,15 +27,27 @@
     "apunte": "Para parte de su narrativa criminal adoptó el seudónimo Benjamin Black y creó a Quirke, patólogo cuya serie transcurre en la Irlanda de mediados del siglo XX.",
     "articulos": [],
     "personajes": [
-      "quirke"
+      "quirke",
+      "banville-hackett",
+      "banville-strafford"
     ],
     "series": [
-      "quirke"
+      "quirke",
+      "banville-strafford"
     ],
     "obras": [
       "christine",
       "cisne",
-      "april"
+      "april",
+      "banville-a-death-in-summer",
+      "banville-vengeance",
+      "banville-holy-orders",
+      "banville-even-the-dead",
+      "banville-the-black-eyed-blonde",
+      "banville-snow",
+      "banville-april-in-spain",
+      "banville-the-lock-up",
+      "banville-the-drowned"
     ]
   },
   "personajes": [
@@ -56,10 +68,63 @@
       "obras": [
         "christine",
         "cisne",
-        "april"
+        "april",
+        "banville-a-death-in-summer",
+        "banville-vengeance",
+        "banville-holy-orders",
+        "banville-even-the-dead"
       ],
       "articulos": [],
       "descripcion": "Patólogo dublinés cuya curiosidad por ciertas muertes lo conduce a investigaciones y secretos familiares."
+    },
+    {
+      "id": "banville-hackett",
+      "nombre": "Inspector Hackett",
+      "autor": "banville",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "quirke",
+      "obras": [
+        "christine",
+        "cisne",
+        "april",
+        "banville-a-death-in-summer",
+        "banville-vengeance",
+        "banville-holy-orders",
+        "banville-even-the-dead"
+      ],
+      "articulos": [],
+      "descripcion": "Inspector de la Garda que colabora con Quirke en varios de sus casos."
+    },
+    {
+      "id": "banville-strafford",
+      "nombre": "St. John Strafford",
+      "autor": "banville",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "banville-strafford",
+      "obras": [
+        "banville-snow",
+        "banville-april-in-spain",
+        "banville-the-lock-up",
+        "banville-the-drowned"
+      ],
+      "articulos": [],
+      "descripcion": "Inspector irlandés que investiga crímenes dentro de ambientes sociales reservados."
     }
   ],
   "series": [
@@ -68,6 +133,12 @@
       "nombre": "Quirke",
       "autor": "banville",
       "descripcion": "Novelas protagonizadas por el patólogo Quirke."
+    },
+    {
+      "id": "banville-strafford",
+      "nombre": "St. John Strafford",
+      "autor": "banville",
+      "descripcion": "Novelas del inspector St. John Strafford, relacionadas con el mundo de Quirke."
     }
   ],
   "obras": [
@@ -109,6 +180,132 @@
         "psychological thriller"
       ],
       "sinopsis": "La desaparición de una joven impulsa a Quirke a investigar entre amistades y secretos en la sociedad dublinesa de la época."
+    },
+    {
+      "id": "banville-a-death-in-summer",
+      "titulo": "Muerte en verano",
+      "original": "A Death in Summer",
+      "anio": 2011,
+      "autor": "banville",
+      "seudonimo": "Benjamin Black",
+      "serie": "quirke",
+      "generos": [
+        "psychological thriller",
+        "police procedural"
+      ],
+      "sinopsis": "Quirke investiga la muerte de un empresario en una Irlanda de secretos familiares."
+    },
+    {
+      "id": "banville-vengeance",
+      "titulo": "Venganza",
+      "original": "Vengeance",
+      "anio": 2012,
+      "autor": "banville",
+      "seudonimo": "Benjamin Black",
+      "serie": "quirke",
+      "generos": [
+        "psychological thriller",
+        "police procedural"
+      ],
+      "sinopsis": "La muerte de un hombre durante una salida en barco lleva a Quirke a examinar conflictos empresariales."
+    },
+    {
+      "id": "banville-holy-orders",
+      "titulo": "Órdenes sagradas",
+      "original": "Holy Orders",
+      "anio": 2013,
+      "autor": "banville",
+      "seudonimo": "Benjamin Black",
+      "serie": "quirke",
+      "generos": [
+        "psychological thriller",
+        "police procedural"
+      ],
+      "sinopsis": "El hallazgo de un cuerpo vincula la investigación de Quirke a silencios de una institución religiosa."
+    },
+    {
+      "id": "banville-even-the-dead",
+      "titulo": "Incluso los muertos",
+      "original": "Even the Dead",
+      "anio": 2015,
+      "autor": "banville",
+      "seudonimo": "Benjamin Black",
+      "serie": "quirke",
+      "generos": [
+        "psychological thriller",
+        "police procedural"
+      ],
+      "sinopsis": "Una muerte aparentemente accidental obliga a Quirke y al inspector Hackett a revisar una serie de hechos."
+    },
+    {
+      "id": "banville-the-black-eyed-blonde",
+      "titulo": "La rubia de ojos negros",
+      "original": "The Black-Eyed Blonde",
+      "anio": 2014,
+      "autor": "banville",
+      "seudonimo": "Benjamin Black",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "police procedural"
+      ],
+      "sinopsis": "Nueva novela de Philip Marlowe escrita por Banville como Benjamin Black; personaje creado por Raymond Chandler."
+    },
+    {
+      "id": "banville-snow",
+      "titulo": "Nieve",
+      "original": "Snow",
+      "anio": 2020,
+      "autor": "banville",
+      "seudonimo": "",
+      "serie": "banville-strafford",
+      "generos": [
+        "psychological thriller",
+        "police procedural"
+      ],
+      "sinopsis": "El inspector Strafford investiga la muerte de un sacerdote en una casa irlandesa."
+    },
+    {
+      "id": "banville-april-in-spain",
+      "titulo": "Abril en España",
+      "original": "April in Spain",
+      "anio": 2021,
+      "autor": "banville",
+      "seudonimo": "",
+      "serie": "banville-strafford",
+      "generos": [
+        "psychological thriller",
+        "police procedural"
+      ],
+      "sinopsis": "Una visita de Quirke a España abre una investigación relacionada con su pasado y con el inspector Strafford."
+    },
+    {
+      "id": "banville-the-lock-up",
+      "titulo": "The Lock-Up",
+      "original": "The Lock-Up",
+      "anio": 2023,
+      "autor": "banville",
+      "seudonimo": "",
+      "serie": "banville-strafford",
+      "generos": [
+        "psychological thriller",
+        "police procedural"
+      ],
+      "sinopsis": "La muerte de una joven conduce al inspector Strafford a investigar un entorno de secretos."
+    },
+    {
+      "id": "banville-the-drowned",
+      "titulo": "The Drowned",
+      "original": "The Drowned",
+      "anio": 2024,
+      "autor": "banville",
+      "seudonimo": "",
+      "serie": "banville-strafford",
+      "generos": [
+        "psychological thriller",
+        "police procedural"
+      ],
+      "sinopsis": "Una desaparición durante un viaje impulsa una pesquisa de identidades y relaciones familiares."
     }
   ]
 }
