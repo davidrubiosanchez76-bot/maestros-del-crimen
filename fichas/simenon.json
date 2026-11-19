@@ -39,7 +39,10 @@
     "apunte": "Su producción no se limitó a Maigret. Paralelamente escribió novelas independientes, a menudo llamadas «novelas duras», más centradas en las tensiones humanas que en resolver un enigma.",
     "articulos": [],
     "personajes": [
-      "maigret"
+      "maigret",
+      "simenon-madame-maigret",
+      "simenon-lucas",
+      "simenon-janvier"
     ],
     "series": [
       "maigret"
@@ -48,7 +51,38 @@
       "pietr",
       "perro",
       "nieve",
-      "gato"
+      "gato",
+      "simenon-le-charretier-de-la-providence",
+      "simenon-monsieur-gallet-decede",
+      "simenon-le-pendu-de-saint-pholien",
+      "simenon-la-nuit-du-carrefour",
+      "simenon-un-crime-en-hollande",
+      "simenon-au-rendez-vous-des-terre-neuvas",
+      "simenon-la-danseuse-du-gai-moulin",
+      "simenon-le-port-des-brumes",
+      "simenon-le-fou-de-bergerac",
+      "simenon-liberty-bar",
+      "simenon-l-affaire-saint-fiacre",
+      "simenon-la-guinguette-a-deux-sous",
+      "simenon-maigret-et-son-mort",
+      "simenon-maigret-chez-le-coroner",
+      "simenon-maigret-et-la-vieille-dame",
+      "simenon-maigret-au-picratt-s",
+      "simenon-maigret-a-peur",
+      "simenon-maigret-tend-un-piege",
+      "simenon-la-maison-du-canal",
+      "simenon-les-gens-d-en-face",
+      "simenon-les-s-urs-lacroix",
+      "simenon-l-homme-qui-regardait-passer-les-trains",
+      "simenon-la-veuve-couderc",
+      "simenon-le-cercle-des-mahe",
+      "simenon-trois-chambres-a-manhattan",
+      "simenon-pedigree",
+      "simenon-les-fantomes-du-chapelier",
+      "simenon-le-fond-de-la-bouteille",
+      "simenon-les-volets-verts",
+      "simenon-la-mort-de-belle",
+      "simenon-les-anneaux-de-bicetre"
     ]
   },
   "personajes": [
@@ -68,10 +102,145 @@
       "serie": "maigret",
       "obras": [
         "pietr",
-        "perro"
+        "perro",
+        "simenon-le-charretier-de-la-providence",
+        "simenon-monsieur-gallet-decede",
+        "simenon-le-pendu-de-saint-pholien",
+        "simenon-la-nuit-du-carrefour",
+        "simenon-un-crime-en-hollande",
+        "simenon-au-rendez-vous-des-terre-neuvas",
+        "simenon-la-danseuse-du-gai-moulin",
+        "simenon-le-port-des-brumes",
+        "simenon-le-fou-de-bergerac",
+        "simenon-liberty-bar",
+        "simenon-l-affaire-saint-fiacre",
+        "simenon-la-guinguette-a-deux-sous",
+        "simenon-maigret-et-son-mort",
+        "simenon-maigret-chez-le-coroner",
+        "simenon-maigret-et-la-vieille-dame",
+        "simenon-maigret-au-picratt-s",
+        "simenon-maigret-a-peur",
+        "simenon-maigret-tend-un-piege"
       ],
       "articulos": [],
       "descripcion": "Comisario parisino que investiga atendiendo tanto a las pruebas como al ambiente humano que rodea los hechos."
+    },
+    {
+      "id": "simenon-madame-maigret",
+      "nombre": "Louise Maigret",
+      "autor": "simenon",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "maigret",
+      "obras": [
+        "pietr",
+        "perro",
+        "simenon-le-charretier-de-la-providence",
+        "simenon-monsieur-gallet-decede",
+        "simenon-le-pendu-de-saint-pholien",
+        "simenon-la-nuit-du-carrefour",
+        "simenon-un-crime-en-hollande",
+        "simenon-au-rendez-vous-des-terre-neuvas",
+        "simenon-la-danseuse-du-gai-moulin",
+        "simenon-le-port-des-brumes",
+        "simenon-le-fou-de-bergerac",
+        "simenon-liberty-bar",
+        "simenon-l-affaire-saint-fiacre",
+        "simenon-la-guinguette-a-deux-sous",
+        "simenon-maigret-et-son-mort",
+        "simenon-maigret-chez-le-coroner",
+        "simenon-maigret-et-la-vieille-dame",
+        "simenon-maigret-au-picratt-s",
+        "simenon-maigret-a-peur",
+        "simenon-maigret-tend-un-piege"
+      ],
+      "articulos": [],
+      "descripcion": "Esposa del comisario Maigret y presencia fundamental en su vida cotidiana."
+    },
+    {
+      "id": "simenon-lucas",
+      "nombre": "Inspector Lucas",
+      "autor": "simenon",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "maigret",
+      "obras": [
+        "pietr",
+        "perro",
+        "simenon-le-charretier-de-la-providence",
+        "simenon-monsieur-gallet-decede",
+        "simenon-le-pendu-de-saint-pholien",
+        "simenon-la-nuit-du-carrefour",
+        "simenon-un-crime-en-hollande",
+        "simenon-au-rendez-vous-des-terre-neuvas",
+        "simenon-la-danseuse-du-gai-moulin",
+        "simenon-le-port-des-brumes",
+        "simenon-le-fou-de-bergerac",
+        "simenon-liberty-bar",
+        "simenon-l-affaire-saint-fiacre",
+        "simenon-la-guinguette-a-deux-sous",
+        "simenon-maigret-et-son-mort",
+        "simenon-maigret-chez-le-coroner",
+        "simenon-maigret-et-la-vieille-dame",
+        "simenon-maigret-au-picratt-s",
+        "simenon-maigret-a-peur",
+        "simenon-maigret-tend-un-piege"
+      ],
+      "articulos": [],
+      "descripcion": "Miembro recurrente del equipo de Maigret en la Policía Judicial."
+    },
+    {
+      "id": "simenon-janvier",
+      "nombre": "Inspector Janvier",
+      "autor": "simenon",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "maigret",
+      "obras": [
+        "pietr",
+        "perro",
+        "simenon-le-charretier-de-la-providence",
+        "simenon-monsieur-gallet-decede",
+        "simenon-le-pendu-de-saint-pholien",
+        "simenon-la-nuit-du-carrefour",
+        "simenon-un-crime-en-hollande",
+        "simenon-au-rendez-vous-des-terre-neuvas",
+        "simenon-la-danseuse-du-gai-moulin",
+        "simenon-le-port-des-brumes",
+        "simenon-le-fou-de-bergerac",
+        "simenon-liberty-bar",
+        "simenon-l-affaire-saint-fiacre",
+        "simenon-la-guinguette-a-deux-sous",
+        "simenon-maigret-et-son-mort",
+        "simenon-maigret-chez-le-coroner",
+        "simenon-maigret-et-la-vieille-dame",
+        "simenon-maigret-au-picratt-s",
+        "simenon-maigret-a-peur",
+        "simenon-maigret-tend-un-piege"
+      ],
+      "articulos": [],
+      "descripcion": "Colaborador habitual de Maigret en la investigación policial."
     }
   ],
   "series": [
@@ -134,6 +303,440 @@
         "psychological thriller"
       ],
       "sinopsis": "Dos personas mayores comparten una convivencia consumida por el resentimiento. La tensión cotidiana revela un conflicto íntimo cada vez más asfixiante."
+    },
+    {
+      "id": "simenon-le-charretier-de-la-providence",
+      "titulo": "El arriero de «La Providence»",
+      "original": "Le Charretier de la Providence",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "La investigación de una muerte conduce a Maigret por los canales y las barcazas."
+    },
+    {
+      "id": "simenon-monsieur-gallet-decede",
+      "titulo": "Monsieur Gallet, décédé",
+      "original": "Monsieur Gallet, décédé",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una muerte en una pensión lleva a Maigret a investigar identidades familiares ocultas."
+    },
+    {
+      "id": "simenon-le-pendu-de-saint-pholien",
+      "titulo": "El ahorcado de Saint-Pholien",
+      "original": "Le Pendu de Saint-Pholien",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Maigret sigue a un hombre y descubre un pasado de culpa que enlaza varias vidas."
+    },
+    {
+      "id": "simenon-la-nuit-du-carrefour",
+      "titulo": "La noche de la encrucijada",
+      "original": "La Nuit du carrefour",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un caso en un cruce de carreteras obliga al comisario a desconfiar de las apariencias."
+    },
+    {
+      "id": "simenon-un-crime-en-hollande",
+      "titulo": "Un crimen en Holanda",
+      "original": "Un crime en Hollande",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Maigret investiga un asesinato en Países Bajos entre testigos de una comunidad pequeña."
+    },
+    {
+      "id": "simenon-au-rendez-vous-des-terre-neuvas",
+      "titulo": "Au rendez-vous des Terre-Neuvas",
+      "original": "Au rendez-vous des Terre-Neuvas",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un viaje a la costa normanda enfrenta al comisario a un asesinato relacionado con la vida marítima."
+    },
+    {
+      "id": "simenon-la-danseuse-du-gai-moulin",
+      "titulo": "La bailarina del Gai-Moulin",
+      "original": "La Danseuse du Gai-Moulin",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un episodio nocturno en Lieja desencadena un crimen cuya interpretación cambia con cada testimonio."
+    },
+    {
+      "id": "simenon-le-port-des-brumes",
+      "titulo": "El puerto de las brumas",
+      "original": "Le Port des brumes",
+      "anio": 1932,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una investigación marítima se desarrolla entre silencios y hostilidades en un puerto francés."
+    },
+    {
+      "id": "simenon-le-fou-de-bergerac",
+      "titulo": "El loco de Bergerac",
+      "original": "Le Fou de Bergerac",
+      "anio": 1932,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Maigret se ve involucrado en un caso de ataques violentos lejos de París."
+    },
+    {
+      "id": "simenon-liberty-bar",
+      "titulo": "Liberty Bar",
+      "original": "Liberty Bar",
+      "anio": 1932,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un caso conduce al inspector a la Riviera y a una víctima rodeada de conocidos poco dispuestos a hablar."
+    },
+    {
+      "id": "simenon-l-affaire-saint-fiacre",
+      "titulo": "El caso Saint-Fiacre",
+      "original": "L'Affaire Saint-Fiacre",
+      "anio": 1932,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Maigret regresa a una zona vinculada a su infancia cuando una amenaza anuncia una muerte."
+    },
+    {
+      "id": "simenon-la-guinguette-a-deux-sous",
+      "titulo": "La guinguette de los dos céntimos",
+      "original": "La Guinguette à deux sous",
+      "anio": 1932,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Unas palabras oídas en un contexto judicial orientan a Maigret hacia un viejo crimen."
+    },
+    {
+      "id": "simenon-maigret-et-son-mort",
+      "titulo": "El muerto de Maigret",
+      "original": "Maigret et son mort",
+      "anio": 1948,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "La llamada desesperada de un desconocido despierta en Maigret el deseo de reconstruir su último recorrido."
+    },
+    {
+      "id": "simenon-maigret-chez-le-coroner",
+      "titulo": "Maigret en los dominios del córoner",
+      "original": "Maigret chez le coroner",
+      "anio": 1949,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "El comisario observa el procedimiento judicial estadounidense ante una muerte."
+    },
+    {
+      "id": "simenon-maigret-et-la-vieille-dame",
+      "titulo": "Maigret y la vieja dama",
+      "original": "Maigret et la vieille dame",
+      "anio": 1950,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una mujer solicita la ayuda del comisario ante sucesos sospechosos en su entorno."
+    },
+    {
+      "id": "simenon-maigret-au-picratt-s",
+      "titulo": "Maigret en el Picratt’s",
+      "original": "Maigret au Picratt's",
+      "anio": 1951,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una información relacionada con un cabaré conduce a una investigación sobre una mujer asesinada."
+    },
+    {
+      "id": "simenon-maigret-a-peur",
+      "titulo": "Maigret tiene miedo",
+      "original": "Maigret a peur",
+      "anio": 1953,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "El comisario encuentra una pequeña población perturbada por varios crímenes."
+    },
+    {
+      "id": "simenon-maigret-tend-un-piege",
+      "titulo": "Maigret tiende una trampa",
+      "original": "Maigret tend un piège",
+      "anio": 1955,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una serie de asesinatos provoca una investigación que recurre a una trampa para el culpable."
+    },
+    {
+      "id": "simenon-la-maison-du-canal",
+      "titulo": "La casa del canal",
+      "original": "La Maison du canal",
+      "anio": 1933,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una joven se traslada a una casa junto a un canal belga y se enfrenta a un mundo de tensiones familiares."
+    },
+    {
+      "id": "simenon-les-gens-d-en-face",
+      "titulo": "Los vecinos de enfrente",
+      "original": "Les Gens d'en face",
+      "anio": 1933,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un diplomático llega a una ciudad del mar Negro donde las sospechas condicionan su vida."
+    },
+    {
+      "id": "simenon-les-s-urs-lacroix",
+      "titulo": "Las hermanas Lacroix",
+      "original": "Les Sœurs Lacroix",
+      "anio": 1938,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "La convivencia de dos hermanas está marcada por resentimientos y silencios."
+    },
+    {
+      "id": "simenon-l-homme-qui-regardait-passer-les-trains",
+      "titulo": "El hombre que miraba pasar los trenes",
+      "original": "L'Homme qui regardait passer les trains",
+      "anio": 1938,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un hombre aparentemente corriente rompe con su vida anterior tras descubrir graves problemas económicos."
+    },
+    {
+      "id": "simenon-la-veuve-couderc",
+      "titulo": "La viuda Couderc",
+      "original": "La Veuve Couderc",
+      "anio": 1942,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un hombre vuelve a instalarse en un entorno rural donde las relaciones familiares se tornan amenazantes."
+    },
+    {
+      "id": "simenon-le-cercle-des-mahe",
+      "titulo": "El círculo de los Mahé",
+      "original": "Le Cercle des Mahé",
+      "anio": 1946,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un médico se obsesiona con una familia y una isla a la que regresa durante las vacaciones."
+    },
+    {
+      "id": "simenon-trois-chambres-a-manhattan",
+      "titulo": "Tres habitaciones en Manhattan",
+      "original": "Trois Chambres à Manhattan",
+      "anio": 1946,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Dos desconocidos construyen una relación vulnerable en el Nueva York nocturno."
+    },
+    {
+      "id": "simenon-pedigree",
+      "titulo": "Pedigrí",
+      "original": "Pedigree",
+      "anio": 1948,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una amplia recreación autobiográfica de la formación y el entorno familiar del protagonista en Lieja."
+    },
+    {
+      "id": "simenon-les-fantomes-du-chapelier",
+      "titulo": "Los fantasmas del sombrerero",
+      "original": "Les Fantômes du chapelier",
+      "anio": 1949,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una serie de crímenes altera la vida de un sombrerero y de su comunidad."
+    },
+    {
+      "id": "simenon-le-fond-de-la-bouteille",
+      "titulo": "El fondo de la botella",
+      "original": "Le Fond de la bouteille",
+      "anio": 1949,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "El encuentro entre dos hermanos reabre conflictos en un escenario fronterizo estadounidense."
+    },
+    {
+      "id": "simenon-les-volets-verts",
+      "titulo": "Los postigos verdes",
+      "original": "Les Volets verts",
+      "anio": 1950,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un actor célebre afronta la decadencia y el peso de sus decisiones."
+    },
+    {
+      "id": "simenon-la-mort-de-belle",
+      "titulo": "La muerte de Belle",
+      "original": "La Mort de Belle",
+      "anio": 1952,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "La muerte de una joven coloca a un hombre corriente bajo sospecha."
+    },
+    {
+      "id": "simenon-les-anneaux-de-bicetre",
+      "titulo": "Las campanas de Bicêtre",
+      "original": "Les Anneaux de Bicêtre",
+      "anio": 1963,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un hombre hospitalizado se enfrenta a los recuerdos y a una transformación de su existencia."
     }
   ]
 }
