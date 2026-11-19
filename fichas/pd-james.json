@@ -1,0 +1,159 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "pd-james",
+    "nombre": "P. D. James",
+    "nombreCompleto": "P. D. James",
+    "nacimiento": "1920",
+    "fallecimiento": "2014",
+    "origen": "Reino Unido",
+    "pais": "Reino Unido",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1962,
+    "seudonimos": [],
+    "generos": [
+      "whodunit",
+      "police procedural"
+    ],
+    "imagen": "",
+    "resumen": "Referente de la novela detectivesca literaria y creadora de Adam Dalgliesh.",
+    "bio": [
+      "Phyllis Dorothy James conoció profesionalmente instituciones hospitalarias y administrativas británicas, ambientes que ayudaron a dar densidad a sus novelas.",
+      "Debutó con una investigación de Adam Dalgliesh en 1962. Sus libros conceden especial atención a la psicología, la desigualdad social y la dimensión moral de la pesquisa."
+    ],
+    "apunte": "Su detective Adam Dalgliesh es también poeta: el contraste entre investigación criminal y sensibilidad literaria forma parte de su caracterización.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "pd-james-dalgliesh",
+      "pd-james-gray"
+    ],
+    "series": [
+      "pd-james-dalgliesh",
+      "pd-james-cordelia"
+    ],
+    "obras": [
+      "pd-james-cover-her-face",
+      "pd-james-a-mind-to-murder",
+      "pd-james-shroud-for-a-nightingale",
+      "pd-james-an-unsuitable-job-for-a-woman"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "pd-james-dalgliesh",
+      "nombre": "Adam Dalgliesh",
+      "autor": "pd-james",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "pd-james-dalgliesh",
+      "obras": [
+        "pd-james-cover-her-face",
+        "pd-james-a-mind-to-murder",
+        "pd-james-shroud-for-a-nightingale"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador de Scotland Yard y poeta, dotado de gran introspección."
+    },
+    {
+      "id": "pd-james-gray",
+      "nombre": "Cordelia Gray",
+      "autor": "pd-james",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "pd-james-cordelia",
+      "obras": [
+        "pd-james-an-unsuitable-job-for-a-woman"
+      ],
+      "articulos": [],
+      "descripcion": "Joven detective privada que investiga con sensibilidad e independencia."
+    }
+  ],
+  "series": [
+    {
+      "id": "pd-james-dalgliesh",
+      "nombre": "Adam Dalgliesh",
+      "autor": "pd-james",
+      "descripcion": "Investigaciones del comandante y poeta Adam Dalgliesh."
+    },
+    {
+      "id": "pd-james-cordelia",
+      "nombre": "Cordelia Gray",
+      "autor": "pd-james",
+      "descripcion": "Novelas de la detective privada Cordelia Gray."
+    }
+  ],
+  "obras": [
+    {
+      "id": "pd-james-cover-her-face",
+      "titulo": "Cubridle el rostro",
+      "original": "Cover Her Face",
+      "anio": 1962,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Un crimen altera la vida de una casa acomodada y Dalgliesh desentraña tensiones entre familiares y empleados."
+    },
+    {
+      "id": "pd-james-a-mind-to-murder",
+      "titulo": "Una mente asesina",
+      "original": "A Mind to Murder",
+      "anio": 1963,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Un asesinato en una clínica psiquiátrica obliga a investigar relaciones complejas dentro de la institución."
+    },
+    {
+      "id": "pd-james-shroud-for-a-nightingale",
+      "titulo": "Mortaja para un ruiseñor",
+      "original": "Shroud for a Nightingale",
+      "anio": 1971,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Dos muertes inquietan a una escuela de enfermería y Dalgliesh reconstruye rivalidades y secretos."
+    },
+    {
+      "id": "pd-james-an-unsuitable-job-for-a-woman",
+      "titulo": "Un trabajo poco adecuado para una mujer",
+      "original": "An Unsuitable Job for a Woman",
+      "anio": 1972,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-cordelia",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Una joven detective privada recibe un caso de aparente suicidio y descubre circunstancias que cuestionan esa versión."
+    }
+  ]
+}
