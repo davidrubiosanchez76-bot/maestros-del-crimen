@@ -26,7 +26,9 @@
     "alcanceBibliografia": "selección inicial no exhaustiva",
     "articulos": [],
     "personajes": [
-      "vazquez-montalban-carvalho"
+      "vazquez-montalban-carvalho",
+      "vazquez-biscuter",
+      "vazquez-charo"
     ],
     "series": [
       "vazquez-montalban-carvalho"
@@ -35,7 +37,18 @@
       "vazquez-montalban-tatuaje",
       "vazquez-montalban-la-soledad-del-manager",
       "vazquez-montalban-los-mares-del-sur",
-      "vazquez-montalban-asesinato-en-el-comite-central"
+      "vazquez-montalban-asesinato-en-el-comite-central",
+      "vazquez-montalban-los-pajaros-de-bangkok",
+      "vazquez-montalban-la-rosa-de-alejandria",
+      "vazquez-montalban-el-balneario",
+      "vazquez-montalban-el-delantero-centro-fue-asesinado-al-atardecer",
+      "vazquez-montalban-el-laberinto-griego",
+      "vazquez-montalban-sabotaje-olimpico",
+      "vazquez-montalban-el-premio",
+      "vazquez-montalban-quinteto-de-buenos-aires",
+      "vazquez-montalban-el-hombre-de-mi-vida",
+      "vazquez-montalban-milenio-carvalho-i-rumbo-a-kabul",
+      "vazquez-montalban-milenio-carvalho-ii-en-las-antipodas"
     ]
   },
   "personajes": [
@@ -57,10 +70,89 @@
         "vazquez-montalban-tatuaje",
         "vazquez-montalban-la-soledad-del-manager",
         "vazquez-montalban-los-mares-del-sur",
-        "vazquez-montalban-asesinato-en-el-comite-central"
+        "vazquez-montalban-asesinato-en-el-comite-central",
+        "vazquez-montalban-los-pajaros-de-bangkok",
+        "vazquez-montalban-la-rosa-de-alejandria",
+        "vazquez-montalban-el-balneario",
+        "vazquez-montalban-el-delantero-centro-fue-asesinado-al-atardecer",
+        "vazquez-montalban-el-laberinto-griego",
+        "vazquez-montalban-sabotaje-olimpico",
+        "vazquez-montalban-el-premio",
+        "vazquez-montalban-quinteto-de-buenos-aires",
+        "vazquez-montalban-el-hombre-de-mi-vida",
+        "vazquez-montalban-milenio-carvalho-i-rumbo-a-kabul",
+        "vazquez-montalban-milenio-carvalho-ii-en-las-antipodas"
       ],
       "articulos": [],
       "descripcion": "Detective privado barcelonés, escéptico, culto y aficionado a la cocina."
+    },
+    {
+      "id": "vazquez-biscuter",
+      "nombre": "Biscuter",
+      "autor": "vazquez-montalban",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "vazquez-montalban-carvalho",
+      "obras": [
+        "vazquez-montalban-tatuaje",
+        "vazquez-montalban-la-soledad-del-manager",
+        "vazquez-montalban-los-mares-del-sur",
+        "vazquez-montalban-asesinato-en-el-comite-central",
+        "vazquez-montalban-los-pajaros-de-bangkok",
+        "vazquez-montalban-la-rosa-de-alejandria",
+        "vazquez-montalban-el-balneario",
+        "vazquez-montalban-el-delantero-centro-fue-asesinado-al-atardecer",
+        "vazquez-montalban-el-laberinto-griego",
+        "vazquez-montalban-sabotaje-olimpico",
+        "vazquez-montalban-el-premio",
+        "vazquez-montalban-quinteto-de-buenos-aires",
+        "vazquez-montalban-el-hombre-de-mi-vida",
+        "vazquez-montalban-milenio-carvalho-i-rumbo-a-kabul",
+        "vazquez-montalban-milenio-carvalho-ii-en-las-antipodas"
+      ],
+      "articulos": [],
+      "descripcion": "Ayudante de Carvalho y compañero en las actividades cotidianas de la investigación."
+    },
+    {
+      "id": "vazquez-charo",
+      "nombre": "Charo",
+      "autor": "vazquez-montalban",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "vazquez-montalban-carvalho",
+      "obras": [
+        "vazquez-montalban-tatuaje",
+        "vazquez-montalban-la-soledad-del-manager",
+        "vazquez-montalban-los-mares-del-sur",
+        "vazquez-montalban-asesinato-en-el-comite-central",
+        "vazquez-montalban-los-pajaros-de-bangkok",
+        "vazquez-montalban-la-rosa-de-alejandria",
+        "vazquez-montalban-el-balneario",
+        "vazquez-montalban-el-delantero-centro-fue-asesinado-al-atardecer",
+        "vazquez-montalban-el-laberinto-griego",
+        "vazquez-montalban-sabotaje-olimpico",
+        "vazquez-montalban-el-premio",
+        "vazquez-montalban-quinteto-de-buenos-aires",
+        "vazquez-montalban-el-hombre-de-mi-vida",
+        "vazquez-montalban-milenio-carvalho-i-rumbo-a-kabul",
+        "vazquez-montalban-milenio-carvalho-ii-en-las-antipodas"
+      ],
+      "articulos": [],
+      "descripcion": "Figura afectiva importante del universo de Carvalho, con identidad y trayectoria propias."
     }
   ],
   "series": [
@@ -127,6 +219,160 @@
         "police procedural"
       ],
       "sinopsis": "Un crimen dentro de una reunión política obliga a Carvalho a investigar lealtades, historia y disputas internas."
+    },
+    {
+      "id": "vazquez-montalban-los-pajaros-de-bangkok",
+      "titulo": "Los pájaros de Bangkok",
+      "original": "Los pájaros de Bangkok",
+      "anio": 1983,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una investigación lleva a Carvalho fuera de Barcelona y lo enfrenta a redes criminales internacionales."
+    },
+    {
+      "id": "vazquez-montalban-la-rosa-de-alejandria",
+      "titulo": "La rosa de Alejandría",
+      "original": "La rosa de Alejandría",
+      "anio": 1984,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Un asesinato relacionado con el mundo marítimo conduce a Carvalho hacia conflictos familiares y laborales."
+    },
+    {
+      "id": "vazquez-montalban-el-balneario",
+      "titulo": "El balneario",
+      "original": "El balneario",
+      "anio": 1986,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Carvalho se interna en un balneario donde una muerte rompe las apariencias de tranquilidad."
+    },
+    {
+      "id": "vazquez-montalban-el-delantero-centro-fue-asesinado-al-atardecer",
+      "titulo": "El delantero centro fue asesinado al atardecer",
+      "original": "El delantero centro fue asesinado al atardecer",
+      "anio": 1988,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Un caso en el fútbol profesional muestra la relación entre espectáculo, dinero y violencia."
+    },
+    {
+      "id": "vazquez-montalban-el-laberinto-griego",
+      "titulo": "El laberinto griego",
+      "original": "El laberinto griego",
+      "anio": 1991,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una investigación mueve a Carvalho entre Barcelona, el pasado y conflictos de identidad."
+    },
+    {
+      "id": "vazquez-montalban-sabotaje-olimpico",
+      "titulo": "Sabotaje olímpico",
+      "original": "Sabotaje olímpico",
+      "anio": 1993,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Las transformaciones urbanas asociadas a unos Juegos Olímpicos forman el escenario de una intriga."
+    },
+    {
+      "id": "vazquez-montalban-el-premio",
+      "titulo": "El premio",
+      "original": "El premio",
+      "anio": 1996,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "La investigación de un crimen durante una celebración literaria sirve de sátira del poder y el mundo cultural."
+    },
+    {
+      "id": "vazquez-montalban-quinteto-de-buenos-aires",
+      "titulo": "Quinteto de Buenos Aires",
+      "original": "Quinteto de Buenos Aires",
+      "anio": 1997,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Carvalho viaja a Argentina y se enfrenta a las huellas de la represión y la memoria política."
+    },
+    {
+      "id": "vazquez-montalban-el-hombre-de-mi-vida",
+      "titulo": "El hombre de mi vida",
+      "original": "El hombre de mi vida",
+      "anio": 2000,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Carvalho investiga una trama criminal en la Barcelona de fin de siglo."
+    },
+    {
+      "id": "vazquez-montalban-milenio-carvalho-i-rumbo-a-kabul",
+      "titulo": "Milenio Carvalho I: Rumbo a Kabul",
+      "original": "Milenio Carvalho I: Rumbo a Kabul",
+      "anio": 2004,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Viaje póstumo de Carvalho por varios escenarios internacionales, publicado tras la muerte de su autor."
+    },
+    {
+      "id": "vazquez-montalban-milenio-carvalho-ii-en-las-antipodas",
+      "titulo": "Milenio Carvalho II: En las antípodas",
+      "original": "Milenio Carvalho II: En las antípodas",
+      "anio": 2004,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Continuación de la última aventura de Carvalho, publicada póstumamente."
     }
   ]
 }
