@@ -1,0 +1,112 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "green",
+    "nombre": "Anna Katharine Green",
+    "nombreCompleto": "Anna Katharine Green",
+    "nacimiento": "1846",
+    "fallecimiento": "1935",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1878,
+    "seudonimos": [],
+    "generos": [
+      "whodunit"
+    ],
+    "imagen": "",
+    "resumen": "Pionera estadounidense de la novela detectivesca y creadora de Ebenezer Gryce.",
+    "bio": [
+      "Escritora nacida en Brooklyn cuya primera novela obtuvo un éxito notable cuando la narrativa policial aún definía sus convenciones.",
+      "Construyó pesquisas basadas en pruebas, declaraciones y razonamientos, y favoreció la consolidación de investigadores recurrentes dentro del género."
+    ],
+    "apunte": "Su obra incorporó también investigadoras y mujeres de gran iniciativa intelectual, un precedente importante de la diversificación de protagonistas del policial.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "green-gryce"
+    ],
+    "series": [
+      "green-gryce"
+    ],
+    "obras": [
+      "green-the-leavenworth-case",
+      "green-a-strange-disappearance",
+      "green-the-circular-study"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "green-gryce",
+      "nombre": "Ebenezer Gryce",
+      "autor": "green",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "green-gryce",
+      "obras": [
+        "green-the-leavenworth-case",
+        "green-a-strange-disappearance",
+        "green-the-circular-study"
+      ],
+      "articulos": [],
+      "descripcion": "Detective paciente y detallista de la ficción estadounidense temprana."
+    }
+  ],
+  "series": [
+    {
+      "id": "green-gryce",
+      "nombre": "Ebenezer Gryce",
+      "autor": "green",
+      "descripcion": "Serie del investigador neoyorquino Ebenezer Gryce."
+    }
+  ],
+  "obras": [
+    {
+      "id": "green-the-leavenworth-case",
+      "titulo": "El caso Leavenworth",
+      "original": "The Leavenworth Case",
+      "anio": 1878,
+      "autor": "green",
+      "seudonimo": "",
+      "serie": "green-gryce",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "El asesinato de un hombre rico dentro de su casa obliga a examinar herencias, familiares y testimonios contradictorios."
+    },
+    {
+      "id": "green-a-strange-disappearance",
+      "titulo": "Una desaparición extraña",
+      "original": "A Strange Disappearance",
+      "anio": 1880,
+      "autor": "green",
+      "seudonimo": "",
+      "serie": "green-gryce",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "La desaparición de una joven en una residencia acomodada conduce a una pesquisa sobre secretos ocultos."
+    },
+    {
+      "id": "green-the-circular-study",
+      "titulo": "El estudio circular",
+      "original": "The Circular Study",
+      "anio": 1900,
+      "autor": "green",
+      "seudonimo": "",
+      "serie": "green-gryce",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un crimen desconcertante pone a prueba la paciencia del detective Gryce y su interpretación de indicios."
+    }
+  ]
+}
