@@ -35,7 +35,10 @@
       "gaboriau-l-affaire-lerouge",
       "gaboriau-le-crime-d-orcival",
       "gaboriau-le-dossier-n-113",
-      "gaboriau-monsieur-lecoq"
+      "gaboriau-monsieur-lecoq",
+      "gaboriau-les-esclaves-de-paris",
+      "gaboriau-la-vie-infernale",
+      "gaboriau-la-degringolade"
     ]
   },
   "personajes": [
@@ -126,6 +129,48 @@
         "police procedural"
       ],
       "sinopsis": "Un episodio violento en las afueras parisinas arrastra a Lecoq hacia una compleja trama de falsas identidades."
+    },
+    {
+      "id": "gaboriau-les-esclaves-de-paris",
+      "titulo": "Los esclavos de París",
+      "original": "Les Esclaves de Paris",
+      "anio": 1868,
+      "autor": "gaboriau",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Una intriga folletinesca sobre chantaje, ambición y manipulación en la capital francesa."
+    },
+    {
+      "id": "gaboriau-la-vie-infernale",
+      "titulo": "La vida infernal",
+      "original": "La Vie infernale",
+      "anio": 1870,
+      "autor": "gaboriau",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Las vidas de distintos personajes se cruzan en una trama de intereses ocultos y delitos de la sociedad parisina."
+    },
+    {
+      "id": "gaboriau-la-degringolade",
+      "titulo": "La degradación",
+      "original": "La Dégringolade",
+      "anio": 1871,
+      "autor": "gaboriau",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "sinopsis": "Una caída social desencadena una historia de secretos y conflictos en una Francia convulsionada."
     }
   ]
 }
