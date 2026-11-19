@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-19-sagas-expanded-2",
+  "version": "2026-11-19-big-novel-series-3",
   "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · algunas bibliografías son selecciones iniciales que se ampliarán progresivamente.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -811,15 +811,33 @@
       "personajes": [
         "gardner-mason",
         "gardner-della",
-        "gardner-drake"
+        "gardner-drake",
+        "gardner-cool",
+        "gardner-lam"
       ],
       "series": [
-        "gardner-mason"
+        "gardner-mason",
+        "gardner-cool-lam"
       ],
       "obras": [
         "gardner-the-case-of-the-velvet-claws",
         "gardner-the-case-of-the-sulky-girl",
-        "gardner-the-case-of-the-howling-dog"
+        "gardner-the-case-of-the-howling-dog",
+        "gardner-the-case-of-the-curious-bride",
+        "gardner-the-case-of-the-counterfeit-eye",
+        "gardner-the-case-of-the-sleepwalker-s-niece",
+        "gardner-the-case-of-the-stuttering-bishop",
+        "gardner-the-case-of-the-dangerous-dowager",
+        "gardner-the-case-of-the-lame-canary",
+        "gardner-the-case-of-the-substitute-face",
+        "gardner-the-case-of-the-perjured-parrot",
+        "gardner-the-case-of-the-rolling-bones",
+        "gardner-the-case-of-the-silent-partner",
+        "gardner-the-case-of-the-empty-tin",
+        "gardner-the-case-of-the-crooked-candle",
+        "gardner-the-bigger-they-come",
+        "gardner-turn-on-the-heat",
+        "gardner-gold-comes-in-bricks"
       ]
     },
     {
@@ -921,7 +939,22 @@
         "ross-macdonald-the-dark-tunnel",
         "ross-macdonald-the-moving-target",
         "ross-macdonald-the-drowning-pool",
-        "ross-macdonald-the-galton-case"
+        "ross-macdonald-the-galton-case",
+        "ross-macdonald-the-way-some-people-die",
+        "ross-macdonald-the-ivory-grin",
+        "ross-macdonald-find-a-victim",
+        "ross-macdonald-the-barbarous-coast",
+        "ross-macdonald-the-doomsters",
+        "ross-macdonald-the-wycherly-woman",
+        "ross-macdonald-the-zebra-striped-hearse",
+        "ross-macdonald-the-chill",
+        "ross-macdonald-the-far-side-of-the-dollar",
+        "ross-macdonald-black-money",
+        "ross-macdonald-the-instant-enemy",
+        "ross-macdonald-the-goodbye-look",
+        "ross-macdonald-the-underground-man",
+        "ross-macdonald-sleeping-beauty",
+        "ross-macdonald-the-blue-hammer"
       ]
     },
     {
@@ -1131,7 +1164,20 @@
         "pd-james-cover-her-face",
         "pd-james-a-mind-to-murder",
         "pd-james-shroud-for-a-nightingale",
-        "pd-james-an-unsuitable-job-for-a-woman"
+        "pd-james-an-unsuitable-job-for-a-woman",
+        "pd-james-unnatural-causes",
+        "pd-james-the-black-tower",
+        "pd-james-death-of-an-expert-witness",
+        "pd-james-the-skull-beneath-the-skin",
+        "pd-james-a-taste-for-death",
+        "pd-james-devices-and-desires",
+        "pd-james-original-sin",
+        "pd-james-a-certain-justice",
+        "pd-james-death-in-holy-orders",
+        "pd-james-the-murder-room",
+        "pd-james-the-lighthouse",
+        "pd-james-the-private-patient",
+        "pd-james-innocent-blood"
       ]
     },
     {
@@ -1240,7 +1286,9 @@
       "alcanceBibliografia": "selección inicial no exhaustiva",
       "articulos": [],
       "personajes": [
-        "vazquez-montalban-carvalho"
+        "vazquez-montalban-carvalho",
+        "vazquez-biscuter",
+        "vazquez-charo"
       ],
       "series": [
         "vazquez-montalban-carvalho"
@@ -1249,7 +1297,18 @@
         "vazquez-montalban-tatuaje",
         "vazquez-montalban-la-soledad-del-manager",
         "vazquez-montalban-los-mares-del-sur",
-        "vazquez-montalban-asesinato-en-el-comite-central"
+        "vazquez-montalban-asesinato-en-el-comite-central",
+        "vazquez-montalban-los-pajaros-de-bangkok",
+        "vazquez-montalban-la-rosa-de-alejandria",
+        "vazquez-montalban-el-balneario",
+        "vazquez-montalban-el-delantero-centro-fue-asesinado-al-atardecer",
+        "vazquez-montalban-el-laberinto-griego",
+        "vazquez-montalban-sabotaje-olimpico",
+        "vazquez-montalban-el-premio",
+        "vazquez-montalban-quinteto-de-buenos-aires",
+        "vazquez-montalban-el-hombre-de-mi-vida",
+        "vazquez-montalban-milenio-carvalho-i-rumbo-a-kabul",
+        "vazquez-montalban-milenio-carvalho-ii-en-las-antipodas"
       ]
     },
     {
@@ -1578,7 +1637,13 @@
       "obras": [
         "gonzalez-ledesma-expediente-barcelona",
         "gonzalez-ledesma-cronica-sentimental-en-rojo",
-        "gonzalez-ledesma-una-novela-de-barrio"
+        "gonzalez-ledesma-una-novela-de-barrio",
+        "gonzalez-ledesma-las-calles-de-nuestros-padres",
+        "gonzalez-ledesma-la-dama-de-cachemira",
+        "gonzalez-ledesma-historia-de-dios-en-una-esquina",
+        "gonzalez-ledesma-el-pecado-o-algo-parecido",
+        "gonzalez-ledesma-cinco-mujeres-y-media",
+        "gonzalez-ledesma-no-hay-que-morir-dos-veces"
       ],
       "debutPorVerificar": true
     }
@@ -2100,69 +2165,6 @@
       "articulos": []
     },
     {
-      "id": "gardner-mason",
-      "nombre": "Perry Mason",
-      "autor": "gardner",
-      "ocupacion": "Abogado / justicia",
-      "ocupacionDetalle": "Abogado / justicia",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "gardner-mason",
-      "obras": [
-        "gardner-the-case-of-the-velvet-claws",
-        "gardner-the-case-of-the-sulky-girl",
-        "gardner-the-case-of-the-howling-dog"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "gardner-della",
-      "nombre": "Della Street",
-      "autor": "gardner",
-      "ocupacion": "Otras ocupaciones",
-      "ocupacionDetalle": "Otras ocupaciones",
-      "sexo": "Femenino",
-      "roles": [
-        "Compañero / ayudante"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "gardner-mason",
-      "obras": [
-        "gardner-the-case-of-the-velvet-claws",
-        "gardner-the-case-of-the-sulky-girl",
-        "gardner-the-case-of-the-howling-dog"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "gardner-drake",
-      "nombre": "Paul Drake",
-      "autor": "gardner",
-      "ocupacion": "Detective privado",
-      "ocupacionDetalle": "Detective privado",
-      "sexo": "Masculino",
-      "roles": [
-        "Aliado / colaborador"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "gardner-mason",
-      "obras": [
-        "gardner-the-case-of-the-velvet-claws",
-        "gardner-the-case-of-the-sulky-girl",
-        "gardner-the-case-of-the-howling-dog"
-      ],
-      "articulos": []
-    },
-    {
       "id": "cain-frank",
       "nombre": "Frank Chambers",
       "autor": "cain",
@@ -2216,27 +2218,6 @@
       "serie": "",
       "obras": [
         "woolrich-phantom-lady"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "ross-macdonald-archer",
-      "nombre": "Lew Archer",
-      "autor": "ross-macdonald",
-      "ocupacion": "Detective privado",
-      "ocupacionDetalle": "Detective privado",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "ross-macdonald-archer",
-      "obras": [
-        "ross-macdonald-the-moving-target",
-        "ross-macdonald-the-drowning-pool",
-        "ross-macdonald-the-galton-case"
       ],
       "articulos": []
     },
@@ -2318,68 +2299,6 @@
         "mcbain-the-mugger",
         "mcbain-the-pusher",
         "mcbain-king-s-ransom"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "pd-james-dalgliesh",
-      "nombre": "Adam Dalgliesh",
-      "autor": "pd-james",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Policía",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "pd-james-dalgliesh",
-      "obras": [
-        "pd-james-cover-her-face",
-        "pd-james-a-mind-to-murder",
-        "pd-james-shroud-for-a-nightingale"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "pd-james-gray",
-      "nombre": "Cordelia Gray",
-      "autor": "pd-james",
-      "ocupacion": "Detective privado",
-      "ocupacionDetalle": "Detective privado",
-      "sexo": "Femenino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "pd-james-cordelia",
-      "obras": [
-        "pd-james-an-unsuitable-job-for-a-woman"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "vazquez-montalban-carvalho",
-      "nombre": "Pepe Carvalho",
-      "autor": "vazquez-montalban",
-      "ocupacion": "Detective privado",
-      "ocupacionDetalle": "Detective privado",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "vazquez-montalban-carvalho",
-      "obras": [
-        "vazquez-montalban-tatuaje",
-        "vazquez-montalban-la-soledad-del-manager",
-        "vazquez-montalban-los-mares-del-sur",
-        "vazquez-montalban-asesinato-en-el-comite-central"
       ],
       "articulos": []
     },
@@ -2648,27 +2567,6 @@
       "serie": "",
       "obras": [
         "leonard-the-big-bounce"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "gonzalez-ledesma-mendez",
-      "nombre": "Ricardo Méndez",
-      "autor": "gonzalez-ledesma",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Policía",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "gonzalez-ledesma-mendez",
-      "obras": [
-        "gonzalez-ledesma-expediente-barcelona",
-        "gonzalez-ledesma-cronica-sentimental-en-rojo",
-        "gonzalez-ledesma-una-novela-de-barrio"
       ],
       "articulos": []
     },
@@ -3412,6 +3310,361 @@
         "rendell-some-lie-and-some-die"
       ],
       "articulos": []
+    },
+    {
+      "id": "pd-james-dalgliesh",
+      "nombre": "Adam Dalgliesh",
+      "autor": "pd-james",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "pd-james-dalgliesh",
+      "obras": [
+        "pd-james-cover-her-face",
+        "pd-james-a-mind-to-murder",
+        "pd-james-shroud-for-a-nightingale",
+        "pd-james-unnatural-causes",
+        "pd-james-the-black-tower",
+        "pd-james-death-of-an-expert-witness",
+        "pd-james-a-taste-for-death",
+        "pd-james-devices-and-desires",
+        "pd-james-original-sin",
+        "pd-james-a-certain-justice",
+        "pd-james-death-in-holy-orders",
+        "pd-james-the-murder-room",
+        "pd-james-the-lighthouse",
+        "pd-james-the-private-patient"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "pd-james-gray",
+      "nombre": "Cordelia Gray",
+      "autor": "pd-james",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "pd-james-cordelia",
+      "obras": [
+        "pd-james-an-unsuitable-job-for-a-woman",
+        "pd-james-the-skull-beneath-the-skin"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "ross-macdonald-archer",
+      "nombre": "Lew Archer",
+      "autor": "ross-macdonald",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "ross-macdonald-archer",
+      "obras": [
+        "ross-macdonald-the-moving-target",
+        "ross-macdonald-the-drowning-pool",
+        "ross-macdonald-the-galton-case",
+        "ross-macdonald-the-way-some-people-die",
+        "ross-macdonald-the-ivory-grin",
+        "ross-macdonald-find-a-victim",
+        "ross-macdonald-the-barbarous-coast",
+        "ross-macdonald-the-doomsters",
+        "ross-macdonald-the-wycherly-woman",
+        "ross-macdonald-the-zebra-striped-hearse",
+        "ross-macdonald-the-chill",
+        "ross-macdonald-the-far-side-of-the-dollar",
+        "ross-macdonald-black-money",
+        "ross-macdonald-the-instant-enemy",
+        "ross-macdonald-the-goodbye-look",
+        "ross-macdonald-the-underground-man",
+        "ross-macdonald-sleeping-beauty",
+        "ross-macdonald-the-blue-hammer"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "vazquez-montalban-carvalho",
+      "nombre": "Pepe Carvalho",
+      "autor": "vazquez-montalban",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "vazquez-montalban-carvalho",
+      "obras": [
+        "vazquez-montalban-tatuaje",
+        "vazquez-montalban-la-soledad-del-manager",
+        "vazquez-montalban-los-mares-del-sur",
+        "vazquez-montalban-asesinato-en-el-comite-central",
+        "vazquez-montalban-los-pajaros-de-bangkok",
+        "vazquez-montalban-la-rosa-de-alejandria",
+        "vazquez-montalban-el-balneario",
+        "vazquez-montalban-el-delantero-centro-fue-asesinado-al-atardecer",
+        "vazquez-montalban-el-laberinto-griego",
+        "vazquez-montalban-sabotaje-olimpico",
+        "vazquez-montalban-el-premio",
+        "vazquez-montalban-quinteto-de-buenos-aires",
+        "vazquez-montalban-el-hombre-de-mi-vida",
+        "vazquez-montalban-milenio-carvalho-i-rumbo-a-kabul",
+        "vazquez-montalban-milenio-carvalho-ii-en-las-antipodas"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "vazquez-biscuter",
+      "nombre": "Biscuter",
+      "autor": "vazquez-montalban",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "vazquez-montalban-carvalho",
+      "obras": [
+        "vazquez-montalban-tatuaje",
+        "vazquez-montalban-la-soledad-del-manager",
+        "vazquez-montalban-los-mares-del-sur",
+        "vazquez-montalban-asesinato-en-el-comite-central",
+        "vazquez-montalban-los-pajaros-de-bangkok",
+        "vazquez-montalban-la-rosa-de-alejandria",
+        "vazquez-montalban-el-balneario",
+        "vazquez-montalban-el-delantero-centro-fue-asesinado-al-atardecer",
+        "vazquez-montalban-el-laberinto-griego",
+        "vazquez-montalban-sabotaje-olimpico",
+        "vazquez-montalban-el-premio",
+        "vazquez-montalban-quinteto-de-buenos-aires",
+        "vazquez-montalban-el-hombre-de-mi-vida",
+        "vazquez-montalban-milenio-carvalho-i-rumbo-a-kabul",
+        "vazquez-montalban-milenio-carvalho-ii-en-las-antipodas"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "vazquez-charo",
+      "nombre": "Charo",
+      "autor": "vazquez-montalban",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "vazquez-montalban-carvalho",
+      "obras": [
+        "vazquez-montalban-tatuaje",
+        "vazquez-montalban-la-soledad-del-manager",
+        "vazquez-montalban-los-mares-del-sur",
+        "vazquez-montalban-asesinato-en-el-comite-central",
+        "vazquez-montalban-los-pajaros-de-bangkok",
+        "vazquez-montalban-la-rosa-de-alejandria",
+        "vazquez-montalban-el-balneario",
+        "vazquez-montalban-el-delantero-centro-fue-asesinado-al-atardecer",
+        "vazquez-montalban-el-laberinto-griego",
+        "vazquez-montalban-sabotaje-olimpico",
+        "vazquez-montalban-el-premio",
+        "vazquez-montalban-quinteto-de-buenos-aires",
+        "vazquez-montalban-el-hombre-de-mi-vida",
+        "vazquez-montalban-milenio-carvalho-i-rumbo-a-kabul",
+        "vazquez-montalban-milenio-carvalho-ii-en-las-antipodas"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "gonzalez-ledesma-mendez",
+      "nombre": "Ricardo Méndez",
+      "autor": "gonzalez-ledesma",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "gonzalez-ledesma-mendez",
+      "obras": [
+        "gonzalez-ledesma-expediente-barcelona",
+        "gonzalez-ledesma-cronica-sentimental-en-rojo",
+        "gonzalez-ledesma-una-novela-de-barrio",
+        "gonzalez-ledesma-las-calles-de-nuestros-padres",
+        "gonzalez-ledesma-la-dama-de-cachemira",
+        "gonzalez-ledesma-historia-de-dios-en-una-esquina",
+        "gonzalez-ledesma-el-pecado-o-algo-parecido",
+        "gonzalez-ledesma-cinco-mujeres-y-media",
+        "gonzalez-ledesma-no-hay-que-morir-dos-veces"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "gardner-mason",
+      "nombre": "Perry Mason",
+      "autor": "gardner",
+      "ocupacion": "Abogado / justicia",
+      "ocupacionDetalle": "Abogado / justicia",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "gardner-mason",
+      "obras": [
+        "gardner-the-case-of-the-velvet-claws",
+        "gardner-the-case-of-the-sulky-girl",
+        "gardner-the-case-of-the-howling-dog",
+        "gardner-the-case-of-the-curious-bride",
+        "gardner-the-case-of-the-counterfeit-eye",
+        "gardner-the-case-of-the-sleepwalker-s-niece",
+        "gardner-the-case-of-the-stuttering-bishop",
+        "gardner-the-case-of-the-dangerous-dowager",
+        "gardner-the-case-of-the-lame-canary",
+        "gardner-the-case-of-the-substitute-face",
+        "gardner-the-case-of-the-perjured-parrot",
+        "gardner-the-case-of-the-rolling-bones",
+        "gardner-the-case-of-the-silent-partner",
+        "gardner-the-case-of-the-empty-tin",
+        "gardner-the-case-of-the-crooked-candle"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "gardner-della",
+      "nombre": "Della Street",
+      "autor": "gardner",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Femenino",
+      "roles": [
+        "Compañero / ayudante"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "gardner-mason",
+      "obras": [
+        "gardner-the-case-of-the-velvet-claws",
+        "gardner-the-case-of-the-sulky-girl",
+        "gardner-the-case-of-the-howling-dog",
+        "gardner-the-case-of-the-curious-bride",
+        "gardner-the-case-of-the-counterfeit-eye",
+        "gardner-the-case-of-the-sleepwalker-s-niece",
+        "gardner-the-case-of-the-stuttering-bishop",
+        "gardner-the-case-of-the-dangerous-dowager",
+        "gardner-the-case-of-the-lame-canary",
+        "gardner-the-case-of-the-substitute-face",
+        "gardner-the-case-of-the-perjured-parrot",
+        "gardner-the-case-of-the-rolling-bones",
+        "gardner-the-case-of-the-silent-partner",
+        "gardner-the-case-of-the-empty-tin",
+        "gardner-the-case-of-the-crooked-candle"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "gardner-drake",
+      "nombre": "Paul Drake",
+      "autor": "gardner",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "gardner-mason",
+      "obras": [
+        "gardner-the-case-of-the-velvet-claws",
+        "gardner-the-case-of-the-sulky-girl",
+        "gardner-the-case-of-the-howling-dog",
+        "gardner-the-case-of-the-curious-bride",
+        "gardner-the-case-of-the-counterfeit-eye",
+        "gardner-the-case-of-the-sleepwalker-s-niece",
+        "gardner-the-case-of-the-stuttering-bishop",
+        "gardner-the-case-of-the-dangerous-dowager",
+        "gardner-the-case-of-the-lame-canary",
+        "gardner-the-case-of-the-substitute-face",
+        "gardner-the-case-of-the-perjured-parrot",
+        "gardner-the-case-of-the-rolling-bones",
+        "gardner-the-case-of-the-silent-partner",
+        "gardner-the-case-of-the-empty-tin",
+        "gardner-the-case-of-the-crooked-candle"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "gardner-cool",
+      "nombre": "Bertha Cool",
+      "autor": "gardner",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "gardner-cool-lam",
+      "obras": [
+        "gardner-the-bigger-they-come",
+        "gardner-turn-on-the-heat",
+        "gardner-gold-comes-in-bricks"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "gardner-lam",
+      "nombre": "Donald Lam",
+      "autor": "gardner",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "gardner-cool-lam",
+      "obras": [
+        "gardner-the-bigger-they-come",
+        "gardner-turn-on-the-heat",
+        "gardner-gold-comes-in-bricks"
+      ],
+      "articulos": []
     }
   ],
   "series": [
@@ -3518,18 +3771,6 @@
       "descripcion": "Personajes centrales de El hombre delgado."
     },
     {
-      "id": "gardner-mason",
-      "nombre": "Perry Mason",
-      "autor": "gardner",
-      "descripcion": "Serie del abogado defensor Perry Mason."
-    },
-    {
-      "id": "ross-macdonald-archer",
-      "nombre": "Lew Archer",
-      "autor": "ross-macdonald",
-      "descripcion": "Investigaciones privadas de Lew Archer en California."
-    },
-    {
       "id": "marsh-alleyn",
       "nombre": "Roderick Alleyn",
       "autor": "marsh",
@@ -3540,24 +3781,6 @@
       "nombre": "Distrito 87",
       "autor": "mcbain",
       "descripcion": "Novelas corales del imaginario Distrito 87."
-    },
-    {
-      "id": "pd-james-dalgliesh",
-      "nombre": "Adam Dalgliesh",
-      "autor": "pd-james",
-      "descripcion": "Investigaciones del comandante y poeta Adam Dalgliesh."
-    },
-    {
-      "id": "pd-james-cordelia",
-      "nombre": "Cordelia Gray",
-      "autor": "pd-james",
-      "descripcion": "Novelas de la detective privada Cordelia Gray."
-    },
-    {
-      "id": "vazquez-montalban-carvalho",
-      "nombre": "Pepe Carvalho",
-      "autor": "vazquez-montalban",
-      "descripcion": "Serie del detective Pepe Carvalho y su universo barcelonés."
     },
     {
       "id": "taibo-ii-belascoaran",
@@ -3600,12 +3823,6 @@
       "nombre": "Comisario Bärlach",
       "autor": "durrenmatt",
       "descripcion": "Dos novelas policiales con el comisario Hans Bärlach."
-    },
-    {
-      "id": "gonzalez-ledesma-mendez",
-      "nombre": "Inspector Méndez",
-      "autor": "gonzalez-ledesma",
-      "descripcion": "Novelas del inspector Ricardo Méndez ambientadas principalmente en Barcelona."
     },
     {
       "id": "race",
@@ -3678,6 +3895,48 @@
       "nombre": "Inspector Wexford",
       "autor": "rendell",
       "descripcion": "Investigaciones del inspector Reginald Wexford."
+    },
+    {
+      "id": "pd-james-dalgliesh",
+      "nombre": "Adam Dalgliesh",
+      "autor": "pd-james",
+      "descripcion": "Investigaciones del comandante y poeta Adam Dalgliesh."
+    },
+    {
+      "id": "pd-james-cordelia",
+      "nombre": "Cordelia Gray",
+      "autor": "pd-james",
+      "descripcion": "Novelas de la detective privada Cordelia Gray."
+    },
+    {
+      "id": "ross-macdonald-archer",
+      "nombre": "Lew Archer",
+      "autor": "ross-macdonald",
+      "descripcion": "Investigaciones privadas de Lew Archer en California."
+    },
+    {
+      "id": "vazquez-montalban-carvalho",
+      "nombre": "Pepe Carvalho",
+      "autor": "vazquez-montalban",
+      "descripcion": "Serie del detective Pepe Carvalho y su universo barcelonés."
+    },
+    {
+      "id": "gonzalez-ledesma-mendez",
+      "nombre": "Inspector Méndez",
+      "autor": "gonzalez-ledesma",
+      "descripcion": "Novelas del inspector Ricardo Méndez ambientadas principalmente en Barcelona."
+    },
+    {
+      "id": "gardner-mason",
+      "nombre": "Perry Mason",
+      "autor": "gardner",
+      "descripcion": "Serie del abogado defensor Perry Mason."
+    },
+    {
+      "id": "gardner-cool-lam",
+      "nombre": "Bertha Cool y Donald Lam",
+      "autor": "gardner",
+      "descripcion": "Serie de investigadores privados publicada como A. A. Fair."
     }
   ],
   "obras": [
@@ -5216,45 +5475,6 @@
       ]
     },
     {
-      "id": "gardner-the-case-of-the-velvet-claws",
-      "titulo": "El caso de las garras de terciopelo",
-      "original": "The Case of the Velvet Claws",
-      "anio": 1933,
-      "autor": "gardner",
-      "seudonimo": "",
-      "serie": "gardner-mason",
-      "generos": [
-        "whodunit",
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "gardner-the-case-of-the-sulky-girl",
-      "titulo": "The Case of the Sulky Girl",
-      "original": "The Case of the Sulky Girl",
-      "anio": 1933,
-      "autor": "gardner",
-      "seudonimo": "",
-      "serie": "gardner-mason",
-      "generos": [
-        "whodunit",
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "gardner-the-case-of-the-howling-dog",
-      "titulo": "El caso del perro aullador",
-      "original": "The Case of the Howling Dog",
-      "anio": 1934,
-      "autor": "gardner",
-      "seudonimo": "",
-      "serie": "gardner-mason",
-      "generos": [
-        "whodunit",
-        "crime thriller"
-      ]
-    },
-    {
       "id": "cain-the-postman-always-rings-twice",
       "titulo": "El cartero siempre llama dos veces",
       "original": "The Postman Always Rings Twice",
@@ -5356,58 +5576,6 @@
       "generos": [
         "psychological thriller",
         "crime thriller"
-      ]
-    },
-    {
-      "id": "ross-macdonald-the-dark-tunnel",
-      "titulo": "The Dark Tunnel",
-      "original": "The Dark Tunnel",
-      "anio": 1944,
-      "autor": "ross-macdonald",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "hardboiled",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "ross-macdonald-the-moving-target",
-      "titulo": "El blanco móvil",
-      "original": "The Moving Target",
-      "anio": 1949,
-      "autor": "ross-macdonald",
-      "seudonimo": "",
-      "serie": "ross-macdonald-archer",
-      "generos": [
-        "hardboiled",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "ross-macdonald-the-drowning-pool",
-      "titulo": "La piscina mortal",
-      "original": "The Drowning Pool",
-      "anio": 1950,
-      "autor": "ross-macdonald",
-      "seudonimo": "",
-      "serie": "ross-macdonald-archer",
-      "generos": [
-        "hardboiled",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "ross-macdonald-the-galton-case",
-      "titulo": "El caso Galton",
-      "original": "The Galton Case",
-      "anio": 1959,
-      "autor": "ross-macdonald",
-      "seudonimo": "",
-      "serie": "ross-macdonald-archer",
-      "generos": [
-        "hardboiled",
-        "psychological thriller"
       ]
     },
     {
@@ -5582,110 +5750,6 @@
       "seudonimo": "",
       "serie": "mcbain-87",
       "generos": [
-        "police procedural"
-      ]
-    },
-    {
-      "id": "pd-james-cover-her-face",
-      "titulo": "Cubridle el rostro",
-      "original": "Cover Her Face",
-      "anio": 1962,
-      "autor": "pd-james",
-      "seudonimo": "",
-      "serie": "pd-james-dalgliesh",
-      "generos": [
-        "whodunit",
-        "police procedural"
-      ]
-    },
-    {
-      "id": "pd-james-a-mind-to-murder",
-      "titulo": "Una mente asesina",
-      "original": "A Mind to Murder",
-      "anio": 1963,
-      "autor": "pd-james",
-      "seudonimo": "",
-      "serie": "pd-james-dalgliesh",
-      "generos": [
-        "whodunit",
-        "police procedural"
-      ]
-    },
-    {
-      "id": "pd-james-shroud-for-a-nightingale",
-      "titulo": "Mortaja para un ruiseñor",
-      "original": "Shroud for a Nightingale",
-      "anio": 1971,
-      "autor": "pd-james",
-      "seudonimo": "",
-      "serie": "pd-james-dalgliesh",
-      "generos": [
-        "whodunit",
-        "police procedural"
-      ]
-    },
-    {
-      "id": "pd-james-an-unsuitable-job-for-a-woman",
-      "titulo": "Un trabajo poco adecuado para una mujer",
-      "original": "An Unsuitable Job for a Woman",
-      "anio": 1972,
-      "autor": "pd-james",
-      "seudonimo": "",
-      "serie": "pd-james-cordelia",
-      "generos": [
-        "whodunit",
-        "police procedural"
-      ]
-    },
-    {
-      "id": "vazquez-montalban-tatuaje",
-      "titulo": "Tatuaje",
-      "original": "Tatuaje",
-      "anio": 1974,
-      "autor": "vazquez-montalban",
-      "seudonimo": "",
-      "serie": "vazquez-montalban-carvalho",
-      "generos": [
-        "hardboiled",
-        "police procedural"
-      ]
-    },
-    {
-      "id": "vazquez-montalban-la-soledad-del-manager",
-      "titulo": "La soledad del manager",
-      "original": "La soledad del manager",
-      "anio": 1977,
-      "autor": "vazquez-montalban",
-      "seudonimo": "",
-      "serie": "vazquez-montalban-carvalho",
-      "generos": [
-        "hardboiled",
-        "police procedural"
-      ]
-    },
-    {
-      "id": "vazquez-montalban-los-mares-del-sur",
-      "titulo": "Los mares del Sur",
-      "original": "Los mares del Sur",
-      "anio": 1979,
-      "autor": "vazquez-montalban",
-      "seudonimo": "",
-      "serie": "vazquez-montalban-carvalho",
-      "generos": [
-        "hardboiled",
-        "police procedural"
-      ]
-    },
-    {
-      "id": "vazquez-montalban-asesinato-en-el-comite-central",
-      "titulo": "Asesinato en el Comité Central",
-      "original": "Asesinato en el Comité Central",
-      "anio": 1981,
-      "autor": "vazquez-montalban",
-      "seudonimo": "",
-      "serie": "vazquez-montalban-carvalho",
-      "generos": [
-        "hardboiled",
         "police procedural"
       ]
     },
@@ -6125,45 +6189,6 @@
       "generos": [
         "crook story",
         "crime thriller"
-      ]
-    },
-    {
-      "id": "gonzalez-ledesma-expediente-barcelona",
-      "titulo": "Expediente Barcelona",
-      "original": "Expediente Barcelona",
-      "anio": 1983,
-      "autor": "gonzalez-ledesma",
-      "seudonimo": "",
-      "serie": "gonzalez-ledesma-mendez",
-      "generos": [
-        "hardboiled",
-        "police procedural"
-      ]
-    },
-    {
-      "id": "gonzalez-ledesma-cronica-sentimental-en-rojo",
-      "titulo": "Crónica sentimental en rojo",
-      "original": "Crónica sentimental en rojo",
-      "anio": 1984,
-      "autor": "gonzalez-ledesma",
-      "seudonimo": "",
-      "serie": "gonzalez-ledesma-mendez",
-      "generos": [
-        "hardboiled",
-        "police procedural"
-      ]
-    },
-    {
-      "id": "gonzalez-ledesma-una-novela-de-barrio",
-      "titulo": "Una novela de barrio",
-      "original": "Una novela de barrio",
-      "anio": 2007,
-      "autor": "gonzalez-ledesma",
-      "seudonimo": "",
-      "serie": "gonzalez-ledesma-mendez",
-      "generos": [
-        "hardboiled",
-        "police procedural"
       ]
     },
     {
@@ -7796,6 +7821,1020 @@
         "whodunit",
         "psychological thriller"
       ]
+    },
+    {
+      "id": "pd-james-cover-her-face",
+      "titulo": "Cubridle el rostro",
+      "original": "Cover Her Face",
+      "anio": 1962,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-a-mind-to-murder",
+      "titulo": "Una mente asesina",
+      "original": "A Mind to Murder",
+      "anio": 1963,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-shroud-for-a-nightingale",
+      "titulo": "Mortaja para un ruiseñor",
+      "original": "Shroud for a Nightingale",
+      "anio": 1971,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-an-unsuitable-job-for-a-woman",
+      "titulo": "Un trabajo poco adecuado para una mujer",
+      "original": "An Unsuitable Job for a Woman",
+      "anio": 1972,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-cordelia",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-unnatural-causes",
+      "titulo": "Muertes poco naturales",
+      "original": "Unnatural Causes",
+      "anio": 1967,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-the-black-tower",
+      "titulo": "La torre negra",
+      "original": "The Black Tower",
+      "anio": 1975,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-death-of-an-expert-witness",
+      "titulo": "La muerte de un forense",
+      "original": "Death of an Expert Witness",
+      "anio": 1977,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-the-skull-beneath-the-skin",
+      "titulo": "La calavera bajo la piel",
+      "original": "The Skull Beneath the Skin",
+      "anio": 1982,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-cordelia",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-a-taste-for-death",
+      "titulo": "Sabor a muerte",
+      "original": "A Taste for Death",
+      "anio": 1986,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-devices-and-desires",
+      "titulo": "Intrigas y deseos",
+      "original": "Devices and Desires",
+      "anio": 1989,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-original-sin",
+      "titulo": "El pecado original",
+      "original": "Original Sin",
+      "anio": 1994,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-a-certain-justice",
+      "titulo": "Una cierta justicia",
+      "original": "A Certain Justice",
+      "anio": 1997,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-death-in-holy-orders",
+      "titulo": "Muerte en el seminario",
+      "original": "Death in Holy Orders",
+      "anio": 2001,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-the-murder-room",
+      "titulo": "La sala del crimen",
+      "original": "The Murder Room",
+      "anio": 2003,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-the-lighthouse",
+      "titulo": "El faro",
+      "original": "The Lighthouse",
+      "anio": 2005,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-the-private-patient",
+      "titulo": "The Private Patient",
+      "original": "The Private Patient",
+      "anio": 2008,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "pd-james-dalgliesh",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "pd-james-innocent-blood",
+      "titulo": "Sangre inocente",
+      "original": "Innocent Blood",
+      "anio": 1980,
+      "autor": "pd-james",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-dark-tunnel",
+      "titulo": "The Dark Tunnel",
+      "original": "The Dark Tunnel",
+      "anio": 1944,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-moving-target",
+      "titulo": "El blanco móvil",
+      "original": "The Moving Target",
+      "anio": 1949,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-drowning-pool",
+      "titulo": "La piscina mortal",
+      "original": "The Drowning Pool",
+      "anio": 1950,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-galton-case",
+      "titulo": "El caso Galton",
+      "original": "The Galton Case",
+      "anio": 1959,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-way-some-people-die",
+      "titulo": "La forma en que algunos mueren",
+      "original": "The Way Some People Die",
+      "anio": 1951,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-ivory-grin",
+      "titulo": "La sonrisa de marfil",
+      "original": "The Ivory Grin",
+      "anio": 1952,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-find-a-victim",
+      "titulo": "Find a Victim",
+      "original": "Find a Victim",
+      "anio": 1954,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-barbarous-coast",
+      "titulo": "La costa bárbara",
+      "original": "The Barbarous Coast",
+      "anio": 1956,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-doomsters",
+      "titulo": "The Doomsters",
+      "original": "The Doomsters",
+      "anio": 1958,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-wycherly-woman",
+      "titulo": "La mujer Wycherly",
+      "original": "The Wycherly Woman",
+      "anio": 1961,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-zebra-striped-hearse",
+      "titulo": "The Zebra-Striped Hearse",
+      "original": "The Zebra-Striped Hearse",
+      "anio": 1962,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-chill",
+      "titulo": "El escalofrío",
+      "original": "The Chill",
+      "anio": 1964,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-far-side-of-the-dollar",
+      "titulo": "El otro lado del dólar",
+      "original": "The Far Side of the Dollar",
+      "anio": 1965,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-black-money",
+      "titulo": "Dinero negro",
+      "original": "Black Money",
+      "anio": 1966,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-instant-enemy",
+      "titulo": "The Instant Enemy",
+      "original": "The Instant Enemy",
+      "anio": 1968,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-goodbye-look",
+      "titulo": "La mirada del adiós",
+      "original": "The Goodbye Look",
+      "anio": 1969,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-underground-man",
+      "titulo": "El hombre subterráneo",
+      "original": "The Underground Man",
+      "anio": 1971,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-sleeping-beauty",
+      "titulo": "La bella durmiente",
+      "original": "Sleeping Beauty",
+      "anio": 1973,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ross-macdonald-the-blue-hammer",
+      "titulo": "El martillo azul",
+      "original": "The Blue Hammer",
+      "anio": 1976,
+      "autor": "ross-macdonald",
+      "seudonimo": "",
+      "serie": "ross-macdonald-archer",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-tatuaje",
+      "titulo": "Tatuaje",
+      "original": "Tatuaje",
+      "anio": 1974,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-la-soledad-del-manager",
+      "titulo": "La soledad del manager",
+      "original": "La soledad del manager",
+      "anio": 1977,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-los-mares-del-sur",
+      "titulo": "Los mares del Sur",
+      "original": "Los mares del Sur",
+      "anio": 1979,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-asesinato-en-el-comite-central",
+      "titulo": "Asesinato en el Comité Central",
+      "original": "Asesinato en el Comité Central",
+      "anio": 1981,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-los-pajaros-de-bangkok",
+      "titulo": "Los pájaros de Bangkok",
+      "original": "Los pájaros de Bangkok",
+      "anio": 1983,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-la-rosa-de-alejandria",
+      "titulo": "La rosa de Alejandría",
+      "original": "La rosa de Alejandría",
+      "anio": 1984,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-el-balneario",
+      "titulo": "El balneario",
+      "original": "El balneario",
+      "anio": 1986,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-el-delantero-centro-fue-asesinado-al-atardecer",
+      "titulo": "El delantero centro fue asesinado al atardecer",
+      "original": "El delantero centro fue asesinado al atardecer",
+      "anio": 1988,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-el-laberinto-griego",
+      "titulo": "El laberinto griego",
+      "original": "El laberinto griego",
+      "anio": 1991,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-sabotaje-olimpico",
+      "titulo": "Sabotaje olímpico",
+      "original": "Sabotaje olímpico",
+      "anio": 1993,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-el-premio",
+      "titulo": "El premio",
+      "original": "El premio",
+      "anio": 1996,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-quinteto-de-buenos-aires",
+      "titulo": "Quinteto de Buenos Aires",
+      "original": "Quinteto de Buenos Aires",
+      "anio": 1997,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-el-hombre-de-mi-vida",
+      "titulo": "El hombre de mi vida",
+      "original": "El hombre de mi vida",
+      "anio": 2000,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-milenio-carvalho-i-rumbo-a-kabul",
+      "titulo": "Milenio Carvalho I: Rumbo a Kabul",
+      "original": "Milenio Carvalho I: Rumbo a Kabul",
+      "anio": 2004,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "vazquez-montalban-milenio-carvalho-ii-en-las-antipodas",
+      "titulo": "Milenio Carvalho II: En las antípodas",
+      "original": "Milenio Carvalho II: En las antípodas",
+      "anio": 2004,
+      "autor": "vazquez-montalban",
+      "seudonimo": "",
+      "serie": "vazquez-montalban-carvalho",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gonzalez-ledesma-expediente-barcelona",
+      "titulo": "Expediente Barcelona",
+      "original": "Expediente Barcelona",
+      "anio": 1983,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gonzalez-ledesma-cronica-sentimental-en-rojo",
+      "titulo": "Crónica sentimental en rojo",
+      "original": "Crónica sentimental en rojo",
+      "anio": 1984,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gonzalez-ledesma-una-novela-de-barrio",
+      "titulo": "Una novela de barrio",
+      "original": "Una novela de barrio",
+      "anio": 2007,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gonzalez-ledesma-las-calles-de-nuestros-padres",
+      "titulo": "Las calles de nuestros padres",
+      "original": "Las calles de nuestros padres",
+      "anio": 1984,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gonzalez-ledesma-la-dama-de-cachemira",
+      "titulo": "La dama de Cachemira",
+      "original": "La dama de Cachemira",
+      "anio": 1986,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gonzalez-ledesma-historia-de-dios-en-una-esquina",
+      "titulo": "Historia de Dios en una esquina",
+      "original": "Historia de Dios en una esquina",
+      "anio": 1991,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gonzalez-ledesma-el-pecado-o-algo-parecido",
+      "titulo": "El pecado o algo parecido",
+      "original": "El pecado o algo parecido",
+      "anio": 2002,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gonzalez-ledesma-cinco-mujeres-y-media",
+      "titulo": "Cinco mujeres y media",
+      "original": "Cinco mujeres y media",
+      "anio": 2005,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gonzalez-ledesma-no-hay-que-morir-dos-veces",
+      "titulo": "No hay que morir dos veces",
+      "original": "No hay que morir dos veces",
+      "anio": 2009,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-velvet-claws",
+      "titulo": "El caso de las garras de terciopelo",
+      "original": "The Case of the Velvet Claws",
+      "anio": 1933,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-sulky-girl",
+      "titulo": "The Case of the Sulky Girl",
+      "original": "The Case of the Sulky Girl",
+      "anio": 1933,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-howling-dog",
+      "titulo": "El caso del perro aullador",
+      "original": "The Case of the Howling Dog",
+      "anio": 1934,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-curious-bride",
+      "titulo": "The Case of the Curious Bride",
+      "original": "The Case of the Curious Bride",
+      "anio": 1934,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-counterfeit-eye",
+      "titulo": "The Case of the Counterfeit Eye",
+      "original": "The Case of the Counterfeit Eye",
+      "anio": 1935,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-sleepwalker-s-niece",
+      "titulo": "The Case of the Sleepwalker's Niece",
+      "original": "The Case of the Sleepwalker's Niece",
+      "anio": 1936,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-stuttering-bishop",
+      "titulo": "The Case of the Stuttering Bishop",
+      "original": "The Case of the Stuttering Bishop",
+      "anio": 1936,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-dangerous-dowager",
+      "titulo": "The Case of the Dangerous Dowager",
+      "original": "The Case of the Dangerous Dowager",
+      "anio": 1937,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-lame-canary",
+      "titulo": "The Case of the Lame Canary",
+      "original": "The Case of the Lame Canary",
+      "anio": 1937,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-substitute-face",
+      "titulo": "The Case of the Substitute Face",
+      "original": "The Case of the Substitute Face",
+      "anio": 1938,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-perjured-parrot",
+      "titulo": "The Case of the Perjured Parrot",
+      "original": "The Case of the Perjured Parrot",
+      "anio": 1939,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-rolling-bones",
+      "titulo": "The Case of the Rolling Bones",
+      "original": "The Case of the Rolling Bones",
+      "anio": 1939,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-silent-partner",
+      "titulo": "The Case of the Silent Partner",
+      "original": "The Case of the Silent Partner",
+      "anio": 1940,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-empty-tin",
+      "titulo": "The Case of the Empty Tin",
+      "original": "The Case of the Empty Tin",
+      "anio": 1941,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-case-of-the-crooked-candle",
+      "titulo": "The Case of the Crooked Candle",
+      "original": "The Case of the Crooked Candle",
+      "anio": 1944,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-the-bigger-they-come",
+      "titulo": "The Bigger They Come",
+      "original": "The Bigger They Come",
+      "anio": 1939,
+      "autor": "gardner",
+      "seudonimo": "A. A. Fair",
+      "serie": "gardner-cool-lam",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-turn-on-the-heat",
+      "titulo": "Turn On the Heat",
+      "original": "Turn On the Heat",
+      "anio": 1940,
+      "autor": "gardner",
+      "seudonimo": "A. A. Fair",
+      "serie": "gardner-cool-lam",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gardner-gold-comes-in-bricks",
+      "titulo": "Gold Comes in Bricks",
+      "original": "Gold Comes in Bricks",
+      "anio": 1940,
+      "autor": "gardner",
+      "seudonimo": "A. A. Fair",
+      "serie": "gardner-cool-lam",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
     }
   ],
   "destacados": {
@@ -7997,8 +9036,8 @@
   },
   "totales": {
     "autores": 39,
-    "personajes": 86,
-    "series": 44,
-    "obras": 334
+    "personajes": 90,
+    "series": 45,
+    "obras": 394
   }
 }
