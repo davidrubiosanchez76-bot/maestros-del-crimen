@@ -25,12 +25,26 @@
     "alcanceBibliografia": "selección inicial no exhaustiva",
     "articulos": [],
     "personajes": [
-      "hume-gorby"
+      "hume-gorby",
+      "hume-kilsip"
     ],
     "series": [],
     "obras": [
       "hume-the-mystery-of-a-hansom-cab",
-      "hume-madame-midas"
+      "hume-madame-midas",
+      "hume-the-girl-from-malta",
+      "hume-the-piccadilly-puzzle",
+      "hume-the-chinese-jar",
+      "hume-the-mystery-of-landy-court",
+      "hume-the-crime-of-the-liza-jane",
+      "hume-hagar-of-the-pawn-shop",
+      "hume-the-silent-house-in-pimlico",
+      "hume-the-crimson-cryptogram",
+      "hume-the-lady-from-nowhere",
+      "hume-the-crime-of-the-crystal",
+      "hume-the-scarlet-bat",
+      "hume-the-secret-passage",
+      "hume-the-mystery-of-a-motor-cab"
     ]
   },
   "personajes": [
@@ -53,6 +67,26 @@
       ],
       "articulos": [],
       "descripcion": "Agente que participa en la investigación del crimen del coche de punto."
+    },
+    {
+      "id": "hume-kilsip",
+      "nombre": "Detective Kilsip",
+      "autor": "hume",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "hume-the-mystery-of-a-hansom-cab"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador del caso criminal de El misterio del coche de punto, junto a otros agentes."
     }
   ],
   "series": [],
@@ -82,6 +116,175 @@
         "whodunit"
       ],
       "sinopsis": "Una mujer vinculada a la riqueza minera australiana trata de defenderse de engaños, amenazas y ambiciones."
+    },
+    {
+      "id": "hume-the-girl-from-malta",
+      "titulo": "The Girl from Malta",
+      "original": "The Girl from Malta",
+      "anio": 1889,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una intriga de identidades y secretos situada en escenarios mediterráneos."
+    },
+    {
+      "id": "hume-the-piccadilly-puzzle",
+      "titulo": "The Piccadilly Puzzle",
+      "original": "The Piccadilly Puzzle",
+      "anio": 1889,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un misterio de relaciones sociales y pesquisas en el Londres victoriano."
+    },
+    {
+      "id": "hume-the-chinese-jar",
+      "titulo": "The Chinese Jar",
+      "original": "The Chinese Jar",
+      "anio": 1893,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una narración de misterio centrada en un objeto y los intereses que lo rodean."
+    },
+    {
+      "id": "hume-the-mystery-of-landy-court",
+      "titulo": "The Mystery of Landy Court",
+      "original": "The Mystery of Landy Court",
+      "anio": 1894,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una investigación sobre hechos enigmáticos vinculados a la propiedad de Landy Court."
+    },
+    {
+      "id": "hume-the-crime-of-the-liza-jane",
+      "titulo": "The Crime of the 'Liza Jane'",
+      "original": "The Crime of the 'Liza Jane'",
+      "anio": 1895,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una intriga de delito y ocultación que gira alrededor de la embarcación del título."
+    },
+    {
+      "id": "hume-hagar-of-the-pawn-shop",
+      "titulo": "Hagar of the Pawn-Shop",
+      "original": "Hagar of the Pawn-Shop",
+      "anio": 1898,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una mujer relacionada con una casa de empeños se enfrenta a misterios y conductas sospechosas."
+    },
+    {
+      "id": "hume-the-silent-house-in-pimlico",
+      "titulo": "The Silent House in Pimlico",
+      "original": "The Silent House in Pimlico",
+      "anio": 1899,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un misterio de apariencia doméstica en el barrio londinense de Pimlico."
+    },
+    {
+      "id": "hume-the-crimson-cryptogram",
+      "titulo": "The Crimson Cryptogram",
+      "original": "The Crimson Cryptogram",
+      "anio": 1900,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un relato detectivesco construido alrededor de mensajes cifrados y una investigación criminal."
+    },
+    {
+      "id": "hume-the-lady-from-nowhere",
+      "titulo": "The Lady From Nowhere",
+      "original": "The Lady From Nowhere",
+      "anio": 1900,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una mujer de identidad incierta está en el centro de una investigación de secretos y apariencias."
+    },
+    {
+      "id": "hume-the-crime-of-the-crystal",
+      "titulo": "The Crime of the Crystal",
+      "original": "The Crime of the Crystal",
+      "anio": 1901,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un hecho delictivo relacionado con un cristal origina un enigma detectivesco."
+    },
+    {
+      "id": "hume-the-scarlet-bat",
+      "titulo": "The Scarlet Bat",
+      "original": "The Scarlet Bat",
+      "anio": 1905,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una investigación criminal ligada a un misterioso símbolo que da título a la novela."
+    },
+    {
+      "id": "hume-the-secret-passage",
+      "titulo": "The Secret Passage",
+      "original": "The Secret Passage",
+      "anio": 1905,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un pasadizo oculto participa en una investigación sobre secretos y circunstancias criminales."
+    },
+    {
+      "id": "hume-the-mystery-of-a-motor-cab",
+      "titulo": "The Mystery of a Motor Cab",
+      "original": "The Mystery of a Motor Cab",
+      "anio": 1908,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una intriga detectivesca de la era del automóvil que dialoga en su planteamiento con el éxito del coche de punto."
     }
   ]
 }
