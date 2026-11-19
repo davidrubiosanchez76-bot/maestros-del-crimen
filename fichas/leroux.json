@@ -1,0 +1,131 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "leroux",
+    "nombre": "Gaston Leroux",
+    "nombreCompleto": "Gaston Leroux",
+    "nacimiento": "1868",
+    "fallecimiento": "1927",
+    "origen": "Francia",
+    "pais": "Francia",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1907,
+    "seudonimos": [],
+    "generos": [
+      "whodunit",
+      "crime thriller"
+    ],
+    "imagen": "",
+    "resumen": "Creador de Joseph Rouletabille y uno de los maestros del crimen de habitación cerrada.",
+    "bio": [
+      "Periodista y antiguo abogado, Leroux llevó la experiencia del reporterismo a sus ficciones de misterio. Su novela de 1907 convirtió al joven reportero Rouletabille en investigador célebre.",
+      "Combinó el enigma deductivo con aventuras folletinescas y la novela gótica; El fantasma de la ópera es un ejemplo de esta última vertiente."
+    ],
+    "apunte": "Rouletabille investiga como periodista y no como policía: su independencia profesional explica parte del atractivo de sus aventuras.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "leroux-rouletabille"
+    ],
+    "series": [
+      "leroux-rouletabille"
+    ],
+    "obras": [
+      "leroux-le-mystere-de-la-chambre-jaune",
+      "leroux-le-parfum-de-la-dame-en-noir",
+      "leroux-le-fantome-de-l-opera",
+      "leroux-rouletabille-chez-le-tsar"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "leroux-rouletabille",
+      "nombre": "Joseph Rouletabille",
+      "autor": "leroux",
+      "ocupacion": "Periodista",
+      "ocupacionDetalle": "Periodista",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "leroux-rouletabille",
+      "obras": [
+        "leroux-le-mystere-de-la-chambre-jaune",
+        "leroux-le-parfum-de-la-dame-en-noir",
+        "leroux-rouletabille-chez-le-tsar"
+      ],
+      "articulos": [],
+      "descripcion": "Joven reportero cuya investigación une razonamiento y trabajo de campo."
+    }
+  ],
+  "series": [
+    {
+      "id": "leroux-rouletabille",
+      "nombre": "Joseph Rouletabille",
+      "autor": "leroux",
+      "descripcion": "Aventuras del periodista investigador."
+    }
+  ],
+  "obras": [
+    {
+      "id": "leroux-le-mystere-de-la-chambre-jaune",
+      "titulo": "El misterio del cuarto amarillo",
+      "original": "Le Mystère de la chambre jaune",
+      "anio": 1907,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "leroux-rouletabille",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Una mujer sufre una agresión en una habitación cerrada y Rouletabille busca una explicación racional."
+    },
+    {
+      "id": "leroux-le-parfum-de-la-dame-en-noir",
+      "titulo": "El perfume de la dama de negro",
+      "original": "Le Parfum de la dame en noir",
+      "anio": 1908,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "leroux-rouletabille",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Una amenaza ligada al pasado de una familia obliga a Rouletabille a investigar nuevos sucesos enigmáticos."
+    },
+    {
+      "id": "leroux-le-fantome-de-l-opera",
+      "titulo": "El fantasma de la ópera",
+      "original": "Le Fantôme de l'Opéra",
+      "anio": 1910,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Los rumores sobre una figura misteriosa en la ópera de París se mezclan con una historia de obsesión y terror."
+    },
+    {
+      "id": "leroux-rouletabille-chez-le-tsar",
+      "titulo": "Rouletabille en Rusia",
+      "original": "Rouletabille chez le Tsar",
+      "anio": 1913,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "leroux-rouletabille",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "El reportero investiga una serie de amenazas en un escenario de intrigas de la Rusia zarista."
+    }
+  ]
+}
