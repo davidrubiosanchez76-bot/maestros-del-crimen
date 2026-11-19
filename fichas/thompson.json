@@ -1,0 +1,520 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "thompson",
+    "nombre": "Jim Thompson",
+    "nombreCompleto": "James Myers Thompson",
+    "nacimiento": "1906",
+    "fallecimiento": "1977",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "Anadarko (Oklahoma), Estados Unidos",
+    "fin": "Los Ángeles (California), Estados Unidos",
+    "debutNegro": 1949,
+    "seudonimos": [],
+    "generos": [
+      "crook story",
+      "psychological thriller",
+      "hardboiled"
+    ],
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdSC9PSPe9Dw89nEsza5NZlhraNPGh1pz8_CwTMZJU4YSgYUDUZ_6uULS6PhAznF3mA1t0L14bOuURjtaVroNFMvJWmWy3UPL3-Vz3rBmzGiYCIf31GKyRQArcmeG4pwoEEjZofzVc8TCC2wZocY7x5qr6kJQE8ZmvB3H5fm7JEGs8oywOMzuMk3TYTXc/s320/Jim_Thompson_retrato_noir.jpg",
+    "resumen": "Escritor y guionista estadounidense, uno de los grandes nombres del noir psicológico y de los narradores criminales.",
+    "bio": [
+      "James Myers Thompson nació en 1906 en Anadarko, en el entonces territorio de Oklahoma. Trabajó en oficios diversos, entre ellos en hoteles, campos petrolíferos y el periodismo; esos ambientes y la precariedad económica alimentaron su literatura.",
+      "Publicó su primera novela, Aquí y ahora, en 1942, aunque su entrada clara en la narrativa negrocriminal llegó con Sólo un asesinato (1949). En la década de 1950 desarrolló una producción extraordinariamente intensa, con narradores poco fiables, violencia soterrada y personajes que esconden su verdadera naturaleza.",
+      "Trabajó también en cine y colaboró en los guiones de Atraco perfecto (1956) y Senderos de gloria (1957), de Stanley Kubrick. Murió en 1977; su prestigio creció de forma notable gracias a las reediciones y adaptaciones cinematográficas posteriores."
+    ],
+    "apunte": "Su especialidad fue poner al lector en la cabeza de personajes moralmente inquietantes: la aparente normalidad del ayudante de sheriff Lou Ford o la falsa ingenuidad del sheriff Nick Corey hacen que la voz que cuenta los hechos sea parte del peligro. Sus libros se revalorizaron especialmente después de su muerte.",
+    "articulos": [],
+    "personajes": [
+      "nick",
+      "lou-ford",
+      "doc-mccoy",
+      "roy-dillon"
+    ],
+    "series": [],
+    "obras": [
+      "aqui",
+      "trueno",
+      "soloasesinato",
+      "asesino",
+      "tierra",
+      "recoil",
+      "alcoholicos",
+      "noche",
+      "criminal",
+      "gizmo",
+      "chica",
+      "mujer",
+      "nada",
+      "cuchillo",
+      "exterminio",
+      "ciudad",
+      "huida",
+      "transgresores",
+      "timadores",
+      "1280",
+      "texas",
+      "sur",
+      "ironside",
+      "invictos",
+      "hombre",
+      "ira",
+      "king",
+      "embrollo"
+    ],
+    "bibliografiaCompleta": true,
+    "notaBibliografia": "28 novelas y novelizaciones documentadas. Quedan fuera las memorias noveladas Bad Boy (1953) y Roughneck / En bruto (1954), además de relatos, recopilaciones y guiones. Algunas fuentes cuentan de forma distinta los géneros y las obras póstumas."
+  },
+  "personajes": [
+    {
+      "id": "nick",
+      "nombre": "Nick Corey",
+      "autor": "thompson",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Sheriff",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "1280"
+      ],
+      "articulos": [],
+      "descripcion": "Sheriff del condado de Potts en 1280 almas, narrador aparentemente ingenuo, manipulador y ambiguo."
+    },
+    {
+      "id": "lou-ford",
+      "nombre": "Lou Ford",
+      "autor": "thompson",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Ayudante de sheriff",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "asesino",
+        "ciudad"
+      ],
+      "articulos": [],
+      "descripcion": "Ayudante de sheriff de Texas y narrador de El asesino dentro de mí. También aparece en Ciudad violenta."
+    },
+    {
+      "id": "doc-mccoy",
+      "nombre": "Doc McCoy",
+      "autor": "thompson",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Atracador",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "huida"
+      ],
+      "articulos": [],
+      "descripcion": "Delincuente que, junto a Carol McCoy, intenta escapar tras un golpe en La huida."
+    },
+    {
+      "id": "roy-dillon",
+      "nombre": "Roy Dillon",
+      "autor": "thompson",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Estafador",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "timadores"
+      ],
+      "articulos": [],
+      "descripcion": "Joven estafador protagonista de Los timadores, atrapado en complicadas relaciones personales."
+    }
+  ],
+  "series": [],
+  "obras": [
+    {
+      "id": "aqui",
+      "titulo": "Aquí y ahora",
+      "original": "Now and on Earth",
+      "anio": 1942,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [],
+      "sinopsis": "Una novela de inspiración autobiográfica sobre el trabajo, las tensiones familiares y la búsqueda de un lugar en la sociedad estadounidense de la Segunda Guerra Mundial."
+    },
+    {
+      "id": "trueno",
+      "titulo": "El trueno",
+      "original": "Heed the Thunder",
+      "anio": 1946,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [],
+      "sinopsis": "Retrato de una familia del Medio Oeste en el que los secretos, la violencia y las tensiones sociales marcan varias generaciones."
+    },
+    {
+      "id": "soloasesinato",
+      "titulo": "Sólo un asesinato",
+      "original": "Nothing More Than Murder",
+      "anio": 1949,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "El dueño de una sala de cine se ve envuelto en una trama de intereses económicos, engaños y muerte que amenaza su negocio y su vida."
+    },
+    {
+      "id": "asesino",
+      "titulo": "El asesino dentro de mí",
+      "original": "The Killer Inside Me",
+      "anio": 1952,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Lou Ford, ayudante de sheriff en una pequeña localidad de Texas, esconde una personalidad inquietante bajo sus modales amables. Su propia voz conduce el relato."
+    },
+    {
+      "id": "tierra",
+      "titulo": "Tierra sucia",
+      "original": "Cropper's Cabin",
+      "anio": 1952,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "En el sur rural estadounidense, las relaciones familiares, la pobreza y los prejuicios alimentan una historia de violencia y conflictos."
+    },
+    {
+      "id": "recoil",
+      "titulo": "Libertad condicional",
+      "original": "Recoil",
+      "anio": 1953,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Un hombre intenta reconstruir su vida tras salir de prisión, pero descubre que las oportunidades y las personas que lo rodean pueden esconder una trampa."
+    },
+    {
+      "id": "alcoholicos",
+      "titulo": "Los alcohólicos",
+      "original": "The Alcoholics",
+      "anio": 1953,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ],
+      "sinopsis": "En torno a un centro de tratamiento para personas con problemas de alcohol se entrecruzan vidas frágiles, intereses económicos y situaciones desesperadas."
+    },
+    {
+      "id": "noche",
+      "titulo": "Noche salvaje",
+      "original": "Savage Night",
+      "anio": 1953,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un hombre enfermo y de aspecto poco amenazador llega a una pequeña localidad para cumplir un encargo criminal. La misión se complica por sus propias obsesiones."
+    },
+    {
+      "id": "criminal",
+      "titulo": "El criminal",
+      "original": "The Criminal",
+      "anio": 1953,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Un adolescente acusado de asesinar a una muchacha queda atrapado entre la prensa sensacionalista, la ambición de las autoridades y los prejuicios de su entorno."
+    },
+    {
+      "id": "gizmo",
+      "titulo": "The Golden Gizmo",
+      "original": "The Golden Gizmo",
+      "anio": 1954,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story"
+      ],
+      "sinopsis": "Toddy Kent, antiguo estafador que ahora compra oro, intenta mantenerse alejado de los problemas, pero su pasado y su turbulenta vida privada lo arrastran a nuevos riesgos."
+    },
+    {
+      "id": "chica",
+      "titulo": "Una chica de buen ver",
+      "original": "A Swell-Looking Babe",
+      "anio": 1954,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Un empleado de hotel de vida aparentemente anodina se aproxima a un mundo de tentaciones, manipulaciones y delitos que amenaza con desbordarlo."
+    },
+    {
+      "id": "mujer",
+      "titulo": "Una mujer endemoniada",
+      "original": "A Hell of a Woman",
+      "anio": 1954,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un vendedor ambulante se cruza con una joven atrapada en una vida difícil y vislumbra una oportunidad para conseguir dinero. Sus decisiones complican cada vez más la situación.",
+      "resena": "https://balasyestrellas.blogspot.com/2023/06/una-mujer-endemoniada-novela-jim-thompson.html"
+    },
+    {
+      "id": "nada",
+      "titulo": "Asesino burlón",
+      "original": "The Nothing Man",
+      "anio": 1954,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ],
+      "sinopsis": "Clinton Brown, periodista traumatizado por una lesión de guerra, intenta ocultar un secreto íntimo. Su miedo a quedar expuesto lo lleva por un camino peligroso."
+    },
+    {
+      "id": "cuchillo",
+      "titulo": "Un cuchillo en la mirada",
+      "original": "After Dark, My Sweet",
+      "anio": 1955,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Un antiguo boxeador que ha pasado por una institución psiquiátrica conoce a una mujer y se ve involucrado en un plan delictivo de consecuencias imprevisibles."
+    },
+    {
+      "id": "exterminio",
+      "titulo": "El exterminio",
+      "original": "The Kill-Off",
+      "anio": 1957,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "En una localidad marcada por los rumores y las enemistades, varios personajes ofrecen versiones contradictorias de una historia que avanza hacia la violencia."
+    },
+    {
+      "id": "ciudad",
+      "titulo": "Ciudad violenta",
+      "original": "Wild Town",
+      "anio": 1957,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Bugs McKenna llega a un pueblo petrolero de Texas y consigue trabajo en un hotel. La corrupción, el chantaje y sus encuentros con la ley complican su oportunidad de empezar de nuevo."
+    },
+    {
+      "id": "huida",
+      "titulo": "La huida",
+      "original": "The Getaway",
+      "anio": 1958,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "heist fiction"
+      ],
+      "sinopsis": "Doc McCoy y su esposa Carol huyen después de un atraco. La persecución y las tensiones entre ambos convierten su escapada en una prueba de supervivencia."
+    },
+    {
+      "id": "transgresores",
+      "titulo": "Los transgresores",
+      "original": "The Transgressors",
+      "anio": 1961,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Una historia de crimen y relaciones de poder en la que las ambiciones personales y los compromisos morales terminan chocando."
+    },
+    {
+      "id": "timadores",
+      "titulo": "Los timadores",
+      "original": "The Grifters",
+      "anio": 1963,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story"
+      ],
+      "sinopsis": "Roy Dillon vive de pequeñas estafas y se mueve entre su madre y una mujer con la que mantiene una relación. Los intereses de los tres se entrecruzan peligrosamente."
+    },
+    {
+      "id": "1280",
+      "titulo": "1280 almas",
+      "original": "Pop. 1280",
+      "anio": 1964,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "sinopsis": "Nick Corey, sheriff de un condado sureño, relata su vida con una ingenuidad sospechosa. Su narración deja entrever una realidad mucho más cruel."
+    },
+    {
+      "id": "texas",
+      "titulo": "Texas",
+      "original": "Texas by the Tail",
+      "anio": 1965,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story"
+      ],
+      "sinopsis": "La vida de los jugadores y buscavidas de Texas sirve de escenario para una trama de engaños, dinero y deseos de prosperar a cualquier precio."
+    },
+    {
+      "id": "sur",
+      "titulo": "Al sur del paraíso",
+      "original": "South of Heaven",
+      "anio": 1967,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "rural noir",
+        "crime thriller"
+      ],
+      "sinopsis": "Tommy Burwell trabaja en la construcción de un oleoducto en Texas. La violencia, una muerte que nadie quiere investigar y un nuevo amor ponen a prueba sus esperanzas."
+    },
+    {
+      "id": "ironside",
+      "titulo": "Ironside",
+      "original": "Ironside",
+      "anio": 1967,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Novela ligada al universo de la serie televisiva del mismo nombre, protagonizada por un investigador policial que trabaja desde una silla de ruedas."
+    },
+    {
+      "id": "invictos",
+      "titulo": "The Undefeated",
+      "original": "The Undefeated",
+      "anio": 1969,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [],
+      "sinopsis": "Novelización de una historia cinematográfica ambientada tras la guerra de Secesión estadounidense; no pertenece propiamente a la narrativa negra."
+    },
+    {
+      "id": "hombre",
+      "titulo": "Nothing but a Man",
+      "original": "Nothing but a Man",
+      "anio": 1970,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [],
+      "sinopsis": "Novelización de un drama social sobre un trabajador afroamericano y su vida familiar en el sur segregado de Estados Unidos."
+    },
+    {
+      "id": "ira",
+      "titulo": "Hijo de la ira",
+      "original": "Child of Rage",
+      "anio": 1972,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ],
+      "sinopsis": "Novela marcada por el racismo, la violencia y los conflictos familiares, con personajes atrapados en tensiones que los superan."
+    },
+    {
+      "id": "king",
+      "titulo": "La sangre de los King",
+      "original": "King Blood",
+      "anio": 1973,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Una familia atravesada por rivalidades y conflictos de herencia protagoniza una historia áspera de ambición, resentimiento y violencia."
+    },
+    {
+      "id": "embrollo",
+      "titulo": "El embrollo",
+      "original": "The Rip-Off",
+      "anio": 1989,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story"
+      ],
+      "sinopsis": "Britton Rainstar conoce a Manuela Aloe y cree que la suerte por fin está de su lado; pronto se ve envuelto en una sucesión de amenazas y engaños. Publicación póstuma en volumen."
+    }
+  ]
+}
