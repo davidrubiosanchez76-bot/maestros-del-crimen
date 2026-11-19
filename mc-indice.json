@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-19-relaciones-reparadas",
+  "version": "2026-11-19-ampliaciones-bibliograficas-v5",
   "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · algunas bibliografías son selecciones iniciales que se ampliarán progresivamente.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -1358,7 +1358,7 @@
       ],
       "imagen": "",
       "resumen": "Maestra del suspense psicológico y creadora del inspector Wexford.",
-      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "alcanceBibliografia": "24 novelas del inspector Wexford completas; otras novelas independientes y de Barbara Vine, selección aún no exhaustiva",
       "articulos": [],
       "personajes": [
         "rendell-wexford"
@@ -1380,7 +1380,23 @@
         "rendell-some-lie-and-some-die",
         "rendell-a-fatal-inversion",
         "rendell-the-house-of-stairs",
-        "rendell-gallowglass"
+        "rendell-gallowglass",
+        "rendell-shake-hands-for-ever",
+        "rendell-a-sleeping-life",
+        "rendell-put-on-by-cunning",
+        "rendell-the-speaker-of-mandarin",
+        "rendell-an-unkindness-of-ravens",
+        "rendell-the-veiled-one",
+        "rendell-kissing-the-gunner-s-daughter",
+        "rendell-simisola",
+        "rendell-road-rage",
+        "rendell-harm-done",
+        "rendell-the-babes-in-the-wood",
+        "rendell-end-in-tears",
+        "rendell-not-in-the-flesh",
+        "rendell-the-monster-in-the-box",
+        "rendell-the-vault",
+        "rendell-no-man-s-nightingale"
       ]
     },
     {
@@ -2976,32 +2992,6 @@
         "highsmith-ripley-s-game",
         "highsmith-the-boy-who-followed-ripley",
         "highsmith-ripley-under-water"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "rendell-wexford",
-      "nombre": "Reginald Wexford",
-      "autor": "rendell",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Policía",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "rendell-wexford",
-      "obras": [
-        "rendell-from-doon-with-death",
-        "rendell-a-new-lease-of-death",
-        "rendell-wolf-to-the-slaughter",
-        "rendell-the-best-man-to-die",
-        "rendell-a-guilty-thing-surprised",
-        "rendell-no-more-dying-then",
-        "rendell-murder-being-once-done",
-        "rendell-some-lie-and-some-die"
       ],
       "articulos": []
     },
@@ -4743,6 +4733,48 @@
         "carr-behind-the-crimson-blind",
         "carr-nine-and-death-makes-ten",
         "carr-and-so-to-murder"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "rendell-wexford",
+      "nombre": "Reginald Wexford",
+      "autor": "rendell",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "rendell-wexford",
+      "obras": [
+        "rendell-from-doon-with-death",
+        "rendell-a-new-lease-of-death",
+        "rendell-wolf-to-the-slaughter",
+        "rendell-the-best-man-to-die",
+        "rendell-a-guilty-thing-surprised",
+        "rendell-no-more-dying-then",
+        "rendell-murder-being-once-done",
+        "rendell-some-lie-and-some-die",
+        "rendell-shake-hands-for-ever",
+        "rendell-a-sleeping-life",
+        "rendell-put-on-by-cunning",
+        "rendell-the-speaker-of-mandarin",
+        "rendell-an-unkindness-of-ravens",
+        "rendell-the-veiled-one",
+        "rendell-kissing-the-gunner-s-daughter",
+        "rendell-simisola",
+        "rendell-road-rage",
+        "rendell-harm-done",
+        "rendell-the-babes-in-the-wood",
+        "rendell-end-in-tears",
+        "rendell-not-in-the-flesh",
+        "rendell-the-monster-in-the-box",
+        "rendell-the-vault",
+        "rendell-no-man-s-nightingale"
       ],
       "articulos": []
     }
@@ -7630,188 +7662,6 @@
       "generos": [
         "psychological thriller",
         "crook story"
-      ]
-    },
-    {
-      "id": "rendell-from-doon-with-death",
-      "titulo": "Dedicatoria mortal",
-      "original": "From Doon with Death",
-      "anio": 1964,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "rendell-wexford",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-a-judgement-in-stone",
-      "titulo": "Un juicio de piedra",
-      "original": "A Judgement in Stone",
-      "anio": 1977,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-a-dark-adapted-eye",
-      "titulo": "A Dark-Adapted Eye",
-      "original": "A Dark-Adapted Eye",
-      "anio": 1986,
-      "autor": "rendell",
-      "seudonimo": "Barbara Vine",
-      "serie": "",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-the-bridesmaid",
-      "titulo": "La dama de honor",
-      "original": "The Bridesmaid",
-      "anio": 1989,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-a-new-lease-of-death",
-      "titulo": "A New Lease of Death",
-      "original": "A New Lease of Death",
-      "anio": 1967,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "rendell-wexford",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-wolf-to-the-slaughter",
-      "titulo": "Wolf to the Slaughter",
-      "original": "Wolf to the Slaughter",
-      "anio": 1967,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "rendell-wexford",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-the-best-man-to-die",
-      "titulo": "The Best Man to Die",
-      "original": "The Best Man to Die",
-      "anio": 1969,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "rendell-wexford",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-a-guilty-thing-surprised",
-      "titulo": "A Guilty Thing Surprised",
-      "original": "A Guilty Thing Surprised",
-      "anio": 1970,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "rendell-wexford",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-no-more-dying-then",
-      "titulo": "No More Dying Then",
-      "original": "No More Dying Then",
-      "anio": 1971,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "rendell-wexford",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-murder-being-once-done",
-      "titulo": "Murder Being Once Done",
-      "original": "Murder Being Once Done",
-      "anio": 1972,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "rendell-wexford",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-some-lie-and-some-die",
-      "titulo": "Some Lie and Some Die",
-      "original": "Some Lie and Some Die",
-      "anio": 1973,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "rendell-wexford",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-a-fatal-inversion",
-      "titulo": "A Fatal Inversion",
-      "original": "A Fatal Inversion",
-      "anio": 1987,
-      "autor": "rendell",
-      "seudonimo": "Barbara Vine",
-      "serie": "",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-the-house-of-stairs",
-      "titulo": "The House of Stairs",
-      "original": "The House of Stairs",
-      "anio": 1988,
-      "autor": "rendell",
-      "seudonimo": "Barbara Vine",
-      "serie": "",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-gallowglass",
-      "titulo": "Gallowglass",
-      "original": "Gallowglass",
-      "anio": 1990,
-      "autor": "rendell",
-      "seudonimo": "Barbara Vine",
-      "serie": "",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
       ]
     },
     {
@@ -12743,6 +12593,396 @@
       "generos": [
         "whodunit"
       ]
+    },
+    {
+      "id": "rendell-from-doon-with-death",
+      "titulo": "Dedicatoria mortal",
+      "original": "From Doon with Death",
+      "anio": 1964,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-a-judgement-in-stone",
+      "titulo": "Un juicio de piedra",
+      "original": "A Judgement in Stone",
+      "anio": 1977,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-a-dark-adapted-eye",
+      "titulo": "A Dark-Adapted Eye",
+      "original": "A Dark-Adapted Eye",
+      "anio": 1986,
+      "autor": "rendell",
+      "seudonimo": "Barbara Vine",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-the-bridesmaid",
+      "titulo": "La dama de honor",
+      "original": "The Bridesmaid",
+      "anio": 1989,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-a-new-lease-of-death",
+      "titulo": "Falsa identidad",
+      "original": "A New Lease of Death",
+      "anio": 1967,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-wolf-to-the-slaughter",
+      "titulo": "Camino del matadero",
+      "original": "Wolf to the Slaughter",
+      "anio": 1967,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-the-best-man-to-die",
+      "titulo": "Un cadáver para la boda",
+      "original": "The Best Man to Die",
+      "anio": 1969,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-a-guilty-thing-surprised",
+      "titulo": "En la oscuridad del bosque",
+      "original": "A Guilty Thing Surprised",
+      "anio": 1970,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-no-more-dying-then",
+      "titulo": "No más muertes",
+      "original": "No More Dying Then",
+      "anio": 1971,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-murder-being-once-done",
+      "titulo": "Después del asesinato",
+      "original": "Murder Being Once Done",
+      "anio": 1972,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-some-lie-and-some-die",
+      "titulo": "Algunos mienten, otros mueren",
+      "original": "Some Lie and Some Die",
+      "anio": 1973,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-a-fatal-inversion",
+      "titulo": "A Fatal Inversion",
+      "original": "A Fatal Inversion",
+      "anio": 1987,
+      "autor": "rendell",
+      "seudonimo": "Barbara Vine",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-the-house-of-stairs",
+      "titulo": "The House of Stairs",
+      "original": "The House of Stairs",
+      "anio": 1988,
+      "autor": "rendell",
+      "seudonimo": "Barbara Vine",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-gallowglass",
+      "titulo": "Gallowglass",
+      "original": "Gallowglass",
+      "anio": 1990,
+      "autor": "rendell",
+      "seudonimo": "Barbara Vine",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-shake-hands-for-ever",
+      "titulo": "Eterna despedida",
+      "original": "Shake Hands for Ever",
+      "anio": 1975,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-a-sleeping-life",
+      "titulo": "Una vida durmiente",
+      "original": "A Sleeping Life",
+      "anio": 1978,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-put-on-by-cunning",
+      "titulo": "El juego de los astutos",
+      "original": "Put On by Cunning",
+      "anio": 1981,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-the-speaker-of-mandarin",
+      "titulo": "Un cuento chino",
+      "original": "The Speaker of Mandarin",
+      "anio": 1983,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-an-unkindness-of-ravens",
+      "titulo": "La crueldad de los cuervos",
+      "original": "An Unkindness of Ravens",
+      "anio": 1985,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-the-veiled-one",
+      "titulo": "El rostro velado",
+      "original": "The Veiled One",
+      "anio": 1988,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-kissing-the-gunner-s-daughter",
+      "titulo": "Un beso para mi asesino",
+      "original": "Kissing the Gunner's Daughter",
+      "anio": 1991,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-simisola",
+      "titulo": "Simisola",
+      "original": "Simisola",
+      "anio": 1994,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-road-rage",
+      "titulo": "Carretera de odio",
+      "original": "Road Rage",
+      "anio": 1997,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-harm-done",
+      "titulo": "El daño está hecho",
+      "original": "Harm Done",
+      "anio": 1999,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-the-babes-in-the-wood",
+      "titulo": "Perdidos en la noche",
+      "original": "The Babes in the Wood",
+      "anio": 2002,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-end-in-tears",
+      "titulo": "End in Tears",
+      "original": "End in Tears",
+      "anio": 2005,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-not-in-the-flesh",
+      "titulo": "Not in the Flesh",
+      "original": "Not in the Flesh",
+      "anio": 2007,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-the-monster-in-the-box",
+      "titulo": "The Monster in the Box",
+      "original": "The Monster in the Box",
+      "anio": 2009,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-the-vault",
+      "titulo": "The Vault",
+      "original": "The Vault",
+      "anio": 2011,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-no-man-s-nightingale",
+      "titulo": "No Man's Nightingale",
+      "original": "No Man's Nightingale",
+      "anio": 2013,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
     }
   ],
   "destacados": {
@@ -12946,6 +13186,6 @@
     "autores": 39,
     "personajes": 119,
     "series": 50,
-    "obras": 616
+    "obras": 632
   }
 }
