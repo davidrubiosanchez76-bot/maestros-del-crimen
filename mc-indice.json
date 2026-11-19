@@ -1,0 +1,2363 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-11-19-inicial",
+  "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · índice de consulta sin sinopsis extensas",
+  "fichas": {
+    "chandler": "fichas/chandler.json",
+    "christie": "fichas/christie.json",
+    "simenon": "fichas/simenon.json",
+    "thompson": "fichas/thompson.json",
+    "harris": "fichas/harris.json",
+    "banville": "fichas/banville.json",
+    "daly": "fichas/daly.json"
+  },
+  "autores": [
+    {
+      "id": "chandler",
+      "nombre": "Raymond Chandler",
+      "nombreCompleto": "Raymond Thornton Chandler",
+      "nacimiento": "1888",
+      "fallecimiento": "1959",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "Chicago, Illinois, Estados Unidos",
+      "fin": "La Jolla, California, Estados Unidos",
+      "debutNegro": 1939,
+      "seudonimos": [],
+      "generos": [
+        "hardboiled"
+      ],
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6k7P5wp_21aYxRb7pFwN8wZntltX_prS3NE_xfaU3nzKF4zKgE_PsX4z7EAmYiphwKoraODINN6fOciqjKK2dFI2O834th2FoBaEziIGkozBsj7-_eLKWNHXdndUNRGhpRbHDtySj-oY5oswTGpoHHOcYJx7uqBBR2lzQbNr6XQVTOgv95zYR-VdBmFc/s320/chandler.jpg",
+      "resumen": "Novelista, cuentista y guionista estadounidense, renovador del hardboiled y creador del detective privado Philip Marlowe.",
+      "articulos": [],
+      "personajes": [
+        "marlowe"
+      ],
+      "series": [
+        "marlowe"
+      ],
+      "obras": [
+        "sueno",
+        "adios",
+        "ventana",
+        "dama",
+        "hermana",
+        "largo",
+        "playback",
+        "poodle"
+      ]
+    },
+    {
+      "id": "christie",
+      "nombre": "Agatha Christie",
+      "nombreCompleto": "Agatha Mary Clarissa Christie (de soltera, Miller)",
+      "nacimiento": "1890",
+      "fallecimiento": "1976",
+      "origen": "Reino Unido",
+      "pais": "Reino Unido",
+      "lugar": "Torquay, Devon, Reino Unido",
+      "fin": "Wallingford, Oxfordshire, Reino Unido",
+      "debutNegro": 1920,
+      "seudonimos": [
+        "Mary Westmacott"
+      ],
+      "generos": [
+        "whodunit"
+      ],
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0XjR9IUZbQXD3OG4w5tpi1jQYhGnPaIWIPzLOi8jGRfEZm-sP5bWUwZP9q4uuZltAd56i-UCSumR8kHkYKUlWusRj6AhwyTGZr-TVYq4m4Oj0AIXWz5V33E-Rr6bpvwzawpG5JXg976wahubbU84QHzGCOxF9tkk-go2ir_Yt8kahHTymtgFN78EIuOo/s320/agatha%20christie.jpg",
+      "resumen": "Escritora británica de la edad de oro del enigma policiaco; creadora de Hércules Poirot, Miss Marple y Tommy y Tuppence. Publicó 66 novelas criminales y otras seis como Mary Westmacott.",
+      "articulos": [],
+      "personajes": [
+        "poirot",
+        "marple",
+        "christie-tommy",
+        "christie-tuppence",
+        "christie-battle",
+        "christie-race",
+        "christie-oliver",
+        "christie-hastings",
+        "christie-pyne",
+        "christie-quin"
+      ],
+      "series": [
+        "poirot",
+        "marple",
+        "tommy",
+        "battle",
+        "christie-race",
+        "westmacott"
+      ],
+      "obras": [
+        "styles",
+        "christie-adversario",
+        "christie-golf",
+        "christie-traje-marron",
+        "christie-chimneys",
+        "roger",
+        "christie-cuatro",
+        "christie-tren-azul",
+        "christie-siete",
+        "christie-vicaria",
+        "christie-sittaford",
+        "christie-peligro",
+        "christie-edgware",
+        "orient",
+        "christie-evans",
+        "christie-tres-actos",
+        "christie-nubes",
+        "christie-abc",
+        "christie-mesopotamia",
+        "christie-cartas",
+        "christie-testigo",
+        "christie-nilo",
+        "christie-cita",
+        "christie-navidad",
+        "christie-matar",
+        "christie-ninguno",
+        "christie-cipres",
+        "christie-dentista",
+        "christie-sol",
+        "christie-nom",
+        "biblioteca",
+        "christie-cerditos",
+        "christie-anonimos",
+        "christie-cero",
+        "christie-nofret",
+        "christie-cianuro",
+        "christie-hollow",
+        "christie-pleamares",
+        "christie-casa-torcida",
+        "christie-anuncia",
+        "christie-bagdad",
+        "christie-mcginty",
+        "christie-espejos",
+        "christie-centeno",
+        "christie-funeral",
+        "christie-destino",
+        "christie-hickory",
+        "christie-templete",
+        "christie-tren450",
+        "christie-inocencia",
+        "christie-gato",
+        "christie-pale",
+        "christie-espejo",
+        "christie-relojes",
+        "christie-caribe",
+        "christie-bertram",
+        "christie-tercera",
+        "christie-noche",
+        "christie-cuadro",
+        "christie-manzanas",
+        "christie-frankfurt",
+        "christie-nemesis",
+        "christie-elefantes",
+        "christie-puerta",
+        "christie-telon",
+        "christie-dormido",
+        "west-gigante",
+        "west-retrato",
+        "west-primavera",
+        "west-rosa",
+        "west-hija",
+        "west-carga"
+      ]
+    },
+    {
+      "id": "simenon",
+      "nombre": "Georges Simenon",
+      "nombreCompleto": "Georges Joseph Christian Simenon",
+      "nacimiento": "1903",
+      "fallecimiento": "1989",
+      "origen": "Bélgica",
+      "pais": "Bélgica",
+      "lugar": "Lieja, Bélgica",
+      "fin": "Lausana, Suiza",
+      "debutNegro": 1931,
+      "debutPorVerificar": true,
+      "seudonimos": [
+        "Georges Sim",
+        "Jean du Perry",
+        "Christian Brulls",
+        "Gom Gut",
+        "Luc Dorsan",
+        "Jean Dorsage",
+        "Georges d’Isly",
+        "Gaston Vialis",
+        "Jacques Dersonne",
+        "Germain d’Antibes",
+        "Georges-Martin Georges",
+        "Plick et Hock"
+      ],
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "imagen": "",
+      "resumen": "Escritor belga de extraordinaria producción, conocido por el comisario Jules Maigret y sus novelas psicológicas.",
+      "articulos": [],
+      "personajes": [
+        "maigret"
+      ],
+      "series": [
+        "maigret"
+      ],
+      "obras": [
+        "pietr",
+        "perro",
+        "nieve",
+        "gato"
+      ]
+    },
+    {
+      "id": "thompson",
+      "nombre": "Jim Thompson",
+      "nombreCompleto": "James Myers Thompson",
+      "nacimiento": "1906",
+      "fallecimiento": "1977",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "Anadarko (Oklahoma), Estados Unidos",
+      "fin": "Los Ángeles (California), Estados Unidos",
+      "debutNegro": 1949,
+      "seudonimos": [],
+      "generos": [
+        "crook story",
+        "psychological thriller",
+        "hardboiled"
+      ],
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdSC9PSPe9Dw89nEsza5NZlhraNPGh1pz8_CwTMZJU4YSgYUDUZ_6uULS6PhAznF3mA1t0L14bOuURjtaVroNFMvJWmWy3UPL3-Vz3rBmzGiYCIf31GKyRQArcmeG4pwoEEjZofzVc8TCC2wZocY7x5qr6kJQE8ZmvB3H5fm7JEGs8oywOMzuMk3TYTXc/s320/Jim_Thompson_retrato_noir.jpg",
+      "resumen": "Escritor y guionista estadounidense, uno de los grandes nombres del noir psicológico y de los narradores criminales.",
+      "articulos": [],
+      "personajes": [
+        "nick",
+        "lou-ford",
+        "doc-mccoy",
+        "roy-dillon"
+      ],
+      "series": [],
+      "obras": [
+        "aqui",
+        "trueno",
+        "soloasesinato",
+        "asesino",
+        "tierra",
+        "recoil",
+        "alcoholicos",
+        "noche",
+        "criminal",
+        "gizmo",
+        "chica",
+        "mujer",
+        "nada",
+        "cuchillo",
+        "exterminio",
+        "ciudad",
+        "huida",
+        "transgresores",
+        "timadores",
+        "1280",
+        "texas",
+        "sur",
+        "ironside",
+        "invictos",
+        "hombre",
+        "ira",
+        "king",
+        "embrollo"
+      ],
+      "bibliografiaCompleta": true,
+      "notaBibliografia": "28 novelas y novelizaciones documentadas. Quedan fuera las memorias noveladas Bad Boy (1953) y Roughneck / En bruto (1954), además de relatos, recopilaciones y guiones. Algunas fuentes cuentan de forma distinta los géneros y las obras póstumas."
+    },
+    {
+      "id": "harris",
+      "nombre": "Thomas Harris",
+      "nombreCompleto": "William Thomas Harris III",
+      "nacimiento": "1940",
+      "fallecimiento": "",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "Jackson, Estados Unidos",
+      "fin": "",
+      "debutNegro": 1975,
+      "seudonimos": [],
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ],
+      "imagen": "",
+      "resumen": "Escritor estadounidense cuyo personaje Hannibal Lecter ocupa un lugar destacado en el thriller criminal contemporáneo.",
+      "articulos": [],
+      "personajes": [
+        "lecter"
+      ],
+      "series": [
+        "lecter"
+      ],
+      "obras": [
+        "dragon",
+        "silencio",
+        "hannibal",
+        "origen"
+      ]
+    },
+    {
+      "id": "banville",
+      "nombre": "John Banville",
+      "nombreCompleto": "William John Banville",
+      "nacimiento": "1945",
+      "fallecimiento": "",
+      "origen": "Irlanda",
+      "pais": "Irlanda",
+      "lugar": "Wexford, Irlanda",
+      "fin": "",
+      "debutNegro": 2006,
+      "seudonimos": [
+        "Benjamin Black"
+      ],
+      "generos": [
+        "psychological thriller",
+        "police procedural"
+      ],
+      "imagen": "",
+      "resumen": "Novelista irlandés que publicó parte de su ficción criminal como Benjamin Black, especialmente la serie Quirke.",
+      "articulos": [],
+      "personajes": [
+        "quirke"
+      ],
+      "series": [
+        "quirke"
+      ],
+      "obras": [
+        "christine",
+        "cisne",
+        "april"
+      ]
+    },
+    {
+      "id": "daly",
+      "nombre": "Carroll John Daly",
+      "nombreCompleto": "Carroll John Daly",
+      "nacimiento": "1889",
+      "fallecimiento": "1958",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "Yonkers, Estados Unidos",
+      "fin": "Los Ángeles, Estados Unidos",
+      "debutNegro": 1926,
+      "debutPorVerificar": true,
+      "seudonimos": [],
+      "generos": [
+        "hardboiled"
+      ],
+      "imagen": "",
+      "resumen": "Pionero del detective duro en las revistas pulp y creador de Race Williams.",
+      "articulos": [
+        {
+          "titulo": "CARROLL JOHN DALY | Y con él nació el detective duro de verdad",
+          "url": "https://balasyestrellas.blogspot.com/2025/04/carroll-john-daly-con-el-llego-el.html"
+        }
+      ],
+      "personajes": [
+        "race"
+      ],
+      "series": [
+        "race"
+      ],
+      "obras": [
+        "whitecircle",
+        "snarl"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "marlowe",
+      "nombre": "Philip Marlowe",
+      "autor": "chandler",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado en Los Ángeles; antiguo investigador de la fiscalía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "marlowe",
+      "obras": [
+        "sueno",
+        "adios",
+        "ventana",
+        "dama",
+        "hermana",
+        "largo",
+        "playback",
+        "poodle"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "poirot",
+      "nombre": "Hércules Poirot",
+      "autor": "christie",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective belga retirado, especializado en la investigación criminal",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "poirot",
+      "obras": [
+        "styles",
+        "christie-golf",
+        "roger",
+        "christie-cuatro",
+        "christie-tren-azul",
+        "christie-peligro",
+        "christie-edgware",
+        "orient",
+        "christie-tres-actos",
+        "christie-nubes",
+        "christie-abc",
+        "christie-mesopotamia",
+        "christie-cartas",
+        "christie-testigo",
+        "christie-nilo",
+        "christie-cita",
+        "christie-navidad",
+        "christie-cipres",
+        "christie-dentista",
+        "christie-sol",
+        "christie-cerditos",
+        "christie-hollow",
+        "christie-pleamares",
+        "christie-mcginty",
+        "christie-funeral",
+        "christie-hickory",
+        "christie-templete",
+        "christie-gato",
+        "christie-relojes",
+        "christie-tercera",
+        "christie-manzanas",
+        "christie-elefantes",
+        "christie-telon"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "marple",
+      "nombre": "Miss Marple",
+      "autor": "christie",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Vecina de St. Mary Mead, investigadora aficionada",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "marple",
+      "obras": [
+        "christie-vicaria",
+        "biblioteca",
+        "christie-anonimos",
+        "christie-anuncia",
+        "christie-espejos",
+        "christie-centeno",
+        "christie-tren450",
+        "christie-espejo",
+        "christie-caribe",
+        "christie-bertram",
+        "christie-nemesis",
+        "christie-dormido"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "christie-tommy",
+      "nombre": "Tommy Beresford",
+      "autor": "christie",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Aventurero e investigador; colabora en labores de inteligencia",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "tommy",
+      "obras": [
+        "christie-adversario",
+        "christie-nom",
+        "christie-cuadro",
+        "christie-puerta"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "christie-tuppence",
+      "nombre": "Tuppence Beresford",
+      "autor": "christie",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Aventurera e investigadora; ocasionalmente vinculada al espionaje",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "tommy",
+      "obras": [
+        "christie-adversario",
+        "christie-nom",
+        "christie-cuadro",
+        "christie-puerta"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "christie-battle",
+      "nombre": "Superintendente Battle",
+      "autor": "christie",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Superintendente de Scotland Yard",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista",
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "battle",
+      "obras": [
+        "christie-chimneys",
+        "christie-siete",
+        "christie-cero",
+        "christie-cartas"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "christie-race",
+      "nombre": "Coronel Race",
+      "autor": "christie",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Oficial de inteligencia británico",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "christie-race",
+      "obras": [
+        "christie-traje-marron",
+        "christie-cianuro",
+        "christie-cartas",
+        "christie-nilo"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "christie-oliver",
+      "nombre": "Ariadne Oliver",
+      "autor": "christie",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Escritora de novelas policiacas",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [],
+      "serie": "",
+      "obras": [
+        "christie-cartas",
+        "christie-mcginty",
+        "christie-templete",
+        "christie-pale",
+        "christie-tercera",
+        "christie-manzanas",
+        "christie-elefantes"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "christie-hastings",
+      "nombre": "Capitán Arthur Hastings",
+      "autor": "christie",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Antiguo oficial del Ejército y colaborador de Poirot",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "poirot",
+      "obras": [
+        "styles",
+        "christie-golf",
+        "christie-cuatro",
+        "christie-peligro",
+        "christie-edgware",
+        "christie-abc",
+        "christie-testigo",
+        "christie-telon"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "christie-pyne",
+      "nombre": "Parker Pyne",
+      "autor": "christie",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Antiguo funcionario; consejero e investigador de problemas humanos",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [],
+      "serie": "",
+      "obras": [],
+      "articulos": []
+    },
+    {
+      "id": "christie-quin",
+      "nombre": "Harley Quin",
+      "autor": "christie",
+      "ocupacion": "Sin ocupación relevante",
+      "ocupacionDetalle": "Figura enigmática vinculada a relatos de misterio",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [],
+      "serie": "",
+      "obras": [],
+      "articulos": []
+    },
+    {
+      "id": "maigret",
+      "nombre": "Jules Maigret",
+      "autor": "simenon",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Comisario de policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "maigret",
+      "obras": [
+        "pietr",
+        "perro"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "nick",
+      "nombre": "Nick Corey",
+      "autor": "thompson",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Sheriff",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "1280"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "lou-ford",
+      "nombre": "Lou Ford",
+      "autor": "thompson",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Ayudante de sheriff",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "asesino",
+        "ciudad"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "doc-mccoy",
+      "nombre": "Doc McCoy",
+      "autor": "thompson",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Atracador",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "huida"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "roy-dillon",
+      "nombre": "Roy Dillon",
+      "autor": "thompson",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Estafador",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "timadores"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "lecter",
+      "nombre": "Hannibal Lecter",
+      "autor": "harris",
+      "ocupacion": "Médico / sanitario",
+      "ocupacionDetalle": "Psiquiatra",
+      "sexo": "Masculino",
+      "roles": [
+        "Antagonista",
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "lecter",
+      "obras": [
+        "dragon",
+        "silencio",
+        "hannibal",
+        "origen"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "quirke",
+      "nombre": "Quirke",
+      "autor": "banville",
+      "ocupacion": "Médico / sanitario",
+      "ocupacionDetalle": "Patólogo forense",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "quirke",
+      "obras": [
+        "christine",
+        "cisne",
+        "april"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "race",
+      "nombre": "Race Williams",
+      "autor": "daly",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "race",
+      "obras": [
+        "snarl"
+      ],
+      "articulos": []
+    }
+  ],
+  "series": [
+    {
+      "id": "marlowe",
+      "nombre": "Philip Marlowe",
+      "autor": "chandler",
+      "descripcion": "Ciclo de siete novelas completas protagonizadas por Philip Marlowe (1939-1958). Incluye además La historia de Poodle Springs (1989), novela póstuma comenzada por Chandler y completada por Robert B. Parker."
+    },
+    {
+      "id": "poirot",
+      "nombre": "Hércules Poirot",
+      "autor": "christie",
+      "descripcion": "Las 33 novelas originales protagonizadas por Poirot, desde El misterioso caso de Styles (1920) hasta Telón (1975). Las recopilaciones de relatos se registrarán aparte."
+    },
+    {
+      "id": "marple",
+      "nombre": "Miss Marple",
+      "autor": "christie",
+      "descripcion": "Las 12 novelas protagonizadas por Miss Marple entre 1930 y 1976; los relatos con el personaje forman otra categoría."
+    },
+    {
+      "id": "tommy",
+      "nombre": "Tommy y Tuppence",
+      "autor": "christie",
+      "descripcion": "Cuatro novelas protagonizadas por los Beresford, entre 1922 y 1973, además de la colección de relatos Matrimonio de sabuesos, no incluida entre las novelas."
+    },
+    {
+      "id": "battle",
+      "nombre": "Superintendente Battle",
+      "autor": "christie",
+      "descripcion": "Ciclo asociado a Battle, que aparece en El secreto de Chimneys, El misterio de las siete esferas, Cartas sobre la mesa y Hacia cero. Las participaciones en novelas de otros investigadores se contabilizan también en su ficha."
+    },
+    {
+      "id": "christie-race",
+      "nombre": "Coronel Race",
+      "autor": "christie",
+      "descripcion": "Apariciones del coronel Race en novelas de misterio y espionaje; algunas son colaboraciones en casos de Poirot."
+    },
+    {
+      "id": "westmacott",
+      "nombre": "Mary Westmacott (novelas no policiacas)",
+      "autor": "christie",
+      "descripcion": "Seis novelas de carácter psicológico y sentimental publicadas por Agatha Christie con el seudónimo Mary Westmacott, fuera de su producción policiaca."
+    },
+    {
+      "id": "maigret",
+      "nombre": "Comisario Maigret",
+      "autor": "simenon",
+      "descripcion": "Casos del comisario Jules Maigret."
+    },
+    {
+      "id": "lecter",
+      "nombre": "Hannibal Lecter",
+      "autor": "harris",
+      "descripcion": "Ciclo literario asociado al personaje Hannibal Lecter."
+    },
+    {
+      "id": "quirke",
+      "nombre": "Quirke",
+      "autor": "banville",
+      "descripcion": "Novelas protagonizadas por el patólogo Quirke."
+    },
+    {
+      "id": "race",
+      "nombre": "Race Williams",
+      "autor": "daly",
+      "descripcion": "Ciclo de novelas protagonizadas por el detective Race Williams."
+    }
+  ],
+  "obras": [
+    {
+      "id": "sueno",
+      "titulo": "El sueño eterno",
+      "original": "The Big Sleep",
+      "anio": 1939,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "adios",
+      "titulo": "Adiós, muñeca",
+      "original": "Farewell, My Lovely",
+      "anio": 1940,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "ventana",
+      "titulo": "La ventana alta",
+      "original": "The High Window",
+      "anio": 1942,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "dama",
+      "titulo": "La dama del lago",
+      "original": "The Lady in the Lake",
+      "anio": 1943,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "hermana",
+      "titulo": "La hermana pequeña",
+      "original": "The Little Sister",
+      "anio": 1949,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "largo",
+      "titulo": "El largo adiós",
+      "original": "The Long Goodbye",
+      "anio": 1953,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "playback",
+      "titulo": "Playback",
+      "original": "Playback",
+      "anio": 1958,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "poodle",
+      "titulo": "La historia de Poodle Springs",
+      "original": "Poodle Springs",
+      "anio": 1989,
+      "autor": "chandler",
+      "seudonimo": "",
+      "serie": "marlowe",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "styles",
+      "anio": 1920,
+      "titulo": "El misterioso caso de Styles",
+      "original": "The Mysterious Affair at Styles",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-adversario",
+      "anio": 1922,
+      "titulo": "El misterioso señor Brown",
+      "original": "The Secret Adversary",
+      "serie": "tommy",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "spy fiction"
+      ]
+    },
+    {
+      "id": "christie-golf",
+      "anio": 1923,
+      "titulo": "Asesinato en el campo de golf",
+      "original": "The Murder on the Links",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-traje-marron",
+      "anio": 1924,
+      "titulo": "El hombre del traje marrón",
+      "original": "The Man in the Brown Suit",
+      "serie": "christie-race",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "spy fiction"
+      ]
+    },
+    {
+      "id": "christie-chimneys",
+      "anio": 1925,
+      "titulo": "El secreto de Chimneys",
+      "original": "The Secret of Chimneys",
+      "serie": "battle",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "roger",
+      "anio": 1926,
+      "titulo": "El asesinato de Roger Ackroyd",
+      "original": "The Murder of Roger Ackroyd",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-cuatro",
+      "anio": 1927,
+      "titulo": "Los cuatro grandes",
+      "original": "The Big Four",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "spy fiction"
+      ]
+    },
+    {
+      "id": "christie-tren-azul",
+      "anio": 1928,
+      "titulo": "El misterio del tren azul",
+      "original": "The Mystery of the Blue Train",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-siete",
+      "anio": 1929,
+      "titulo": "El misterio de las siete esferas",
+      "original": "The Seven Dials Mystery",
+      "serie": "battle",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-vicaria",
+      "anio": 1930,
+      "titulo": "Muerte en la vicaría",
+      "original": "The Murder at the Vicarage",
+      "serie": "marple",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-sittaford",
+      "anio": 1931,
+      "titulo": "El misterio de Sittaford",
+      "original": "The Sittaford Mystery",
+      "serie": "",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-peligro",
+      "anio": 1932,
+      "titulo": "Peligro inminente",
+      "original": "Peril at End House",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-edgware",
+      "anio": 1933,
+      "titulo": "La muerte de lord Edgware",
+      "original": "Lord Edgware Dies",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "orient",
+      "anio": 1934,
+      "titulo": "Asesinato en el Orient Express",
+      "original": "Murder on the Orient Express",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-evans",
+      "anio": 1934,
+      "titulo": "¿Por qué no le preguntan a Evans? (Trayectoria de bumerán)",
+      "original": "Why Didn't They Ask Evans?",
+      "serie": "",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-tres-actos",
+      "anio": 1934,
+      "titulo": "Tragedia en tres actos",
+      "original": "Three Act Tragedy",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-nubes",
+      "anio": 1935,
+      "titulo": "Muerte en las nubes",
+      "original": "Death in the Clouds",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-abc",
+      "anio": 1936,
+      "titulo": "El misterio de la guía de ferrocarriles",
+      "original": "The A.B.C. Murders",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-mesopotamia",
+      "anio": 1936,
+      "titulo": "Asesinato en Mesopotamia",
+      "original": "Murder in Mesopotamia",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-cartas",
+      "anio": 1936,
+      "titulo": "Cartas sobre la mesa",
+      "original": "Cards on the Table",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-testigo",
+      "anio": 1937,
+      "titulo": "El testigo mudo",
+      "original": "Dumb Witness",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-nilo",
+      "anio": 1937,
+      "titulo": "Muerte en el Nilo",
+      "original": "Death on the Nile",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-cita",
+      "anio": 1938,
+      "titulo": "Cita con la muerte",
+      "original": "Appointment with Death",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-navidad",
+      "anio": 1938,
+      "titulo": "Navidades trágicas",
+      "original": "Hercule Poirot's Christmas",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-matar",
+      "anio": 1938,
+      "titulo": "Matar es fácil",
+      "original": "Murder Is Easy",
+      "serie": "",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-ninguno",
+      "anio": 1939,
+      "titulo": "Y no quedó ninguno (Diez negritos)",
+      "original": "And Then There Were None",
+      "serie": "",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "christie-cipres",
+      "anio": 1940,
+      "titulo": "Un triste ciprés",
+      "original": "Sad Cypress",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-dentista",
+      "anio": 1940,
+      "titulo": "La muerte visita al dentista",
+      "original": "One, Two, Buckle My Shoe",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-sol",
+      "anio": 1940,
+      "titulo": "Maldad bajo el sol",
+      "original": "Evil Under the Sun",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-nom",
+      "anio": 1941,
+      "titulo": "El misterio de Sans Souci",
+      "original": "N or M?",
+      "serie": "tommy",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "spy fiction"
+      ]
+    },
+    {
+      "id": "biblioteca",
+      "anio": 1942,
+      "titulo": "Un cadáver en la biblioteca",
+      "original": "The Body in the Library",
+      "serie": "marple",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-cerditos",
+      "anio": 1942,
+      "titulo": "Cinco cerditos",
+      "original": "Five Little Pigs",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-anonimos",
+      "anio": 1942,
+      "titulo": "El caso de los anónimos",
+      "original": "The Moving Finger",
+      "serie": "marple",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-cero",
+      "anio": 1944,
+      "titulo": "Hacia cero",
+      "original": "Towards Zero",
+      "serie": "battle",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-nofret",
+      "anio": 1944,
+      "titulo": "La venganza de Nofret",
+      "original": "Death Comes as the End",
+      "serie": "",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-cianuro",
+      "anio": 1945,
+      "titulo": "Cianuro espumoso",
+      "original": "Sparkling Cyanide",
+      "serie": "christie-race",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-hollow",
+      "anio": 1946,
+      "titulo": "Sangre en la piscina",
+      "original": "The Hollow",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-pleamares",
+      "anio": 1948,
+      "titulo": "Pleamares de la vida",
+      "original": "Taken at the Flood",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-casa-torcida",
+      "anio": 1949,
+      "titulo": "La casa torcida",
+      "original": "Crooked House",
+      "serie": "",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "christie-anuncia",
+      "anio": 1950,
+      "titulo": "Se anuncia un asesinato",
+      "original": "A Murder Is Announced",
+      "serie": "marple",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-bagdad",
+      "anio": 1951,
+      "titulo": "Intriga en Bagdad",
+      "original": "They Came to Baghdad",
+      "serie": "",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "spy fiction"
+      ]
+    },
+    {
+      "id": "christie-mcginty",
+      "anio": 1952,
+      "titulo": "La señora McGinty ha muerto",
+      "original": "Mrs McGinty's Dead",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-espejos",
+      "anio": 1952,
+      "titulo": "El truco de los espejos",
+      "original": "They Do It with Mirrors",
+      "serie": "marple",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-centeno",
+      "anio": 1953,
+      "titulo": "Un puñado de centeno",
+      "original": "A Pocket Full of Rye",
+      "serie": "marple",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-funeral",
+      "anio": 1953,
+      "titulo": "Después del funeral",
+      "original": "After the Funeral",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-destino",
+      "anio": 1954,
+      "titulo": "Destino desconocido",
+      "original": "Destination Unknown",
+      "serie": "",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "spy fiction"
+      ]
+    },
+    {
+      "id": "christie-hickory",
+      "anio": 1955,
+      "titulo": "Asesinato en la calle Hickory",
+      "original": "Hickory Dickory Dock",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-templete",
+      "anio": 1956,
+      "titulo": "El templete de Nasse House",
+      "original": "Dead Man's Folly",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-tren450",
+      "anio": 1957,
+      "titulo": "El tren de las 4:50",
+      "original": "4:50 from Paddington",
+      "serie": "marple",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-inocencia",
+      "anio": 1958,
+      "titulo": "Inocencia trágica",
+      "original": "Ordeal by Innocence",
+      "serie": "",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "christie-gato",
+      "anio": 1959,
+      "titulo": "Un gato en el palomar",
+      "original": "Cat Among the Pigeons",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-pale",
+      "anio": 1961,
+      "titulo": "El misterio de Pale Horse",
+      "original": "The Pale Horse",
+      "serie": "",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-espejo",
+      "anio": 1962,
+      "titulo": "El espejo se rajó de lado a lado",
+      "original": "The Mirror Crack'd from Side to Side",
+      "serie": "marple",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-relojes",
+      "anio": 1963,
+      "titulo": "Los relojes",
+      "original": "The Clocks",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-caribe",
+      "anio": 1964,
+      "titulo": "Misterio en el Caribe",
+      "original": "A Caribbean Mystery",
+      "serie": "marple",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-bertram",
+      "anio": 1965,
+      "titulo": "En el hotel Bertram",
+      "original": "At Bertram's Hotel",
+      "serie": "marple",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-tercera",
+      "anio": 1966,
+      "titulo": "La tercera muchacha",
+      "original": "Third Girl",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-noche",
+      "anio": 1967,
+      "titulo": "Noche eterna",
+      "original": "Endless Night",
+      "serie": "",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "christie-cuadro",
+      "anio": 1968,
+      "titulo": "El cuadro",
+      "original": "By the Pricking of My Thumbs",
+      "serie": "tommy",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-manzanas",
+      "anio": 1969,
+      "titulo": "Las manzanas",
+      "original": "Hallowe'en Party",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-frankfurt",
+      "anio": 1970,
+      "titulo": "Pasajero a Frankfurt",
+      "original": "Passenger to Frankfurt",
+      "serie": "",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "spy fiction"
+      ]
+    },
+    {
+      "id": "christie-nemesis",
+      "anio": 1971,
+      "titulo": "Némesis",
+      "original": "Nemesis",
+      "serie": "marple",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-elefantes",
+      "anio": 1972,
+      "titulo": "Los elefantes pueden recordar",
+      "original": "Elephants Can Remember",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-puerta",
+      "anio": 1973,
+      "titulo": "La puerta del destino",
+      "original": "Postern of Fate",
+      "serie": "tommy",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-telon",
+      "anio": 1975,
+      "titulo": "Telón",
+      "original": "Curtain: Poirot's Last Case",
+      "serie": "poirot",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "christie-dormido",
+      "anio": 1976,
+      "titulo": "Un crimen dormido",
+      "original": "Sleeping Murder",
+      "serie": "marple",
+      "autor": "christie",
+      "seudonimo": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "west-gigante",
+      "anio": 1930,
+      "titulo": "Un amor sin nombre",
+      "original": "Giant's Bread",
+      "serie": "westmacott",
+      "autor": "christie",
+      "seudonimo": "Mary Westmacott",
+      "generos": []
+    },
+    {
+      "id": "west-retrato",
+      "anio": 1934,
+      "titulo": "Retrato inacabado",
+      "original": "Unfinished Portrait",
+      "serie": "westmacott",
+      "autor": "christie",
+      "seudonimo": "Mary Westmacott",
+      "generos": []
+    },
+    {
+      "id": "west-primavera",
+      "anio": 1944,
+      "titulo": "Lejos de ti esta primavera",
+      "original": "Absent in the Spring",
+      "serie": "westmacott",
+      "autor": "christie",
+      "seudonimo": "Mary Westmacott",
+      "generos": []
+    },
+    {
+      "id": "west-rosa",
+      "anio": 1948,
+      "titulo": "La rosa de sangre",
+      "original": "The Rose and the Yew Tree",
+      "serie": "westmacott",
+      "autor": "christie",
+      "seudonimo": "Mary Westmacott",
+      "generos": []
+    },
+    {
+      "id": "west-hija",
+      "anio": 1952,
+      "titulo": "Una hija es una hija",
+      "original": "A Daughter's a Daughter",
+      "serie": "westmacott",
+      "autor": "christie",
+      "seudonimo": "Mary Westmacott",
+      "generos": []
+    },
+    {
+      "id": "west-carga",
+      "anio": 1956,
+      "titulo": "La carga",
+      "original": "The Burden",
+      "serie": "westmacott",
+      "autor": "christie",
+      "seudonimo": "Mary Westmacott",
+      "generos": []
+    },
+    {
+      "id": "pietr",
+      "titulo": "Pietr, el Letón",
+      "original": "Pietr-le-Letton",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "perro",
+      "titulo": "El perro canelo",
+      "original": "Le Chien jaune",
+      "anio": 1931,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "maigret",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "nieve",
+      "titulo": "La nieve estaba sucia",
+      "original": "La Neige était sale",
+      "anio": 1948,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "gato",
+      "titulo": "El gato",
+      "original": "Le Chat",
+      "anio": 1967,
+      "autor": "simenon",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "aqui",
+      "titulo": "Aquí y ahora",
+      "original": "Now and on Earth",
+      "anio": 1942,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": []
+    },
+    {
+      "id": "trueno",
+      "titulo": "El trueno",
+      "original": "Heed the Thunder",
+      "anio": 1946,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": []
+    },
+    {
+      "id": "soloasesinato",
+      "titulo": "Sólo un asesinato",
+      "original": "Nothing More Than Murder",
+      "anio": 1949,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "asesino",
+      "titulo": "El asesino dentro de mí",
+      "original": "The Killer Inside Me",
+      "anio": 1952,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "tierra",
+      "titulo": "Tierra sucia",
+      "original": "Cropper's Cabin",
+      "anio": 1952,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "recoil",
+      "titulo": "Libertad condicional",
+      "original": "Recoil",
+      "anio": 1953,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "alcoholicos",
+      "titulo": "Los alcohólicos",
+      "original": "The Alcoholics",
+      "anio": 1953,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "noche",
+      "titulo": "Noche salvaje",
+      "original": "Savage Night",
+      "anio": 1953,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "criminal",
+      "titulo": "El criminal",
+      "original": "The Criminal",
+      "anio": 1953,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gizmo",
+      "titulo": "The Golden Gizmo",
+      "original": "The Golden Gizmo",
+      "anio": 1954,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story"
+      ]
+    },
+    {
+      "id": "chica",
+      "titulo": "Una chica de buen ver",
+      "original": "A Swell-Looking Babe",
+      "anio": 1954,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mujer",
+      "titulo": "Una mujer endemoniada",
+      "original": "A Hell of a Woman",
+      "anio": 1954,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ],
+      "resena": "https://balasyestrellas.blogspot.com/2023/06/una-mujer-endemoniada-novela-jim-thompson.html"
+    },
+    {
+      "id": "nada",
+      "titulo": "Asesino burlón",
+      "original": "The Nothing Man",
+      "anio": 1954,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "cuchillo",
+      "titulo": "Un cuchillo en la mirada",
+      "original": "After Dark, My Sweet",
+      "anio": 1955,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "exterminio",
+      "titulo": "El exterminio",
+      "original": "The Kill-Off",
+      "anio": 1957,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ciudad",
+      "titulo": "Ciudad violenta",
+      "original": "Wild Town",
+      "anio": 1957,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "huida",
+      "titulo": "La huida",
+      "original": "The Getaway",
+      "anio": 1958,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "heist fiction"
+      ]
+    },
+    {
+      "id": "transgresores",
+      "titulo": "Los transgresores",
+      "original": "The Transgressors",
+      "anio": 1961,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "timadores",
+      "titulo": "Los timadores",
+      "original": "The Grifters",
+      "anio": 1963,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story"
+      ]
+    },
+    {
+      "id": "1280",
+      "titulo": "1280 almas",
+      "original": "Pop. 1280",
+      "anio": 1964,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "texas",
+      "titulo": "Texas",
+      "original": "Texas by the Tail",
+      "anio": 1965,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story"
+      ]
+    },
+    {
+      "id": "sur",
+      "titulo": "Al sur del paraíso",
+      "original": "South of Heaven",
+      "anio": 1967,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "rural noir",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ironside",
+      "titulo": "Ironside",
+      "original": "Ironside",
+      "anio": 1967,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "invictos",
+      "titulo": "The Undefeated",
+      "original": "The Undefeated",
+      "anio": 1969,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": []
+    },
+    {
+      "id": "hombre",
+      "titulo": "Nothing but a Man",
+      "original": "Nothing but a Man",
+      "anio": 1970,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": []
+    },
+    {
+      "id": "ira",
+      "titulo": "Hijo de la ira",
+      "original": "Child of Rage",
+      "anio": 1972,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "king",
+      "titulo": "La sangre de los King",
+      "original": "King Blood",
+      "anio": 1973,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "embrollo",
+      "titulo": "El embrollo",
+      "original": "The Rip-Off",
+      "anio": 1989,
+      "autor": "thompson",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story"
+      ]
+    },
+    {
+      "id": "dragon",
+      "titulo": "El dragón rojo",
+      "original": "Red Dragon",
+      "anio": 1981,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "lecter",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "silencio",
+      "titulo": "El silencio de los corderos",
+      "original": "The Silence of the Lambs",
+      "anio": 1988,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "lecter",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "hannibal",
+      "titulo": "Hannibal",
+      "original": "Hannibal",
+      "anio": 1999,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "lecter",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "origen",
+      "titulo": "Hannibal: el origen del mal",
+      "original": "Hannibal Rising",
+      "anio": 2006,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "lecter",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "christine",
+      "titulo": "El secreto de Christine",
+      "original": "Christine Falls",
+      "anio": 2006,
+      "autor": "banville",
+      "seudonimo": "Benjamin Black",
+      "serie": "quirke",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "cisne",
+      "titulo": "El otro nombre de Laura",
+      "original": "The Silver Swan",
+      "anio": 2007,
+      "autor": "banville",
+      "seudonimo": "Benjamin Black",
+      "serie": "quirke",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "april",
+      "titulo": "En busca de April",
+      "original": "Elegy for April",
+      "anio": 2010,
+      "autor": "banville",
+      "seudonimo": "Benjamin Black",
+      "serie": "quirke",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "whitecircle",
+      "titulo": "The White Circle",
+      "original": "The White Circle",
+      "anio": 1926,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "snarl",
+      "titulo": "El rugido de la bestia",
+      "original": "The Snarl of the Beast",
+      "anio": 1927,
+      "autor": "daly",
+      "seudonimo": "",
+      "serie": "race",
+      "generos": [
+        "hardboiled"
+      ]
+    }
+  ],
+  "destacados": {
+    "chandler": [
+      "sueno",
+      "adios",
+      "largo"
+    ],
+    "christie": [
+      "styles",
+      "roger",
+      "biblioteca"
+    ],
+    "simenon": [
+      "pietr",
+      "nieve",
+      "gato"
+    ],
+    "thompson": [
+      "asesino",
+      "huida",
+      "1280"
+    ],
+    "harris": [
+      "dragon",
+      "silencio",
+      "hannibal"
+    ],
+    "banville": [
+      "christine",
+      "cisne",
+      "april"
+    ],
+    "daly": [
+      "whitecircle",
+      "snarl"
+    ]
+  },
+  "totales": {
+    "autores": 7,
+    "personajes": 19,
+    "series": 11,
+    "obras": 121
+  }
+}
