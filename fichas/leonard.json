@@ -26,14 +26,30 @@
     "alcanceBibliografia": "selección inicial no exhaustiva",
     "articulos": [],
     "personajes": [
-      "leonard-ryan"
+      "leonard-ryan",
+      "leonard-folley",
+      "leonard-raylan",
+      "leonard-karen"
     ],
     "series": [],
     "obras": [
       "leonard-the-big-bounce",
       "leonard-fifty-two-pickup",
       "leonard-swag",
-      "leonard-labrava"
+      "leonard-labrava",
+      "leonard-unknown-man-no-89",
+      "leonard-the-hunted",
+      "leonard-the-switch",
+      "leonard-city-primeval-high-noon-in-detroit",
+      "leonard-split-images",
+      "leonard-glitz",
+      "leonard-bandits",
+      "leonard-freaky-deaky",
+      "leonard-get-shorty",
+      "leonard-pronto",
+      "leonard-riding-the-rap",
+      "leonard-out-of-sight",
+      "leonard-rum-punch"
     ]
   },
   "personajes": [
@@ -56,6 +72,67 @@
       ],
       "articulos": [],
       "descripcion": "Exjugador de béisbol y protagonista de The Big Bounce."
+    },
+    {
+      "id": "leonard-folley",
+      "nombre": "Jack Foley",
+      "autor": "leonard",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "leonard-out-of-sight"
+      ],
+      "articulos": [],
+      "descripcion": "Atracador de bancos protagonista de Out of Sight."
+    },
+    {
+      "id": "leonard-raylan",
+      "nombre": "Raylan Givens",
+      "autor": "leonard",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "leonard-pronto",
+        "leonard-riding-the-rap"
+      ],
+      "articulos": [],
+      "descripcion": "Agente federal de métodos directos y protagonista de varias novelas y relatos de Leonard."
+    },
+    {
+      "id": "leonard-karen",
+      "nombre": "Karen Sisco",
+      "autor": "leonard",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "leonard-out-of-sight"
+      ],
+      "articulos": [],
+      "descripcion": "Agente federal que se cruza con Jack Foley en Out of Sight."
     }
   ],
   "series": [],
@@ -115,6 +192,188 @@
         "crime thriller"
       ],
       "sinopsis": "Un fotógrafo que vive en Miami se ve arrastrado por los problemas de una antigua estrella del cine."
+    },
+    {
+      "id": "leonard-unknown-man-no-89",
+      "titulo": "Unknown Man No. 89",
+      "original": "Unknown Man No. 89",
+      "anio": 1977,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un especialista en localizar personas recibe un encargo que lo acerca a un ambiente peligroso."
+    },
+    {
+      "id": "leonard-the-hunted",
+      "titulo": "The Hunted",
+      "original": "The Hunted",
+      "anio": 1977,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un hombre en Israel se ve perseguido por delincuentes que exigen recuperar dinero."
+    },
+    {
+      "id": "leonard-the-switch",
+      "titulo": "The Switch",
+      "original": "The Switch",
+      "anio": 1978,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un secuestro planeado para obtener un rescate da un giro que desconcierta a sus autores."
+    },
+    {
+      "id": "leonard-city-primeval-high-noon-in-detroit",
+      "titulo": "City Primeval",
+      "original": "City Primeval: High Noon in Detroit",
+      "anio": 1980,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un policía persigue a un criminal escurridizo en las calles de Detroit."
+    },
+    {
+      "id": "leonard-split-images",
+      "titulo": "Split Images",
+      "original": "Split Images",
+      "anio": 1981,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un hombre rico sospechoso de violencia criminal enfrenta a investigadores con conductas calculadas."
+    },
+    {
+      "id": "leonard-glitz",
+      "titulo": "Glitz",
+      "original": "Glitz",
+      "anio": 1985,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un policía y un delincuente se cruzan en un caso vinculado al mundo del juego."
+    },
+    {
+      "id": "leonard-bandits",
+      "titulo": "Bandits",
+      "original": "Bandits",
+      "anio": 1987,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Varios personajes planean un robo mientras discuten sus principios y prioridades."
+    },
+    {
+      "id": "leonard-freaky-deaky",
+      "titulo": "Freaky Deaky",
+      "original": "Freaky Deaky",
+      "anio": 1988,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Exradicales políticos y delincuentes convergen en una intriga de extorsión y dinero."
+    },
+    {
+      "id": "leonard-get-shorty",
+      "titulo": "Cómo conquistar Hollywood",
+      "original": "Get Shorty",
+      "anio": 1990,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un cobrador de deudas llega a Los Ángeles y descubre oportunidades en la industria del cine."
+    },
+    {
+      "id": "leonard-pronto",
+      "titulo": "Pronto",
+      "original": "Pronto",
+      "anio": 1993,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un apostador y un agente federal se ven envueltos en asuntos del crimen organizado."
+    },
+    {
+      "id": "leonard-riding-the-rap",
+      "titulo": "Riding the Rap",
+      "original": "Riding the Rap",
+      "anio": 1995,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un hombre rico desaparece y el agente Raylan Givens se involucra en su búsqueda."
+    },
+    {
+      "id": "leonard-out-of-sight",
+      "titulo": "Un romance muy peligroso",
+      "original": "Out of Sight",
+      "anio": 1996,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un atracador fugitivo conoce a una agente federal y comienza un vínculo ambiguo."
+    },
+    {
+      "id": "leonard-rum-punch",
+      "titulo": "Rum Punch",
+      "original": "Rum Punch",
+      "anio": 1992,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Una azafata y un traficante se enfrentan en una operación que mezcla dinero y traiciones."
     }
   ]
 }
