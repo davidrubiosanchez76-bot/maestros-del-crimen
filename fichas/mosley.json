@@ -1,0 +1,151 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "mosley",
+    "nombre": "Walter Mosley",
+    "nombreCompleto": "Walter Mosley",
+    "nacimiento": "1952",
+    "fallecimiento": "",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1990,
+    "seudonimos": [],
+    "generos": [
+      "hardboiled"
+    ],
+    "imagen": "",
+    "resumen": "Creador de Easy Rawlins y voz destacada del noir afroamericano.",
+    "bio": [
+      "Escritor estadounidense que situó las investigaciones de Easy Rawlins en comunidades afroamericanas de Los Ángeles.",
+      "La serie permite observar las transformaciones raciales, económicas y políticas de la ciudad desde una posición social poco representada en el hardboiled clásico."
+    ],
+    "apunte": "Easy Rawlins no empieza como detective profesional convencional: su manera de investigar surge de relaciones comunitarias, de la necesidad económica y de conocer códigos sociales distintos.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "mosley-easy",
+      "mosley-mouse"
+    ],
+    "series": [
+      "mosley-rawlins"
+    ],
+    "obras": [
+      "mosley-devil-in-a-blue-dress",
+      "mosley-a-red-death",
+      "mosley-white-butterfly",
+      "mosley-black-betty"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "mosley-easy",
+      "nombre": "Easy Rawlins",
+      "autor": "mosley",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "mosley-rawlins",
+      "obras": [
+        "mosley-devil-in-a-blue-dress",
+        "mosley-a-red-death",
+        "mosley-white-butterfly",
+        "mosley-black-betty"
+      ],
+      "articulos": [],
+      "descripcion": "Hombre afroamericano que investiga en Los Ángeles y conoce sus comunidades desde dentro."
+    },
+    {
+      "id": "mosley-mouse",
+      "nombre": "Raymond «Mouse» Alexander",
+      "autor": "mosley",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "mosley-rawlins",
+      "obras": [
+        "mosley-devil-in-a-blue-dress",
+        "mosley-a-red-death",
+        "mosley-white-butterfly",
+        "mosley-black-betty"
+      ],
+      "articulos": [],
+      "descripcion": "Amigo de Rawlins y figura recurrente cuya manera de actuar contrasta con la del protagonista."
+    }
+  ],
+  "series": [
+    {
+      "id": "mosley-rawlins",
+      "nombre": "Easy Rawlins",
+      "autor": "mosley",
+      "descripcion": "Novelas del investigador Ezekiel «Easy» Rawlins."
+    }
+  ],
+  "obras": [
+    {
+      "id": "mosley-devil-in-a-blue-dress",
+      "titulo": "El demonio vestido de azul",
+      "original": "Devil in a Blue Dress",
+      "anio": 1990,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Easy Rawlins acepta localizar a una mujer y descubre que el encargo amenaza con alterar toda su vida."
+    },
+    {
+      "id": "mosley-a-red-death",
+      "titulo": "Una muerte roja",
+      "original": "A Red Death",
+      "anio": 1991,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Rawlins queda atrapado entre un encargo gubernamental y las lealtades de su entorno."
+    },
+    {
+      "id": "mosley-white-butterfly",
+      "titulo": "Mariposa blanca",
+      "original": "White Butterfly",
+      "anio": 1992,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Una serie de asesinatos obliga a Rawlins a colaborar en una investigación cargada de tensión racial."
+    },
+    {
+      "id": "mosley-black-betty",
+      "titulo": "Black Betty",
+      "original": "Black Betty",
+      "anio": 1994,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "La búsqueda de una mujer vinculada a su pasado lleva a Rawlins por nuevos conflictos de Los Ángeles."
+    }
+  ]
+}
