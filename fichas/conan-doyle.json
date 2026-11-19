@@ -1,0 +1,151 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "conan-doyle",
+    "nombre": "Arthur Conan Doyle",
+    "nombreCompleto": "Arthur Conan Doyle",
+    "nacimiento": "1859",
+    "fallecimiento": "1930",
+    "origen": "Reino Unido",
+    "pais": "Reino Unido",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1887,
+    "seudonimos": [],
+    "generos": [
+      "whodunit"
+    ],
+    "imagen": "",
+    "resumen": "Creador de Sherlock Holmes y John Watson; referente del detective deductivo.",
+    "bio": [
+      "Médico y escritor escocés, inauguró la serie de Sherlock Holmes en 1887. La observación, las hipótesis y la reconstrucción lógica se convirtieron en las señas más conocidas de sus pesquisas.",
+      "Holmes protagonizó cuatro novelas completas y numerosos relatos; Doyle también cultivó extensamente las aventuras, la ficción histórica y otros géneros."
+    ],
+    "apunte": "Aunque el personaje suele asociarse al formato de novela, la mayor parte del canon de Holmes está formada por relatos. Doyle intentó despedirse de él en 1893 y lo recuperó después.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "conan-doyle-holmes",
+      "conan-doyle-watson"
+    ],
+    "series": [
+      "conan-doyle-holmes"
+    ],
+    "obras": [
+      "conan-doyle-a-study-in-scarlet",
+      "conan-doyle-the-sign-of-the-four",
+      "conan-doyle-the-hound-of-the-baskervilles",
+      "conan-doyle-the-valley-of-fear"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "conan-doyle-holmes",
+      "nombre": "Sherlock Holmes",
+      "autor": "conan-doyle",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "conan-doyle-holmes",
+      "obras": [
+        "conan-doyle-a-study-in-scarlet",
+        "conan-doyle-the-sign-of-the-four",
+        "conan-doyle-the-hound-of-the-baskervilles",
+        "conan-doyle-the-valley-of-fear"
+      ],
+      "articulos": [],
+      "descripcion": "Detective consultor de Baker Street célebre por la observación y la deducción."
+    },
+    {
+      "id": "conan-doyle-watson",
+      "nombre": "Doctor John Watson",
+      "autor": "conan-doyle",
+      "ocupacion": "Médico / sanitario",
+      "ocupacionDetalle": "Médico / sanitario",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "conan-doyle-holmes",
+      "obras": [
+        "conan-doyle-a-study-in-scarlet",
+        "conan-doyle-the-sign-of-the-four",
+        "conan-doyle-the-hound-of-the-baskervilles",
+        "conan-doyle-the-valley-of-fear"
+      ],
+      "articulos": [],
+      "descripcion": "Médico, compañero y narrador de buena parte de las investigaciones de Holmes."
+    }
+  ],
+  "series": [
+    {
+      "id": "conan-doyle-holmes",
+      "nombre": "Sherlock Holmes",
+      "autor": "conan-doyle",
+      "descripcion": "Cuatro novelas y numerosos relatos protagonizados por Holmes y Watson."
+    }
+  ],
+  "obras": [
+    {
+      "id": "conan-doyle-a-study-in-scarlet",
+      "titulo": "Estudio en escarlata",
+      "original": "A Study in Scarlet",
+      "anio": 1887,
+      "autor": "conan-doyle",
+      "seudonimo": "",
+      "serie": "conan-doyle-holmes",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Watson conoce a Holmes y ambos afrontan una muerte misteriosa cuya explicación conduce a una antigua venganza."
+    },
+    {
+      "id": "conan-doyle-the-sign-of-the-four",
+      "titulo": "El signo de los cuatro",
+      "original": "The Sign of the Four",
+      "anio": 1890,
+      "autor": "conan-doyle",
+      "seudonimo": "",
+      "serie": "conan-doyle-holmes",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una joven solicita ayuda por la desaparición de su padre y los regalos anónimos que ha recibido."
+    },
+    {
+      "id": "conan-doyle-the-hound-of-the-baskervilles",
+      "titulo": "El sabueso de los Baskerville",
+      "original": "The Hound of the Baskervilles",
+      "anio": 1902,
+      "autor": "conan-doyle",
+      "seudonimo": "",
+      "serie": "conan-doyle-holmes",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una vieja maldición parece amenazar a los herederos de una mansión próxima a los páramos."
+    },
+    {
+      "id": "conan-doyle-the-valley-of-fear",
+      "titulo": "El valle del terror",
+      "original": "The Valley of Fear",
+      "anio": 1915,
+      "autor": "conan-doyle",
+      "seudonimo": "",
+      "serie": "conan-doyle-holmes",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "El asesinato en una casa de campo revela conexiones con un pasado de violencia y organizaciones clandestinas."
+    }
+  ]
+}
