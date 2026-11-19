@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-19-inicial",
+  "version": "2026-11-19-ampliacion-01",
   "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · índice de consulta sin sinopsis extensas",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -9,7 +9,15 @@
     "thompson": "fichas/thompson.json",
     "harris": "fichas/harris.json",
     "banville": "fichas/banville.json",
-    "daly": "fichas/daly.json"
+    "daly": "fichas/daly.json",
+    "gaboriau": "fichas/gaboriau.json",
+    "collins": "fichas/collins.json",
+    "green": "fichas/green.json",
+    "hume": "fichas/hume.json",
+    "conan-doyle": "fichas/conan-doyle.json",
+    "leroux": "fichas/leroux.json",
+    "sayers": "fichas/sayers.json",
+    "hammett": "fichas/hammett.json"
   },
   "autores": [
     {
@@ -366,6 +374,267 @@
       "obras": [
         "whitecircle",
         "snarl"
+      ]
+    },
+    {
+      "id": "gaboriau",
+      "nombre": "Émile Gaboriau",
+      "nombreCompleto": "Émile Gaboriau",
+      "nacimiento": "1832",
+      "fallecimiento": "1873",
+      "origen": "Francia",
+      "pais": "Francia",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1866,
+      "seudonimos": [],
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ],
+      "imagen": "",
+      "resumen": "Pionero de la investigación policial francesa y creador de Monsieur Lecoq.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "gaboriau-lecoq"
+      ],
+      "series": [
+        "gaboriau-lecoq"
+      ],
+      "obras": [
+        "gaboriau-l-affaire-lerouge",
+        "gaboriau-le-crime-d-orcival",
+        "gaboriau-le-dossier-n-113",
+        "gaboriau-monsieur-lecoq"
+      ]
+    },
+    {
+      "id": "collins",
+      "nombre": "Wilkie Collins",
+      "nombreCompleto": "Wilkie Collins",
+      "nacimiento": "1824",
+      "fallecimiento": "1889",
+      "origen": "Reino Unido",
+      "pais": "Reino Unido",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1860,
+      "seudonimos": [],
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "imagen": "",
+      "resumen": "Maestro de la novela de sensación y precursor del misterio detectivesco.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "collins-betteredge",
+        "collins-cuff"
+      ],
+      "series": [],
+      "obras": [
+        "collins-the-woman-in-white",
+        "collins-armadale",
+        "collins-the-moonstone"
+      ]
+    },
+    {
+      "id": "green",
+      "nombre": "Anna Katharine Green",
+      "nombreCompleto": "Anna Katharine Green",
+      "nacimiento": "1846",
+      "fallecimiento": "1935",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1878,
+      "seudonimos": [],
+      "generos": [
+        "whodunit"
+      ],
+      "imagen": "",
+      "resumen": "Pionera estadounidense de la novela detectivesca y creadora de Ebenezer Gryce.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "green-gryce"
+      ],
+      "series": [
+        "green-gryce"
+      ],
+      "obras": [
+        "green-the-leavenworth-case",
+        "green-a-strange-disappearance",
+        "green-the-circular-study"
+      ]
+    },
+    {
+      "id": "hume",
+      "nombre": "Fergus Hume",
+      "nombreCompleto": "Fergus Hume",
+      "nacimiento": "1859",
+      "fallecimiento": "1932",
+      "origen": "Australia",
+      "pais": "Australia",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1886,
+      "seudonimos": [],
+      "generos": [
+        "whodunit"
+      ],
+      "imagen": "",
+      "resumen": "Autor de El misterio del coche de punto, éxito mundial del policial popular.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "hume-gorby"
+      ],
+      "series": [],
+      "obras": [
+        "hume-the-mystery-of-a-hansom-cab",
+        "hume-madame-midas"
+      ]
+    },
+    {
+      "id": "conan-doyle",
+      "nombre": "Arthur Conan Doyle",
+      "nombreCompleto": "Arthur Conan Doyle",
+      "nacimiento": "1859",
+      "fallecimiento": "1930",
+      "origen": "Reino Unido",
+      "pais": "Reino Unido",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1887,
+      "seudonimos": [],
+      "generos": [
+        "whodunit"
+      ],
+      "imagen": "",
+      "resumen": "Creador de Sherlock Holmes y John Watson; referente del detective deductivo.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "conan-doyle-holmes",
+        "conan-doyle-watson"
+      ],
+      "series": [
+        "conan-doyle-holmes"
+      ],
+      "obras": [
+        "conan-doyle-a-study-in-scarlet",
+        "conan-doyle-the-sign-of-the-four",
+        "conan-doyle-the-hound-of-the-baskervilles",
+        "conan-doyle-the-valley-of-fear"
+      ]
+    },
+    {
+      "id": "leroux",
+      "nombre": "Gaston Leroux",
+      "nombreCompleto": "Gaston Leroux",
+      "nacimiento": "1868",
+      "fallecimiento": "1927",
+      "origen": "Francia",
+      "pais": "Francia",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1907,
+      "seudonimos": [],
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "imagen": "",
+      "resumen": "Creador de Joseph Rouletabille y uno de los maestros del crimen de habitación cerrada.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "leroux-rouletabille"
+      ],
+      "series": [
+        "leroux-rouletabille"
+      ],
+      "obras": [
+        "leroux-le-mystere-de-la-chambre-jaune",
+        "leroux-le-parfum-de-la-dame-en-noir",
+        "leroux-le-fantome-de-l-opera",
+        "leroux-rouletabille-chez-le-tsar"
+      ]
+    },
+    {
+      "id": "sayers",
+      "nombre": "Dorothy L. Sayers",
+      "nombreCompleto": "Dorothy L. Sayers",
+      "nacimiento": "1893",
+      "fallecimiento": "1957",
+      "origen": "Reino Unido",
+      "pais": "Reino Unido",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1923,
+      "seudonimos": [],
+      "generos": [
+        "whodunit"
+      ],
+      "imagen": "",
+      "resumen": "Figura fundamental de la Edad de Oro británica y creadora de Lord Peter Wimsey.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "sayers-wimsey",
+        "sayers-vane"
+      ],
+      "series": [
+        "sayers-wimsey"
+      ],
+      "obras": [
+        "sayers-whose-body",
+        "sayers-clouds-of-witness",
+        "sayers-strong-poison",
+        "sayers-gaudy-night"
+      ]
+    },
+    {
+      "id": "hammett",
+      "nombre": "Dashiell Hammett",
+      "nombreCompleto": "Dashiell Hammett",
+      "nacimiento": "1894",
+      "fallecimiento": "1961",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1929,
+      "seudonimos": [],
+      "generos": [
+        "hardboiled",
+        "crook story"
+      ],
+      "imagen": "",
+      "resumen": "Gran renovador del hardboiled y de la novela criminal moderna.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "hammett-op",
+        "hammett-spade",
+        "hammett-nick",
+        "hammett-nora"
+      ],
+      "series": [
+        "hammett-continental",
+        "hammett-spade",
+        "hammett-charles"
+      ],
+      "obras": [
+        "hammett-red-harvest",
+        "hammett-the-dain-curse",
+        "hammett-the-maltese-falcon",
+        "hammett-the-glass-key",
+        "hammett-the-thin-man"
       ]
     }
   ],
@@ -805,6 +1074,289 @@
         "snarl"
       ],
       "articulos": []
+    },
+    {
+      "id": "gaboriau-lecoq",
+      "nombre": "Monsieur Lecoq",
+      "autor": "gaboriau",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "gaboriau-lecoq",
+      "obras": [
+        "gaboriau-le-crime-d-orcival",
+        "gaboriau-le-dossier-n-113",
+        "gaboriau-monsieur-lecoq"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "collins-betteredge",
+      "nombre": "Gabriel Betteredge",
+      "autor": "collins",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "collins-the-moonstone"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "collins-cuff",
+      "nombre": "Sargento Cuff",
+      "autor": "collins",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "collins-the-moonstone"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "green-gryce",
+      "nombre": "Ebenezer Gryce",
+      "autor": "green",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "green-gryce",
+      "obras": [
+        "green-the-leavenworth-case",
+        "green-a-strange-disappearance",
+        "green-the-circular-study"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "hume-gorby",
+      "nombre": "Detective Gorby",
+      "autor": "hume",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Sin clasificar"
+      ],
+      "serie": "",
+      "obras": [
+        "hume-the-mystery-of-a-hansom-cab"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "conan-doyle-holmes",
+      "nombre": "Sherlock Holmes",
+      "autor": "conan-doyle",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "conan-doyle-holmes",
+      "obras": [
+        "conan-doyle-a-study-in-scarlet",
+        "conan-doyle-the-sign-of-the-four",
+        "conan-doyle-the-hound-of-the-baskervilles",
+        "conan-doyle-the-valley-of-fear"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "conan-doyle-watson",
+      "nombre": "Doctor John Watson",
+      "autor": "conan-doyle",
+      "ocupacion": "Médico / sanitario",
+      "ocupacionDetalle": "Médico / sanitario",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "conan-doyle-holmes",
+      "obras": [
+        "conan-doyle-a-study-in-scarlet",
+        "conan-doyle-the-sign-of-the-four",
+        "conan-doyle-the-hound-of-the-baskervilles",
+        "conan-doyle-the-valley-of-fear"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "leroux-rouletabille",
+      "nombre": "Joseph Rouletabille",
+      "autor": "leroux",
+      "ocupacion": "Periodista",
+      "ocupacionDetalle": "Periodista",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "leroux-rouletabille",
+      "obras": [
+        "leroux-le-mystere-de-la-chambre-jaune",
+        "leroux-le-parfum-de-la-dame-en-noir",
+        "leroux-rouletabille-chez-le-tsar"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "sayers-wimsey",
+      "nombre": "Lord Peter Wimsey",
+      "autor": "sayers",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "sayers-wimsey",
+      "obras": [
+        "sayers-whose-body",
+        "sayers-clouds-of-witness",
+        "sayers-strong-poison",
+        "sayers-gaudy-night"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "sayers-vane",
+      "nombre": "Harriet Vane",
+      "autor": "sayers",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "sayers-wimsey",
+      "obras": [
+        "sayers-strong-poison",
+        "sayers-gaudy-night"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "hammett-op",
+      "nombre": "Agente de la Continental",
+      "autor": "hammett",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "hammett-continental",
+      "obras": [
+        "hammett-red-harvest",
+        "hammett-the-dain-curse"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "hammett-spade",
+      "nombre": "Sam Spade",
+      "autor": "hammett",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "hammett-spade",
+      "obras": [
+        "hammett-the-maltese-falcon"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "hammett-nick",
+      "nombre": "Nick Charles",
+      "autor": "hammett",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "hammett-charles",
+      "obras": [
+        "hammett-the-thin-man"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "hammett-nora",
+      "nombre": "Nora Charles",
+      "autor": "hammett",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "hammett-charles",
+      "obras": [
+        "hammett-the-thin-man"
+      ],
+      "articulos": []
     }
   ],
   "series": [
@@ -873,6 +1425,54 @@
       "nombre": "Race Williams",
       "autor": "daly",
       "descripcion": "Ciclo de novelas protagonizadas por el detective Race Williams."
+    },
+    {
+      "id": "gaboriau-lecoq",
+      "nombre": "Monsieur Lecoq",
+      "autor": "gaboriau",
+      "descripcion": "Investigaciones del policía francés."
+    },
+    {
+      "id": "green-gryce",
+      "nombre": "Ebenezer Gryce",
+      "autor": "green",
+      "descripcion": "Serie del investigador neoyorquino Ebenezer Gryce."
+    },
+    {
+      "id": "conan-doyle-holmes",
+      "nombre": "Sherlock Holmes",
+      "autor": "conan-doyle",
+      "descripcion": "Cuatro novelas y numerosos relatos protagonizados por Holmes y Watson."
+    },
+    {
+      "id": "leroux-rouletabille",
+      "nombre": "Joseph Rouletabille",
+      "autor": "leroux",
+      "descripcion": "Aventuras del periodista investigador."
+    },
+    {
+      "id": "sayers-wimsey",
+      "nombre": "Lord Peter Wimsey",
+      "autor": "sayers",
+      "descripcion": "Investigaciones del aristócrata detective, incluidas novelas con Harriet Vane."
+    },
+    {
+      "id": "hammett-continental",
+      "nombre": "Agente de la Continental",
+      "autor": "hammett",
+      "descripcion": "Aventuras del agente anónimo de la agencia Continental."
+    },
+    {
+      "id": "hammett-spade",
+      "nombre": "Sam Spade",
+      "autor": "hammett",
+      "descripcion": "Investigaciones del detective privado Sam Spade."
+    },
+    {
+      "id": "hammett-charles",
+      "nombre": "Nick y Nora Charles",
+      "autor": "hammett",
+      "descripcion": "Personajes centrales de El hombre delgado."
     }
   ],
   "obras": [
@@ -2316,6 +2916,370 @@
       "generos": [
         "hardboiled"
       ]
+    },
+    {
+      "id": "gaboriau-l-affaire-lerouge",
+      "titulo": "El caso Lerouge",
+      "original": "L'Affaire Lerouge",
+      "anio": 1866,
+      "autor": "gaboriau",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gaboriau-le-crime-d-orcival",
+      "titulo": "El crimen de Orcival",
+      "original": "Le Crime d'Orcival",
+      "anio": 1867,
+      "autor": "gaboriau",
+      "seudonimo": "",
+      "serie": "gaboriau-lecoq",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gaboriau-le-dossier-n-113",
+      "titulo": "El expediente 113",
+      "original": "Le Dossier n° 113",
+      "anio": 1867,
+      "autor": "gaboriau",
+      "seudonimo": "",
+      "serie": "gaboriau-lecoq",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gaboriau-monsieur-lecoq",
+      "titulo": "Monsieur Lecoq",
+      "original": "Monsieur Lecoq",
+      "anio": 1868,
+      "autor": "gaboriau",
+      "seudonimo": "",
+      "serie": "gaboriau-lecoq",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "collins-the-woman-in-white",
+      "titulo": "La dama de blanco",
+      "original": "The Woman in White",
+      "anio": 1860,
+      "autor": "collins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "collins-armadale",
+      "titulo": "Armadale",
+      "original": "Armadale",
+      "anio": 1866,
+      "autor": "collins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "collins-the-moonstone",
+      "titulo": "La piedra lunar",
+      "original": "The Moonstone",
+      "anio": 1868,
+      "autor": "collins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "green-the-leavenworth-case",
+      "titulo": "El caso Leavenworth",
+      "original": "The Leavenworth Case",
+      "anio": 1878,
+      "autor": "green",
+      "seudonimo": "",
+      "serie": "green-gryce",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "green-a-strange-disappearance",
+      "titulo": "Una desaparición extraña",
+      "original": "A Strange Disappearance",
+      "anio": 1880,
+      "autor": "green",
+      "seudonimo": "",
+      "serie": "green-gryce",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "green-the-circular-study",
+      "titulo": "El estudio circular",
+      "original": "The Circular Study",
+      "anio": 1900,
+      "autor": "green",
+      "seudonimo": "",
+      "serie": "green-gryce",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "hume-the-mystery-of-a-hansom-cab",
+      "titulo": "El misterio del coche de punto",
+      "original": "The Mystery of a Hansom Cab",
+      "anio": 1886,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "hume-madame-midas",
+      "titulo": "Madame Midas",
+      "original": "Madame Midas",
+      "anio": 1888,
+      "autor": "hume",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "conan-doyle-a-study-in-scarlet",
+      "titulo": "Estudio en escarlata",
+      "original": "A Study in Scarlet",
+      "anio": 1887,
+      "autor": "conan-doyle",
+      "seudonimo": "",
+      "serie": "conan-doyle-holmes",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "conan-doyle-the-sign-of-the-four",
+      "titulo": "El signo de los cuatro",
+      "original": "The Sign of the Four",
+      "anio": 1890,
+      "autor": "conan-doyle",
+      "seudonimo": "",
+      "serie": "conan-doyle-holmes",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "conan-doyle-the-hound-of-the-baskervilles",
+      "titulo": "El sabueso de los Baskerville",
+      "original": "The Hound of the Baskervilles",
+      "anio": 1902,
+      "autor": "conan-doyle",
+      "seudonimo": "",
+      "serie": "conan-doyle-holmes",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "conan-doyle-the-valley-of-fear",
+      "titulo": "El valle del terror",
+      "original": "The Valley of Fear",
+      "anio": 1915,
+      "autor": "conan-doyle",
+      "seudonimo": "",
+      "serie": "conan-doyle-holmes",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "leroux-le-mystere-de-la-chambre-jaune",
+      "titulo": "El misterio del cuarto amarillo",
+      "original": "Le Mystère de la chambre jaune",
+      "anio": 1907,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "leroux-rouletabille",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leroux-le-parfum-de-la-dame-en-noir",
+      "titulo": "El perfume de la dama de negro",
+      "original": "Le Parfum de la dame en noir",
+      "anio": 1908,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "leroux-rouletabille",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leroux-le-fantome-de-l-opera",
+      "titulo": "El fantasma de la ópera",
+      "original": "Le Fantôme de l'Opéra",
+      "anio": 1910,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leroux-rouletabille-chez-le-tsar",
+      "titulo": "Rouletabille en Rusia",
+      "original": "Rouletabille chez le Tsar",
+      "anio": 1913,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "leroux-rouletabille",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "sayers-whose-body",
+      "titulo": "¿De quién es el cadáver?",
+      "original": "Whose Body?",
+      "anio": 1923,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "sayers-wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-clouds-of-witness",
+      "titulo": "Nubes de testigos",
+      "original": "Clouds of Witness",
+      "anio": 1926,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "sayers-wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-strong-poison",
+      "titulo": "Veneno mortal",
+      "original": "Strong Poison",
+      "anio": 1930,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "sayers-wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-gaudy-night",
+      "titulo": "Gaudy Night",
+      "original": "Gaudy Night",
+      "anio": 1935,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "sayers-wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "hammett-red-harvest",
+      "titulo": "Cosecha roja",
+      "original": "Red Harvest",
+      "anio": 1929,
+      "autor": "hammett",
+      "seudonimo": "",
+      "serie": "hammett-continental",
+      "generos": [
+        "hardboiled",
+        "crook story"
+      ]
+    },
+    {
+      "id": "hammett-the-dain-curse",
+      "titulo": "La maldición de los Dain",
+      "original": "The Dain Curse",
+      "anio": 1929,
+      "autor": "hammett",
+      "seudonimo": "",
+      "serie": "hammett-continental",
+      "generos": [
+        "hardboiled",
+        "crook story"
+      ]
+    },
+    {
+      "id": "hammett-the-maltese-falcon",
+      "titulo": "El halcón maltés",
+      "original": "The Maltese Falcon",
+      "anio": 1930,
+      "autor": "hammett",
+      "seudonimo": "",
+      "serie": "hammett-spade",
+      "generos": [
+        "hardboiled",
+        "crook story"
+      ]
+    },
+    {
+      "id": "hammett-the-glass-key",
+      "titulo": "La llave de cristal",
+      "original": "The Glass Key",
+      "anio": 1931,
+      "autor": "hammett",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crook story"
+      ]
+    },
+    {
+      "id": "hammett-the-thin-man",
+      "titulo": "El hombre delgado",
+      "original": "The Thin Man",
+      "anio": 1934,
+      "autor": "hammett",
+      "seudonimo": "",
+      "serie": "hammett-charles",
+      "generos": [
+        "hardboiled",
+        "crook story"
+      ]
     }
   ],
   "destacados": {
@@ -2352,12 +3316,52 @@
     "daly": [
       "whitecircle",
       "snarl"
+    ],
+    "gaboriau": [
+      "gaboriau-l-affaire-lerouge",
+      "gaboriau-le-dossier-n-113",
+      "gaboriau-monsieur-lecoq"
+    ],
+    "collins": [
+      "collins-the-moonstone",
+      "collins-the-woman-in-white",
+      "collins-armadale"
+    ],
+    "green": [
+      "green-the-leavenworth-case",
+      "green-a-strange-disappearance",
+      "green-the-circular-study"
+    ],
+    "hume": [
+      "hume-the-mystery-of-a-hansom-cab",
+      "hume-madame-midas",
+      "hume-madame-midas"
+    ],
+    "conan-doyle": [
+      "conan-doyle-a-study-in-scarlet",
+      "conan-doyle-the-hound-of-the-baskervilles",
+      "conan-doyle-the-valley-of-fear"
+    ],
+    "leroux": [
+      "leroux-le-mystere-de-la-chambre-jaune",
+      "leroux-le-fantome-de-l-opera",
+      "leroux-rouletabille-chez-le-tsar"
+    ],
+    "sayers": [
+      "sayers-whose-body",
+      "sayers-strong-poison",
+      "sayers-gaudy-night"
+    ],
+    "hammett": [
+      "hammett-red-harvest",
+      "hammett-the-maltese-falcon",
+      "hammett-the-thin-man"
     ]
   },
   "totales": {
-    "autores": 7,
-    "personajes": 19,
-    "series": 11,
-    "obras": 121
+    "autores": 15,
+    "personajes": 33,
+    "series": 19,
+    "obras": 150
   }
 }
