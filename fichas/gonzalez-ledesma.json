@@ -37,7 +37,13 @@
     "obras": [
       "gonzalez-ledesma-expediente-barcelona",
       "gonzalez-ledesma-cronica-sentimental-en-rojo",
-      "gonzalez-ledesma-una-novela-de-barrio"
+      "gonzalez-ledesma-una-novela-de-barrio",
+      "gonzalez-ledesma-las-calles-de-nuestros-padres",
+      "gonzalez-ledesma-la-dama-de-cachemira",
+      "gonzalez-ledesma-historia-de-dios-en-una-esquina",
+      "gonzalez-ledesma-el-pecado-o-algo-parecido",
+      "gonzalez-ledesma-cinco-mujeres-y-media",
+      "gonzalez-ledesma-no-hay-que-morir-dos-veces"
     ],
     "debutPorVerificar": true
   },
@@ -59,7 +65,13 @@
       "obras": [
         "gonzalez-ledesma-expediente-barcelona",
         "gonzalez-ledesma-cronica-sentimental-en-rojo",
-        "gonzalez-ledesma-una-novela-de-barrio"
+        "gonzalez-ledesma-una-novela-de-barrio",
+        "gonzalez-ledesma-las-calles-de-nuestros-padres",
+        "gonzalez-ledesma-la-dama-de-cachemira",
+        "gonzalez-ledesma-historia-de-dios-en-una-esquina",
+        "gonzalez-ledesma-el-pecado-o-algo-parecido",
+        "gonzalez-ledesma-cinco-mujeres-y-media",
+        "gonzalez-ledesma-no-hay-que-morir-dos-veces"
       ],
       "articulos": [],
       "descripcion": "Inspector veterano, desaliñado e irónico, profundamente unido a las calles de Barcelona."
@@ -115,6 +127,90 @@
         "police procedural"
       ],
       "sinopsis": "Una investigación vinculada a los barrios barceloneses reabre heridas, recuerdos y conflictos de larga duración."
+    },
+    {
+      "id": "gonzalez-ledesma-las-calles-de-nuestros-padres",
+      "titulo": "Las calles de nuestros padres",
+      "original": "Las calles de nuestros padres",
+      "anio": 1984,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Méndez investiga un caso que permite recorrer los barrios y los conflictos de memoria de Barcelona."
+    },
+    {
+      "id": "gonzalez-ledesma-la-dama-de-cachemira",
+      "titulo": "La dama de Cachemira",
+      "original": "La dama de Cachemira",
+      "anio": 1986,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Un nuevo expediente lleva al inspector Méndez por los espacios populares de la ciudad."
+    },
+    {
+      "id": "gonzalez-ledesma-historia-de-dios-en-una-esquina",
+      "titulo": "Historia de Dios en una esquina",
+      "original": "Historia de Dios en una esquina",
+      "anio": 1991,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una intriga delictiva se despliega en el paisaje humano del noir barcelonés."
+    },
+    {
+      "id": "gonzalez-ledesma-el-pecado-o-algo-parecido",
+      "titulo": "El pecado o algo parecido",
+      "original": "El pecado o algo parecido",
+      "anio": 2002,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Un caso de Méndez reúne violencia criminal y crítica social."
+    },
+    {
+      "id": "gonzalez-ledesma-cinco-mujeres-y-media",
+      "titulo": "Cinco mujeres y media",
+      "original": "Cinco mujeres y media",
+      "anio": 2005,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Méndez investiga un caso ligado a varias mujeres en una Barcelona de contrastes."
+    },
+    {
+      "id": "gonzalez-ledesma-no-hay-que-morir-dos-veces",
+      "titulo": "No hay que morir dos veces",
+      "original": "No hay que morir dos veces",
+      "anio": 2009,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una investigación remueve heridas antiguas y nuevas violencias en la ciudad."
     }
   ]
 }
