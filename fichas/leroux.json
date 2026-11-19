@@ -26,7 +26,8 @@
     "alcanceBibliografia": "selección inicial no exhaustiva",
     "articulos": [],
     "personajes": [
-      "leroux-rouletabille"
+      "leroux-rouletabille",
+      "leroux-cheri"
     ],
     "series": [
       "leroux-rouletabille"
@@ -35,7 +36,14 @@
       "leroux-le-mystere-de-la-chambre-jaune",
       "leroux-le-parfum-de-la-dame-en-noir",
       "leroux-le-fantome-de-l-opera",
-      "leroux-rouletabille-chez-le-tsar"
+      "leroux-rouletabille-chez-le-tsar",
+      "leroux-le-fauteuil-hante",
+      "leroux-un-homme-dans-la-nuit",
+      "leroux-balaoo",
+      "leroux-les-premieres-aventures-de-cheri-bibi",
+      "leroux-le-chateau-noir",
+      "leroux-rouletabille-chez-les-bohemiens",
+      "leroux-la-poupee-sanglante"
     ]
   },
   "personajes": [
@@ -56,10 +64,32 @@
       "obras": [
         "leroux-le-mystere-de-la-chambre-jaune",
         "leroux-le-parfum-de-la-dame-en-noir",
-        "leroux-rouletabille-chez-le-tsar"
+        "leroux-rouletabille-chez-le-tsar",
+        "leroux-le-chateau-noir",
+        "leroux-rouletabille-chez-les-bohemiens"
       ],
       "articulos": [],
       "descripcion": "Joven reportero cuya investigación une razonamiento y trabajo de campo."
+    },
+    {
+      "id": "leroux-cheri",
+      "nombre": "Chéri-Bibi",
+      "autor": "leroux",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "leroux-les-premieres-aventures-de-cheri-bibi"
+      ],
+      "articulos": [],
+      "descripcion": "Presidiario y fugitivo de un ciclo de novelas populares de Leroux."
     }
   ],
   "series": [
@@ -126,6 +156,104 @@
         "crime thriller"
       ],
       "sinopsis": "El reportero investiga una serie de amenazas en un escenario de intrigas de la Rusia zarista."
+    },
+    {
+      "id": "leroux-le-fauteuil-hante",
+      "titulo": "Le Fauteuil hanté",
+      "original": "Le Fauteuil hanté",
+      "anio": 1909,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Las circunstancias de varias muertes durante reuniones académicas plantean un aparente misterio sobrenatural."
+    },
+    {
+      "id": "leroux-un-homme-dans-la-nuit",
+      "titulo": "Un Homme dans la nuit",
+      "original": "Un Homme dans la nuit",
+      "anio": 1910,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Una novela policiaca sobre sucesos inquietantes e identidades ocultas."
+    },
+    {
+      "id": "leroux-balaoo",
+      "titulo": "Balaoo",
+      "original": "Balaoo",
+      "anio": 1911,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "La búsqueda de explicaciones a hechos violentos se entremezcla con elementos fantásticos y científicos."
+    },
+    {
+      "id": "leroux-les-premieres-aventures-de-cheri-bibi",
+      "titulo": "Les premières aventures de Chéri-Bibi",
+      "original": "Les premières aventures de Chéri-Bibi",
+      "anio": 1913,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Primer ciclo del proscrito Chéri-Bibi, serializado desde 1913 y posteriormente publicado en volumen."
+    },
+    {
+      "id": "leroux-le-chateau-noir",
+      "titulo": "Le Château noir",
+      "original": "Le Château noir",
+      "anio": 1914,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "leroux-rouletabille",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Rouletabille investiga una conspiración en un ambiente internacional, dentro de sus aventuras de reportero."
+    },
+    {
+      "id": "leroux-rouletabille-chez-les-bohemiens",
+      "titulo": "Rouletabille chez les Bohémiens",
+      "original": "Rouletabille chez les Bohémiens",
+      "anio": 1923,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "leroux-rouletabille",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Rouletabille se enfrenta a una investigación en el ambiente de una comunidad de viajeros."
+    },
+    {
+      "id": "leroux-la-poupee-sanglante",
+      "titulo": "La Poupée sanglante",
+      "original": "La Poupée sanglante",
+      "anio": 1923,
+      "autor": "leroux",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Un misterio de identidad y crimen se mezcla con lo fantástico y lo científico."
     }
   ]
 }
