@@ -1,0 +1,127 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "sjowall-wahloo",
+    "nombre": "Maj Sjöwall y Per Wahlöö",
+    "nombreCompleto": "Maj Sjöwall y Per Wahlöö",
+    "nacimiento": "1926",
+    "fallecimiento": "1975",
+    "origen": "Suecia",
+    "pais": "Suecia",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1965,
+    "seudonimos": [],
+    "generos": [
+      "police procedural"
+    ],
+    "imagen": "",
+    "resumen": "Pareja de autores del ciclo Martin Beck y pionera del policial social escandinavo.",
+    "bio": [
+      "Maj Sjöwall (1935–2020) y Per Wahlöö (1926–1975) escribieron conjuntamente diez novelas del inspector Martin Beck entre 1965 y 1975.",
+      "La serie utiliza la investigación policial para observar el deterioro de instituciones, los problemas sociales y las contradicciones de la Suecia contemporánea, y ayudó a definir una tradición europea muy influyente."
+    ],
+    "apunte": "Los datos biográficos corresponden a dos escritores, no a una sola persona: 1926–1975 son los años de Per Wahlöö. El expediente los reúne como unidad de autoría de la serie Martin Beck.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "sjowall-wahloo-beck"
+    ],
+    "series": [
+      "sjowall-wahloo-beck"
+    ],
+    "obras": [
+      "sjowall-wahloo-roseanna",
+      "sjowall-wahloo-mannen-pa-balkongen",
+      "sjowall-wahloo-den-skrattande-polisen",
+      "sjowall-wahloo-terroristerna"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "sjowall-wahloo-beck",
+      "nombre": "Martin Beck",
+      "autor": "sjowall-wahloo",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "sjowall-wahloo-beck",
+      "obras": [
+        "sjowall-wahloo-roseanna",
+        "sjowall-wahloo-mannen-pa-balkongen",
+        "sjowall-wahloo-den-skrattande-polisen",
+        "sjowall-wahloo-terroristerna"
+      ],
+      "articulos": [],
+      "descripcion": "Inspector sueco que combina pesquisa profesional con mirada crítica al entorno social."
+    }
+  ],
+  "series": [
+    {
+      "id": "sjowall-wahloo-beck",
+      "nombre": "Martin Beck",
+      "autor": "sjowall-wahloo",
+      "descripcion": "Diez novelas de Martin Beck escritas conjuntamente entre 1965 y 1975."
+    }
+  ],
+  "obras": [
+    {
+      "id": "sjowall-wahloo-roseanna",
+      "titulo": "Roseanna",
+      "original": "Roseanna",
+      "anio": 1965,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "La aparición del cadáver de una joven desencadena una pesquisa paciente que necesita cooperación internacional."
+    },
+    {
+      "id": "sjowall-wahloo-mannen-pa-balkongen",
+      "titulo": "El hombre del balcón",
+      "original": "Mannen på balkongen",
+      "anio": 1967,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "La policía investiga una sucesión de ataques mientras la ciudad exhibe su aparente normalidad."
+    },
+    {
+      "id": "sjowall-wahloo-den-skrattande-polisen",
+      "titulo": "El policía que ríe",
+      "original": "Den skrattande polisen",
+      "anio": 1968,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Un autobús lleno de pasajeros aparece como escenario de un crimen múltiple que exige reconstruir motivos y víctimas."
+    },
+    {
+      "id": "sjowall-wahloo-terroristerna",
+      "titulo": "Los terroristas",
+      "original": "Terroristerna",
+      "anio": 1975,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Martin Beck afronta un caso de violencia política y amenazas en el que las instituciones también quedan bajo examen."
+    }
+  ]
+}
