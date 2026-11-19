@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-19-classics-expanded-1",
+  "version": "2026-11-19-sagas-expanded-2",
   "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · algunas bibliografías son selecciones iniciales que se ampliarán progresivamente.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -684,7 +684,15 @@
         "sayers-whose-body",
         "sayers-clouds-of-witness",
         "sayers-strong-poison",
-        "sayers-gaudy-night"
+        "sayers-gaudy-night",
+        "sayers-unnatural-death",
+        "sayers-the-unpleasantness-at-the-bellona-club",
+        "sayers-the-documents-in-the-case",
+        "sayers-the-five-red-herrings",
+        "sayers-have-his-carcase",
+        "sayers-murder-must-advertise",
+        "sayers-the-nine-tailors",
+        "sayers-busman-s-honeymoon"
       ]
     },
     {
@@ -749,16 +757,33 @@
       "articulos": [],
       "personajes": [
         "carr-bencolin",
-        "carr-fell"
+        "carr-fell",
+        "carr-merrivale-personaje"
       ],
       "series": [
         "carr-bencolin",
-        "carr-fell"
+        "carr-fell",
+        "carr-merrivale"
       ],
       "obras": [
         "carr-it-walks-by-night",
         "carr-the-hollow-man",
-        "carr-the-burning-court"
+        "carr-the-burning-court",
+        "carr-hag-s-nook",
+        "carr-the-mad-hatter-mystery",
+        "carr-the-plague-court-murders",
+        "carr-the-white-priory-murders",
+        "carr-the-red-widow-murders",
+        "carr-the-unicorn-murders",
+        "carr-the-arabian-nights-murder",
+        "carr-the-punch-and-judy-murders",
+        "carr-the-ten-teacups",
+        "carr-the-judas-window",
+        "carr-death-in-five-boxes",
+        "carr-the-reader-is-warned",
+        "carr-she-died-a-lady",
+        "carr-he-wouldn-t-kill-patience",
+        "carr-the-curse-of-the-bronze-lamp"
       ]
     },
     {
@@ -1024,7 +1049,18 @@
         "highsmith-the-talented-mr-ripley",
         "highsmith-the-cry-of-the-owl",
         "highsmith-ripley-under-ground",
-        "highsmith-ripley-s-game"
+        "highsmith-ripley-s-game",
+        "highsmith-the-blunderer",
+        "highsmith-deep-water",
+        "highsmith-a-game-for-the-living",
+        "highsmith-this-sweet-sickness",
+        "highsmith-the-two-faces-of-january",
+        "highsmith-the-glass-cell",
+        "highsmith-the-tremor-of-forgery",
+        "highsmith-a-dog-s-ransom",
+        "highsmith-edith-s-diary",
+        "highsmith-the-boy-who-followed-ripley",
+        "highsmith-ripley-under-water"
       ]
     },
     {
@@ -1130,7 +1166,17 @@
         "rendell-from-doon-with-death",
         "rendell-a-judgement-in-stone",
         "rendell-a-dark-adapted-eye",
-        "rendell-the-bridesmaid"
+        "rendell-the-bridesmaid",
+        "rendell-a-new-lease-of-death",
+        "rendell-wolf-to-the-slaughter",
+        "rendell-the-best-man-to-die",
+        "rendell-a-guilty-thing-surprised",
+        "rendell-no-more-dying-then",
+        "rendell-murder-being-once-done",
+        "rendell-some-lie-and-some-die",
+        "rendell-a-fatal-inversion",
+        "rendell-the-house-of-stairs",
+        "rendell-gallowglass"
       ]
     },
     {
@@ -1153,7 +1199,9 @@
       "alcanceBibliografia": "selección inicial no exhaustiva",
       "articulos": [],
       "personajes": [
-        "sjowall-wahloo-beck"
+        "sjowall-wahloo-beck",
+        "sjowall-kollberg",
+        "sjowall-gunvald"
       ],
       "series": [
         "sjowall-wahloo-beck"
@@ -1162,7 +1210,13 @@
         "sjowall-wahloo-roseanna",
         "sjowall-wahloo-mannen-pa-balkongen",
         "sjowall-wahloo-den-skrattande-polisen",
-        "sjowall-wahloo-terroristerna"
+        "sjowall-wahloo-terroristerna",
+        "sjowall-wahloo-mannen-som-gick-upp-i-rok",
+        "sjowall-wahloo-brandbilen-som-forsvann",
+        "sjowall-wahloo-polis-polis-potatismos",
+        "sjowall-wahloo-den-vedervardige-mannen-fran-saffle",
+        "sjowall-wahloo-det-slutna-rummet",
+        "sjowall-wahloo-polismordaren"
       ]
     },
     {
@@ -1969,48 +2023,6 @@
       "articulos": []
     },
     {
-      "id": "sayers-wimsey",
-      "nombre": "Lord Peter Wimsey",
-      "autor": "sayers",
-      "ocupacion": "Investigador aficionado",
-      "ocupacionDetalle": "Investigador aficionado",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "sayers-wimsey",
-      "obras": [
-        "sayers-whose-body",
-        "sayers-clouds-of-witness",
-        "sayers-strong-poison",
-        "sayers-gaudy-night"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "sayers-vane",
-      "nombre": "Harriet Vane",
-      "autor": "sayers",
-      "ocupacion": "Otras ocupaciones",
-      "ocupacionDetalle": "Otras ocupaciones",
-      "sexo": "Femenino",
-      "roles": [
-        "Coprotagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "sayers-wimsey",
-      "obras": [
-        "sayers-strong-poison",
-        "sayers-gaudy-night"
-      ],
-      "articulos": []
-    },
-    {
       "id": "hammett-op",
       "nombre": "Agente de la Continental",
       "autor": "hammett",
@@ -2084,44 +2096,6 @@
       "serie": "hammett-charles",
       "obras": [
         "hammett-the-thin-man"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "carr-bencolin",
-      "nombre": "Henri Bencolin",
-      "autor": "carr",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Policía",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "carr-bencolin",
-      "obras": [
-        "carr-it-walks-by-night"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "carr-fell",
-      "nombre": "Doctor Gideon Fell",
-      "autor": "carr",
-      "ocupacion": "Investigador aficionado",
-      "ocupacionDetalle": "Investigador aficionado",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "carr-fell",
-      "obras": [
-        "carr-the-hollow-man"
       ],
       "articulos": []
     },
@@ -2326,27 +2300,6 @@
       "articulos": []
     },
     {
-      "id": "highsmith-ripley",
-      "nombre": "Tom Ripley",
-      "autor": "highsmith",
-      "ocupacion": "Delincuente",
-      "ocupacionDetalle": "Delincuente",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Antihéroe"
-      ],
-      "serie": "highsmith-ripley",
-      "obras": [
-        "highsmith-the-talented-mr-ripley",
-        "highsmith-ripley-under-ground",
-        "highsmith-ripley-s-game"
-      ],
-      "articulos": []
-    },
-    {
       "id": "mcbain-carella",
       "nombre": "Steve Carella",
       "autor": "mcbain",
@@ -2405,47 +2358,6 @@
       "serie": "pd-james-cordelia",
       "obras": [
         "pd-james-an-unsuitable-job-for-a-woman"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "rendell-wexford",
-      "nombre": "Reginald Wexford",
-      "autor": "rendell",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Policía",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "rendell-wexford",
-      "obras": [
-        "rendell-from-doon-with-death"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "sjowall-wahloo-beck",
-      "nombre": "Martin Beck",
-      "autor": "sjowall-wahloo",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Policía",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "sjowall-wahloo-beck",
-      "obras": [
-        "sjowall-wahloo-roseanna",
-        "sjowall-wahloo-mannen-pa-balkongen",
-        "sjowall-wahloo-den-skrattande-polisen",
-        "sjowall-wahloo-terroristerna"
       ],
       "articulos": []
     },
@@ -3252,6 +3164,254 @@
       "serie": "",
       "obras": [],
       "articulos": []
+    },
+    {
+      "id": "sayers-wimsey",
+      "nombre": "Lord Peter Wimsey",
+      "autor": "sayers",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "sayers-wimsey",
+      "obras": [
+        "sayers-whose-body",
+        "sayers-clouds-of-witness",
+        "sayers-strong-poison",
+        "sayers-gaudy-night"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "sayers-vane",
+      "nombre": "Harriet Vane",
+      "autor": "sayers",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "sayers-wimsey",
+      "obras": [
+        "sayers-strong-poison",
+        "sayers-gaudy-night",
+        "sayers-whose-body",
+        "sayers-clouds-of-witness"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "carr-bencolin",
+      "nombre": "Henri Bencolin",
+      "autor": "carr",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "carr-bencolin",
+      "obras": [
+        "carr-it-walks-by-night"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "carr-fell",
+      "nombre": "Doctor Gideon Fell",
+      "autor": "carr",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "carr-fell",
+      "obras": [
+        "carr-the-hollow-man",
+        "carr-hag-s-nook",
+        "carr-the-mad-hatter-mystery",
+        "carr-the-arabian-nights-murder"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "carr-merrivale-personaje",
+      "nombre": "Sir Henry Merrivale",
+      "autor": "carr",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "carr-merrivale",
+      "obras": [
+        "carr-the-plague-court-murders",
+        "carr-the-white-priory-murders",
+        "carr-the-red-widow-murders",
+        "carr-the-unicorn-murders",
+        "carr-the-punch-and-judy-murders",
+        "carr-the-ten-teacups",
+        "carr-the-judas-window",
+        "carr-death-in-five-boxes",
+        "carr-the-reader-is-warned",
+        "carr-she-died-a-lady",
+        "carr-he-wouldn-t-kill-patience",
+        "carr-the-curse-of-the-bronze-lamp"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "sjowall-wahloo-beck",
+      "nombre": "Martin Beck",
+      "autor": "sjowall-wahloo",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "sjowall-wahloo-beck",
+      "obras": [
+        "sjowall-wahloo-roseanna",
+        "sjowall-wahloo-mannen-pa-balkongen",
+        "sjowall-wahloo-den-skrattande-polisen",
+        "sjowall-wahloo-terroristerna",
+        "sjowall-wahloo-mannen-som-gick-upp-i-rok",
+        "sjowall-wahloo-brandbilen-som-forsvann",
+        "sjowall-wahloo-polis-polis-potatismos",
+        "sjowall-wahloo-den-vedervardige-mannen-fran-saffle",
+        "sjowall-wahloo-det-slutna-rummet",
+        "sjowall-wahloo-polismordaren"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "sjowall-kollberg",
+      "nombre": "Lennart Kollberg",
+      "autor": "sjowall-wahloo",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "sjowall-wahloo-beck",
+      "obras": [
+        "sjowall-wahloo-roseanna",
+        "sjowall-wahloo-mannen-pa-balkongen",
+        "sjowall-wahloo-den-skrattande-polisen",
+        "sjowall-wahloo-terroristerna",
+        "sjowall-wahloo-mannen-som-gick-upp-i-rok",
+        "sjowall-wahloo-brandbilen-som-forsvann",
+        "sjowall-wahloo-polis-polis-potatismos",
+        "sjowall-wahloo-den-vedervardige-mannen-fran-saffle",
+        "sjowall-wahloo-det-slutna-rummet",
+        "sjowall-wahloo-polismordaren"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "sjowall-gunvald",
+      "nombre": "Gunvald Larsson",
+      "autor": "sjowall-wahloo",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "sjowall-wahloo-beck",
+      "obras": [
+        "sjowall-wahloo-roseanna",
+        "sjowall-wahloo-mannen-pa-balkongen",
+        "sjowall-wahloo-den-skrattande-polisen",
+        "sjowall-wahloo-terroristerna",
+        "sjowall-wahloo-mannen-som-gick-upp-i-rok",
+        "sjowall-wahloo-brandbilen-som-forsvann",
+        "sjowall-wahloo-polis-polis-potatismos",
+        "sjowall-wahloo-den-vedervardige-mannen-fran-saffle",
+        "sjowall-wahloo-det-slutna-rummet",
+        "sjowall-wahloo-polismordaren"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "highsmith-ripley",
+      "nombre": "Tom Ripley",
+      "autor": "highsmith",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "highsmith-ripley",
+      "obras": [
+        "highsmith-the-talented-mr-ripley",
+        "highsmith-ripley-under-ground",
+        "highsmith-ripley-s-game",
+        "highsmith-the-boy-who-followed-ripley",
+        "highsmith-ripley-under-water"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "rendell-wexford",
+      "nombre": "Reginald Wexford",
+      "autor": "rendell",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "rendell-wexford",
+      "obras": [
+        "rendell-from-doon-with-death",
+        "rendell-a-new-lease-of-death",
+        "rendell-wolf-to-the-slaughter",
+        "rendell-the-best-man-to-die",
+        "rendell-a-guilty-thing-surprised",
+        "rendell-no-more-dying-then",
+        "rendell-murder-being-once-done",
+        "rendell-some-lie-and-some-die"
+      ],
+      "articulos": []
     }
   ],
   "series": [
@@ -3340,12 +3500,6 @@
       "descripcion": "Aventuras del periodista investigador."
     },
     {
-      "id": "sayers-wimsey",
-      "nombre": "Lord Peter Wimsey",
-      "autor": "sayers",
-      "descripcion": "Investigaciones del aristócrata detective, incluidas novelas con Harriet Vane."
-    },
-    {
       "id": "hammett-continental",
       "nombre": "Agente de la Continental",
       "autor": "hammett",
@@ -3362,18 +3516,6 @@
       "nombre": "Nick y Nora Charles",
       "autor": "hammett",
       "descripcion": "Personajes centrales de El hombre delgado."
-    },
-    {
-      "id": "carr-bencolin",
-      "nombre": "Henri Bencolin",
-      "autor": "carr",
-      "descripcion": "Investigaciones del comisario Henri Bencolin."
-    },
-    {
-      "id": "carr-fell",
-      "nombre": "Doctor Gideon Fell",
-      "autor": "carr",
-      "descripcion": "Novelas protagonizadas por Gideon Fell."
     },
     {
       "id": "gardner-mason",
@@ -3394,12 +3536,6 @@
       "descripcion": "Investigaciones del inspector Roderick Alleyn."
     },
     {
-      "id": "highsmith-ripley",
-      "nombre": "Tom Ripley",
-      "autor": "highsmith",
-      "descripcion": "Cinco novelas sobre el suplantador y estafador Tom Ripley."
-    },
-    {
       "id": "mcbain-87",
       "nombre": "Distrito 87",
       "autor": "mcbain",
@@ -3416,18 +3552,6 @@
       "nombre": "Cordelia Gray",
       "autor": "pd-james",
       "descripcion": "Novelas de la detective privada Cordelia Gray."
-    },
-    {
-      "id": "rendell-wexford",
-      "nombre": "Inspector Wexford",
-      "autor": "rendell",
-      "descripcion": "Investigaciones del inspector Reginald Wexford."
-    },
-    {
-      "id": "sjowall-wahloo-beck",
-      "nombre": "Martin Beck",
-      "autor": "sjowall-wahloo",
-      "descripcion": "Diez novelas de Martin Beck escritas conjuntamente entre 1965 y 1975."
     },
     {
       "id": "vazquez-montalban-carvalho",
@@ -3512,6 +3636,48 @@
       "nombre": "Terry Mack",
       "autor": "daly",
       "descripcion": "Ciclo pulp de Terry Mack, del que existe una novela y relatos."
+    },
+    {
+      "id": "sayers-wimsey",
+      "nombre": "Lord Peter Wimsey",
+      "autor": "sayers",
+      "descripcion": "Investigaciones del aristócrata detective, incluidas novelas con Harriet Vane."
+    },
+    {
+      "id": "carr-bencolin",
+      "nombre": "Henri Bencolin",
+      "autor": "carr",
+      "descripcion": "Investigaciones del comisario Henri Bencolin."
+    },
+    {
+      "id": "carr-fell",
+      "nombre": "Doctor Gideon Fell",
+      "autor": "carr",
+      "descripcion": "Novelas protagonizadas por Gideon Fell."
+    },
+    {
+      "id": "carr-merrivale",
+      "nombre": "Sir Henry Merrivale",
+      "autor": "carr",
+      "descripcion": "Novelas de Sir Henry Merrivale, publicadas por Carr como Carter Dickson."
+    },
+    {
+      "id": "sjowall-wahloo-beck",
+      "nombre": "Martin Beck",
+      "autor": "sjowall-wahloo",
+      "descripcion": "Diez novelas de Martin Beck escritas conjuntamente entre 1965 y 1975."
+    },
+    {
+      "id": "highsmith-ripley",
+      "nombre": "Tom Ripley",
+      "autor": "highsmith",
+      "descripcion": "Cinco novelas sobre el suplantador y estafador Tom Ripley."
+    },
+    {
+      "id": "rendell-wexford",
+      "nombre": "Inspector Wexford",
+      "autor": "rendell",
+      "descripcion": "Investigaciones del inspector Reginald Wexford."
     }
   ],
   "obras": [
@@ -4985,54 +5151,6 @@
       ]
     },
     {
-      "id": "sayers-whose-body",
-      "titulo": "¿De quién es el cadáver?",
-      "original": "Whose Body?",
-      "anio": 1923,
-      "autor": "sayers",
-      "seudonimo": "",
-      "serie": "sayers-wimsey",
-      "generos": [
-        "whodunit"
-      ]
-    },
-    {
-      "id": "sayers-clouds-of-witness",
-      "titulo": "Nubes de testigos",
-      "original": "Clouds of Witness",
-      "anio": 1926,
-      "autor": "sayers",
-      "seudonimo": "",
-      "serie": "sayers-wimsey",
-      "generos": [
-        "whodunit"
-      ]
-    },
-    {
-      "id": "sayers-strong-poison",
-      "titulo": "Veneno mortal",
-      "original": "Strong Poison",
-      "anio": 1930,
-      "autor": "sayers",
-      "seudonimo": "",
-      "serie": "sayers-wimsey",
-      "generos": [
-        "whodunit"
-      ]
-    },
-    {
-      "id": "sayers-gaudy-night",
-      "titulo": "Gaudy Night",
-      "original": "Gaudy Night",
-      "anio": 1935,
-      "autor": "sayers",
-      "seudonimo": "",
-      "serie": "sayers-wimsey",
-      "generos": [
-        "whodunit"
-      ]
-    },
-    {
       "id": "hammett-red-harvest",
       "titulo": "Cosecha roja",
       "original": "Red Harvest",
@@ -5095,42 +5213,6 @@
       "generos": [
         "hardboiled",
         "crook story"
-      ]
-    },
-    {
-      "id": "carr-it-walks-by-night",
-      "titulo": "Anda de noche",
-      "original": "It Walks by Night",
-      "anio": 1930,
-      "autor": "carr",
-      "seudonimo": "",
-      "serie": "carr-bencolin",
-      "generos": [
-        "whodunit"
-      ]
-    },
-    {
-      "id": "carr-the-hollow-man",
-      "titulo": "Los tres ataúdes",
-      "original": "The Hollow Man",
-      "anio": 1935,
-      "autor": "carr",
-      "seudonimo": "",
-      "serie": "carr-fell",
-      "generos": [
-        "whodunit"
-      ]
-    },
-    {
-      "id": "carr-the-burning-court",
-      "titulo": "La cámara ardiente",
-      "original": "The Burning Court",
-      "anio": 1937,
-      "autor": "carr",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "whodunit"
       ]
     },
     {
@@ -5456,71 +5538,6 @@
       ]
     },
     {
-      "id": "highsmith-strangers-on-a-train",
-      "titulo": "Extraños en un tren",
-      "original": "Strangers on a Train",
-      "anio": 1950,
-      "autor": "highsmith",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "psychological thriller",
-        "crook story"
-      ]
-    },
-    {
-      "id": "highsmith-the-talented-mr-ripley",
-      "titulo": "El talento de Mr. Ripley",
-      "original": "The Talented Mr. Ripley",
-      "anio": 1955,
-      "autor": "highsmith",
-      "seudonimo": "",
-      "serie": "highsmith-ripley",
-      "generos": [
-        "psychological thriller",
-        "crook story"
-      ]
-    },
-    {
-      "id": "highsmith-the-cry-of-the-owl",
-      "titulo": "El grito de la lechuza",
-      "original": "The Cry of the Owl",
-      "anio": 1962,
-      "autor": "highsmith",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "psychological thriller",
-        "crook story"
-      ]
-    },
-    {
-      "id": "highsmith-ripley-under-ground",
-      "titulo": "La máscara de Ripley",
-      "original": "Ripley Under Ground",
-      "anio": 1970,
-      "autor": "highsmith",
-      "seudonimo": "",
-      "serie": "highsmith-ripley",
-      "generos": [
-        "psychological thriller",
-        "crook story"
-      ]
-    },
-    {
-      "id": "highsmith-ripley-s-game",
-      "titulo": "El juego de Ripley",
-      "original": "Ripley's Game",
-      "anio": 1974,
-      "autor": "highsmith",
-      "seudonimo": "",
-      "serie": "highsmith-ripley",
-      "generos": [
-        "psychological thriller",
-        "crook story"
-      ]
-    },
-    {
       "id": "mcbain-cop-hater",
       "titulo": "Odio",
       "original": "Cop Hater",
@@ -5617,106 +5634,6 @@
       "serie": "pd-james-cordelia",
       "generos": [
         "whodunit",
-        "police procedural"
-      ]
-    },
-    {
-      "id": "rendell-from-doon-with-death",
-      "titulo": "Dedicatoria mortal",
-      "original": "From Doon with Death",
-      "anio": 1964,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "rendell-wexford",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-a-judgement-in-stone",
-      "titulo": "Un juicio de piedra",
-      "original": "A Judgement in Stone",
-      "anio": 1977,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-a-dark-adapted-eye",
-      "titulo": "A Dark-Adapted Eye",
-      "original": "A Dark-Adapted Eye",
-      "anio": 1986,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "rendell-the-bridesmaid",
-      "titulo": "La dama de honor",
-      "original": "The Bridesmaid",
-      "anio": 1989,
-      "autor": "rendell",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "whodunit",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "sjowall-wahloo-roseanna",
-      "titulo": "Roseanna",
-      "original": "Roseanna",
-      "anio": 1965,
-      "autor": "sjowall-wahloo",
-      "seudonimo": "",
-      "serie": "sjowall-wahloo-beck",
-      "generos": [
-        "police procedural"
-      ]
-    },
-    {
-      "id": "sjowall-wahloo-mannen-pa-balkongen",
-      "titulo": "El hombre del balcón",
-      "original": "Mannen på balkongen",
-      "anio": 1967,
-      "autor": "sjowall-wahloo",
-      "seudonimo": "",
-      "serie": "sjowall-wahloo-beck",
-      "generos": [
-        "police procedural"
-      ]
-    },
-    {
-      "id": "sjowall-wahloo-den-skrattande-polisen",
-      "titulo": "El policía que ríe",
-      "original": "Den skrattande polisen",
-      "anio": 1968,
-      "autor": "sjowall-wahloo",
-      "seudonimo": "",
-      "serie": "sjowall-wahloo-beck",
-      "generos": [
-        "police procedural"
-      ]
-    },
-    {
-      "id": "sjowall-wahloo-terroristerna",
-      "titulo": "Los terroristas",
-      "original": "Terroristerna",
-      "anio": 1975,
-      "autor": "sjowall-wahloo",
-      "seudonimo": "",
-      "serie": "sjowall-wahloo-beck",
-      "generos": [
         "police procedural"
       ]
     },
@@ -7009,6 +6926,876 @@
       "generos": [
         "whodunit"
       ]
+    },
+    {
+      "id": "sayers-whose-body",
+      "titulo": "¿De quién es el cadáver?",
+      "original": "Whose Body?",
+      "anio": 1923,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "sayers-wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-clouds-of-witness",
+      "titulo": "Nubes de testigos",
+      "original": "Clouds of Witness",
+      "anio": 1926,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "sayers-wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-strong-poison",
+      "titulo": "Veneno mortal",
+      "original": "Strong Poison",
+      "anio": 1930,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "sayers-wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-gaudy-night",
+      "titulo": "Gaudy Night",
+      "original": "Gaudy Night",
+      "anio": 1935,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "sayers-wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-unnatural-death",
+      "titulo": "Unnatural Death",
+      "original": "Unnatural Death",
+      "anio": 1927,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-the-unpleasantness-at-the-bellona-club",
+      "titulo": "The Unpleasantness at the Bellona Club",
+      "original": "The Unpleasantness at the Bellona Club",
+      "anio": 1928,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-the-documents-in-the-case",
+      "titulo": "The Documents in the Case",
+      "original": "The Documents in the Case",
+      "anio": 1930,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-the-five-red-herrings",
+      "titulo": "Cinco pistas falsas",
+      "original": "The Five Red Herrings",
+      "anio": 1931,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-have-his-carcase",
+      "titulo": "Have His Carcase",
+      "original": "Have His Carcase",
+      "anio": 1932,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-murder-must-advertise",
+      "titulo": "Murder Must Advertise",
+      "original": "Murder Must Advertise",
+      "anio": 1933,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-the-nine-tailors",
+      "titulo": "Los nueve sastres",
+      "original": "The Nine Tailors",
+      "anio": 1934,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sayers-busman-s-honeymoon",
+      "titulo": "Luna de miel",
+      "original": "Busman's Honeymoon",
+      "anio": 1937,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "wimsey",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-it-walks-by-night",
+      "titulo": "Anda de noche",
+      "original": "It Walks by Night",
+      "anio": 1930,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-bencolin",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-hollow-man",
+      "titulo": "Los tres ataúdes",
+      "original": "The Hollow Man",
+      "anio": 1935,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-burning-court",
+      "titulo": "La cámara ardiente",
+      "original": "The Burning Court",
+      "anio": 1937,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-hag-s-nook",
+      "titulo": "La guarida de la bruja",
+      "original": "Hag's Nook",
+      "anio": 1933,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-mad-hatter-mystery",
+      "titulo": "El misterio del sombrerero loco",
+      "original": "The Mad Hatter Mystery",
+      "anio": 1933,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-plague-court-murders",
+      "titulo": "El patio de la plaga",
+      "original": "The Plague Court Murders",
+      "anio": 1934,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-white-priory-murders",
+      "titulo": "Sangre en el espejo de la Reina",
+      "original": "The White Priory Murders",
+      "anio": 1934,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-red-widow-murders",
+      "titulo": "Los crímenes de la viuda roja",
+      "original": "The Red Widow Murders",
+      "anio": 1935,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-unicorn-murders",
+      "titulo": "Los crímenes del unicornio",
+      "original": "The Unicorn Murders",
+      "anio": 1935,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-arabian-nights-murder",
+      "titulo": "The Arabian Nights Murder",
+      "original": "The Arabian Nights Murder",
+      "anio": 1936,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-punch-and-judy-murders",
+      "titulo": "Los crímenes de polichinela",
+      "original": "The Punch and Judy Murders",
+      "anio": 1936,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-ten-teacups",
+      "titulo": "La policía está invitada",
+      "original": "The Ten Teacups",
+      "anio": 1937,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-judas-window",
+      "titulo": "La ventana de Judas",
+      "original": "The Judas Window",
+      "anio": 1938,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-death-in-five-boxes",
+      "titulo": "Muerte en cinco cajas",
+      "original": "Death in Five Boxes",
+      "anio": 1938,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-reader-is-warned",
+      "titulo": "Advertencia al lector",
+      "original": "The Reader is Warned",
+      "anio": 1939,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-she-died-a-lady",
+      "titulo": "Murió como una dama",
+      "original": "She Died a Lady",
+      "anio": 1943,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-he-wouldn-t-kill-patience",
+      "titulo": "Empezó entre fieras",
+      "original": "He Wouldn't Kill Patience",
+      "anio": 1944,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "carr-the-curse-of-the-bronze-lamp",
+      "titulo": "La lámpara de bronce",
+      "original": "The Curse of the Bronze Lamp",
+      "anio": 1945,
+      "autor": "carr",
+      "seudonimo": "Carter Dickson",
+      "serie": "carr-merrivale",
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-roseanna",
+      "titulo": "Roseanna",
+      "original": "Roseanna",
+      "anio": 1965,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-mannen-pa-balkongen",
+      "titulo": "El hombre del balcón",
+      "original": "Mannen på balkongen",
+      "anio": 1967,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-den-skrattande-polisen",
+      "titulo": "El policía que ríe",
+      "original": "Den skrattande polisen",
+      "anio": 1968,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-terroristerna",
+      "titulo": "Los terroristas",
+      "original": "Terroristerna",
+      "anio": 1975,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-mannen-som-gick-upp-i-rok",
+      "titulo": "El hombre que se esfumó",
+      "original": "Mannen som gick upp i rök",
+      "anio": 1966,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-brandbilen-som-forsvann",
+      "titulo": "El coche de bomberos que desapareció",
+      "original": "Brandbilen som försvann",
+      "anio": 1969,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-polis-polis-potatismos",
+      "titulo": "Asesinato en el Savoy",
+      "original": "Polis, polis, potatismos!",
+      "anio": 1970,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-den-vedervardige-mannen-fran-saffle",
+      "titulo": "El abominable hombre de Säffle",
+      "original": "Den vedervärdige mannen från Säffle",
+      "anio": 1971,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-det-slutna-rummet",
+      "titulo": "La habitación cerrada",
+      "original": "Det slutna rummet",
+      "anio": 1972,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "sjowall-wahloo-polismordaren",
+      "titulo": "El asesino de policías",
+      "original": "Polismördaren",
+      "anio": 1974,
+      "autor": "sjowall-wahloo",
+      "seudonimo": "",
+      "serie": "sjowall-wahloo-beck",
+      "generos": [
+        "police procedural"
+      ]
+    },
+    {
+      "id": "highsmith-strangers-on-a-train",
+      "titulo": "Extraños en un tren",
+      "original": "Strangers on a Train",
+      "anio": 1950,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-the-talented-mr-ripley",
+      "titulo": "El talento de Mr. Ripley",
+      "original": "The Talented Mr. Ripley",
+      "anio": 1955,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "highsmith-ripley",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-the-cry-of-the-owl",
+      "titulo": "El grito de la lechuza",
+      "original": "The Cry of the Owl",
+      "anio": 1962,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-ripley-under-ground",
+      "titulo": "La máscara de Ripley",
+      "original": "Ripley Under Ground",
+      "anio": 1970,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "highsmith-ripley",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-ripley-s-game",
+      "titulo": "El amigo americano",
+      "original": "Ripley's Game",
+      "anio": 1974,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "highsmith-ripley",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-the-blunderer",
+      "titulo": "El cuchillo",
+      "original": "The Blunderer",
+      "anio": 1954,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-deep-water",
+      "titulo": "Mar de fondo",
+      "original": "Deep Water",
+      "anio": 1957,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-a-game-for-the-living",
+      "titulo": "Un juego para los vivos",
+      "original": "A Game for the Living",
+      "anio": 1958,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-this-sweet-sickness",
+      "titulo": "Ese dulce mal",
+      "original": "This Sweet Sickness",
+      "anio": 1960,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-the-two-faces-of-january",
+      "titulo": "Las dos caras de enero",
+      "original": "The Two Faces of January",
+      "anio": 1964,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-the-glass-cell",
+      "titulo": "La celda de cristal",
+      "original": "The Glass Cell",
+      "anio": 1964,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-the-tremor-of-forgery",
+      "titulo": "El temblor de la falsificación",
+      "original": "The Tremor of Forgery",
+      "anio": 1969,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-a-dog-s-ransom",
+      "titulo": "Rescate por un perro",
+      "original": "A Dog's Ransom",
+      "anio": 1972,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-edith-s-diary",
+      "titulo": "El diario de Edith",
+      "original": "Edith's Diary",
+      "anio": 1977,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-the-boy-who-followed-ripley",
+      "titulo": "Tras los pasos de Ripley",
+      "original": "The Boy Who Followed Ripley",
+      "anio": 1980,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "highsmith-ripley",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "highsmith-ripley-under-water",
+      "titulo": "Ripley en peligro",
+      "original": "Ripley Under Water",
+      "anio": 1991,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "highsmith-ripley",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "rendell-from-doon-with-death",
+      "titulo": "Dedicatoria mortal",
+      "original": "From Doon with Death",
+      "anio": 1964,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-a-judgement-in-stone",
+      "titulo": "Un juicio de piedra",
+      "original": "A Judgement in Stone",
+      "anio": 1977,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-a-dark-adapted-eye",
+      "titulo": "A Dark-Adapted Eye",
+      "original": "A Dark-Adapted Eye",
+      "anio": 1986,
+      "autor": "rendell",
+      "seudonimo": "Barbara Vine",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-the-bridesmaid",
+      "titulo": "La dama de honor",
+      "original": "The Bridesmaid",
+      "anio": 1989,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-a-new-lease-of-death",
+      "titulo": "A New Lease of Death",
+      "original": "A New Lease of Death",
+      "anio": 1967,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-wolf-to-the-slaughter",
+      "titulo": "Wolf to the Slaughter",
+      "original": "Wolf to the Slaughter",
+      "anio": 1967,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-the-best-man-to-die",
+      "titulo": "The Best Man to Die",
+      "original": "The Best Man to Die",
+      "anio": 1969,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-a-guilty-thing-surprised",
+      "titulo": "A Guilty Thing Surprised",
+      "original": "A Guilty Thing Surprised",
+      "anio": 1970,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-no-more-dying-then",
+      "titulo": "No More Dying Then",
+      "original": "No More Dying Then",
+      "anio": 1971,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-murder-being-once-done",
+      "titulo": "Murder Being Once Done",
+      "original": "Murder Being Once Done",
+      "anio": 1972,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-some-lie-and-some-die",
+      "titulo": "Some Lie and Some Die",
+      "original": "Some Lie and Some Die",
+      "anio": 1973,
+      "autor": "rendell",
+      "seudonimo": "",
+      "serie": "rendell-wexford",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-a-fatal-inversion",
+      "titulo": "A Fatal Inversion",
+      "original": "A Fatal Inversion",
+      "anio": 1987,
+      "autor": "rendell",
+      "seudonimo": "Barbara Vine",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-the-house-of-stairs",
+      "titulo": "The House of Stairs",
+      "original": "The House of Stairs",
+      "anio": 1988,
+      "autor": "rendell",
+      "seudonimo": "Barbara Vine",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "rendell-gallowglass",
+      "titulo": "Gallowglass",
+      "original": "Gallowglass",
+      "anio": 1990,
+      "autor": "rendell",
+      "seudonimo": "Barbara Vine",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
     }
   ],
   "destacados": {
@@ -7210,8 +7997,8 @@
   },
   "totales": {
     "autores": 39,
-    "personajes": 83,
-    "series": 43,
-    "obras": 284
+    "personajes": 86,
+    "series": 44,
+    "obras": 334
   }
 }
