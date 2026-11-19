@@ -25,7 +25,8 @@
     "alcanceBibliografia": "selección inicial no exhaustiva",
     "articulos": [],
     "personajes": [
-      "green-gryce"
+      "green-gryce",
+      "green-amelia"
     ],
     "series": [
       "green-gryce"
@@ -33,7 +34,13 @@
     "obras": [
       "green-the-leavenworth-case",
       "green-a-strange-disappearance",
-      "green-the-circular-study"
+      "green-the-circular-study",
+      "green-that-affair-next-door",
+      "green-lost-man-s-lane",
+      "green-the-filigree-ball",
+      "green-the-woman-in-the-alcove",
+      "green-the-house-of-the-whispering-pines",
+      "green-the-mystery-of-the-hasty-arrow"
     ]
   },
   "personajes": [
@@ -54,10 +61,37 @@
       "obras": [
         "green-the-leavenworth-case",
         "green-a-strange-disappearance",
-        "green-the-circular-study"
+        "green-the-circular-study",
+        "green-that-affair-next-door",
+        "green-lost-man-s-lane",
+        "green-the-filigree-ball",
+        "green-the-woman-in-the-alcove",
+        "green-the-house-of-the-whispering-pines",
+        "green-the-mystery-of-the-hasty-arrow"
       ],
       "articulos": [],
       "descripcion": "Detective paciente y detallista de la ficción estadounidense temprana."
+    },
+    {
+      "id": "green-amelia",
+      "nombre": "Amelia Butterworth",
+      "autor": "green",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "green-that-affair-next-door",
+        "green-lost-man-s-lane"
+      ],
+      "articulos": [],
+      "descripcion": "Mujer de sociedad que interviene en casos detectivescos y anticipa una tradición de investigadoras aficionadas."
     }
   ],
   "series": [
@@ -107,6 +141,84 @@
         "whodunit"
       ],
       "sinopsis": "Un crimen desconcertante pone a prueba la paciencia del detective Gryce y su interpretación de indicios."
+    },
+    {
+      "id": "green-that-affair-next-door",
+      "titulo": "That Affair Next Door",
+      "original": "That Affair Next Door",
+      "anio": 1897,
+      "autor": "green",
+      "seudonimo": "",
+      "serie": "green-gryce",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "La muerte de una joven en la casa contigua despierta el interés investigador de Amelia Butterworth."
+    },
+    {
+      "id": "green-lost-man-s-lane",
+      "titulo": "Lost Man's Lane",
+      "original": "Lost Man's Lane",
+      "anio": 1898,
+      "autor": "green",
+      "seudonimo": "",
+      "serie": "green-gryce",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una serie de desapariciones atrae a Amelia Butterworth hacia un vecindario inquietante."
+    },
+    {
+      "id": "green-the-filigree-ball",
+      "titulo": "The Filigree Ball",
+      "original": "The Filigree Ball",
+      "anio": 1903,
+      "autor": "green",
+      "seudonimo": "",
+      "serie": "green-gryce",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un caso en una mansión de Washington reúne secretos de familia y pesquisa detectivesca."
+    },
+    {
+      "id": "green-the-woman-in-the-alcove",
+      "titulo": "The Woman in the Alcove",
+      "original": "The Woman in the Alcove",
+      "anio": 1906,
+      "autor": "green",
+      "seudonimo": "",
+      "serie": "green-gryce",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "El asesinato de una mujer durante una reunión social activa una investigación sobre lo que realmente vieron los testigos."
+    },
+    {
+      "id": "green-the-house-of-the-whispering-pines",
+      "titulo": "The House of the Whispering Pines",
+      "original": "The House of the Whispering Pines",
+      "anio": 1910,
+      "autor": "green",
+      "seudonimo": "",
+      "serie": "green-gryce",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte en una residencia aislada obliga a reconstruir movimientos y relaciones de los implicados."
+    },
+    {
+      "id": "green-the-mystery-of-the-hasty-arrow",
+      "titulo": "The Mystery of the Hasty Arrow",
+      "original": "The Mystery of the Hasty Arrow",
+      "anio": 1917,
+      "autor": "green",
+      "seudonimo": "",
+      "serie": "green-gryce",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una tragedia ocurrida en un museo exige al investigador interpretar unas circunstancias poco habituales."
     }
   ]
 }
