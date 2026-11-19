@@ -36,7 +36,12 @@
       "himes-for-love-of-imabelle",
       "himes-the-real-cool-killers",
       "himes-the-crazy-kill",
-      "himes-cotton-comes-to-harlem"
+      "himes-cotton-comes-to-harlem",
+      "himes-the-big-gold-dream",
+      "himes-all-shot-up",
+      "himes-run-man-run",
+      "himes-blind-man-with-a-pistol",
+      "himes-plan-b"
     ]
   },
   "personajes": [
@@ -58,7 +63,11 @@
         "himes-for-love-of-imabelle",
         "himes-the-real-cool-killers",
         "himes-the-crazy-kill",
-        "himes-cotton-comes-to-harlem"
+        "himes-cotton-comes-to-harlem",
+        "himes-the-big-gold-dream",
+        "himes-all-shot-up",
+        "himes-blind-man-with-a-pistol",
+        "himes-plan-b"
       ],
       "articulos": [],
       "descripcion": "Policía de Harlem cuya dureza convive con su conocimiento del barrio."
@@ -81,7 +90,11 @@
         "himes-for-love-of-imabelle",
         "himes-the-real-cool-killers",
         "himes-the-crazy-kill",
-        "himes-cotton-comes-to-harlem"
+        "himes-cotton-comes-to-harlem",
+        "himes-the-big-gold-dream",
+        "himes-all-shot-up",
+        "himes-blind-man-with-a-pistol",
+        "himes-plan-b"
       ],
       "articulos": [],
       "descripcion": "Compañero de Jones, célebre por su carácter y por la violencia del ambiente en que trabaja."
@@ -151,6 +164,76 @@
         "police procedural"
       ],
       "sinopsis": "Una operación financiera fraudulenta provoca un enfrentamiento entre delincuentes y policías en Harlem."
+    },
+    {
+      "id": "himes-the-big-gold-dream",
+      "titulo": "The Big Gold Dream",
+      "original": "The Big Gold Dream",
+      "anio": 1960,
+      "autor": "himes",
+      "seudonimo": "",
+      "serie": "himes-harlem",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una promesa de riqueza despierta el interés de delincuentes y policías en Harlem."
+    },
+    {
+      "id": "himes-all-shot-up",
+      "titulo": "All Shot Up",
+      "original": "All Shot Up",
+      "anio": 1960,
+      "autor": "himes",
+      "seudonimo": "",
+      "serie": "himes-harlem",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Los detectives de Harlem siguen una trama en la que dinero y violencia cambian de manos."
+    },
+    {
+      "id": "himes-run-man-run",
+      "titulo": "Run Man Run",
+      "original": "Run Man Run",
+      "anio": 1966,
+      "autor": "himes",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una persecución por Nueva York enfrenta a un hombre con un policía peligroso."
+    },
+    {
+      "id": "himes-blind-man-with-a-pistol",
+      "titulo": "Blind Man with a Pistol",
+      "original": "Blind Man with a Pistol",
+      "anio": 1969,
+      "autor": "himes",
+      "seudonimo": "",
+      "serie": "himes-harlem",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Varias intrigas violentas se cruzan en Harlem mientras los dos detectives buscan ordenar el caos."
+    },
+    {
+      "id": "himes-plan-b",
+      "titulo": "Plan B",
+      "original": "Plan B",
+      "anio": 1993,
+      "autor": "himes",
+      "seudonimo": "",
+      "serie": "himes-harlem",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una obra inacabada en vida de su autor, publicada póstumamente, que radicaliza la violencia y el conflicto social."
     }
   ]
 }
