@@ -1,0 +1,116 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "malet",
+    "nombre": "Léo Malet",
+    "nombreCompleto": "Léo Malet",
+    "nacimiento": "1909",
+    "fallecimiento": "1996",
+    "origen": "Francia",
+    "pais": "Francia",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1943,
+    "seudonimos": [],
+    "generos": [
+      "hardboiled",
+      "whodunit"
+    ],
+    "imagen": "",
+    "resumen": "Creador de Nestor Burma y renovador del detective privado francés.",
+    "bio": [
+      "Escritor francés vinculado al surrealismo y a la literatura popular. Tras pasar por distintos oficios y experiencias vitales, creó al investigador Nestor Burma.",
+      "Su ciclo Los nuevos misterios de París combina una ciudad reconocible, ironía y asuntos criminales que exponen tensiones del ambiente urbano."
+    ],
+    "apunte": "Los nuevos misterios de París organizan parte de las novelas de Nestor Burma por distritos de la capital francesa: la ciudad se convierte en un auténtico mapa literario del delito.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "malet-burma"
+    ],
+    "series": [
+      "malet-burma"
+    ],
+    "obras": [
+      "malet-120-rue-de-la-gare",
+      "malet-les-rats-de-montsouris",
+      "malet-brouillard-au-pont-de-tolbiac"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "malet-burma",
+      "nombre": "Nestor Burma",
+      "autor": "malet",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "malet-burma",
+      "obras": [
+        "malet-120-rue-de-la-gare",
+        "malet-les-rats-de-montsouris",
+        "malet-brouillard-au-pont-de-tolbiac"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador parisino irónico, áspero y conocedor de la ciudad."
+    }
+  ],
+  "series": [
+    {
+      "id": "malet-burma",
+      "nombre": "Nestor Burma",
+      "autor": "malet",
+      "descripcion": "Novelas del detective privado Nestor Burma, incluidas Los nuevos misterios de París."
+    }
+  ],
+  "obras": [
+    {
+      "id": "malet-120-rue-de-la-gare",
+      "titulo": "Calle de la Estación, 120",
+      "original": "120, rue de la Gare",
+      "anio": 1943,
+      "autor": "malet",
+      "seudonimo": "",
+      "serie": "malet-burma",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ],
+      "sinopsis": "Al salir de un campo de prisioneros, Nestor Burma intenta desentrañar un crimen cuyas pistas conducen a París."
+    },
+    {
+      "id": "malet-les-rats-de-montsouris",
+      "titulo": "Las ratas de Montsouris",
+      "original": "Les Rats de Montsouris",
+      "anio": 1955,
+      "autor": "malet",
+      "seudonimo": "",
+      "serie": "malet-burma",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ],
+      "sinopsis": "Una llamada y una cita nocturna ponen a Burma tras el rastro de antiguos conocidos y actividades turbias."
+    },
+    {
+      "id": "malet-brouillard-au-pont-de-tolbiac",
+      "titulo": "Niebla en el puente de Tolbiac",
+      "original": "Brouillard au pont de Tolbiac",
+      "anio": 1956,
+      "autor": "malet",
+      "seudonimo": "",
+      "serie": "malet-burma",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ],
+      "sinopsis": "Burma investiga un crimen en el París del distrito XIII y recorre los ecos de su propia juventud."
+    }
+  ]
+}
