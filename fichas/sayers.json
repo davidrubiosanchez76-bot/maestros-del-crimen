@@ -1,0 +1,149 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "sayers",
+    "nombre": "Dorothy L. Sayers",
+    "nombreCompleto": "Dorothy L. Sayers",
+    "nacimiento": "1893",
+    "fallecimiento": "1957",
+    "origen": "Reino Unido",
+    "pais": "Reino Unido",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1923,
+    "seudonimos": [],
+    "generos": [
+      "whodunit"
+    ],
+    "imagen": "",
+    "resumen": "Figura fundamental de la Edad de Oro británica y creadora de Lord Peter Wimsey.",
+    "bio": [
+      "Novelista, ensayista, dramaturga y traductora que estrenó a Lord Peter Wimsey en 1923. Su detectivesco une ingenio y examen de convenciones sociales británicas.",
+      "Sus historias ganaron profundidad psicológica, sobre todo con Harriet Vane, y abordaron la autonomía femenina y el trabajo intelectual."
+    ],
+    "apunte": "Harriet Vane, escritora de novelas detectivescas, lleva a la serie cuestiones sobre creación literaria, independencia económica y relaciones de igualdad.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "sayers-wimsey",
+      "sayers-vane"
+    ],
+    "series": [
+      "sayers-wimsey"
+    ],
+    "obras": [
+      "sayers-whose-body",
+      "sayers-clouds-of-witness",
+      "sayers-strong-poison",
+      "sayers-gaudy-night"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "sayers-wimsey",
+      "nombre": "Lord Peter Wimsey",
+      "autor": "sayers",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "sayers-wimsey",
+      "obras": [
+        "sayers-whose-body",
+        "sayers-clouds-of-witness",
+        "sayers-strong-poison",
+        "sayers-gaudy-night"
+      ],
+      "articulos": [],
+      "descripcion": "Aristócrata perspicaz, de brillante inteligencia y sentido del humor."
+    },
+    {
+      "id": "sayers-vane",
+      "nombre": "Harriet Vane",
+      "autor": "sayers",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "sayers-wimsey",
+      "obras": [
+        "sayers-strong-poison",
+        "sayers-gaudy-night"
+      ],
+      "articulos": [],
+      "descripcion": "Novelista de misterio independiente y colaboradora en investigaciones."
+    }
+  ],
+  "series": [
+    {
+      "id": "sayers-wimsey",
+      "nombre": "Lord Peter Wimsey",
+      "autor": "sayers",
+      "descripcion": "Investigaciones del aristócrata detective, incluidas novelas con Harriet Vane."
+    }
+  ],
+  "obras": [
+    {
+      "id": "sayers-whose-body",
+      "titulo": "¿De quién es el cadáver?",
+      "original": "Whose Body?",
+      "anio": 1923,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "sayers-wimsey",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "La aparición de un cuerpo desconocido en una bañera dispara las pesquisas de Lord Peter Wimsey."
+    },
+    {
+      "id": "sayers-clouds-of-witness",
+      "titulo": "Nubes de testigos",
+      "original": "Clouds of Witness",
+      "anio": 1926,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "sayers-wimsey",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Wimsey investiga cuando su hermano es sospechoso de un asesinato que amenaza con hundir a la familia."
+    },
+    {
+      "id": "sayers-strong-poison",
+      "titulo": "Veneno mortal",
+      "original": "Strong Poison",
+      "anio": 1930,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "sayers-wimsey",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una escritora es juzgada por envenenamiento; Wimsey busca pruebas que desafíen la acusación."
+    },
+    {
+      "id": "sayers-gaudy-night",
+      "titulo": "Gaudy Night",
+      "original": "Gaudy Night",
+      "anio": 1935,
+      "autor": "sayers",
+      "seudonimo": "",
+      "serie": "sayers-wimsey",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Harriet Vane se enfrenta a mensajes intimidatorios y misterios en un colegio universitario de Oxford."
+    }
+  ]
+}
