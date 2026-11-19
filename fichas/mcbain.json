@@ -29,7 +29,11 @@
     "alcanceBibliografia": "selección inicial no exhaustiva",
     "articulos": [],
     "personajes": [
-      "mcbain-carella"
+      "mcbain-carella",
+      "mcbain-meyer",
+      "mcbain-kling",
+      "mcbain-hawes",
+      "mcbain-ollie"
     ],
     "series": [
       "mcbain-87"
@@ -38,7 +42,25 @@
       "mcbain-cop-hater",
       "mcbain-the-mugger",
       "mcbain-the-pusher",
-      "mcbain-king-s-ransom"
+      "mcbain-king-s-ransom",
+      "mcbain-the-con-man",
+      "mcbain-killer-s-choice",
+      "mcbain-killer-s-payoff",
+      "mcbain-lady-killer",
+      "mcbain-killer-s-wedge",
+      "mcbain-til-death",
+      "mcbain-give-the-boys-a-great-big-hand",
+      "mcbain-the-heckler",
+      "mcbain-see-them-die",
+      "mcbain-lady-lady-i-did-it",
+      "mcbain-like-love",
+      "mcbain-ten-plus-one",
+      "mcbain-ax",
+      "mcbain-he-who-hesitates",
+      "mcbain-doll",
+      "mcbain-eighty-million-eyes",
+      "mcbain-fuzz",
+      "mcbain-fat-ollie-s-book"
     ]
   },
   "personajes": [
@@ -60,10 +82,192 @@
         "mcbain-cop-hater",
         "mcbain-the-mugger",
         "mcbain-the-pusher",
-        "mcbain-king-s-ransom"
+        "mcbain-king-s-ransom",
+        "mcbain-the-con-man",
+        "mcbain-killer-s-choice",
+        "mcbain-killer-s-payoff",
+        "mcbain-lady-killer",
+        "mcbain-killer-s-wedge",
+        "mcbain-til-death",
+        "mcbain-give-the-boys-a-great-big-hand",
+        "mcbain-the-heckler",
+        "mcbain-see-them-die",
+        "mcbain-lady-lady-i-did-it",
+        "mcbain-like-love",
+        "mcbain-ten-plus-one",
+        "mcbain-ax",
+        "mcbain-he-who-hesitates",
+        "mcbain-doll",
+        "mcbain-eighty-million-eyes",
+        "mcbain-fuzz",
+        "mcbain-fat-ollie-s-book"
       ],
       "articulos": [],
       "descripcion": "Detective del Distrito 87, miembro destacado de un conjunto policial."
+    },
+    {
+      "id": "mcbain-meyer",
+      "nombre": "Meyer Meyer",
+      "autor": "mcbain",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "mcbain-87",
+      "obras": [
+        "mcbain-cop-hater",
+        "mcbain-the-mugger",
+        "mcbain-the-pusher",
+        "mcbain-king-s-ransom",
+        "mcbain-the-con-man",
+        "mcbain-killer-s-choice",
+        "mcbain-killer-s-payoff",
+        "mcbain-lady-killer",
+        "mcbain-killer-s-wedge",
+        "mcbain-til-death",
+        "mcbain-give-the-boys-a-great-big-hand",
+        "mcbain-the-heckler",
+        "mcbain-see-them-die",
+        "mcbain-lady-lady-i-did-it",
+        "mcbain-like-love",
+        "mcbain-ten-plus-one",
+        "mcbain-ax",
+        "mcbain-he-who-hesitates",
+        "mcbain-doll",
+        "mcbain-eighty-million-eyes",
+        "mcbain-fuzz",
+        "mcbain-fat-ollie-s-book"
+      ],
+      "articulos": [],
+      "descripcion": "Detective de la comisaría del Distrito 87, miembro recurrente de su equipo."
+    },
+    {
+      "id": "mcbain-kling",
+      "nombre": "Bert Kling",
+      "autor": "mcbain",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "mcbain-87",
+      "obras": [
+        "mcbain-cop-hater",
+        "mcbain-the-mugger",
+        "mcbain-the-pusher",
+        "mcbain-king-s-ransom",
+        "mcbain-the-con-man",
+        "mcbain-killer-s-choice",
+        "mcbain-killer-s-payoff",
+        "mcbain-lady-killer",
+        "mcbain-killer-s-wedge",
+        "mcbain-til-death",
+        "mcbain-give-the-boys-a-great-big-hand",
+        "mcbain-the-heckler",
+        "mcbain-see-them-die",
+        "mcbain-lady-lady-i-did-it",
+        "mcbain-like-love",
+        "mcbain-ten-plus-one",
+        "mcbain-ax",
+        "mcbain-he-who-hesitates",
+        "mcbain-doll",
+        "mcbain-eighty-million-eyes",
+        "mcbain-fuzz",
+        "mcbain-fat-ollie-s-book"
+      ],
+      "articulos": [],
+      "descripcion": "Policía del Distrito 87 cuyas circunstancias personales atraviesan diversas investigaciones."
+    },
+    {
+      "id": "mcbain-hawes",
+      "nombre": "Cotton Hawes",
+      "autor": "mcbain",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "mcbain-87",
+      "obras": [
+        "mcbain-cop-hater",
+        "mcbain-the-mugger",
+        "mcbain-the-pusher",
+        "mcbain-king-s-ransom",
+        "mcbain-the-con-man",
+        "mcbain-killer-s-choice",
+        "mcbain-killer-s-payoff",
+        "mcbain-lady-killer",
+        "mcbain-killer-s-wedge",
+        "mcbain-til-death",
+        "mcbain-give-the-boys-a-great-big-hand",
+        "mcbain-the-heckler",
+        "mcbain-see-them-die",
+        "mcbain-lady-lady-i-did-it",
+        "mcbain-like-love",
+        "mcbain-ten-plus-one",
+        "mcbain-ax",
+        "mcbain-he-who-hesitates",
+        "mcbain-doll",
+        "mcbain-eighty-million-eyes",
+        "mcbain-fuzz",
+        "mcbain-fat-ollie-s-book"
+      ],
+      "articulos": [],
+      "descripcion": "Detective del Distrito 87 que comparte investigaciones con Steve Carella."
+    },
+    {
+      "id": "mcbain-ollie",
+      "nombre": "Fat Ollie Weeks",
+      "autor": "mcbain",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "mcbain-87",
+      "obras": [
+        "mcbain-cop-hater",
+        "mcbain-the-mugger",
+        "mcbain-the-pusher",
+        "mcbain-king-s-ransom",
+        "mcbain-the-con-man",
+        "mcbain-killer-s-choice",
+        "mcbain-killer-s-payoff",
+        "mcbain-lady-killer",
+        "mcbain-killer-s-wedge",
+        "mcbain-til-death",
+        "mcbain-give-the-boys-a-great-big-hand",
+        "mcbain-the-heckler",
+        "mcbain-see-them-die",
+        "mcbain-lady-lady-i-did-it",
+        "mcbain-like-love",
+        "mcbain-ten-plus-one",
+        "mcbain-ax",
+        "mcbain-he-who-hesitates",
+        "mcbain-doll",
+        "mcbain-eighty-million-eyes",
+        "mcbain-fuzz",
+        "mcbain-fat-ollie-s-book"
+      ],
+      "articulos": [],
+      "descripcion": "Detective de otra comisaría, personaje recurrente de métodos y opiniones ásperas."
     }
   ],
   "series": [
@@ -126,6 +330,240 @@
         "police procedural"
       ],
       "sinopsis": "El secuestro de un niño precipita un conflicto entre dinero, familia e investigación policial."
+    },
+    {
+      "id": "mcbain-the-con-man",
+      "titulo": "The Con Man",
+      "original": "The Con Man",
+      "anio": 1957,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "La brigada del Distrito 87 investiga delitos vinculados a un estafador."
+    },
+    {
+      "id": "mcbain-killer-s-choice",
+      "titulo": "Killer's Choice",
+      "original": "Killer's Choice",
+      "anio": 1958,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Un asesinato obliga a los detectives a reconstruir la identidad y la vida de la víctima."
+    },
+    {
+      "id": "mcbain-killer-s-payoff",
+      "titulo": "Killer's Payoff",
+      "original": "Killer's Payoff",
+      "anio": 1958,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Las pesquisas sobre una muerte muestran la trama de intereses de la ciudad."
+    },
+    {
+      "id": "mcbain-lady-killer",
+      "titulo": "Lady Killer",
+      "original": "Lady Killer",
+      "anio": 1958,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Una amenaza anónima pone a los agentes ante una investigación contrarreloj."
+    },
+    {
+      "id": "mcbain-killer-s-wedge",
+      "titulo": "Killer's Wedge",
+      "original": "Killer's Wedge",
+      "anio": 1959,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Una situación de peligro dentro de la comisaría pone a prueba a los detectives."
+    },
+    {
+      "id": "mcbain-til-death",
+      "titulo": "'Til Death",
+      "original": "'Til Death",
+      "anio": 1959,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Una celebración familiar se ve alterada por un posible plan criminal."
+    },
+    {
+      "id": "mcbain-give-the-boys-a-great-big-hand",
+      "titulo": "Give the Boys a Great Big Hand",
+      "original": "Give the Boys a Great Big Hand",
+      "anio": 1960,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "La aparición de restos humanos desencadena un procedimiento policial minucioso."
+    },
+    {
+      "id": "mcbain-the-heckler",
+      "titulo": "The Heckler",
+      "original": "The Heckler",
+      "anio": 1960,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Una investigación sobre amenazas conduce a la policía hacia un proyecto delictivo de mayor alcance."
+    },
+    {
+      "id": "mcbain-see-them-die",
+      "titulo": "See Them Die",
+      "original": "See Them Die",
+      "anio": 1960,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Una situación de violencia inminente reúne a distintas personas en un barrio urbano."
+    },
+    {
+      "id": "mcbain-lady-lady-i-did-it",
+      "titulo": "Lady, Lady, I Did It!",
+      "original": "Lady, Lady, I Did It!",
+      "anio": 1961,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Un asesinato múltiple obliga a seguir varias pistas en el Distrito 87."
+    },
+    {
+      "id": "mcbain-like-love",
+      "titulo": "Like Love",
+      "original": "Like Love",
+      "anio": 1962,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "La muerte de una pareja plantea preguntas sobre sus relaciones y posibles motivos."
+    },
+    {
+      "id": "mcbain-ten-plus-one",
+      "titulo": "Ten Plus One",
+      "original": "Ten Plus One",
+      "anio": 1963,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Varias muertes desconcertantes complican el trabajo de los detectives."
+    },
+    {
+      "id": "mcbain-ax",
+      "titulo": "Ax",
+      "original": "Ax",
+      "anio": 1964,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Un asesinato especialmente violento exige reconstruir la identidad de los implicados."
+    },
+    {
+      "id": "mcbain-he-who-hesitates",
+      "titulo": "He Who Hesitates",
+      "original": "He Who Hesitates",
+      "anio": 1965,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Un hombre trata de informar a la policía sobre un asunto que no sabe cómo explicar."
+    },
+    {
+      "id": "mcbain-doll",
+      "titulo": "Doll",
+      "original": "Doll",
+      "anio": 1965,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "La muerte de una mujer activa una investigación que afecta también a su familia."
+    },
+    {
+      "id": "mcbain-eighty-million-eyes",
+      "titulo": "Eighty Million Eyes",
+      "original": "Eighty Million Eyes",
+      "anio": 1966,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Una figura popular de la televisión se convierte en el centro de un caso criminal."
+    },
+    {
+      "id": "mcbain-fuzz",
+      "titulo": "Fuzz",
+      "original": "Fuzz",
+      "anio": 1968,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Un delincuente amenaza a las autoridades y provoca una carrera para impedir nuevas muertes."
+    },
+    {
+      "id": "mcbain-fat-ollie-s-book",
+      "titulo": "Fat Ollie's Book",
+      "original": "Fat Ollie's Book",
+      "anio": 2002,
+      "autor": "mcbain",
+      "seudonimo": "",
+      "serie": "mcbain-87",
+      "generos": [
+        "police procedural"
+      ],
+      "sinopsis": "Un detective pierde el manuscrito de su propia novela mientras investiga un delito."
     }
   ]
 }
