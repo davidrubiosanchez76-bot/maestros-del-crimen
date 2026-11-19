@@ -38,7 +38,18 @@
       "highsmith-the-talented-mr-ripley",
       "highsmith-the-cry-of-the-owl",
       "highsmith-ripley-under-ground",
-      "highsmith-ripley-s-game"
+      "highsmith-ripley-s-game",
+      "highsmith-the-blunderer",
+      "highsmith-deep-water",
+      "highsmith-a-game-for-the-living",
+      "highsmith-this-sweet-sickness",
+      "highsmith-the-two-faces-of-january",
+      "highsmith-the-glass-cell",
+      "highsmith-the-tremor-of-forgery",
+      "highsmith-a-dog-s-ransom",
+      "highsmith-edith-s-diary",
+      "highsmith-the-boy-who-followed-ripley",
+      "highsmith-ripley-under-water"
     ]
   },
   "personajes": [
@@ -59,7 +70,9 @@
       "obras": [
         "highsmith-the-talented-mr-ripley",
         "highsmith-ripley-under-ground",
-        "highsmith-ripley-s-game"
+        "highsmith-ripley-s-game",
+        "highsmith-the-boy-who-followed-ripley",
+        "highsmith-ripley-under-water"
       ],
       "articulos": [],
       "descripcion": "Personaje seductor y amoral que se mueve entre impostura, deseo de ascenso y crimen."
@@ -132,7 +145,7 @@
     },
     {
       "id": "highsmith-ripley-s-game",
-      "titulo": "El juego de Ripley",
+      "titulo": "El amigo americano",
       "original": "Ripley's Game",
       "anio": 1974,
       "autor": "highsmith",
@@ -143,6 +156,160 @@
         "crook story"
       ],
       "sinopsis": "Una organización criminal entra en la vida de un hombre común mediante una propuesta tan tentadora como destructiva."
+    },
+    {
+      "id": "highsmith-the-blunderer",
+      "titulo": "El cuchillo",
+      "original": "The Blunderer",
+      "anio": 1954,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Un hombre obsesionado con un asesinato ajeno se hunde bajo sospechas y comparaciones."
+    },
+    {
+      "id": "highsmith-deep-water",
+      "titulo": "Mar de fondo",
+      "original": "Deep Water",
+      "anio": 1957,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Un matrimonio sostenido por apariencias se sumerge en celos, humillación y violencia."
+    },
+    {
+      "id": "highsmith-a-game-for-the-living",
+      "titulo": "Un juego para los vivos",
+      "original": "A Game for the Living",
+      "anio": 1958,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Una muerte en México enfrenta a dos hombres con los secretos de su círculo cercano."
+    },
+    {
+      "id": "highsmith-this-sweet-sickness",
+      "titulo": "Ese dulce mal",
+      "original": "This Sweet Sickness",
+      "anio": 1960,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Un hombre desarrolla una vida imaginaria alrededor de un amor que no logra dejar atrás."
+    },
+    {
+      "id": "highsmith-the-two-faces-of-january",
+      "titulo": "Las dos caras de enero",
+      "original": "The Two Faces of January",
+      "anio": 1964,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Tres personas se ven atrapadas en un juego de identidades y huidas en Grecia."
+    },
+    {
+      "id": "highsmith-the-glass-cell",
+      "titulo": "La celda de cristal",
+      "original": "The Glass Cell",
+      "anio": 1964,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Una condena de prisión transforma la vida de un hombre y su relación con el mundo exterior."
+    },
+    {
+      "id": "highsmith-the-tremor-of-forgery",
+      "titulo": "El temblor de la falsificación",
+      "original": "The Tremor of Forgery",
+      "anio": 1969,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Un escritor expatriado se ve involucrado en una situación inquietante en el norte de África."
+    },
+    {
+      "id": "highsmith-a-dog-s-ransom",
+      "titulo": "Rescate por un perro",
+      "original": "A Dog's Ransom",
+      "anio": 1972,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Una amenaza dirigida contra una mascota revela relaciones de poder y hostigamiento."
+    },
+    {
+      "id": "highsmith-edith-s-diary",
+      "titulo": "El diario de Edith",
+      "original": "Edith's Diary",
+      "anio": 1977,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Una mujer transforma en su diario la realidad que no consigue controlar."
+    },
+    {
+      "id": "highsmith-the-boy-who-followed-ripley",
+      "titulo": "Tras los pasos de Ripley",
+      "original": "The Boy Who Followed Ripley",
+      "anio": 1980,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "highsmith-ripley",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Un joven estadounidense se presenta en la vida de Ripley con un pasado problemático."
+    },
+    {
+      "id": "highsmith-ripley-under-water",
+      "titulo": "Ripley en peligro",
+      "original": "Ripley Under Water",
+      "anio": 1991,
+      "autor": "highsmith",
+      "seudonimo": "",
+      "serie": "highsmith-ripley",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Un vecino parece conocer demasiados detalles del pasado de Ripley y amenaza su estabilidad."
     }
   ]
 }
