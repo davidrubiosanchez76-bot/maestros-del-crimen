@@ -1,0 +1,112 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "marsh",
+    "nombre": "Ngaio Marsh",
+    "nombreCompleto": "Ngaio Marsh",
+    "nacimiento": "1895",
+    "fallecimiento": "1982",
+    "origen": "Nueva Zelanda",
+    "pais": "Nueva Zelanda",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1934,
+    "seudonimos": [],
+    "generos": [
+      "whodunit"
+    ],
+    "imagen": "",
+    "resumen": "Gran autora de la Edad de Oro y creadora del inspector Roderick Alleyn.",
+    "bio": [
+      "Escritora y directora teatral neozelandesa, situada junto a Christie, Sayers y Allingham entre los grandes nombres del misterio británico clásico.",
+      "Sus investigaciones suelen transcurrir en círculos culturales o sociales de relaciones estrechas, con especial atención al teatro y la puesta en escena."
+    ],
+    "apunte": "La experiencia de Marsh en el mundo teatral alimentó la precisión con que retrata ensayos, escenarios, compañías y vanidades artísticas en muchas de sus novelas.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "marsh-alleyn"
+    ],
+    "series": [
+      "marsh-alleyn"
+    ],
+    "obras": [
+      "marsh-a-man-lay-dead",
+      "marsh-enter-a-murderer",
+      "marsh-death-in-a-white-tie"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "marsh-alleyn",
+      "nombre": "Roderick Alleyn",
+      "autor": "marsh",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "marsh-alleyn",
+      "obras": [
+        "marsh-a-man-lay-dead",
+        "marsh-enter-a-murderer",
+        "marsh-death-in-a-white-tie"
+      ],
+      "articulos": [],
+      "descripcion": "Inspector de Scotland Yard cultivado y metódico."
+    }
+  ],
+  "series": [
+    {
+      "id": "marsh-alleyn",
+      "nombre": "Roderick Alleyn",
+      "autor": "marsh",
+      "descripcion": "Investigaciones del inspector Roderick Alleyn."
+    }
+  ],
+  "obras": [
+    {
+      "id": "marsh-a-man-lay-dead",
+      "titulo": "A Man Lay Dead",
+      "original": "A Man Lay Dead",
+      "anio": 1934,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "marsh-alleyn",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una reunión social termina en asesinato y el inspector Alleyn inicia la investigación."
+    },
+    {
+      "id": "marsh-enter-a-murderer",
+      "titulo": "Enter a Murderer",
+      "original": "Enter a Murderer",
+      "anio": 1935,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "marsh-alleyn",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Una muerte durante una representación teatral obliga a investigar los conflictos de una compañía."
+    },
+    {
+      "id": "marsh-death-in-a-white-tie",
+      "titulo": "Death in a White Tie",
+      "original": "Death in a White Tie",
+      "anio": 1938,
+      "autor": "marsh",
+      "seudonimo": "",
+      "serie": "marsh-alleyn",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un crimen ligado a salones elegantes y chantajes complica la pesquisa del inspector Alleyn."
+    }
+  ]
+}
