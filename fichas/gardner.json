@@ -1,0 +1,164 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "gardner",
+    "nombre": "Erle Stanley Gardner",
+    "nombreCompleto": "Erle Stanley Gardner",
+    "nacimiento": "1889",
+    "fallecimiento": "1970",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1933,
+    "seudonimos": [
+      "A. A. Fair"
+    ],
+    "generos": [
+      "whodunit",
+      "crime thriller"
+    ],
+    "imagen": "",
+    "resumen": "Creador del abogado Perry Mason y figura clave de la novela judicial popular.",
+    "bio": [
+      "Abogado estadounidense que convirtió el conocimiento del procedimiento judicial en el centro de historias de misterio muy eficaces.",
+      "Sus novelas de Perry Mason, con Della Street y Paul Drake, tuvieron un enorme éxito editorial y televisivo. Bajo distintos seudónimos escribió también narrativa pulp."
+    ],
+    "apunte": "Gardner empleó su formación jurídica para construir interrogatorios, giros probatorios y escenas judiciales; Perry Mason demuestra que un defensor puede ser tan eficaz narrativamente como un detective.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "gardner-mason",
+      "gardner-della",
+      "gardner-drake"
+    ],
+    "series": [
+      "gardner-mason"
+    ],
+    "obras": [
+      "gardner-the-case-of-the-velvet-claws",
+      "gardner-the-case-of-the-sulky-girl",
+      "gardner-the-case-of-the-howling-dog"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "gardner-mason",
+      "nombre": "Perry Mason",
+      "autor": "gardner",
+      "ocupacion": "Abogado / justicia",
+      "ocupacionDetalle": "Abogado / justicia",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "gardner-mason",
+      "obras": [
+        "gardner-the-case-of-the-velvet-claws",
+        "gardner-the-case-of-the-sulky-girl",
+        "gardner-the-case-of-the-howling-dog"
+      ],
+      "articulos": [],
+      "descripcion": "Abogado defensor que investiga con tenacidad y desafía las apariencias judiciales."
+    },
+    {
+      "id": "gardner-della",
+      "nombre": "Della Street",
+      "autor": "gardner",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Femenino",
+      "roles": [
+        "Compañero / ayudante"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "gardner-mason",
+      "obras": [
+        "gardner-the-case-of-the-velvet-claws",
+        "gardner-the-case-of-the-sulky-girl",
+        "gardner-the-case-of-the-howling-dog"
+      ],
+      "articulos": [],
+      "descripcion": "Secretaria y colaboradora indispensable de Mason."
+    },
+    {
+      "id": "gardner-drake",
+      "nombre": "Paul Drake",
+      "autor": "gardner",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "gardner-mason",
+      "obras": [
+        "gardner-the-case-of-the-velvet-claws",
+        "gardner-the-case-of-the-sulky-girl",
+        "gardner-the-case-of-the-howling-dog"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador privado que ayuda a Mason a conseguir información."
+    }
+  ],
+  "series": [
+    {
+      "id": "gardner-mason",
+      "nombre": "Perry Mason",
+      "autor": "gardner",
+      "descripcion": "Serie del abogado defensor Perry Mason."
+    }
+  ],
+  "obras": [
+    {
+      "id": "gardner-the-case-of-the-velvet-claws",
+      "titulo": "El caso de las garras de terciopelo",
+      "original": "The Case of the Velvet Claws",
+      "anio": 1933,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Perry Mason acepta un encargo de chantaje que deriva en una investigación criminal con intereses enfrentados."
+    },
+    {
+      "id": "gardner-the-case-of-the-sulky-girl",
+      "titulo": "The Case of the Sulky Girl",
+      "original": "The Case of the Sulky Girl",
+      "anio": 1933,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Mason interviene en un conflicto familiar que termina revelando más de lo que prometía el asunto inicial."
+    },
+    {
+      "id": "gardner-the-case-of-the-howling-dog",
+      "titulo": "El caso del perro aullador",
+      "original": "The Case of the Howling Dog",
+      "anio": 1934,
+      "autor": "gardner",
+      "seudonimo": "",
+      "serie": "gardner-mason",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Una consulta aparentemente menor conduce al abogado a una red de sospechas, desapariciones y violencia."
+    }
+  ]
+}
