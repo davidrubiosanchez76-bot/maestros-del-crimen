@@ -1,0 +1,129 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "harris",
+    "nombre": "Thomas Harris",
+    "nombreCompleto": "William Thomas Harris III",
+    "nacimiento": "1940",
+    "fallecimiento": "",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "Jackson, Estados Unidos",
+    "fin": "",
+    "debutNegro": 1975,
+    "seudonimos": [],
+    "generos": [
+      "crime thriller",
+      "psychological thriller"
+    ],
+    "imagen": "",
+    "resumen": "Escritor estadounidense cuyo personaje Hannibal Lecter ocupa un lugar destacado en el thriller criminal contemporáneo.",
+    "bio": [
+      "Antes de dedicarse a la ficción trabajó en el ámbito periodístico. En sus novelas aborda la investigación criminal, la psicología de los agresores y las relaciones de poder.",
+      "La presencia de Hannibal Lecter conecta distintas historias, aunque su importancia narrativa varía de una obra a otra."
+    ],
+    "apunte": "Hannibal Lecter apareció por primera vez en El dragón rojo (1981), antes de ocupar un lugar mucho más destacado en sus libros posteriores.",
+    "articulos": [],
+    "personajes": [
+      "lecter"
+    ],
+    "series": [
+      "lecter"
+    ],
+    "obras": [
+      "dragon",
+      "silencio",
+      "hannibal",
+      "origen"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "lecter",
+      "nombre": "Hannibal Lecter",
+      "autor": "harris",
+      "ocupacion": "Médico / sanitario",
+      "ocupacionDetalle": "Psiquiatra",
+      "sexo": "Masculino",
+      "roles": [
+        "Antagonista",
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "lecter",
+      "obras": [
+        "dragon",
+        "silencio",
+        "hannibal",
+        "origen"
+      ],
+      "articulos": [],
+      "descripcion": "Psiquiatra y figura criminal de enorme presencia literaria. Su papel cambia según la novela, sin que aquí desvelemos los giros de cada historia."
+    }
+  ],
+  "series": [
+    {
+      "id": "lecter",
+      "nombre": "Hannibal Lecter",
+      "autor": "harris",
+      "descripcion": "Ciclo literario asociado al personaje Hannibal Lecter."
+    }
+  ],
+  "obras": [
+    {
+      "id": "dragon",
+      "titulo": "El dragón rojo",
+      "original": "Red Dragon",
+      "anio": 1981,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "lecter",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Un investigador retirado vuelve a colaborar con la policía para detener a un asesino. El caso exige comprender el comportamiento de alguien especialmente escurridizo."
+    },
+    {
+      "id": "silencio",
+      "titulo": "El silencio de los corderos",
+      "original": "The Silence of the Lambs",
+      "anio": 1988,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "lecter",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una aspirante a agente del FBI busca pistas sobre un asesino en serie y recurre a la ayuda de un psiquiatra encarcelado. La investigación se convierte también en un duelo psicológico."
+    },
+    {
+      "id": "hannibal",
+      "titulo": "Hannibal",
+      "original": "Hannibal",
+      "anio": 1999,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "lecter",
+      "generos": [
+        "psychological thriller"
+      ],
+      "sinopsis": "La figura de Hannibal Lecter reaparece en una historia de persecuciones, obsesiones y cuentas pendientes que cruza distintos escenarios."
+    },
+    {
+      "id": "origen",
+      "titulo": "Hannibal: el origen del mal",
+      "original": "Hannibal Rising",
+      "anio": 2006,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "lecter",
+      "generos": [
+        "psychological thriller"
+      ],
+      "sinopsis": "La novela retrocede al pasado de Hannibal Lecter y explora acontecimientos que marcaron su juventud, antes de las historias más conocidas."
+    }
+  ]
+}
