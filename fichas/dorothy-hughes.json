@@ -33,7 +33,14 @@
       "dorothy-hughes-the-so-blue-marble",
       "dorothy-hughes-ride-the-pink-horse",
       "dorothy-hughes-in-a-lonely-place",
-      "dorothy-hughes-the-expendable-man"
+      "dorothy-hughes-the-expendable-man",
+      "dorothy-hughes-the-cross-eyed-bear",
+      "dorothy-hughes-the-bamboo-blonde",
+      "dorothy-hughes-the-fallen-sparrow",
+      "dorothy-hughes-the-blackbirder",
+      "dorothy-hughes-the-purple-heart",
+      "dorothy-hughes-dread-journey",
+      "dorothy-hughes-the-davidian-report"
     ]
   },
   "personajes": [
@@ -115,6 +122,104 @@
         "crime thriller"
       ],
       "sinopsis": "Un médico se enfrenta a sospechas devastadoras cuando un incidente inesperado pone en riesgo su reputación."
+    },
+    {
+      "id": "dorothy-hughes-the-cross-eyed-bear",
+      "titulo": "The Cross-Eyed Bear",
+      "original": "The Cross-Eyed Bear",
+      "anio": 1940,
+      "autor": "dorothy-hughes",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Novela de suspense temprano de Hughes, con una atmósfera de amenaza y misterio."
+    },
+    {
+      "id": "dorothy-hughes-the-bamboo-blonde",
+      "titulo": "The Bamboo Blonde",
+      "original": "The Bamboo Blonde",
+      "anio": 1941,
+      "autor": "dorothy-hughes",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Una intriga psicológica enfrenta a los personajes con sospechas y peligro."
+    },
+    {
+      "id": "dorothy-hughes-the-fallen-sparrow",
+      "titulo": "The Fallen Sparrow",
+      "original": "The Fallen Sparrow",
+      "anio": 1942,
+      "autor": "dorothy-hughes",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Un hombre que regresa de una experiencia traumática sospecha que una muerte no fue accidental."
+    },
+    {
+      "id": "dorothy-hughes-the-blackbirder",
+      "titulo": "The Blackbirder",
+      "original": "The Blackbirder",
+      "anio": 1943,
+      "autor": "dorothy-hughes",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "En tiempos de guerra, una mujer vive una persecución en un entorno de espionaje y violencia."
+    },
+    {
+      "id": "dorothy-hughes-the-purple-heart",
+      "titulo": "The Purple Heart",
+      "original": "The Purple Heart",
+      "anio": 1944,
+      "autor": "dorothy-hughes",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Un relato de suspense de época bélica sobre una investigación y las lealtades de sus protagonistas."
+    },
+    {
+      "id": "dorothy-hughes-dread-journey",
+      "titulo": "Dread Journey",
+      "original": "Dread Journey",
+      "anio": 1945,
+      "autor": "dorothy-hughes",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Un viaje en tren reúne a pasajeros cuyas intenciones pueden convertirse en una amenaza."
+    },
+    {
+      "id": "dorothy-hughes-the-davidian-report",
+      "titulo": "The Davidian Report",
+      "original": "The Davidian Report",
+      "anio": 1952,
+      "autor": "dorothy-hughes",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Una historia de espionaje y riesgo internacional propia de la última etapa de Hughes."
     }
   ]
 }
