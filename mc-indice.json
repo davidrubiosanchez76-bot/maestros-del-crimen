@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-19-marsh-leroux-taibo-higgins",
+  "version": "2026-11-19-ellroy-paretsky-mosley-harris",
   "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · algunas bibliografías son selecciones iniciales que se ampliarán progresivamente.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -354,7 +354,10 @@
       "resumen": "Escritor estadounidense cuyo personaje Hannibal Lecter ocupa un lugar destacado en el thriller criminal contemporáneo.",
       "articulos": [],
       "personajes": [
-        "lecter"
+        "lecter",
+        "harris-starling",
+        "harris-graham",
+        "harris-crawford"
       ],
       "series": [
         "lecter"
@@ -363,7 +366,8 @@
         "dragon",
         "silencio",
         "hannibal",
-        "origen"
+        "origen",
+        "harris-cari-mora"
       ]
     },
     {
@@ -1528,16 +1532,33 @@
       "articulos": [],
       "personajes": [
         "ellroy-bucky",
-        "ellroy-bud"
+        "ellroy-bud",
+        "ellroy-lloyd",
+        "ellroy-exley",
+        "ellroy-dudley",
+        "ellroy-bondurant"
       ],
       "series": [
-        "ellroy-cuarteto-la"
+        "ellroy-cuarteto-la",
+        "ellroy-hopkins",
+        "ellroy-american"
       ],
       "obras": [
         "ellroy-brown-s-requiem",
         "ellroy-the-black-dahlia",
         "ellroy-the-big-nowhere",
-        "ellroy-l-a-confidential"
+        "ellroy-l-a-confidential",
+        "ellroy-clandestine",
+        "ellroy-blood-on-the-moon",
+        "ellroy-because-the-night",
+        "ellroy-suicide-hill",
+        "ellroy-white-jazz",
+        "ellroy-american-tabloid",
+        "ellroy-the-cold-six-thousand",
+        "ellroy-blood-s-a-rover",
+        "ellroy-perfidia",
+        "ellroy-this-storm",
+        "ellroy-the-enchanters"
       ]
     },
     {
@@ -1561,7 +1582,9 @@
       "alcanceBibliografia": "selección inicial no exhaustiva",
       "articulos": [],
       "personajes": [
-        "paretsky-vi"
+        "paretsky-vi",
+        "paretsky-lotty",
+        "paretsky-contreras"
       ],
       "series": [
         "paretsky-warshawski"
@@ -1570,7 +1593,23 @@
         "paretsky-indemnity-only",
         "paretsky-deadlock",
         "paretsky-burn-marks",
-        "paretsky-hard-time"
+        "paretsky-hard-time",
+        "paretsky-killing-orders",
+        "paretsky-bitter-medicine",
+        "paretsky-blood-shot",
+        "paretsky-guardian-angel",
+        "paretsky-tunnel-vision",
+        "paretsky-total-recall",
+        "paretsky-blacklist",
+        "paretsky-fire-sale",
+        "paretsky-hardball",
+        "paretsky-body-work",
+        "paretsky-breakdown",
+        "paretsky-critical-mass",
+        "paretsky-brush-back",
+        "paretsky-fallout",
+        "paretsky-shell-game",
+        "paretsky-dead-land"
       ]
     },
     {
@@ -1594,16 +1633,38 @@
       "articulos": [],
       "personajes": [
         "mosley-easy",
-        "mosley-mouse"
+        "mosley-mouse",
+        "mosley-fearless",
+        "mosley-paris",
+        "mosley-mcgill"
       ],
       "series": [
-        "mosley-rawlins"
+        "mosley-rawlins",
+        "mosley-fearless",
+        "mosley-mcgill"
       ],
       "obras": [
         "mosley-devil-in-a-blue-dress",
         "mosley-a-red-death",
         "mosley-white-butterfly",
-        "mosley-black-betty"
+        "mosley-black-betty",
+        "mosley-a-little-yellow-dog",
+        "mosley-gone-fishin",
+        "mosley-bad-boy-brawly-brown",
+        "mosley-little-scarlet",
+        "mosley-cinnamon-kiss",
+        "mosley-blonde-faith",
+        "mosley-little-green",
+        "mosley-rose-gold",
+        "mosley-charcoal-joe",
+        "mosley-blood-grove",
+        "mosley-farewell-amethystine",
+        "mosley-fearless-jones",
+        "mosley-fear-itself",
+        "mosley-fear-of-the-dark",
+        "mosley-the-long-fall",
+        "mosley-known-to-evil",
+        "mosley-when-the-thrill-is-gone"
       ]
     },
     {
@@ -2162,29 +2223,6 @@
       "articulos": []
     },
     {
-      "id": "lecter",
-      "nombre": "Hannibal Lecter",
-      "autor": "harris",
-      "ocupacion": "Médico / sanitario",
-      "ocupacionDetalle": "Psiquiatra",
-      "sexo": "Masculino",
-      "roles": [
-        "Antagonista",
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Villano"
-      ],
-      "serie": "lecter",
-      "obras": [
-        "dragon",
-        "silencio",
-        "hannibal",
-        "origen"
-      ],
-      "articulos": []
-    },
-    {
       "id": "quirke",
       "nombre": "Quirke",
       "autor": "banville",
@@ -2279,110 +2317,6 @@
       "serie": "hammett-charles",
       "obras": [
         "hammett-the-thin-man"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "ellroy-bucky",
-      "nombre": "Dwight «Bucky» Bleichert",
-      "autor": "ellroy",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Policía",
-      "sexo": "Masculino",
-      "roles": [
-        "Coprotagonista"
-      ],
-      "perfiles": [
-        "Moralmente ambiguo"
-      ],
-      "serie": "ellroy-cuarteto-la",
-      "obras": [
-        "ellroy-the-black-dahlia"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "ellroy-bud",
-      "nombre": "Wendell «Bud» White",
-      "autor": "ellroy",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Policía",
-      "sexo": "Masculino",
-      "roles": [
-        "Coprotagonista"
-      ],
-      "perfiles": [
-        "Moralmente ambiguo"
-      ],
-      "serie": "ellroy-cuarteto-la",
-      "obras": [
-        "ellroy-l-a-confidential"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "paretsky-vi",
-      "nombre": "V. I. Warshawski",
-      "autor": "paretsky",
-      "ocupacion": "Detective privado",
-      "ocupacionDetalle": "Detective privado",
-      "sexo": "Femenino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "paretsky-warshawski",
-      "obras": [
-        "paretsky-indemnity-only",
-        "paretsky-deadlock",
-        "paretsky-burn-marks",
-        "paretsky-hard-time"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "mosley-easy",
-      "nombre": "Easy Rawlins",
-      "autor": "mosley",
-      "ocupacion": "Detective privado",
-      "ocupacionDetalle": "Detective privado",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "mosley-rawlins",
-      "obras": [
-        "mosley-devil-in-a-blue-dress",
-        "mosley-a-red-death",
-        "mosley-white-butterfly",
-        "mosley-black-betty"
-      ],
-      "articulos": []
-    },
-    {
-      "id": "mosley-mouse",
-      "nombre": "Raymond «Mouse» Alexander",
-      "autor": "mosley",
-      "ocupacion": "Delincuente",
-      "ocupacionDetalle": "Delincuente",
-      "sexo": "Masculino",
-      "roles": [
-        "Aliado / colaborador"
-      ],
-      "perfiles": [
-        "Moralmente ambiguo"
-      ],
-      "serie": "mosley-rawlins",
-      "obras": [
-        "mosley-devil-in-a-blue-dress",
-        "mosley-a-red-death",
-        "mosley-white-butterfly",
-        "mosley-black-betty"
       ],
       "articulos": []
     },
@@ -4312,6 +4246,397 @@
         "higgins-the-digger-s-game"
       ],
       "articulos": []
+    },
+    {
+      "id": "ellroy-bucky",
+      "nombre": "Dwight «Bucky» Bleichert",
+      "autor": "ellroy",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "ellroy-cuarteto-la",
+      "obras": [
+        "ellroy-the-black-dahlia",
+        "ellroy-the-big-nowhere",
+        "ellroy-l-a-confidential"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "ellroy-bud",
+      "nombre": "Wendell «Bud» White",
+      "autor": "ellroy",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "ellroy-cuarteto-la",
+      "obras": [
+        "ellroy-l-a-confidential",
+        "ellroy-the-black-dahlia",
+        "ellroy-the-big-nowhere"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "ellroy-lloyd",
+      "nombre": "Lloyd Hopkins",
+      "autor": "ellroy",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "ellroy-hopkins",
+      "obras": [
+        "ellroy-blood-on-the-moon",
+        "ellroy-because-the-night",
+        "ellroy-suicide-hill"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "ellroy-exley",
+      "nombre": "Edmund Exley",
+      "autor": "ellroy",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "ellroy-cuarteto-la",
+      "obras": [
+        "ellroy-l-a-confidential",
+        "ellroy-the-black-dahlia",
+        "ellroy-the-big-nowhere"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "ellroy-dudley",
+      "nombre": "Dudley Smith",
+      "autor": "ellroy",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Antagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "",
+      "obras": [
+        "ellroy-l-a-confidential",
+        "ellroy-the-cold-six-thousand"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "ellroy-bondurant",
+      "nombre": "Pete Bondurant",
+      "autor": "ellroy",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "ellroy-american",
+      "obras": [
+        "ellroy-american-tabloid",
+        "ellroy-the-cold-six-thousand"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "paretsky-vi",
+      "nombre": "V. I. Warshawski",
+      "autor": "paretsky",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "paretsky-warshawski",
+      "obras": [
+        "paretsky-indemnity-only",
+        "paretsky-deadlock",
+        "paretsky-burn-marks",
+        "paretsky-hard-time"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "paretsky-lotty",
+      "nombre": "Lotty Herschel",
+      "autor": "paretsky",
+      "ocupacion": "Médico / sanitario",
+      "ocupacionDetalle": "Médico / sanitario",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "paretsky-warshawski",
+      "obras": [],
+      "articulos": []
+    },
+    {
+      "id": "paretsky-contreras",
+      "nombre": "Mr. Contreras",
+      "autor": "paretsky",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "paretsky-warshawski",
+      "obras": [],
+      "articulos": []
+    },
+    {
+      "id": "mosley-easy",
+      "nombre": "Easy Rawlins",
+      "autor": "mosley",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "mosley-rawlins",
+      "obras": [
+        "mosley-devil-in-a-blue-dress",
+        "mosley-a-red-death",
+        "mosley-white-butterfly",
+        "mosley-black-betty",
+        "mosley-a-little-yellow-dog",
+        "mosley-gone-fishin",
+        "mosley-bad-boy-brawly-brown",
+        "mosley-little-scarlet",
+        "mosley-cinnamon-kiss",
+        "mosley-blonde-faith",
+        "mosley-little-green",
+        "mosley-rose-gold",
+        "mosley-charcoal-joe",
+        "mosley-blood-grove",
+        "mosley-farewell-amethystine"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "mosley-mouse",
+      "nombre": "Raymond «Mouse» Alexander",
+      "autor": "mosley",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "mosley-rawlins",
+      "obras": [
+        "mosley-devil-in-a-blue-dress",
+        "mosley-a-red-death",
+        "mosley-white-butterfly",
+        "mosley-black-betty",
+        "mosley-a-little-yellow-dog",
+        "mosley-gone-fishin",
+        "mosley-bad-boy-brawly-brown",
+        "mosley-little-scarlet",
+        "mosley-cinnamon-kiss",
+        "mosley-blonde-faith",
+        "mosley-little-green",
+        "mosley-rose-gold",
+        "mosley-charcoal-joe",
+        "mosley-blood-grove",
+        "mosley-farewell-amethystine"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "mosley-fearless",
+      "nombre": "Fearless Jones",
+      "autor": "mosley",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "mosley-fearless",
+      "obras": [
+        "mosley-fearless-jones",
+        "mosley-fear-itself",
+        "mosley-fear-of-the-dark"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "mosley-paris",
+      "nombre": "Paris Minton",
+      "autor": "mosley",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "mosley-fearless",
+      "obras": [
+        "mosley-fearless-jones",
+        "mosley-fear-itself",
+        "mosley-fear-of-the-dark"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "mosley-mcgill",
+      "nombre": "Leonid McGill",
+      "autor": "mosley",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "mosley-mcgill",
+      "obras": [
+        "mosley-the-long-fall",
+        "mosley-known-to-evil",
+        "mosley-when-the-thrill-is-gone"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "lecter",
+      "nombre": "Hannibal Lecter",
+      "autor": "harris",
+      "ocupacion": "Médico / sanitario",
+      "ocupacionDetalle": "Psiquiatra",
+      "sexo": "Masculino",
+      "roles": [
+        "Antagonista",
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "lecter",
+      "obras": [
+        "dragon",
+        "silencio",
+        "hannibal",
+        "origen"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "harris-starling",
+      "nombre": "Clarice Starling",
+      "autor": "harris",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "harris-lecter",
+      "obras": [
+        "silencio",
+        "hannibal"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "harris-graham",
+      "nombre": "Will Graham",
+      "autor": "harris",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "harris-lecter",
+      "obras": [
+        "dragon"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "harris-crawford",
+      "nombre": "Jack Crawford",
+      "autor": "harris",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "harris-lecter",
+      "obras": [
+        "dragon",
+        "silencio"
+      ],
+      "articulos": []
     }
   ],
   "series": [
@@ -4362,12 +4687,6 @@
       "nombre": "Comisario Maigret",
       "autor": "simenon",
       "descripcion": "Casos del comisario Jules Maigret."
-    },
-    {
-      "id": "lecter",
-      "nombre": "Hannibal Lecter",
-      "autor": "harris",
-      "descripcion": "Ciclo literario asociado al personaje Hannibal Lecter."
     },
     {
       "id": "quirke",
@@ -4434,24 +4753,6 @@
       "nombre": "Héctor Belascoarán Shayne",
       "autor": "taibo-ii",
       "descripcion": "Serie del investigador Héctor Belascoarán Shayne."
-    },
-    {
-      "id": "ellroy-cuarteto-la",
-      "nombre": "Cuarteto de Los Ángeles",
-      "autor": "ellroy",
-      "descripcion": "Ciclo sobre Los Ángeles: La Dalia Negra, El gran desierto, L.A. Confidential y Jazz blanco."
-    },
-    {
-      "id": "paretsky-warshawski",
-      "nombre": "V. I. Warshawski",
-      "autor": "paretsky",
-      "descripcion": "Investigaciones de la detective privada Victoria Iphigenia Warshawski."
-    },
-    {
-      "id": "mosley-rawlins",
-      "nombre": "Easy Rawlins",
-      "autor": "mosley",
-      "descripcion": "Novelas del investigador Ezekiel «Easy» Rawlins."
     },
     {
       "id": "himes-harlem",
@@ -4584,6 +4885,54 @@
       "nombre": "Bertha Cool y Donald Lam",
       "autor": "gardner",
       "descripcion": "Serie de investigadores privados publicada como A. A. Fair."
+    },
+    {
+      "id": "ellroy-cuarteto-la",
+      "nombre": "Cuarteto de Los Ángeles",
+      "autor": "ellroy",
+      "descripcion": "Ciclo sobre Los Ángeles: La Dalia Negra, El gran desierto, L.A. Confidential y Jazz blanco."
+    },
+    {
+      "id": "ellroy-hopkins",
+      "nombre": "Lloyd Hopkins",
+      "autor": "ellroy",
+      "descripcion": "Trilogía policiaca de Lloyd Hopkins."
+    },
+    {
+      "id": "ellroy-american",
+      "nombre": "Trilogía americana",
+      "autor": "ellroy",
+      "descripcion": "Trilogía formada por American Tabloid, The Cold Six Thousand y Blood's a Rover."
+    },
+    {
+      "id": "paretsky-warshawski",
+      "nombre": "V. I. Warshawski",
+      "autor": "paretsky",
+      "descripcion": "Investigaciones de la detective privada Victoria Iphigenia Warshawski."
+    },
+    {
+      "id": "mosley-rawlins",
+      "nombre": "Easy Rawlins",
+      "autor": "mosley",
+      "descripcion": "Novelas del investigador Ezekiel «Easy» Rawlins."
+    },
+    {
+      "id": "mosley-fearless",
+      "nombre": "Fearless Jones",
+      "autor": "mosley",
+      "descripcion": "Serie de Fearless Jones y Paris Minton."
+    },
+    {
+      "id": "mosley-mcgill",
+      "nombre": "Leonid McGill",
+      "autor": "mosley",
+      "descripcion": "Investigaciones del detective neoyorquino Leonid McGill."
+    },
+    {
+      "id": "lecter",
+      "nombre": "Hannibal Lecter",
+      "autor": "harris",
+      "descripcion": "Ciclo literario asociado al personaje Hannibal Lecter."
     }
   ],
   "obras": [
@@ -5872,55 +6221,6 @@
       ]
     },
     {
-      "id": "dragon",
-      "titulo": "El dragón rojo",
-      "original": "Red Dragon",
-      "anio": 1981,
-      "autor": "harris",
-      "seudonimo": "",
-      "serie": "lecter",
-      "generos": [
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "silencio",
-      "titulo": "El silencio de los corderos",
-      "original": "The Silence of the Lambs",
-      "anio": 1988,
-      "autor": "harris",
-      "seudonimo": "",
-      "serie": "lecter",
-      "generos": [
-        "crime thriller",
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "hannibal",
-      "titulo": "Hannibal",
-      "original": "Hannibal",
-      "anio": 1999,
-      "autor": "harris",
-      "seudonimo": "",
-      "serie": "lecter",
-      "generos": [
-        "psychological thriller"
-      ]
-    },
-    {
-      "id": "origen",
-      "titulo": "Hannibal: el origen del mal",
-      "original": "Hannibal Rising",
-      "anio": 2006,
-      "autor": "harris",
-      "seudonimo": "",
-      "serie": "lecter",
-      "generos": [
-        "psychological thriller"
-      ]
-    },
-    {
       "id": "christine",
       "titulo": "El secreto de Christine",
       "original": "Christine Falls",
@@ -6019,158 +6319,6 @@
       "generos": [
         "hardboiled",
         "crook story"
-      ]
-    },
-    {
-      "id": "ellroy-brown-s-requiem",
-      "titulo": "Réquiem por Brown",
-      "original": "Brown's Requiem",
-      "anio": 1981,
-      "autor": "ellroy",
-      "seudonimo": "",
-      "serie": "",
-      "generos": [
-        "hardboiled",
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "ellroy-the-black-dahlia",
-      "titulo": "La Dalia Negra",
-      "original": "The Black Dahlia",
-      "anio": 1987,
-      "autor": "ellroy",
-      "seudonimo": "",
-      "serie": "ellroy-cuarteto-la",
-      "generos": [
-        "hardboiled",
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "ellroy-the-big-nowhere",
-      "titulo": "El gran desierto",
-      "original": "The Big Nowhere",
-      "anio": 1988,
-      "autor": "ellroy",
-      "seudonimo": "",
-      "serie": "ellroy-cuarteto-la",
-      "generos": [
-        "hardboiled",
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "ellroy-l-a-confidential",
-      "titulo": "L. A. Confidential",
-      "original": "L.A. Confidential",
-      "anio": 1990,
-      "autor": "ellroy",
-      "seudonimo": "",
-      "serie": "ellroy-cuarteto-la",
-      "generos": [
-        "hardboiled",
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "paretsky-indemnity-only",
-      "titulo": "Valor seguro",
-      "original": "Indemnity Only",
-      "anio": 1982,
-      "autor": "paretsky",
-      "seudonimo": "",
-      "serie": "paretsky-warshawski",
-      "generos": [
-        "hardboiled",
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "paretsky-deadlock",
-      "titulo": "Punto muerto",
-      "original": "Deadlock",
-      "anio": 1984,
-      "autor": "paretsky",
-      "seudonimo": "",
-      "serie": "paretsky-warshawski",
-      "generos": [
-        "hardboiled",
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "paretsky-burn-marks",
-      "titulo": "Marcas de fuego",
-      "original": "Burn Marks",
-      "anio": 1990,
-      "autor": "paretsky",
-      "seudonimo": "",
-      "serie": "paretsky-warshawski",
-      "generos": [
-        "hardboiled",
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "paretsky-hard-time",
-      "titulo": "Tiempos difíciles",
-      "original": "Hard Time",
-      "anio": 1999,
-      "autor": "paretsky",
-      "seudonimo": "",
-      "serie": "paretsky-warshawski",
-      "generos": [
-        "hardboiled",
-        "crime thriller"
-      ]
-    },
-    {
-      "id": "mosley-devil-in-a-blue-dress",
-      "titulo": "El demonio vestido de azul",
-      "original": "Devil in a Blue Dress",
-      "anio": 1990,
-      "autor": "mosley",
-      "seudonimo": "",
-      "serie": "mosley-rawlins",
-      "generos": [
-        "hardboiled"
-      ]
-    },
-    {
-      "id": "mosley-a-red-death",
-      "titulo": "Una muerte roja",
-      "original": "A Red Death",
-      "anio": 1991,
-      "autor": "mosley",
-      "seudonimo": "",
-      "serie": "mosley-rawlins",
-      "generos": [
-        "hardboiled"
-      ]
-    },
-    {
-      "id": "mosley-white-butterfly",
-      "titulo": "Mariposa blanca",
-      "original": "White Butterfly",
-      "anio": 1992,
-      "autor": "mosley",
-      "seudonimo": "",
-      "serie": "mosley-rawlins",
-      "generos": [
-        "hardboiled"
-      ]
-    },
-    {
-      "id": "mosley-black-betty",
-      "titulo": "Black Betty",
-      "original": "Black Betty",
-      "anio": 1994,
-      "autor": "mosley",
-      "seudonimo": "",
-      "serie": "mosley-rawlins",
-      "generos": [
-        "hardboiled"
       ]
     },
     {
@@ -11307,6 +11455,775 @@
         "crook story",
         "crime thriller"
       ]
+    },
+    {
+      "id": "ellroy-brown-s-requiem",
+      "titulo": "Réquiem por Brown",
+      "original": "Brown's Requiem",
+      "anio": 1981,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-the-black-dahlia",
+      "titulo": "La Dalia Negra",
+      "original": "The Black Dahlia",
+      "anio": 1987,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "ellroy-cuarteto-la",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-the-big-nowhere",
+      "titulo": "El gran desierto",
+      "original": "The Big Nowhere",
+      "anio": 1988,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "ellroy-cuarteto-la",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-l-a-confidential",
+      "titulo": "L. A. Confidential",
+      "original": "L.A. Confidential",
+      "anio": 1990,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "ellroy-cuarteto-la",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-clandestine",
+      "titulo": "Clandestino",
+      "original": "Clandestine",
+      "anio": 1982,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-blood-on-the-moon",
+      "titulo": "Sangre en la luna",
+      "original": "Blood on the Moon",
+      "anio": 1984,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-because-the-night",
+      "titulo": "A causa de la noche",
+      "original": "Because the Night",
+      "anio": 1984,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-suicide-hill",
+      "titulo": "La colina de los suicidas",
+      "original": "Suicide Hill",
+      "anio": 1986,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-white-jazz",
+      "titulo": "Jazz blanco",
+      "original": "White Jazz",
+      "anio": 1992,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-american-tabloid",
+      "titulo": "América",
+      "original": "American Tabloid",
+      "anio": 1995,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-the-cold-six-thousand",
+      "titulo": "Seis de los grandes",
+      "original": "The Cold Six Thousand",
+      "anio": 2001,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-blood-s-a-rover",
+      "titulo": "Sangre vagabunda",
+      "original": "Blood's a Rover",
+      "anio": 2009,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-perfidia",
+      "titulo": "Perfidia",
+      "original": "Perfidia",
+      "anio": 2014,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-this-storm",
+      "titulo": "Esta tormenta",
+      "original": "This Storm",
+      "anio": 2019,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-the-enchanters",
+      "titulo": "The Enchanters",
+      "original": "The Enchanters",
+      "anio": 2023,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-indemnity-only",
+      "titulo": "Valor seguro",
+      "original": "Indemnity Only",
+      "anio": 1982,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-deadlock",
+      "titulo": "Punto muerto",
+      "original": "Deadlock",
+      "anio": 1984,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-burn-marks",
+      "titulo": "Marcas de fuego",
+      "original": "Burn Marks",
+      "anio": 1990,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-hard-time",
+      "titulo": "Tiempos difíciles",
+      "original": "Hard Time",
+      "anio": 1999,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-killing-orders",
+      "titulo": "Killing Orders",
+      "original": "Killing Orders",
+      "anio": 1985,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-bitter-medicine",
+      "titulo": "Medicina amarga",
+      "original": "Bitter Medicine",
+      "anio": 1987,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-blood-shot",
+      "titulo": "Blood Shot",
+      "original": "Blood Shot",
+      "anio": 1988,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-guardian-angel",
+      "titulo": "Ángel guardián",
+      "original": "Guardian Angel",
+      "anio": 1992,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-tunnel-vision",
+      "titulo": "Tunnel Vision",
+      "original": "Tunnel Vision",
+      "anio": 1994,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-total-recall",
+      "titulo": "Total Recall",
+      "original": "Total Recall",
+      "anio": 2001,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-blacklist",
+      "titulo": "Lista negra",
+      "original": "Blacklist",
+      "anio": 2003,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-fire-sale",
+      "titulo": "Fire Sale",
+      "original": "Fire Sale",
+      "anio": 2005,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-hardball",
+      "titulo": "Hardball",
+      "original": "Hardball",
+      "anio": 2009,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-body-work",
+      "titulo": "Body Work",
+      "original": "Body Work",
+      "anio": 2010,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-breakdown",
+      "titulo": "Breakdown",
+      "original": "Breakdown",
+      "anio": 2012,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-critical-mass",
+      "titulo": "Critical Mass",
+      "original": "Critical Mass",
+      "anio": 2013,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-brush-back",
+      "titulo": "Brush Back",
+      "original": "Brush Back",
+      "anio": 2015,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-fallout",
+      "titulo": "Fallout",
+      "original": "Fallout",
+      "anio": 2017,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-shell-game",
+      "titulo": "Shell Game",
+      "original": "Shell Game",
+      "anio": 2018,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-dead-land",
+      "titulo": "Dead Land",
+      "original": "Dead Land",
+      "anio": 2020,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mosley-devil-in-a-blue-dress",
+      "titulo": "El demonio vestido de azul",
+      "original": "Devil in a Blue Dress",
+      "anio": 1990,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-a-red-death",
+      "titulo": "Una muerte roja",
+      "original": "A Red Death",
+      "anio": 1991,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-white-butterfly",
+      "titulo": "Mariposa blanca",
+      "original": "White Butterfly",
+      "anio": 1992,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-black-betty",
+      "titulo": "Black Betty",
+      "original": "Black Betty",
+      "anio": 1994,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-a-little-yellow-dog",
+      "titulo": "A Little Yellow Dog",
+      "original": "A Little Yellow Dog",
+      "anio": 1996,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-gone-fishin",
+      "titulo": "Gone Fishin'",
+      "original": "Gone Fishin'",
+      "anio": 1997,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-bad-boy-brawly-brown",
+      "titulo": "Bad Boy Brawly Brown",
+      "original": "Bad Boy Brawly Brown",
+      "anio": 2002,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-little-scarlet",
+      "titulo": "Little Scarlet",
+      "original": "Little Scarlet",
+      "anio": 2004,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-cinnamon-kiss",
+      "titulo": "Cinnamon Kiss",
+      "original": "Cinnamon Kiss",
+      "anio": 2005,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-blonde-faith",
+      "titulo": "Blonde Faith",
+      "original": "Blonde Faith",
+      "anio": 2007,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-little-green",
+      "titulo": "Little Green",
+      "original": "Little Green",
+      "anio": 2013,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-rose-gold",
+      "titulo": "Rose Gold",
+      "original": "Rose Gold",
+      "anio": 2014,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-charcoal-joe",
+      "titulo": "Charcoal Joe",
+      "original": "Charcoal Joe",
+      "anio": 2016,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-blood-grove",
+      "titulo": "Blood Grove",
+      "original": "Blood Grove",
+      "anio": 2021,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-farewell-amethystine",
+      "titulo": "Farewell, Amethystine",
+      "original": "Farewell, Amethystine",
+      "anio": 2024,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-fearless-jones",
+      "titulo": "Fearless Jones",
+      "original": "Fearless Jones",
+      "anio": 2001,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-fearless",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-fear-itself",
+      "titulo": "Fear Itself",
+      "original": "Fear Itself",
+      "anio": 2003,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-fearless",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-fear-of-the-dark",
+      "titulo": "Fear of the Dark",
+      "original": "Fear of the Dark",
+      "anio": 2006,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-fearless",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-the-long-fall",
+      "titulo": "The Long Fall",
+      "original": "The Long Fall",
+      "anio": 2009,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-mcgill",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-known-to-evil",
+      "titulo": "Known to Evil",
+      "original": "Known to Evil",
+      "anio": 2010,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-mcgill",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-when-the-thrill-is-gone",
+      "titulo": "When the Thrill Is Gone",
+      "original": "When the Thrill Is Gone",
+      "anio": 2011,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-mcgill",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "dragon",
+      "titulo": "El dragón rojo",
+      "original": "Red Dragon",
+      "anio": 1981,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "lecter",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "silencio",
+      "titulo": "El silencio de los corderos",
+      "original": "The Silence of the Lambs",
+      "anio": 1988,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "lecter",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "hannibal",
+      "titulo": "Hannibal",
+      "original": "Hannibal",
+      "anio": 1999,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "lecter",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "origen",
+      "titulo": "Hannibal: el origen del mal",
+      "original": "Hannibal Rising",
+      "anio": 2006,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "lecter",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "harris-cari-mora",
+      "titulo": "Cari Mora",
+      "original": "Cari Mora",
+      "anio": 2019,
+      "autor": "harris",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ]
     }
   ],
   "destacados": {
@@ -11508,8 +12425,8 @@
   },
   "totales": {
     "autores": 39,
-    "personajes": 105,
-    "series": 45,
-    "obras": 538
+    "personajes": 117,
+    "series": 49,
+    "obras": 583
   }
 }
