@@ -1,0 +1,141 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "higgins",
+    "nombre": "George V. Higgins",
+    "nombreCompleto": "George V. Higgins",
+    "nacimiento": "1939",
+    "fallecimiento": "1999",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1970,
+    "seudonimos": [],
+    "generos": [
+      "crook story",
+      "crime thriller"
+    ],
+    "imagen": "",
+    "resumen": "Novelista del hampa de Boston y maestro de los diálogos criminales.",
+    "bio": [
+      "Fiscal y periodista estadounidense cuya primera novela retrató a delincuentes menores y confidentes con una naturalidad lingüística poco habitual.",
+      "En Los amigos de Eddie Coyle los diálogos construyen el mundo del crimen desde dentro, sin idealizar a mafiosos ni policías, y marcaron profundamente el noir posterior."
+    ],
+    "apunte": "Higgins trabajó como fiscal: utilizó su familiaridad con conversaciones y procedimientos reales para escribir diálogos que revelan las relaciones de poder sin explicarlas al lector.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "higgins-eddie",
+      "higgins-cogan"
+    ],
+    "series": [],
+    "obras": [
+      "higgins-the-friends-of-eddie-coyle",
+      "higgins-the-digger-s-game",
+      "higgins-cogan-s-trade",
+      "higgins-the-rat-on-fire"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "higgins-eddie",
+      "nombre": "Eddie Coyle",
+      "autor": "higgins",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "higgins-the-friends-of-eddie-coyle"
+      ],
+      "articulos": [],
+      "descripcion": "Delincuente de poca monta atrapado entre la necesidad de negociar y la desconfianza general."
+    },
+    {
+      "id": "higgins-cogan",
+      "nombre": "Jackie Cogan",
+      "autor": "higgins",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "higgins-cogan-s-trade"
+      ],
+      "articulos": [],
+      "descripcion": "Profesional del hampa enviado a resolver un problema de dinero y disciplina criminal."
+    }
+  ],
+  "series": [],
+  "obras": [
+    {
+      "id": "higgins-the-friends-of-eddie-coyle",
+      "titulo": "Los amigos de Eddie Coyle",
+      "original": "The Friends of Eddie Coyle",
+      "anio": 1970,
+      "autor": "higgins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un delincuente veterano intenta evitar una condena mientras negocia favores en el hampa y las fuerzas del orden."
+    },
+    {
+      "id": "higgins-the-digger-s-game",
+      "titulo": "The Digger's Game",
+      "original": "The Digger's Game",
+      "anio": 1973,
+      "autor": "higgins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Una historia de negocios turbios y apuestas descubre la precariedad y las estrategias de supervivencia del ambiente criminal."
+    },
+    {
+      "id": "higgins-cogan-s-trade",
+      "titulo": "Mátalos suavemente",
+      "original": "Cogan's Trade",
+      "anio": 1974,
+      "autor": "higgins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un robo durante una partida de cartas bajo protección mafiosa desencadena una operación de represalia."
+    },
+    {
+      "id": "higgins-the-rat-on-fire",
+      "titulo": "The Rat on Fire",
+      "original": "The Rat on Fire",
+      "anio": 1981,
+      "autor": "higgins",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Una investigación sobre un incendio fraudulento saca a la luz ambiciones y relaciones oportunistas."
+    }
+  ]
+}
