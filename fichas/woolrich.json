@@ -1,0 +1,123 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "woolrich",
+    "nombre": "Cornell Woolrich",
+    "nombreCompleto": "Cornell Woolrich",
+    "nacimiento": "1903",
+    "fallecimiento": "1968",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1940,
+    "seudonimos": [
+      "William Irish",
+      "George Hopley"
+    ],
+    "generos": [
+      "psychological thriller",
+      "crime thriller"
+    ],
+    "imagen": "",
+    "resumen": "Uno de los maestros del suspense fatalista y de la paranoia noir.",
+    "bio": [
+      "Escritor estadounidense que, tras primeras novelas ajenas al género, se especializó en el relato criminal y el suspense durante las décadas de 1930 y 1940.",
+      "Sus protagonistas suelen quedar atrapados por la casualidad, la urgencia del tiempo y el temor a no poder demostrar lo sucedido. Publicó también como William Irish y George Hopley."
+    ],
+    "apunte": "La novia vestía de negro marca el inicio de sus grandes novelas de suspense negro, pero no de toda su carrera como novelista: había publicado ficción no policial desde 1926.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "woolrich-scott"
+    ],
+    "series": [],
+    "obras": [
+      "woolrich-the-bride-wore-black",
+      "woolrich-phantom-lady",
+      "woolrich-deadline-at-dawn",
+      "woolrich-night-has-a-thousand-eyes"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "woolrich-scott",
+      "nombre": "Scott Henderson",
+      "autor": "woolrich",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Otras ocupaciones",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "woolrich-phantom-lady"
+      ],
+      "articulos": [],
+      "descripcion": "Hombre que necesita encontrar a una testigo inalcanzable para defenderse de una acusación."
+    }
+  ],
+  "series": [],
+  "obras": [
+    {
+      "id": "woolrich-the-bride-wore-black",
+      "titulo": "La novia vestía de negro",
+      "original": "The Bride Wore Black",
+      "anio": 1940,
+      "autor": "woolrich",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Varias muertes que parecen inconexas desencadenan una investigación sobre la identidad y los motivos de una mujer."
+    },
+    {
+      "id": "woolrich-phantom-lady",
+      "titulo": "La dama fantasma",
+      "original": "Phantom Lady",
+      "anio": 1942,
+      "autor": "woolrich",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Un hombre acusado de asesinato solo puede demostrar su inocencia encontrando a una mujer cuyo paradero nadie conoce."
+    },
+    {
+      "id": "woolrich-deadline-at-dawn",
+      "titulo": "Deadline at Dawn",
+      "original": "Deadline at Dawn",
+      "anio": 1944,
+      "autor": "woolrich",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Dos jóvenes intentan aclarar un crimen antes del amanecer mientras la noche reduce sus opciones."
+    },
+    {
+      "id": "woolrich-night-has-a-thousand-eyes",
+      "titulo": "La noche tiene mil ojos",
+      "original": "Night Has a Thousand Eyes",
+      "anio": 1945,
+      "autor": "woolrich",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Unas predicciones alarmantes condicionan la investigación y la conducta de quienes temen una muerte anunciada."
+    }
+  ]
+}
