@@ -1,0 +1,120 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "gonzalez-ledesma",
+    "nombre": "Francisco González Ledesma",
+    "nombreCompleto": "Francisco González Ledesma",
+    "nacimiento": "1927",
+    "fallecimiento": "2015",
+    "origen": "España",
+    "pais": "España",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1983,
+    "seudonimos": [
+      "Silver Kane",
+      "Enrique Moriel"
+    ],
+    "generos": [
+      "hardboiled",
+      "police procedural"
+    ],
+    "imagen": "",
+    "resumen": "Gran cronista noir de Barcelona y creador del inspector Ricardo Méndez.",
+    "bio": [
+      "Escritor y periodista barcelonés nacido en el Poble-sec. Desarrolló una amplísima producción de novela popular bajo el nombre Silver Kane y trabajó en la prensa escrita.",
+      "La saga del inspector Méndez convirtió los barrios de Barcelona, sus contradicciones y su memoria social en materia central de la novela negra española."
+    ],
+    "apunte": "Su primer reconocimiento fue Sombras viejas (1948), novela distinta del ciclo policiaco; Los Napoleones apareció en 1977. Se utiliza provisionalmente 1983, año de la primera novela de Méndez, para el filtro negrocriminal, pendiente de evaluar si una obra anterior debe adelantarlo.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "gonzalez-ledesma-mendez"
+    ],
+    "series": [
+      "gonzalez-ledesma-mendez"
+    ],
+    "obras": [
+      "gonzalez-ledesma-expediente-barcelona",
+      "gonzalez-ledesma-cronica-sentimental-en-rojo",
+      "gonzalez-ledesma-una-novela-de-barrio"
+    ],
+    "debutPorVerificar": true
+  },
+  "personajes": [
+    {
+      "id": "gonzalez-ledesma-mendez",
+      "nombre": "Ricardo Méndez",
+      "autor": "gonzalez-ledesma",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "gonzalez-ledesma-mendez",
+      "obras": [
+        "gonzalez-ledesma-expediente-barcelona",
+        "gonzalez-ledesma-cronica-sentimental-en-rojo",
+        "gonzalez-ledesma-una-novela-de-barrio"
+      ],
+      "articulos": [],
+      "descripcion": "Inspector veterano, desaliñado e irónico, profundamente unido a las calles de Barcelona."
+    }
+  ],
+  "series": [
+    {
+      "id": "gonzalez-ledesma-mendez",
+      "nombre": "Inspector Méndez",
+      "autor": "gonzalez-ledesma",
+      "descripcion": "Novelas del inspector Ricardo Méndez ambientadas principalmente en Barcelona."
+    }
+  ],
+  "obras": [
+    {
+      "id": "gonzalez-ledesma-expediente-barcelona",
+      "titulo": "Expediente Barcelona",
+      "original": "Expediente Barcelona",
+      "anio": 1983,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "El inspector Méndez se mueve por una Barcelona de tensiones políticas y sociales para esclarecer una trama violenta."
+    },
+    {
+      "id": "gonzalez-ledesma-cronica-sentimental-en-rojo",
+      "titulo": "Crónica sentimental en rojo",
+      "original": "Crónica sentimental en rojo",
+      "anio": 1984,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una investigación criminal conduce a Méndez por los contrastes entre los barrios populares y las élites de Barcelona."
+    },
+    {
+      "id": "gonzalez-ledesma-una-novela-de-barrio",
+      "titulo": "Una novela de barrio",
+      "original": "Una novela de barrio",
+      "anio": 2007,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "sinopsis": "Una investigación vinculada a los barrios barceloneses reabre heridas, recuerdos y conflictos de larga duración."
+    }
+  ]
+}
