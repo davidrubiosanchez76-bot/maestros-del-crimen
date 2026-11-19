@@ -35,7 +35,13 @@
       "taibo-ii-dias-de-combate",
       "taibo-ii-cosa-facil",
       "taibo-ii-no-habra-final-feliz",
-      "taibo-ii-desvanecidos-difuntos"
+      "taibo-ii-desvanecidos-difuntos",
+      "taibo-ii-algunas-nubes",
+      "taibo-ii-regreso-a-la-misma-ciudad-y-bajo-la-lluvia",
+      "taibo-ii-amorosos-fantasmas",
+      "taibo-ii-suenos-de-frontera",
+      "taibo-ii-adios-madrid",
+      "taibo-ii-ya-no-hay-balas"
     ]
   },
   "personajes": [
@@ -57,7 +63,13 @@
         "taibo-ii-dias-de-combate",
         "taibo-ii-cosa-facil",
         "taibo-ii-no-habra-final-feliz",
-        "taibo-ii-desvanecidos-difuntos"
+        "taibo-ii-desvanecidos-difuntos",
+        "taibo-ii-algunas-nubes",
+        "taibo-ii-regreso-a-la-misma-ciudad-y-bajo-la-lluvia",
+        "taibo-ii-amorosos-fantasmas",
+        "taibo-ii-suenos-de-frontera",
+        "taibo-ii-adios-madrid",
+        "taibo-ii-ya-no-hay-balas"
       ],
       "articulos": [],
       "descripcion": "Detective mexicano marcado por la ironía y los conflictos de su ciudad."
@@ -127,6 +139,90 @@
         "crime thriller"
       ],
       "sinopsis": "Una investigación extraña arrastra a Belascoarán a mentiras, pérdidas y recuerdos que desafían la explicación convencional."
+    },
+    {
+      "id": "taibo-ii-algunas-nubes",
+      "titulo": "Algunas nubes",
+      "original": "Algunas nubes",
+      "anio": 1985,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Belascoarán Shayne investiga nuevas amenazas en la Ciudad de México."
+    },
+    {
+      "id": "taibo-ii-regreso-a-la-misma-ciudad-y-bajo-la-lluvia",
+      "titulo": "Regreso a la misma ciudad y bajo la lluvia",
+      "original": "Regreso a la misma ciudad y bajo la lluvia",
+      "anio": 1986,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "El detective regresa a la ciudad en una historia de memoria, violencia y reencuentros."
+    },
+    {
+      "id": "taibo-ii-amorosos-fantasmas",
+      "titulo": "Amorosos fantasmas",
+      "original": "Amorosos fantasmas",
+      "anio": 1989,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una investigación de Belascoarán combina afectos, humor y peligro urbano."
+    },
+    {
+      "id": "taibo-ii-suenos-de-frontera",
+      "titulo": "Sueños de frontera",
+      "original": "Sueños de frontera",
+      "anio": 1990,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "El detective sigue una pista que lo lleva lejos de la Ciudad de México."
+    },
+    {
+      "id": "taibo-ii-adios-madrid",
+      "titulo": "Adiós Madrid",
+      "original": "Adiós Madrid",
+      "anio": 1993,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una intriga obliga a Belascoarán Shayne a viajar a España."
+    },
+    {
+      "id": "taibo-ii-ya-no-hay-balas",
+      "titulo": "Ya no hay balas",
+      "original": "Ya no hay balas",
+      "anio": 2017,
+      "autor": "taibo-ii",
+      "seudonimo": "",
+      "serie": "taibo-ii-belascoaran",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una nueva aventura de Belascoarán lo sitúa ante un caso criminal contemporáneo."
     }
   ]
 }
