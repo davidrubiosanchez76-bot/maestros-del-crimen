@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-19-39-autores-32-nuevos-v2",
+  "version": "2026-11-19-39-autores-32-nuevos-v3",
   "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · algunas bibliografías son selecciones iniciales que se ampliarán progresivamente.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -989,8 +989,7 @@
         "mcbain-carella"
       ],
       "series": [
-        "mcbain-87",
-        "mcbain-hope"
+        "mcbain-87"
       ],
       "obras": [
         "mcbain-cop-hater",
@@ -3015,12 +3014,6 @@
       "nombre": "Distrito 87",
       "autor": "mcbain",
       "descripcion": "Novelas corales del imaginario Distrito 87."
-    },
-    {
-      "id": "mcbain-hope",
-      "nombre": "Matthew Hope",
-      "autor": "mcbain",
-      "descripcion": "Serie del abogado Matthew Hope, publicada también bajo Ed McBain."
     },
     {
       "id": "pd-james-dalgliesh",
@@ -6259,7 +6252,7 @@
   "totales": {
     "autores": 39,
     "personajes": 66,
-    "series": 40,
+    "series": 39,
     "obras": 240
   }
 }
