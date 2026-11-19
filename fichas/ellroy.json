@@ -1,0 +1,150 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "ellroy",
+    "nombre": "James Ellroy",
+    "nombreCompleto": "James Ellroy",
+    "nacimiento": "1948",
+    "fallecimiento": "",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1981,
+    "seudonimos": [],
+    "generos": [
+      "hardboiled",
+      "crime thriller"
+    ],
+    "imagen": "",
+    "resumen": "Autor de una visión feroz de la corrupción, el crimen y la historia de Los Ángeles.",
+    "bio": [
+      "Narrador estadounidense cuya literatura combina investigaciones criminales, conflictos políticos, violencia y obsesión documental.",
+      "Desde Réquiem por Brown evolucionó hacia ambiciosos ciclos como el Cuarteto de Los Ángeles, que vincula sucesos reales, ficción y una estructura coral de policías, periodistas y criminales."
+    ],
+    "apunte": "El Cuarteto de Los Ángeles utiliza una ciudad histórica recreada con gran densidad de referencias, pero sus personajes y numerosas conspiraciones son ficción; conviene separar dato histórico y elaboración novelesca.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "ellroy-bucky",
+      "ellroy-bud"
+    ],
+    "series": [
+      "ellroy-cuarteto-la"
+    ],
+    "obras": [
+      "ellroy-brown-s-requiem",
+      "ellroy-the-black-dahlia",
+      "ellroy-the-big-nowhere",
+      "ellroy-l-a-confidential"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "ellroy-bucky",
+      "nombre": "Dwight «Bucky» Bleichert",
+      "autor": "ellroy",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "ellroy-cuarteto-la",
+      "obras": [
+        "ellroy-the-black-dahlia"
+      ],
+      "articulos": [],
+      "descripcion": "Policía marcado por la investigación del crimen de la Dalia Negra."
+    },
+    {
+      "id": "ellroy-bud",
+      "nombre": "Wendell «Bud» White",
+      "autor": "ellroy",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "ellroy-cuarteto-la",
+      "obras": [
+        "ellroy-l-a-confidential"
+      ],
+      "articulos": [],
+      "descripcion": "Policía de métodos violentos y convicciones difíciles de conciliar con la institución."
+    }
+  ],
+  "series": [
+    {
+      "id": "ellroy-cuarteto-la",
+      "nombre": "Cuarteto de Los Ángeles",
+      "autor": "ellroy",
+      "descripcion": "Ciclo sobre Los Ángeles: La Dalia Negra, El gran desierto, L.A. Confidential y Jazz blanco."
+    }
+  ],
+  "obras": [
+    {
+      "id": "ellroy-brown-s-requiem",
+      "titulo": "Réquiem por Brown",
+      "original": "Brown's Requiem",
+      "anio": 1981,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Un detective privado investiga una desaparición en un ambiente de apuestas, música y violencia."
+    },
+    {
+      "id": "ellroy-the-black-dahlia",
+      "titulo": "La Dalia Negra",
+      "original": "The Black Dahlia",
+      "anio": 1987,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "ellroy-cuarteto-la",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Dos policías se obsesionan con un asesinato célebre de Los Ángeles mientras sus vidas se resienten."
+    },
+    {
+      "id": "ellroy-the-big-nowhere",
+      "titulo": "El gran desierto",
+      "original": "The Big Nowhere",
+      "anio": 1988,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "ellroy-cuarteto-la",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Tres investigaciones convergen en un paisaje de persecución política y violencia criminal."
+    },
+    {
+      "id": "ellroy-l-a-confidential",
+      "titulo": "L. A. Confidential",
+      "original": "L.A. Confidential",
+      "anio": 1990,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "ellroy-cuarteto-la",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "La corrupción policial y los negocios oscuros atraviesan la carrera de varios agentes en el Los Ángeles de los años cincuenta."
+    }
+  ]
+}
