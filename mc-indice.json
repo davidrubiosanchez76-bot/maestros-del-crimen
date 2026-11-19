@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-19-ampliacion-03",
-  "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · índice de consulta sin sinopsis extensas",
+  "version": "2026-11-19-39-autores-32-nuevos",
+  "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · algunas bibliografías son selecciones iniciales que se ampliarán progresivamente.",
   "fichas": {
     "chandler": "fichas/chandler.json",
     "christie": "fichas/christie.json",
@@ -33,7 +33,15 @@
     "sjowall-wahloo": "fichas/sjowall-wahloo.json",
     "vazquez-montalban": "fichas/vazquez-montalban.json",
     "taibo-ii": "fichas/taibo-ii.json",
-    "higgins": "fichas/higgins.json"
+    "higgins": "fichas/higgins.json",
+    "ellroy": "fichas/ellroy.json",
+    "paretsky": "fichas/paretsky.json",
+    "mosley": "fichas/mosley.json",
+    "himes": "fichas/himes.json",
+    "malet": "fichas/malet.json",
+    "durrenmatt": "fichas/durrenmatt.json",
+    "leonard": "fichas/leonard.json",
+    "gonzalez-ledesma": "fichas/gonzalez-ledesma.json"
   },
   "autores": [
     {
@@ -1190,6 +1198,271 @@
         "higgins-cogan-s-trade",
         "higgins-the-rat-on-fire"
       ]
+    },
+    {
+      "id": "ellroy",
+      "nombre": "James Ellroy",
+      "nombreCompleto": "James Ellroy",
+      "nacimiento": "1948",
+      "fallecimiento": "",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1981,
+      "seudonimos": [],
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "imagen": "",
+      "resumen": "Autor de una visión feroz de la corrupción, el crimen y la historia de Los Ángeles.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "ellroy-bucky",
+        "ellroy-bud"
+      ],
+      "series": [
+        "ellroy-cuarteto-la"
+      ],
+      "obras": [
+        "ellroy-brown-s-requiem",
+        "ellroy-the-black-dahlia",
+        "ellroy-the-big-nowhere",
+        "ellroy-l-a-confidential"
+      ]
+    },
+    {
+      "id": "paretsky",
+      "nombre": "Sara Paretsky",
+      "nombreCompleto": "Sara Paretsky",
+      "nacimiento": "1947",
+      "fallecimiento": "",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1982,
+      "seudonimos": [],
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "imagen": "",
+      "resumen": "Creadora de V. I. Warshawski y renovadora del detective privado femenino.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "paretsky-vi"
+      ],
+      "series": [
+        "paretsky-warshawski"
+      ],
+      "obras": [
+        "paretsky-indemnity-only",
+        "paretsky-deadlock",
+        "paretsky-burn-marks",
+        "paretsky-hard-time"
+      ]
+    },
+    {
+      "id": "mosley",
+      "nombre": "Walter Mosley",
+      "nombreCompleto": "Walter Mosley",
+      "nacimiento": "1952",
+      "fallecimiento": "",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1990,
+      "seudonimos": [],
+      "generos": [
+        "hardboiled"
+      ],
+      "imagen": "",
+      "resumen": "Creador de Easy Rawlins y voz destacada del noir afroamericano.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "mosley-easy",
+        "mosley-mouse"
+      ],
+      "series": [
+        "mosley-rawlins"
+      ],
+      "obras": [
+        "mosley-devil-in-a-blue-dress",
+        "mosley-a-red-death",
+        "mosley-white-butterfly",
+        "mosley-black-betty"
+      ]
+    },
+    {
+      "id": "himes",
+      "nombre": "Chester Himes",
+      "nombreCompleto": "Chester Himes",
+      "nacimiento": "1909",
+      "fallecimiento": "1984",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1957,
+      "seudonimos": [],
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "imagen": "",
+      "resumen": "Creador de Sepulturero Jones y Ataúd Ed Johnson, detectives del Harlem criminal.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "himes-jones",
+        "himes-johnson"
+      ],
+      "series": [
+        "himes-harlem"
+      ],
+      "obras": [
+        "himes-for-love-of-imabelle",
+        "himes-the-real-cool-killers",
+        "himes-the-crazy-kill",
+        "himes-cotton-comes-to-harlem"
+      ]
+    },
+    {
+      "id": "malet",
+      "nombre": "Léo Malet",
+      "nombreCompleto": "Léo Malet",
+      "nacimiento": "1909",
+      "fallecimiento": "1996",
+      "origen": "Francia",
+      "pais": "Francia",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1943,
+      "seudonimos": [],
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ],
+      "imagen": "",
+      "resumen": "Creador de Nestor Burma y renovador del detective privado francés.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "malet-burma"
+      ],
+      "series": [
+        "malet-burma"
+      ],
+      "obras": [
+        "malet-120-rue-de-la-gare",
+        "malet-les-rats-de-montsouris",
+        "malet-brouillard-au-pont-de-tolbiac"
+      ]
+    },
+    {
+      "id": "durrenmatt",
+      "nombre": "Friedrich Dürrenmatt",
+      "nombreCompleto": "Friedrich Dürrenmatt",
+      "nacimiento": "1921",
+      "fallecimiento": "1990",
+      "origen": "Suiza",
+      "pais": "Suiza",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1950,
+      "seudonimos": [],
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "imagen": "",
+      "resumen": "Dramaturgo y novelista que sometió las reglas del policial a una crítica filosófica.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "durrenmatt-barlach"
+      ],
+      "series": [
+        "durrenmatt-barlach"
+      ],
+      "obras": [
+        "durrenmatt-der-richter-und-sein-henker",
+        "durrenmatt-der-verdacht",
+        "durrenmatt-das-versprechen"
+      ]
+    },
+    {
+      "id": "leonard",
+      "nombre": "Elmore Leonard",
+      "nombreCompleto": "Elmore Leonard",
+      "nacimiento": "1925",
+      "fallecimiento": "2013",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1969,
+      "seudonimos": [],
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "imagen": "",
+      "resumen": "Maestro del diálogo, el humor seco y el crimen contado desde dentro.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "leonard-ryan"
+      ],
+      "series": [],
+      "obras": [
+        "leonard-the-big-bounce",
+        "leonard-fifty-two-pickup",
+        "leonard-swag",
+        "leonard-labrava"
+      ]
+    },
+    {
+      "id": "gonzalez-ledesma",
+      "nombre": "Francisco González Ledesma",
+      "nombreCompleto": "Francisco González Ledesma",
+      "nacimiento": "1927",
+      "fallecimiento": "2015",
+      "origen": "España",
+      "pais": "España",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1983,
+      "seudonimos": [
+        "Silver Kane",
+        "Enrique Moriel"
+      ],
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ],
+      "imagen": "",
+      "resumen": "Gran cronista noir de Barcelona y creador del inspector Ricardo Méndez.",
+      "alcanceBibliografia": "selección inicial no exhaustiva",
+      "articulos": [],
+      "personajes": [
+        "gonzalez-ledesma-mendez"
+      ],
+      "series": [
+        "gonzalez-ledesma-mendez"
+      ],
+      "obras": [
+        "gonzalez-ledesma-expediente-barcelona",
+        "gonzalez-ledesma-cronica-sentimental-en-rojo",
+        "gonzalez-ledesma-una-novela-de-barrio"
+      ],
+      "debutPorVerificar": true
     }
   ],
   "personajes": [
@@ -2355,6 +2628,235 @@
         "higgins-cogan-s-trade"
       ],
       "articulos": []
+    },
+    {
+      "id": "ellroy-bucky",
+      "nombre": "Dwight «Bucky» Bleichert",
+      "autor": "ellroy",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "ellroy-cuarteto-la",
+      "obras": [
+        "ellroy-the-black-dahlia"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "ellroy-bud",
+      "nombre": "Wendell «Bud» White",
+      "autor": "ellroy",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "ellroy-cuarteto-la",
+      "obras": [
+        "ellroy-l-a-confidential"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "paretsky-vi",
+      "nombre": "V. I. Warshawski",
+      "autor": "paretsky",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "paretsky-warshawski",
+      "obras": [
+        "paretsky-indemnity-only",
+        "paretsky-deadlock",
+        "paretsky-burn-marks",
+        "paretsky-hard-time"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "mosley-easy",
+      "nombre": "Easy Rawlins",
+      "autor": "mosley",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "mosley-rawlins",
+      "obras": [
+        "mosley-devil-in-a-blue-dress",
+        "mosley-a-red-death",
+        "mosley-white-butterfly",
+        "mosley-black-betty"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "mosley-mouse",
+      "nombre": "Raymond «Mouse» Alexander",
+      "autor": "mosley",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "mosley-rawlins",
+      "obras": [
+        "mosley-devil-in-a-blue-dress",
+        "mosley-a-red-death",
+        "mosley-white-butterfly",
+        "mosley-black-betty"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "himes-jones",
+      "nombre": "Grave Digger Jones (Sepulturero Jones)",
+      "autor": "himes",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "himes-harlem",
+      "obras": [
+        "himes-for-love-of-imabelle",
+        "himes-the-real-cool-killers",
+        "himes-the-crazy-kill",
+        "himes-cotton-comes-to-harlem"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "himes-johnson",
+      "nombre": "Coffin Ed Johnson (Ataúd Ed)",
+      "autor": "himes",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "himes-harlem",
+      "obras": [
+        "himes-for-love-of-imabelle",
+        "himes-the-real-cool-killers",
+        "himes-the-crazy-kill",
+        "himes-cotton-comes-to-harlem"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "malet-burma",
+      "nombre": "Nestor Burma",
+      "autor": "malet",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "malet-burma",
+      "obras": [
+        "malet-120-rue-de-la-gare",
+        "malet-les-rats-de-montsouris",
+        "malet-brouillard-au-pont-de-tolbiac"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "durrenmatt-barlach",
+      "nombre": "Hans Bärlach",
+      "autor": "durrenmatt",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "durrenmatt-barlach",
+      "obras": [
+        "durrenmatt-der-richter-und-sein-henker",
+        "durrenmatt-der-verdacht"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "leonard-ryan",
+      "nombre": "Jack Ryan",
+      "autor": "leonard",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Delincuente",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "leonard-the-big-bounce"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "gonzalez-ledesma-mendez",
+      "nombre": "Ricardo Méndez",
+      "autor": "gonzalez-ledesma",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "gonzalez-ledesma-mendez",
+      "obras": [
+        "gonzalez-ledesma-expediente-barcelona",
+        "gonzalez-ledesma-cronica-sentimental-en-rojo",
+        "gonzalez-ledesma-una-novela-de-barrio"
+      ],
+      "articulos": []
     }
   ],
   "series": [
@@ -2555,6 +3057,48 @@
       "nombre": "Héctor Belascoarán Shayne",
       "autor": "taibo-ii",
       "descripcion": "Serie del investigador Héctor Belascoarán Shayne."
+    },
+    {
+      "id": "ellroy-cuarteto-la",
+      "nombre": "Cuarteto de Los Ángeles",
+      "autor": "ellroy",
+      "descripcion": "Ciclo sobre Los Ángeles: La Dalia Negra, El gran desierto, L.A. Confidential y Jazz blanco."
+    },
+    {
+      "id": "paretsky-warshawski",
+      "nombre": "V. I. Warshawski",
+      "autor": "paretsky",
+      "descripcion": "Investigaciones de la detective privada Victoria Iphigenia Warshawski."
+    },
+    {
+      "id": "mosley-rawlins",
+      "nombre": "Easy Rawlins",
+      "autor": "mosley",
+      "descripcion": "Novelas del investigador Ezekiel «Easy» Rawlins."
+    },
+    {
+      "id": "himes-harlem",
+      "nombre": "Sepulturero Jones y Ataúd Ed Johnson",
+      "autor": "himes",
+      "descripcion": "Ciclo policial de Harlem con dos detectives afroamericanos."
+    },
+    {
+      "id": "malet-burma",
+      "nombre": "Nestor Burma",
+      "autor": "malet",
+      "descripcion": "Novelas del detective privado Nestor Burma, incluidas Los nuevos misterios de París."
+    },
+    {
+      "id": "durrenmatt-barlach",
+      "nombre": "Comisario Bärlach",
+      "autor": "durrenmatt",
+      "descripcion": "Dos novelas policiales con el comisario Hans Bärlach."
+    },
+    {
+      "id": "gonzalez-ledesma-mendez",
+      "nombre": "Inspector Méndez",
+      "autor": "gonzalez-ledesma",
+      "descripcion": "Novelas del inspector Ricardo Méndez ambientadas principalmente en Barcelona."
     }
   ],
   "obras": [
@@ -5141,6 +5685,379 @@
         "crook story",
         "crime thriller"
       ]
+    },
+    {
+      "id": "ellroy-brown-s-requiem",
+      "titulo": "Réquiem por Brown",
+      "original": "Brown's Requiem",
+      "anio": 1981,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-the-black-dahlia",
+      "titulo": "La Dalia Negra",
+      "original": "The Black Dahlia",
+      "anio": 1987,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "ellroy-cuarteto-la",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-the-big-nowhere",
+      "titulo": "El gran desierto",
+      "original": "The Big Nowhere",
+      "anio": 1988,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "ellroy-cuarteto-la",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ellroy-l-a-confidential",
+      "titulo": "L. A. Confidential",
+      "original": "L.A. Confidential",
+      "anio": 1990,
+      "autor": "ellroy",
+      "seudonimo": "",
+      "serie": "ellroy-cuarteto-la",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-indemnity-only",
+      "titulo": "Valor seguro",
+      "original": "Indemnity Only",
+      "anio": 1982,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-deadlock",
+      "titulo": "Punto muerto",
+      "original": "Deadlock",
+      "anio": 1984,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-burn-marks",
+      "titulo": "Marcas de fuego",
+      "original": "Burn Marks",
+      "anio": 1990,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "paretsky-hard-time",
+      "titulo": "Tiempos difíciles",
+      "original": "Hard Time",
+      "anio": 1999,
+      "autor": "paretsky",
+      "seudonimo": "",
+      "serie": "paretsky-warshawski",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mosley-devil-in-a-blue-dress",
+      "titulo": "El demonio vestido de azul",
+      "original": "Devil in a Blue Dress",
+      "anio": 1990,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-a-red-death",
+      "titulo": "Una muerte roja",
+      "original": "A Red Death",
+      "anio": 1991,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-white-butterfly",
+      "titulo": "Mariposa blanca",
+      "original": "White Butterfly",
+      "anio": 1992,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "mosley-black-betty",
+      "titulo": "Black Betty",
+      "original": "Black Betty",
+      "anio": 1994,
+      "autor": "mosley",
+      "seudonimo": "",
+      "serie": "mosley-rawlins",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "himes-for-love-of-imabelle",
+      "titulo": "La reina de las manzanas",
+      "original": "For Love of Imabelle",
+      "anio": 1957,
+      "autor": "himes",
+      "seudonimo": "",
+      "serie": "himes-harlem",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "himes-the-real-cool-killers",
+      "titulo": "The Real Cool Killers",
+      "original": "The Real Cool Killers",
+      "anio": 1959,
+      "autor": "himes",
+      "seudonimo": "",
+      "serie": "himes-harlem",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "himes-the-crazy-kill",
+      "titulo": "The Crazy Kill",
+      "original": "The Crazy Kill",
+      "anio": 1959,
+      "autor": "himes",
+      "seudonimo": "",
+      "serie": "himes-harlem",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "himes-cotton-comes-to-harlem",
+      "titulo": "Algodón en Harlem",
+      "original": "Cotton Comes to Harlem",
+      "anio": 1965,
+      "autor": "himes",
+      "seudonimo": "",
+      "serie": "himes-harlem",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "malet-120-rue-de-la-gare",
+      "titulo": "Calle de la Estación, 120",
+      "original": "120, rue de la Gare",
+      "anio": 1943,
+      "autor": "malet",
+      "seudonimo": "",
+      "serie": "malet-burma",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "malet-les-rats-de-montsouris",
+      "titulo": "Las ratas de Montsouris",
+      "original": "Les Rats de Montsouris",
+      "anio": 1955,
+      "autor": "malet",
+      "seudonimo": "",
+      "serie": "malet-burma",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "malet-brouillard-au-pont-de-tolbiac",
+      "titulo": "Niebla en el puente de Tolbiac",
+      "original": "Brouillard au pont de Tolbiac",
+      "anio": 1956,
+      "autor": "malet",
+      "seudonimo": "",
+      "serie": "malet-burma",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "durrenmatt-der-richter-und-sein-henker",
+      "titulo": "El juez y su verdugo",
+      "original": "Der Richter und sein Henker",
+      "anio": 1950,
+      "autor": "durrenmatt",
+      "seudonimo": "",
+      "serie": "durrenmatt-barlach",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "durrenmatt-der-verdacht",
+      "titulo": "La sospecha",
+      "original": "Der Verdacht",
+      "anio": 1951,
+      "autor": "durrenmatt",
+      "seudonimo": "",
+      "serie": "durrenmatt-barlach",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "durrenmatt-das-versprechen",
+      "titulo": "La promesa",
+      "original": "Das Versprechen",
+      "anio": 1958,
+      "autor": "durrenmatt",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "leonard-the-big-bounce",
+      "titulo": "The Big Bounce",
+      "original": "The Big Bounce",
+      "anio": 1969,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-fifty-two-pickup",
+      "titulo": "52 Pickup",
+      "original": "Fifty-Two Pickup",
+      "anio": 1974,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-swag",
+      "titulo": "Swag",
+      "original": "Swag",
+      "anio": 1976,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "leonard-labrava",
+      "titulo": "LaBrava",
+      "original": "LaBrava",
+      "anio": 1983,
+      "autor": "leonard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "gonzalez-ledesma-expediente-barcelona",
+      "titulo": "Expediente Barcelona",
+      "original": "Expediente Barcelona",
+      "anio": 1983,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gonzalez-ledesma-cronica-sentimental-en-rojo",
+      "titulo": "Crónica sentimental en rojo",
+      "original": "Crónica sentimental en rojo",
+      "anio": 1984,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "gonzalez-ledesma-una-novela-de-barrio",
+      "titulo": "Una novela de barrio",
+      "original": "Una novela de barrio",
+      "anio": 2007,
+      "autor": "gonzalez-ledesma",
+      "seudonimo": "",
+      "serie": "gonzalez-ledesma-mendez",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
     }
   ],
   "destacados": {
@@ -5297,12 +6214,52 @@
       "higgins-the-friends-of-eddie-coyle",
       "higgins-cogan-s-trade",
       "higgins-the-rat-on-fire"
+    ],
+    "ellroy": [
+      "ellroy-brown-s-requiem",
+      "ellroy-the-big-nowhere",
+      "ellroy-l-a-confidential"
+    ],
+    "paretsky": [
+      "paretsky-indemnity-only",
+      "paretsky-burn-marks",
+      "paretsky-hard-time"
+    ],
+    "mosley": [
+      "mosley-devil-in-a-blue-dress",
+      "mosley-white-butterfly",
+      "mosley-black-betty"
+    ],
+    "himes": [
+      "himes-for-love-of-imabelle",
+      "himes-the-crazy-kill",
+      "himes-cotton-comes-to-harlem"
+    ],
+    "malet": [
+      "malet-120-rue-de-la-gare",
+      "malet-les-rats-de-montsouris",
+      "malet-brouillard-au-pont-de-tolbiac"
+    ],
+    "durrenmatt": [
+      "durrenmatt-der-richter-und-sein-henker",
+      "durrenmatt-der-verdacht",
+      "durrenmatt-das-versprechen"
+    ],
+    "leonard": [
+      "leonard-the-big-bounce",
+      "leonard-swag",
+      "leonard-labrava"
+    ],
+    "gonzalez-ledesma": [
+      "gonzalez-ledesma-expediente-barcelona",
+      "gonzalez-ledesma-cronica-sentimental-en-rojo",
+      "gonzalez-ledesma-una-novela-de-barrio"
     ]
   },
   "totales": {
-    "autores": 31,
-    "personajes": 55,
-    "series": 33,
-    "obras": 211
+    "autores": 39,
+    "personajes": 66,
+    "series": 40,
+    "obras": 240
   }
 }
