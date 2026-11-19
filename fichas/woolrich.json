@@ -36,7 +36,15 @@
       "woolrich-the-bride-wore-black",
       "woolrich-phantom-lady",
       "woolrich-deadline-at-dawn",
-      "woolrich-night-has-a-thousand-eyes"
+      "woolrich-night-has-a-thousand-eyes",
+      "woolrich-the-black-curtain",
+      "woolrich-black-alibi",
+      "woolrich-black-angel",
+      "woolrich-black-path-of-fear",
+      "woolrich-waltz-into-darkness",
+      "woolrich-rendezvous-in-black",
+      "woolrich-i-married-a-dead-man",
+      "woolrich-fright"
     ]
   },
   "personajes": [
@@ -118,6 +126,118 @@
         "crime thriller"
       ],
       "sinopsis": "Unas predicciones alarmantes condicionan la investigación y la conducta de quienes temen una muerte anunciada."
+    },
+    {
+      "id": "woolrich-the-black-curtain",
+      "titulo": "La cortina negra",
+      "original": "The Black Curtain",
+      "anio": 1941,
+      "autor": "woolrich",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Un hombre intenta reconstruir un período de su vida que ha desaparecido de su memoria."
+    },
+    {
+      "id": "woolrich-black-alibi",
+      "titulo": "Coartada negra",
+      "original": "Black Alibi",
+      "anio": 1942,
+      "autor": "woolrich",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Una serie de muertes infunde temor en una ciudad y obliga a buscar el origen de una amenaza."
+    },
+    {
+      "id": "woolrich-black-angel",
+      "titulo": "El ángel negro",
+      "original": "Black Angel",
+      "anio": 1943,
+      "autor": "woolrich",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Una mujer intenta demostrar la inocencia de su marido investigando un crimen."
+    },
+    {
+      "id": "woolrich-black-path-of-fear",
+      "titulo": "El sendero del miedo",
+      "original": "Black Path of Fear",
+      "anio": 1944,
+      "autor": "woolrich",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Un hombre trata de sobrevivir y aclarar una muerte en una ciudad desconocida."
+    },
+    {
+      "id": "woolrich-waltz-into-darkness",
+      "titulo": "Vals en la oscuridad",
+      "original": "Waltz into Darkness",
+      "anio": 1947,
+      "autor": "woolrich",
+      "seudonimo": "William Irish",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Un matrimonio aparentemente prometedor desemboca en una trama de identidad y engaño."
+    },
+    {
+      "id": "woolrich-rendezvous-in-black",
+      "titulo": "Cita en negro",
+      "original": "Rendezvous in Black",
+      "anio": 1948,
+      "autor": "woolrich",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Un hombre prepara una venganza tras una pérdida que considera irreparable."
+    },
+    {
+      "id": "woolrich-i-married-a-dead-man",
+      "titulo": "Me casé con un muerto",
+      "original": "I Married a Dead Man",
+      "anio": 1948,
+      "autor": "woolrich",
+      "seudonimo": "William Irish",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Una mujer asume otra identidad tras un accidente y descubre que la impostura tiene consecuencias."
+    },
+    {
+      "id": "woolrich-fright",
+      "titulo": "Fright",
+      "original": "Fright",
+      "anio": 1950,
+      "autor": "woolrich",
+      "seudonimo": "George Hopley",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Un asesinato desencadena la paranoia de un hombre que teme ser descubierto."
     }
   ]
 }
