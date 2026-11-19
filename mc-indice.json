@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-19-carr-banville-ampliacion",
+  "version": "2026-11-19-relaciones-reparadas",
   "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · algunas bibliografías son selecciones iniciales que se ampliarán progresivamente.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -4536,7 +4536,7 @@
       "perfiles": [
         "Héroe"
       ],
-      "serie": "harris-lecter",
+      "serie": "lecter",
       "obras": [
         "silencio",
         "hannibal"
@@ -4556,7 +4556,7 @@
       "perfiles": [
         "Héroe desencantado"
       ],
-      "serie": "harris-lecter",
+      "serie": "lecter",
       "obras": [
         "dragon"
       ],
@@ -4575,7 +4575,7 @@
       "perfiles": [
         "Héroe"
       ],
-      "serie": "harris-lecter",
+      "serie": "lecter",
       "obras": [
         "dragon",
         "silencio"
@@ -7215,7 +7215,7 @@
       "anio": 1927,
       "autor": "sayers",
       "seudonimo": "",
-      "serie": "wimsey",
+      "serie": "sayers-wimsey",
       "generos": [
         "whodunit"
       ]
@@ -7227,7 +7227,7 @@
       "anio": 1928,
       "autor": "sayers",
       "seudonimo": "",
-      "serie": "wimsey",
+      "serie": "sayers-wimsey",
       "generos": [
         "whodunit"
       ]
@@ -7251,7 +7251,7 @@
       "anio": 1931,
       "autor": "sayers",
       "seudonimo": "",
-      "serie": "wimsey",
+      "serie": "sayers-wimsey",
       "generos": [
         "whodunit"
       ]
@@ -7263,7 +7263,7 @@
       "anio": 1932,
       "autor": "sayers",
       "seudonimo": "",
-      "serie": "wimsey",
+      "serie": "sayers-wimsey",
       "generos": [
         "whodunit"
       ]
@@ -7275,7 +7275,7 @@
       "anio": 1933,
       "autor": "sayers",
       "seudonimo": "",
-      "serie": "wimsey",
+      "serie": "sayers-wimsey",
       "generos": [
         "whodunit"
       ]
@@ -7287,7 +7287,7 @@
       "anio": 1934,
       "autor": "sayers",
       "seudonimo": "",
-      "serie": "wimsey",
+      "serie": "sayers-wimsey",
       "generos": [
         "whodunit"
       ]
@@ -7299,7 +7299,7 @@
       "anio": 1937,
       "autor": "sayers",
       "seudonimo": "",
-      "serie": "wimsey",
+      "serie": "sayers-wimsey",
       "generos": [
         "whodunit"
       ]
@@ -12779,7 +12779,7 @@
     "daly": [
       "snarl",
       "daly-murder-from-the-east",
-      "daly-murder-wont-wait"
+      "daly-murder-won-t-wait"
     ],
     "gaboriau": [
       "gaboriau-l-affaire-lerouge",
