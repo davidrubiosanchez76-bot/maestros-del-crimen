@@ -1,0 +1,140 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "carr",
+    "nombre": "John Dickson Carr",
+    "nombreCompleto": "John Dickson Carr",
+    "nacimiento": "1906",
+    "fallecimiento": "1977",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1930,
+    "seudonimos": [
+      "Carter Dickson"
+    ],
+    "generos": [
+      "whodunit"
+    ],
+    "imagen": "",
+    "resumen": "Maestro del crimen imposible y de los enigmas de habitación cerrada.",
+    "bio": [
+      "Narrador estadounidense que desarrolló buena parte de su carrera en Reino Unido. Sus novelas de la Edad de Oro llevaron el rompecabezas de la habitación cerrada a una complejidad extraordinaria.",
+      "Sus investigadores más conocidos son el doctor Gideon Fell y sir Henry Merrivale, este último asociado al seudónimo Carter Dickson."
+    ],
+    "apunte": "Bajo el nombre Carter Dickson publicó las aventuras de Henry Merrivale; conviene mantener ambos nombres vinculados en el buscador, sin registrarlos como autores distintos.",
+    "alcanceBibliografia": "selección inicial no exhaustiva",
+    "articulos": [],
+    "personajes": [
+      "carr-bencolin",
+      "carr-fell"
+    ],
+    "series": [
+      "carr-bencolin",
+      "carr-fell"
+    ],
+    "obras": [
+      "carr-it-walks-by-night",
+      "carr-the-hollow-man",
+      "carr-the-burning-court"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "carr-bencolin",
+      "nombre": "Henri Bencolin",
+      "autor": "carr",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "carr-bencolin",
+      "obras": [
+        "carr-it-walks-by-night"
+      ],
+      "articulos": [],
+      "descripcion": "Comisario francés cuya inteligencia desmonta apariencias extraordinarias."
+    },
+    {
+      "id": "carr-fell",
+      "nombre": "Doctor Gideon Fell",
+      "autor": "carr",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "carr-fell",
+      "obras": [
+        "carr-the-hollow-man"
+      ],
+      "articulos": [],
+      "descripcion": "Detective aficionado de gran erudición y especialista en imposibles."
+    }
+  ],
+  "series": [
+    {
+      "id": "carr-bencolin",
+      "nombre": "Henri Bencolin",
+      "autor": "carr",
+      "descripcion": "Investigaciones del comisario Henri Bencolin."
+    },
+    {
+      "id": "carr-fell",
+      "nombre": "Doctor Gideon Fell",
+      "autor": "carr",
+      "descripcion": "Novelas protagonizadas por Gideon Fell."
+    }
+  ],
+  "obras": [
+    {
+      "id": "carr-it-walks-by-night",
+      "titulo": "It Walks by Night",
+      "original": "It Walks by Night",
+      "anio": 1930,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-bencolin",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Un crimen desconcertante en París introduce al investigador Henri Bencolin."
+    },
+    {
+      "id": "carr-the-hollow-man",
+      "titulo": "Los tres ataúdes",
+      "original": "The Hollow Man",
+      "anio": 1935,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "carr-fell",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Dos muertes que parecen desafiar las leyes físicas ponen a prueba los razonamientos del doctor Gideon Fell."
+    },
+    {
+      "id": "carr-the-burning-court",
+      "titulo": "El tribunal de las brujas",
+      "original": "The Burning Court",
+      "anio": 1937,
+      "autor": "carr",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "Unos hechos inquietantes relacionados con un asesinato antiguo confunden lo sobrenatural y lo policial."
+    }
+  ]
+}
