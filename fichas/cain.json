@@ -61,7 +61,17 @@
         "cain-the-postman-always-rings-twice"
       ],
       "articulos": [],
-      "descripcion": "Vagabundo protagonista de El cartero siempre llama dos veces."
+      "descripcion": "Vagabundo protagonista de El cartero siempre llama dos veces.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Vida errante",
+          "descripcion": "Llega al lugar del crimen sin raíces ni compromisos estables."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "cain-neff",
@@ -81,7 +91,17 @@
         "cain-double-indemnity"
       ],
       "articulos": [],
-      "descripcion": "Vendedor de seguros involucrado en el plan de Perdición; llamado Walter Neff en la película."
+      "descripcion": "Vendedor de seguros involucrado en el plan de Perdición; llamado Walter Neff en la película.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Seguros",
+          "descripcion": "Conoce el negocio asegurador y los puntos vulnerables de las pólizas."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [],
