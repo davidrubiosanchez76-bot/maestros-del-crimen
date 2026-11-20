@@ -66,7 +66,17 @@
         "collins-the-moonstone"
       ],
       "articulos": [],
-      "descripcion": "Mayordomo y narrador memorable; interpreta la vida a través de Robinson Crusoe."
+      "descripcion": "Mayordomo y narrador memorable; interpreta la vida a través de Robinson Crusoe.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Robinson Crusoe",
+          "descripcion": "Consulta la novela de Defoe para interpretar lo que le sucede, casi como un oráculo."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "collins-cuff",
@@ -86,7 +96,26 @@
         "collins-the-moonstone"
       ],
       "articulos": [],
-      "descripcion": "Investigador policial que atiende a los detalles materiales en el caso del diamante."
+      "descripcion": "Investigador policial que atiende a los detalles materiales en el caso del diamante.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Jardinería",
+          "etiqueta": "Cultivo de rosas",
+          "descripcion": "Conversa apasionadamente sobre rosas y sueña con dedicarse a cultivarlas."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Silbar melodías",
+          "descripcion": "Silba The Last Rose of Summer mientras reflexiona sobre un caso."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.gutenberg.org/cache/epub/155/pg155-images.html"
+      ]
     },
     {
       "id": "collins-marian",
@@ -106,7 +135,17 @@
         "collins-the-woman-in-white"
       ],
       "articulos": [],
-      "descripcion": "Una de las protagonistas de La dama de blanco; su inteligencia y voluntad resultan esenciales frente a los engaños."
+      "descripcion": "Una de las protagonistas de La dama de blanco; su inteligencia y voluntad resultan esenciales frente a los engaños.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Diario personal",
+          "descripcion": "Deja constancia escrita de hechos y sospechas, clave para narrar La dama de blanco."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "collins-fosco",
@@ -126,7 +165,23 @@
         "collins-the-woman-in-white"
       ],
       "articulos": [],
-      "descripcion": "Personaje de La dama de blanco de gran encanto social y capacidad de manipulación."
+      "descripcion": "Personaje de La dama de blanco de gran encanto social y capacidad de manipulación.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Arte y otras aficiones",
+          "etiqueta": "Mascotas inusuales",
+          "descripcion": "Su trato con pequeñas mascotas contribuye a su personalidad sorprendente."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Corpulencia",
+          "descripcion": "Su gran tamaño físico contrasta con sus maneras suaves y su astucia."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "collins-valeria",
@@ -146,7 +201,17 @@
         "collins-the-law-and-the-lady"
       ],
       "articulos": [],
-      "descripcion": "Mujer que investiga el pasado judicial de su marido en La ley y la dama."
+      "descripcion": "Mujer que investiga el pasado judicial de su marido en La ley y la dama.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Investigación jurídica",
+          "descripcion": "Examina documentación judicial para defender a su marido en La ley y la dama."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "collins-magdalen",
@@ -166,7 +231,11 @@
         "collins-no-name"
       ],
       "articulos": [],
-      "descripcion": "Joven de Sin nombre que busca recuperar lo que considera legítimamente suyo."
+      "descripcion": "Joven de Sin nombre que busca recuperar lo que considera legítimamente suyo.",
+      "senasIdentidad": [],
+      "nivelArchivo": "complementario",
+      "estadoSenas": "pendiente_de_documentar",
+      "notaEditorial": "Protagonista de una novela de sensación que no es centralmente investigación policial; revisar inclusión en la selección principal."
     }
   ],
   "series": [],
