@@ -74,7 +74,10 @@
         "gonzalez-ledesma-no-hay-que-morir-dos-veces"
       ],
       "articulos": [],
-      "descripcion": "Inspector veterano, desaliñado e irónico, profundamente unido a las calles de Barcelona."
+      "descripcion": "Inspector veterano, desaliñado e irónico, profundamente unido a las calles de Barcelona.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
