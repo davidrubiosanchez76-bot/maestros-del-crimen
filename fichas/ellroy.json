@@ -77,7 +77,10 @@
         "ellroy-l-a-confidential"
       ],
       "articulos": [],
-      "descripcion": "Policía marcado por la investigación del crimen de la Dalia Negra."
+      "descripcion": "Policía marcado por la investigación del crimen de la Dalia Negra.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "ellroy-bud",
@@ -99,7 +102,17 @@
         "ellroy-the-big-nowhere"
       ],
       "articulos": [],
-      "descripcion": "Policía de métodos violentos y convicciones difíciles de conciliar con la institución."
+      "descripcion": "Policía de métodos violentos y convicciones difíciles de conciliar con la institución.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Violencia policial",
+          "descripcion": "Los métodos físicos y sus contradicciones morales definen buena parte de su trayectoria."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "ellroy-lloyd",
@@ -121,7 +134,10 @@
         "ellroy-suicide-hill"
       ],
       "articulos": [],
-      "descripcion": "Detective de Los Ángeles obsesionado con el crimen y de conducta problemática."
+      "descripcion": "Detective de Los Ángeles obsesionado con el crimen y de conducta problemática.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "ellroy-exley",
@@ -143,7 +159,10 @@
         "ellroy-the-big-nowhere"
       ],
       "articulos": [],
-      "descripcion": "Policía ambicioso y calculador del universo de L. A. Confidential."
+      "descripcion": "Policía ambicioso y calculador del universo de L. A. Confidential.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "ellroy-dudley",
@@ -164,7 +183,17 @@
         "ellroy-the-cold-six-thousand"
       ],
       "articulos": [],
-      "descripcion": "Figura policial recurrente de enorme poder y moralidad turbia."
+      "descripcion": "Figura policial recurrente de enorme poder y moralidad turbia.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Poder policial oculto",
+          "descripcion": "Usa influencia y lealtades internas para mantener su posición dentro de las instituciones."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "ellroy-bondurant",
@@ -185,7 +214,10 @@
         "ellroy-the-cold-six-thousand"
       ],
       "articulos": [],
-      "descripcion": "Personaje del submundo criminal y político de la trilogía americana."
+      "descripcion": "Personaje del submundo criminal y político de la trilogía americana.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
