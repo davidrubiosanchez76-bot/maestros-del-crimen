@@ -62,7 +62,17 @@
         "dorothy-hughes-in-a-lonely-place"
       ],
       "articulos": [],
-      "descripcion": "Veterano de guerra cuya percepción de los demás domina el inquietante relato de En un lugar solitario."
+      "descripcion": "Veterano de guerra cuya percepción de los demás domina el inquietante relato de En un lugar solitario.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Doble apariencia",
+          "descripcion": "Su fachada social esconde una perspectiva amenazante de las relaciones humanas."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [],
