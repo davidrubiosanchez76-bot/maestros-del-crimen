@@ -1,0 +1,1427 @@
+{
+  "schema": 1,
+  "revision": "2026-11-20-audit-1",
+  "descripcion": "Señas de identidad y revisión editorial. Rasgos no documentados quedan vacíos, sin inventar afinidades ni diagnósticos. Datos sin spoilers.",
+  "niveles": {
+    "principal": "Protagonista o figura de especial relevancia",
+    "recurrente": "Coprotagonista o colaborador memorable",
+    "complementario": "Personaje de apoyo: conservar en archivo, reevaluar visibilidad en listado general"
+  },
+  "personajes": {
+    "marlowe": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Ajedrez",
+          "descripcion": "Recurre al ajedrez como entretenimiento solitario, asociado a su temperamento reflexivo."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Cigarrillos",
+          "descripcion": "Fuma con frecuencia, un hábito ligado a la atmósfera del detective californiano."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "poirot": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Bigote encerado",
+          "descripcion": "Su bigote cuidadosamente arreglado es una de sus señas de identidad."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Orden y simetría",
+          "descripcion": "Defiende el orden, el método y la precisión en las cosas cotidianas."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Pequeñas células grises",
+          "descripcion": "Prefiere la observación psicológica y el razonamiento antes que la acción física."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://www.agathachristie.com/en/characters/hercule-poirot"
+      ]
+    },
+    "marple": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Jardinería",
+          "etiqueta": "Jardinería",
+          "descripcion": "Cultiva su jardín en St Mary Mead y conoce bien las plantas."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Arte y otras aficiones",
+          "etiqueta": "Punto y labores",
+          "descripcion": "Tejer forma parte de la apariencia inofensiva con la que observa a sus vecinos."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Cotilleos de pueblo",
+          "descripcion": "Extrae claves sobre la conducta humana de las conversaciones y analogías de su comunidad."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://www.agathachristie.com/en/characters/miss-marple"
+      ]
+    },
+    "christie-tommy": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Investigación en pareja",
+          "descripcion": "Resuelve problemas junto a Tuppence; ambos evolucionan como matrimonio a lo largo de los libros."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "christie-tuppence": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Audacia e improvisación",
+          "descripcion": "La iniciativa de Tuppence complementa el enfoque más prudente de Tommy."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "christie-battle": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Expresión impasible",
+          "descripcion": "Su aire tranquilo y poco expresivo lleva a otros a subestimar su perspicacia."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "christie-race": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Inteligencia y viajes",
+          "descripcion": "Sus investigaciones están relacionadas con viajes y asuntos de inteligencia."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "christie-oliver": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Manzanas",
+          "descripcion": "Su afición a comer manzanas es uno de sus rasgos recurrentes."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Peinados cambiantes",
+          "descripcion": "Sus intentos de llevar el cabello arreglado producen peinados muy variables."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Intuición femenina",
+          "descripcion": "Defiende con entusiasmo sus intuiciones, a veces con resultados sorprendentes."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://www.agathachristie.com/en/news/2023/facts-about-ariadne-oliver"
+      ]
+    },
+    "christie-hastings": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Relatos en primera persona",
+          "descripcion": "Narra muchas investigaciones de Poirot desde su perspectiva, con una admiración mezclada de desconcierto."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "christie-pyne": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Consultorio de felicidad",
+          "descripcion": "Se anuncia como especialista en personas infelices; no se define como detective."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Calvicie",
+          "descripcion": "Es descrito como un hombre corpulento y con poco pelo."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://www.agathachristie.com/en/characters/parker-pyne"
+      ]
+    },
+    "christie-quin": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Apariciones inesperadas",
+          "descripcion": "Surge en momentos decisivos y orienta discretamente a Mr Satterthwaite."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Vestimenta",
+          "etiqueta": "Simbología de Arlequín",
+          "descripcion": "Su nombre y presencia remiten al personaje de la commedia dell'arte."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://www.agathachristie.com/en/characters/harley-quin"
+      ]
+    },
+    "nick": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Aparente simpleza",
+          "descripcion": "Cultiva una imagen de sheriff poco brillante que oculta otros impulsos y cálculos."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "lou-ford": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Máscara de amabilidad",
+          "descripcion": "Su cortesía provinciana oculta una personalidad mucho más perturbadora."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "doc-mccoy": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "roy-dillon": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "hammett-op": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Anonimato",
+          "descripcion": "Su nombre verdadero nunca se revela en las historias: es simplemente el agente de la Continental."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "hammett-spade": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Código personal",
+          "descripcion": "Su forma de resolver los casos obedece a una ética profesional dura y a menudo incómoda."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "hammett-nick": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Cócteles",
+          "descripcion": "Su afición a la bebida y las reuniones sociales contrasta con los detectives solitarios anteriores."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "hammett-nora": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Humor irónico",
+          "descripcion": "Su ingenio y diálogo ágil establecen una dinámica singular con Nick Charles."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "race": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Armas de fuego",
+          "descripcion": "Su disposición a ir armado y a emplear métodos expeditivos define al primer hardboiled pulp."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "daly-vee": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Composición de canciones",
+          "descripcion": "Escribe canciones como Vivian Brown, además de investigar delitos."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Doble nombre artístico",
+          "descripcion": "Es conocido como Vee Brown y por el apelativo The Crime Machine."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://www.stopyourekillingme.com/D_Authors/Daly_Carroll-John.html"
+      ]
+    },
+    "daly-satan": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Métodos implacables",
+          "descripcion": "Detective de homicidios que actúa con dureza propia del pulp criminal."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "daly-strang": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Justicia por cuenta propia",
+          "descripcion": "Este vengador actúa fuera de la investigación policial ordinaria."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "daly-terry-mack-character": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Tres pistolas",
+          "descripcion": "La imagen de Three Gun Terry se vincula al pistolero y detective de los primeros relatos hardboiled."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "daly-three-gun-terry": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Tres pistolas",
+          "descripcion": "Precursor del detective privado armado; es el mismo personaje conocido como Terry Mack."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "daly-clay-holt": {
+      "nivelArchivo": "complementario",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Detective pulp de acción",
+          "descripcion": "Detective cercano al modelo Race Williams, importante sobre todo como testimonio histórico."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "notaEditorial": "Interés histórico en relatos pulp y adaptación cinematográfica, pero con menor peso que Race Williams."
+    },
+    "daly-marty-day": {
+      "nivelArchivo": "complementario",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar",
+      "notaEditorial": "Personaje del corpus pulp con escaso material indexado; falta documentar su recorrido."
+    },
+    "collins-betteredge": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Robinson Crusoe",
+          "descripcion": "Consulta la novela de Defoe para interpretar lo que le sucede, casi como un oráculo."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "collins-cuff": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Jardinería",
+          "etiqueta": "Cultivo de rosas",
+          "descripcion": "Conversa apasionadamente sobre rosas y sueña con dedicarse a cultivarlas."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Silbar melodías",
+          "descripcion": "Silba The Last Rose of Summer mientras reflexiona sobre un caso."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/155/pg155-images.html"
+      ]
+    },
+    "collins-marian": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Diario personal",
+          "descripcion": "Deja constancia escrita de hechos y sospechas, clave para narrar La dama de blanco."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "collins-fosco": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Arte y otras aficiones",
+          "etiqueta": "Mascotas inusuales",
+          "descripcion": "Su trato con pequeñas mascotas contribuye a su personalidad sorprendente."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Corpulencia",
+          "descripcion": "Su gran tamaño físico contrasta con sus maneras suaves y su astucia."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "collins-valeria": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Investigación jurídica",
+          "descripcion": "Examina documentación judicial para defender a su marido en La ley y la dama."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "collins-magdalen": {
+      "nivelArchivo": "complementario",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar",
+      "notaEditorial": "Protagonista de una novela de sensación que no es centralmente investigación policial; revisar inclusión en la selección principal."
+    },
+    "gaboriau-lecoq": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Disfraces y vigilancia",
+          "descripcion": "Alterna la observación policial con identidades adoptadas para investigar sin ser reconocido."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "green-gryce": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "green-amelia": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Curiosidad detectivesca",
+          "descripcion": "Su posición social le permite observar a los demás e investigar con independencia."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "hume-gorby": {
+      "nivelArchivo": "complementario",
+      "rasgos": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Intuición policial",
+          "descripcion": "Sostiene una primera hipótesis en el caso del coche de punto, frente a su rival."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "notaEditorial": "Investigador importante dentro de un único caso, sin ciclo propio: mejor en archivo complementario."
+    },
+    "hume-kilsip": {
+      "nivelArchivo": "complementario",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Rivalidad profesional",
+          "descripcion": "Compite con Gorby por la interpretación de las pistas del caso del coche de punto."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "notaEditorial": "Rival profesional en una novela aislada: mejor junto al expediente de la obra."
+    },
+    "conan-doyle-holmes": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Violín",
+          "descripcion": "Toca el violín y escucha música para concentrarse o distraer su mente."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Pipa y tabaco",
+          "descripcion": "El hábito de fumar y las largas reflexiones en Baker Street son rasgos literarios."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Química y disfraces",
+          "descripcion": "Practica experimentos químicos y es experto en ocultar su identidad."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://www.gutenberg.org/ebooks/1661"
+      ]
+    },
+    "conan-doyle-watson": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Escritura de memorias",
+          "descripcion": "Narra y publica numerosas aventuras del detective."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Experiencia médica",
+          "descripcion": "Su formación y experiencia como médico militar complementan las pesquisas."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "conan-doyle-moriarty": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Matemáticas",
+          "descripcion": "Profesor de matemáticas y organizador de una red delictiva clandestina."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "conan-doyle-lestrade": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "conan-doyle-mycroft": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Diogenes Club",
+          "descripcion": "Frecuenta un club londinense famoso por sus reglas de silencio."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Deducción extraordinaria",
+          "descripcion": "Su talento intelectual rivaliza con el de su hermano Sherlock."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "conan-doyle-irene": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Canto lírico",
+          "descripcion": "Es cantante de ópera, una característica de su biografía dentro de los relatos."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "sayers-wimsey": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Piano clásico",
+          "descripcion": "Interpreta música de Bach y Scarlatti al piano."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Vinos",
+          "descripcion": "Conoce vinos y utiliza esa pericia incluso en sus razonamientos."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Libros antiguos",
+          "descripcion": "Es un coleccionista apasionado de ediciones y obras raras."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Vestimenta",
+          "etiqueta": "Monóculo",
+          "descripcion": "El monóculo forma parte de su estilo de aristócrata extravagante."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://www.stopyourekillingme.com/Characters/Wimsey_Lord-Peter.html"
+      ]
+    },
+    "sayers-vane": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Escritura policiaca",
+          "descripcion": "Es novelista de misterio y defiende su autonomía intelectual."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "sjowall-wahloo-beck": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Paciencia investigadora",
+          "descripcion": "Su método se apoya en cooperación, análisis y constancia, no en genialidades aisladas."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "sjowall-kollberg": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "sjowall-gunvald": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Métodos directos",
+          "descripcion": "Su carácter temperamental contrasta con la paciencia de Martin Beck."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "highsmith-ripley": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Clavecín",
+          "descripcion": "Toca el clavecín en su vida acomodada posterior a la primera novela."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Jardinería",
+          "etiqueta": "Jardinería",
+          "descripcion": "Cuida los jardines de su residencia francesa."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Arte y otras aficiones",
+          "etiqueta": "Arte",
+          "descripcion": "Se interesa por pintura, objetos de valor y obras artísticas."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Suplantación de identidades",
+          "descripcion": "La impostura es una conducta recurrente y esencial de sus historias."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://www.latimes.com/archives/la-xpm-1993-01-17-bk-1795-story.html"
+      ]
+    },
+    "pd-james-dalgliesh": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Poesía",
+          "descripcion": "Publica poemas y concilia la actividad literaria con la dirección de pesquisas policiales."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://pdjames.co.uk/about/"
+      ]
+    },
+    "pd-james-gray": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "ross-macdonald-archer": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Escucha paciente",
+          "descripcion": "Prefiere reconstruir vidas y heridas familiares antes que resolver conflictos mediante violencia."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "vazquez-montalban-carvalho": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Cocina gourmet",
+          "descripcion": "Cocina, visita mercados y valora las recetas y la gastronomía."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Quema de libros",
+          "descripcion": "Utiliza libros para encender su chimenea, gesto irónico recurrente."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Escepticismo",
+          "descripcion": "Su visión política y social desencantada impregna los casos."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://elpais.com/gastronomia/recetas/2017/01/18/receta/1484777325_703889.html"
+      ]
+    },
+    "vazquez-biscuter": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Cocina",
+          "descripcion": "Colabora en las comidas de Carvalho, además de ayudarlo en sus pesquisas."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://blogbiblioteques.vilanova.cat/?p=5953"
+      ]
+    },
+    "vazquez-charo": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "gonzalez-ledesma-mendez": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "gardner-mason": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Interrogatorios en sala",
+          "descripcion": "Su dominio del contrainterrogatorio judicial es el gran instrumento de sus investigaciones."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "gardner-della": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Memoria y discreción",
+          "descripcion": "Colaboradora indispensable de Mason por su conocimiento de sus casos y de la oficina."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "gardner-drake": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "gardner-cool": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Corpulencia",
+          "descripcion": "La gran envergadura física es un rasgo repetido de Bertha Cool."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Obsesión por los honorarios",
+          "descripcion": "Su sentido comercial y atención al dinero contrastan con Donald Lam."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "gardner-lam": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Ingenio de investigador",
+          "descripcion": "Compensa su escasa presencia física con recursos y razonamientos inesperados."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "maigret": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Pipa",
+          "descripcion": "La pipa es una de las imágenes más recurrentes del comisario."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Comida y bebida de taberna",
+          "descripcion": "Se interesa por los ambientes de cafés y bares y por la cocina sencilla."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Empatía e inmersión",
+          "descripcion": "Busca comprender los ambientes y a las personas antes de juzgarlas."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "simenon-madame-maigret": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Cocina casera",
+          "descripcion": "Las comidas y los cuidados domésticos son parte reconocible del hogar de los Maigret."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "simenon-lucas": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "simenon-janvier": {
+      "nivelArchivo": "complementario",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar",
+      "notaEditorial": "Colaborador policial recurrente de Maigret, pero secundario frente a Lucas y el propio comisario."
+    },
+    "mcbain-carella": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Trabajo coral de comisaría",
+          "descripcion": "Sus investigaciones muestran la cooperación cotidiana del Distrito 87."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "mcbain-meyer": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "mcbain-kling": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "mcbain-hawes": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "mcbain-ollie": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "leonard-ryan": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "leonard-folley": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "leonard-raylan": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "rasgos",
+          "tema": "Vestimenta",
+          "etiqueta": "Sombrero vaquero",
+          "descripcion": "Su atuendo de hombre de ley estadounidense forma parte de su identidad popular; confirmar en las novelas antes de usarlo como filtro."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "leonard-karen": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "himes-jones": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "himes-johnson": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "malet-burma": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Pipa",
+          "descripcion": "Fuma en pipa, parte de su imagen literaria más reconocible."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Conocimiento de París",
+          "descripcion": "Los barrios y calles de la capital francesa son esenciales para sus pesquisas."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://www.lemonde.fr/archives/article/1986/08/01/les-pas-perdus-de-nestor-burma_2921277_1819218.html"
+      ]
+    },
+    "durrenmatt-barlach": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Dilemas filosóficos",
+          "descripcion": "Recurre a la reflexión moral en su enfrentamiento con los criminales."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "mccoy-robert": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "dorothy-hughes-dix": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Doble apariencia",
+          "descripcion": "Su fachada social esconde una perspectiva amenazante de las relaciones humanas."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "woolrich-scott": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "cain-frank": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Vida errante",
+          "descripcion": "Llega al lugar del crimen sin raíces ni compromisos estables."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "cain-neff": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Seguros",
+          "descripcion": "Conoce el negocio asegurador y los puntos vulnerables de las pólizas."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "marsh-alleyn": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "marsh-troy": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Arte y otras aficiones",
+          "etiqueta": "Pintura",
+          "descripcion": "Es pintora de profesión y aporta el mundo artístico al ciclo de Alleyn."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "marsh-fox": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "marsh-bathgate": {
+      "nivelArchivo": "complementario",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Periodismo",
+          "descripcion": "Su oficio de reportero permite acercarse a investigaciones y personajes de los primeros casos."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "notaEditorial": "Periodista colaborador en los primeros casos de Alleyn; puede quedar como figura de apoyo."
+    },
+    "leroux-rouletabille": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Cabeza redonda",
+          "descripcion": "Su apodo Rouletabille alude a la forma redondeada de su cabeza."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Deducción de espacios cerrados",
+          "descripcion": "Desmonta enigmas de apariencia imposible mediante razonamiento."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "leroux-cheri": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "taibo-ii-belascoaran": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "discapacidades",
+          "tema": "Discapacidad visual",
+          "etiqueta": "Visión de un solo ojo",
+          "descripcion": "Pierde un ojo durante sus aventuras; la pérdida de visión es un rasgo explícito en las novelas."
+        },
+        {
+          "categoria": "discapacidades",
+          "tema": "Movilidad",
+          "etiqueta": "Cojera",
+          "descripcion": "Arrastra una cojera asociada a la violencia sufrida durante su actividad detectivesca."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Humor negro mexicano",
+          "descripcion": "Combina ironía y obstinación en investigaciones poco ortodoxas."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://revistas-filologicas.unam.mx/literatura-mexicana/index.php/lm/article/view/1254"
+      ]
+    },
+    "higgins-eddie": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "higgins-cogan": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "higgins-digger": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "ellroy-bucky": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "ellroy-bud": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Violencia policial",
+          "descripcion": "Los métodos físicos y sus contradicciones morales definen buena parte de su trayectoria."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "ellroy-lloyd": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "ellroy-exley": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "ellroy-dudley": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Poder policial oculto",
+          "descripcion": "Usa influencia y lealtades internas para mantener su posición dentro de las instituciones."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "ellroy-bondurant": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "paretsky-vi": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Independencia profesional",
+          "descripcion": "No separa fácilmente la investigación de sus compromisos con su comunidad."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "paretsky-lotty": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "paretsky-contreras": {
+      "nivelArchivo": "complementario",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar",
+      "notaEditorial": "Vecino recurrente y figura afectiva, pero menos definitorio del policial que Warshawski y Lotty."
+    },
+    "mosley-easy": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Red de barrio",
+          "descripcion": "Investiga apoyándose en el conocimiento cercano de la comunidad afroamericana de Los Ángeles."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "mosley-mouse": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Respuesta violenta",
+          "descripcion": "Su carácter expeditivo contrasta con el empeño de Easy Rawlins por negociar."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "mosley-fearless": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "mosley-paris": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Librería",
+          "descripcion": "Su condición de librero le da una perspectiva distinta de los investigadores tradicionales."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "mosley-mcgill": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "lecter": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Gastronomía refinada",
+          "descripcion": "Sus gustos culinarios sofisticados forman parte de una construcción deliberadamente inquietante."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Música clásica",
+          "descripcion": "Se asocia con el repertorio clásico y una sensibilidad musical cultivada."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Arte y otras aficiones",
+          "etiqueta": "Dibujo y arte",
+          "descripcion": "El dibujo y la apreciación artística destacan en su caracterización literaria."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "harris-starling": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Tenacidad investigadora",
+          "descripcion": "Destaca por su perseverancia y su preparación como agente del FBI."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "harris-graham": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Reconstrucción de conductas",
+          "descripcion": "Recrea mentalmente el comportamiento de los criminales, con un coste personal elevado."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "harris-crawford": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "quirke": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Bebida y tabaco",
+          "descripcion": "Su relación problemática con el alcohol y el tabaco forma parte de sus hábitos narrativos."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "banville-hackett": {
+      "nivelArchivo": "recurrente",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "banville-strafford": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    },
+    "carr-bencolin": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Teatralidad",
+          "descripcion": "Conduce interrogatorios y deducciones con una presencia inquietante y calculada."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada"
+    },
+    "carr-fell": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Capa y sombrero ancho",
+          "descripcion": "Su capa y sombrero característicos refuerzan su presencia excéntrica."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Corpulencia",
+          "descripcion": "Se describe como un hombre muy corpulento."
+        },
+        {
+          "categoria": "discapacidades",
+          "tema": "Movilidad",
+          "etiqueta": "Uso de bastones",
+          "descripcion": "Camina apoyándose en bastones, rasgo físico recurrente del personaje."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://en.wikipedia.org/wiki/Gideon_Fell"
+      ]
+    },
+    "carr-merrivale-personaje": {
+      "nivelArchivo": "principal",
+      "rasgos": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Calvicie y corpulencia",
+          "descripcion": "Se describe como un hombre calvo y de cuerpo ancho."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Carácter explosivo",
+          "descripcion": "Sus salidas de tono y modales poco diplomáticos contrastan con su ingenio."
+        }
+      ],
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://www.newyorker.com/magazine/1951/09/15/two-authors-in-an-attic-2"
+      ]
+    },
+    "rendell-wexford": {
+      "nivelArchivo": "principal",
+      "rasgos": [],
+      "estadoRasgos": "pendiente_de_documentar"
+    }
+  },
+  "totales": {
+    "revisados": 119,
+    "conRasgos": 77,
+    "pendientes": 42,
+    "complementarios": 8
+  }
+}
