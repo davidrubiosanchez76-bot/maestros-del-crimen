@@ -92,7 +92,17 @@
         "gardner-the-case-of-the-crooked-candle"
       ],
       "articulos": [],
-      "descripcion": "Abogado defensor que investiga con tenacidad y desafía las apariencias judiciales."
+      "descripcion": "Abogado defensor que investiga con tenacidad y desafía las apariencias judiciales.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Interrogatorios en sala",
+          "descripcion": "Su dominio del contrainterrogatorio judicial es el gran instrumento de sus investigaciones."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "gardner-della",
@@ -126,7 +136,17 @@
         "gardner-the-case-of-the-crooked-candle"
       ],
       "articulos": [],
-      "descripcion": "Secretaria y colaboradora indispensable de Mason."
+      "descripcion": "Secretaria y colaboradora indispensable de Mason.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Memoria y discreción",
+          "descripcion": "Colaboradora indispensable de Mason por su conocimiento de sus casos y de la oficina."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "gardner-drake",
@@ -160,7 +180,10 @@
         "gardner-the-case-of-the-crooked-candle"
       ],
       "articulos": [],
-      "descripcion": "Investigador privado que ayuda a Mason a conseguir información."
+      "descripcion": "Investigador privado que ayuda a Mason a conseguir información.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "gardner-cool",
@@ -182,7 +205,23 @@
         "gardner-gold-comes-in-bricks"
       ],
       "articulos": [],
-      "descripcion": "Directora de una agencia privada, de fuerte carácter y gran interés por los negocios."
+      "descripcion": "Directora de una agencia privada, de fuerte carácter y gran interés por los negocios.",
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Corpulencia",
+          "descripcion": "La gran envergadura física es un rasgo repetido de Bertha Cool."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Obsesión por los honorarios",
+          "descripcion": "Su sentido comercial y atención al dinero contrastan con Donald Lam."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "gardner-lam",
@@ -204,7 +243,17 @@
         "gardner-gold-comes-in-bricks"
       ],
       "articulos": [],
-      "descripcion": "Investigador de la agencia de Bertha Cool, ingenioso y poco convencional."
+      "descripcion": "Investigador de la agencia de Bertha Cool, ingenioso y poco convencional.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Ingenio de investigador",
+          "descripcion": "Compensa su escasa presencia física con recursos y razonamientos inesperados."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
