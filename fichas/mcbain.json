@@ -103,7 +103,17 @@
         "mcbain-fat-ollie-s-book"
       ],
       "articulos": [],
-      "descripcion": "Detective del Distrito 87, miembro destacado de un conjunto policial."
+      "descripcion": "Detective del Distrito 87, miembro destacado de un conjunto policial.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Trabajo coral de comisaría",
+          "descripcion": "Sus investigaciones muestran la cooperación cotidiana del Distrito 87."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "mcbain-meyer",
@@ -144,7 +154,10 @@
         "mcbain-fat-ollie-s-book"
       ],
       "articulos": [],
-      "descripcion": "Detective de la comisaría del Distrito 87, miembro recurrente de su equipo."
+      "descripcion": "Detective de la comisaría del Distrito 87, miembro recurrente de su equipo.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "mcbain-kling",
@@ -185,7 +198,10 @@
         "mcbain-fat-ollie-s-book"
       ],
       "articulos": [],
-      "descripcion": "Policía del Distrito 87 cuyas circunstancias personales atraviesan diversas investigaciones."
+      "descripcion": "Policía del Distrito 87 cuyas circunstancias personales atraviesan diversas investigaciones.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "mcbain-hawes",
@@ -226,7 +242,10 @@
         "mcbain-fat-ollie-s-book"
       ],
       "articulos": [],
-      "descripcion": "Detective del Distrito 87 que comparte investigaciones con Steve Carella."
+      "descripcion": "Detective del Distrito 87 que comparte investigaciones con Steve Carella.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "mcbain-ollie",
@@ -267,7 +286,10 @@
         "mcbain-fat-ollie-s-book"
       ],
       "articulos": [],
-      "descripcion": "Detective de otra comisaría, personaje recurrente de métodos y opiniones ásperas."
+      "descripcion": "Detective de otra comisaría, personaje recurrente de métodos y opiniones ásperas.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
