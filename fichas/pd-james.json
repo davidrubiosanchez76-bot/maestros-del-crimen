@@ -85,7 +85,20 @@
         "pd-james-the-private-patient"
       ],
       "articulos": [],
-      "descripcion": "Investigador de Scotland Yard y poeta, dotado de gran introspección."
+      "descripcion": "Investigador de Scotland Yard y poeta, dotado de gran introspección.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Poesía",
+          "descripcion": "Publica poemas y concilia la actividad literaria con la dirección de pesquisas policiales."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://pdjames.co.uk/about/"
+      ]
     },
     {
       "id": "pd-james-gray",
@@ -106,7 +119,10 @@
         "pd-james-the-skull-beneath-the-skin"
       ],
       "articulos": [],
-      "descripcion": "Joven detective privada que investiga con sensibilidad e independencia."
+      "descripcion": "Joven detective privada que investiga con sensibilidad e independencia.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
