@@ -66,7 +66,18 @@
         "hume-the-mystery-of-a-hansom-cab"
       ],
       "articulos": [],
-      "descripcion": "Agente que participa en la investigación del crimen del coche de punto."
+      "descripcion": "Agente que participa en la investigación del crimen del coche de punto.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Intuición policial",
+          "descripcion": "Sostiene una primera hipótesis en el caso del coche de punto, frente a su rival."
+        }
+      ],
+      "nivelArchivo": "complementario",
+      "estadoSenas": "propuesta_documentada",
+      "notaEditorial": "Investigador importante dentro de un único caso, sin ciclo propio: mejor en archivo complementario."
     },
     {
       "id": "hume-kilsip",
@@ -86,7 +97,18 @@
         "hume-the-mystery-of-a-hansom-cab"
       ],
       "articulos": [],
-      "descripcion": "Investigador del caso criminal de El misterio del coche de punto, junto a otros agentes."
+      "descripcion": "Investigador del caso criminal de El misterio del coche de punto, junto a otros agentes.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Rivalidad profesional",
+          "descripcion": "Compite con Gorby por la interpretación de las pistas del caso del coche de punto."
+        }
+      ],
+      "nivelArchivo": "complementario",
+      "estadoSenas": "propuesta_documentada",
+      "notaEditorial": "Rival profesional en una novela aislada: mejor junto al expediente de la obra."
     }
   ],
   "series": [],
