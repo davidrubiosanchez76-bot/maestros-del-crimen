@@ -67,7 +67,23 @@
         "poodle"
       ],
       "articulos": [],
-      "descripcion": "Detective privado de Los Ángeles, observador, sarcástico y tenaz, que procura conservar su integridad mientras se mueve entre criminales, policías y grandes fortunas. Es el protagonista de las siete novelas completas de Chandler y de una continuación póstuma terminada por Robert B. Parker."
+      "descripcion": "Detective privado de Los Ángeles, observador, sarcástico y tenaz, que procura conservar su integridad mientras se mueve entre criminales, policías y grandes fortunas. Es el protagonista de las siete novelas completas de Chandler y de una continuación póstuma terminada por Robert B. Parker.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Ajedrez",
+          "descripcion": "Recurre al ajedrez como entretenimiento solitario, asociado a su temperamento reflexivo."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Cigarrillos",
+          "descripcion": "Fuma con frecuencia, un hábito ligado a la atmósfera del detective californiano."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
