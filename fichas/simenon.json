@@ -123,7 +123,29 @@
         "simenon-maigret-tend-un-piege"
       ],
       "articulos": [],
-      "descripcion": "Comisario parisino que investiga atendiendo tanto a las pruebas como al ambiente humano que rodea los hechos."
+      "descripcion": "Comisario parisino que investiga atendiendo tanto a las pruebas como al ambiente humano que rodea los hechos.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Pipa",
+          "descripcion": "La pipa es una de las imágenes más recurrentes del comisario."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Comida y bebida de taberna",
+          "descripcion": "Se interesa por los ambientes de cafés y bares y por la cocina sencilla."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Empatía e inmersión",
+          "descripcion": "Busca comprender los ambientes y a las personas antes de juzgarlas."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "simenon-madame-maigret",
@@ -162,7 +184,17 @@
         "simenon-maigret-tend-un-piege"
       ],
       "articulos": [],
-      "descripcion": "Esposa del comisario Maigret y presencia fundamental en su vida cotidiana."
+      "descripcion": "Esposa del comisario Maigret y presencia fundamental en su vida cotidiana.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Cocina casera",
+          "descripcion": "Las comidas y los cuidados domésticos son parte reconocible del hogar de los Maigret."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "simenon-lucas",
@@ -201,7 +233,10 @@
         "simenon-maigret-tend-un-piege"
       ],
       "articulos": [],
-      "descripcion": "Miembro recurrente del equipo de Maigret en la Policía Judicial."
+      "descripcion": "Miembro recurrente del equipo de Maigret en la Policía Judicial.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "simenon-janvier",
@@ -240,7 +275,11 @@
         "simenon-maigret-tend-un-piege"
       ],
       "articulos": [],
-      "descripcion": "Colaborador habitual de Maigret en la investigación policial."
+      "descripcion": "Colaborador habitual de Maigret en la investigación policial.",
+      "senasIdentidad": [],
+      "nivelArchivo": "complementario",
+      "estadoSenas": "pendiente_de_documentar",
+      "notaEditorial": "Colaborador policial recurrente de Maigret, pero secundario frente a Lucas y el propio comisario."
     }
   ],
   "series": [
