@@ -64,7 +64,29 @@
         "origen"
       ],
       "articulos": [],
-      "descripcion": "Psiquiatra y figura criminal de enorme presencia literaria. Su papel cambia según la novela, sin que aquí desvelemos los giros de cada historia."
+      "descripcion": "Psiquiatra y figura criminal de enorme presencia literaria. Su papel cambia según la novela, sin que aquí desvelemos los giros de cada historia.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Gastronomía refinada",
+          "descripcion": "Sus gustos culinarios sofisticados forman parte de una construcción deliberadamente inquietante."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Música clásica",
+          "descripcion": "Se asocia con el repertorio clásico y una sensibilidad musical cultivada."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Arte y otras aficiones",
+          "etiqueta": "Dibujo y arte",
+          "descripcion": "El dibujo y la apreciación artística destacan en su caracterización literaria."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "harris-starling",
@@ -85,7 +107,17 @@
         "hannibal"
       ],
       "articulos": [],
-      "descripcion": "Agente del FBI que entrevista a Hannibal Lecter durante la investigación de un asesino serial."
+      "descripcion": "Agente del FBI que entrevista a Hannibal Lecter durante la investigación de un asesino serial.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Tenacidad investigadora",
+          "descripcion": "Destaca por su perseverancia y su preparación como agente del FBI."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "harris-graham",
@@ -105,7 +137,17 @@
         "dragon"
       ],
       "articulos": [],
-      "descripcion": "Investigador de conductas criminales con excepcional capacidad para reconstruir la mente de los asesinos."
+      "descripcion": "Investigador de conductas criminales con excepcional capacidad para reconstruir la mente de los asesinos.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Reconstrucción de conductas",
+          "descripcion": "Recrea mentalmente el comportamiento de los criminales, con un coste personal elevado."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "harris-crawford",
@@ -126,7 +168,10 @@
         "silencio"
       ],
       "articulos": [],
-      "descripcion": "Agente federal y responsable de investigaciones criminales en varias novelas del ciclo Lecter."
+      "descripcion": "Agente federal y responsable de investigaciones criminales en varias novelas del ciclo Lecter.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
