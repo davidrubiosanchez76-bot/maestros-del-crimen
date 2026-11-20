@@ -1,0 +1,82 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "bramah",
+    "nombre": "Ernest Bramah",
+    "nombreCompleto": "Ernest Bramah Smith",
+    "nacimiento": "1868",
+    "fallecimiento": "1942",
+    "origen": "Reino Unido",
+    "pais": "Reino Unido",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1934,
+    "seudonimos": [],
+    "generos": [
+      "whodunit"
+    ],
+    "imagen": "",
+    "resumen": "Creador del detective ciego Max Carrados, conocido principalmente por relatos publicados desde 1913-1914.",
+    "bio": [
+      "Ernest Bramah publicó relatos policiacos con Max Carrados desde 1913-1914, junto a sus anteriores obras satíricas de Kai Lung.",
+      "Max Carrados se distingue por investigar mediante la percepción táctil, la experiencia y otros sentidos. Su única novela completa es The Bravo of London (1934)."
+    ],
+    "apunte": "En The Coin of Dionysius, Carrados examina una moneda por el tacto. Para la cronología de debut en novela se emplea 1934, sin confundirlo con la aparición del personaje veinte años antes en relatos.",
+    "articulos": [],
+    "personajes": [
+      "bramah-max-carrados"
+    ],
+    "series": [
+      "bramah-carrados"
+    ],
+    "obras": [
+      "bramah-the-bravo-of-london"
+    ],
+    "alcanceBibliografia": "Selección inicial de novelas; no incluye las colecciones de relatos."
+  },
+  "personajes": [
+    {
+      "id": "bramah-max-carrados",
+      "nombre": "Max Carrados",
+      "autor": "bramah",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "bramah-carrados",
+      "obras": [
+        "bramah-the-bravo-of-london"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador ciego que utiliza el tacto y otros sentidos para interpretar indicios, como en el relato The Coin of Dionysius."
+    }
+  ],
+  "series": [
+    {
+      "id": "bramah-carrados",
+      "nombre": "Max Carrados",
+      "autor": "bramah",
+      "descripcion": "Ciclo principalmente de relatos de Max Carrados, más una novela de 1934."
+    }
+  ],
+  "obras": [
+    {
+      "id": "bramah-the-bravo-of-london",
+      "titulo": "The Bravo of London",
+      "original": "The Bravo of London",
+      "anio": 1934,
+      "autor": "bramah",
+      "seudonimo": "",
+      "serie": "bramah-carrados",
+      "generos": [
+        "whodunit"
+      ],
+      "sinopsis": "El investigador Max Carrados afronta una conspiración de gran alcance en la única novela extensa de su ciclo."
+    }
+  ]
+}
