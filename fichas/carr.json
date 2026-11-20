@@ -103,7 +103,17 @@
         "carr-the-four-false-weapons"
       ],
       "articulos": [],
-      "descripcion": "Comisario francés cuya inteligencia desmonta apariencias extraordinarias."
+      "descripcion": "Comisario francés cuya inteligencia desmonta apariencias extraordinarias.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Teatralidad",
+          "descripcion": "Conduce interrogatorios y deducciones con una presencia inquietante y calculada."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "carr-fell",
@@ -139,7 +149,32 @@
         "carr-in-spite-of-thunder"
       ],
       "articulos": [],
-      "descripcion": "Detective aficionado de gran erudición y especialista en imposibles."
+      "descripcion": "Detective aficionado de gran erudición y especialista en imposibles.",
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Capa y sombrero ancho",
+          "descripcion": "Su capa y sombrero característicos refuerzan su presencia excéntrica."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Corpulencia",
+          "descripcion": "Se describe como un hombre muy corpulento."
+        },
+        {
+          "categoria": "discapacidades",
+          "tema": "Movilidad",
+          "etiqueta": "Uso de bastones",
+          "descripcion": "Camina apoyándose en bastones, rasgo físico recurrente del personaje."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://en.wikipedia.org/wiki/Gideon_Fell"
+      ]
     },
     {
       "id": "carr-merrivale-personaje",
@@ -175,7 +210,26 @@
         "carr-and-so-to-murder"
       ],
       "articulos": [],
-      "descripcion": "Baronet e investigador de personalidad explosiva, protagonista de las novelas firmadas Carter Dickson."
+      "descripcion": "Baronet e investigador de personalidad explosiva, protagonista de las novelas firmadas Carter Dickson.",
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Calvicie y corpulencia",
+          "descripcion": "Se describe como un hombre calvo y de cuerpo ancho."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Carácter explosivo",
+          "descripcion": "Sus salidas de tono y modales poco diplomáticos contrastan con su ingenio."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.newyorker.com/magazine/1951/09/15/two-authors-in-an-attic-2"
+      ]
     }
   ],
   "series": [
