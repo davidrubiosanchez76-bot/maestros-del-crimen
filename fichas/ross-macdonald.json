@@ -92,7 +92,17 @@
         "ross-macdonald-the-blue-hammer"
       ],
       "articulos": [],
-      "descripcion": "Detective privado observador que rastrea crímenes escondidos en el pasado familiar."
+      "descripcion": "Detective privado observador que rastrea crímenes escondidos en el pasado familiar.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Escucha paciente",
+          "descripcion": "Prefiere reconstruir vidas y heridas familiares antes que resolver conflictos mediante violencia."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
