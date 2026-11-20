@@ -89,7 +89,10 @@
         "marsh-death-in-a-white-tie"
       ],
       "articulos": [],
-      "descripcion": "Inspector de Scotland Yard cultivado y metódico."
+      "descripcion": "Inspector de Scotland Yard cultivado y metódico.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "marsh-troy",
@@ -109,7 +112,17 @@
         "marsh-artists-in-crime"
       ],
       "articulos": [],
-      "descripcion": "Pintora que entabla una relación con Alleyn y se convierte en figura recurrente de sus novelas."
+      "descripcion": "Pintora que entabla una relación con Alleyn y se convierte en figura recurrente de sus novelas.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Arte y otras aficiones",
+          "etiqueta": "Pintura",
+          "descripcion": "Es pintora de profesión y aporta el mundo artístico al ciclo de Alleyn."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "marsh-fox",
@@ -130,7 +143,10 @@
         "marsh-artists-in-crime"
       ],
       "articulos": [],
-      "descripcion": "Miembro habitual del equipo investigador del inspector Alleyn."
+      "descripcion": "Miembro habitual del equipo investigador del inspector Alleyn.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "marsh-bathgate",
@@ -151,7 +167,18 @@
         "marsh-enter-a-murderer"
       ],
       "articulos": [],
-      "descripcion": "Periodista que acompaña a Alleyn en varias de sus primeras investigaciones."
+      "descripcion": "Periodista que acompaña a Alleyn en varias de sus primeras investigaciones.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Periodismo",
+          "descripcion": "Su oficio de reportero permite acercarse a investigaciones y personajes de los primeros casos."
+        }
+      ],
+      "nivelArchivo": "complementario",
+      "estadoSenas": "propuesta_documentada",
+      "notaEditorial": "Periodista colaborador en los primeros casos de Alleyn; puede quedar como figura de apoyo."
     }
   ],
   "series": [
