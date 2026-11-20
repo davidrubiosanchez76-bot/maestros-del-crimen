@@ -95,7 +95,17 @@
         "daly-better-corpses"
       ],
       "articulos": [],
-      "descripcion": "Investigador privado creado por Carroll John Daly, de métodos expeditivos y código personal al margen de muchas convenciones."
+      "descripcion": "Investigador privado creado por Carroll John Daly, de métodos expeditivos y código personal al margen de muchas convenciones.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Armas de fuego",
+          "descripcion": "Su disposición a ir armado y a emplear métodos expeditivos define al primer hardboiled pulp."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "daly-vee",
@@ -116,7 +126,26 @@
         "daly-emperor-of-evil"
       ],
       "articulos": [],
-      "descripcion": "También llamado Vivian Brown y «The Crime Machine»; músico y colaborador investigador de la fiscalía de Manhattan."
+      "descripcion": "También llamado Vivian Brown y «The Crime Machine»; músico y colaborador investigador de la fiscalía de Manhattan.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Composición de canciones",
+          "descripcion": "Escribe canciones como Vivian Brown, además de investigar delitos."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Doble nombre artístico",
+          "descripcion": "Es conocido como Vee Brown y por el apelativo The Crime Machine."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.stopyourekillingme.com/D_Authors/Daly_Carroll-John.html"
+      ]
     },
     {
       "id": "daly-satan",
@@ -137,7 +166,17 @@
         "daly-ready-to-burn"
       ],
       "articulos": [],
-      "descripcion": "Detective de homicidios de Nueva York, de apariencia inquietante y métodos extremadamente expeditivos."
+      "descripcion": "Detective de homicidios de Nueva York, de apariencia inquietante y métodos extremadamente expeditivos.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Métodos implacables",
+          "descripcion": "Detective de homicidios que actúa con dureza propia del pulp criminal."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "daly-strang",
@@ -158,7 +197,17 @@
         "daly-the-legion-of-our-living-dead"
       ],
       "articulos": [],
-      "descripcion": "Vengador de las historias pulp que persigue delincuentes con un código propio."
+      "descripcion": "Vengador de las historias pulp que persigue delincuentes con un código propio.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Justicia por cuenta propia",
+          "descripcion": "Este vengador actúa fuera de la investigación policial ordinaria."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "daly-terry-mack-character",
@@ -183,6 +232,19 @@
         "Three Gun Terry",
         "Three Gun Mack",
         "Terry Mack"
+      ],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Tres pistolas",
+          "descripcion": "La imagen de Three Gun Terry se vincula al pistolero y detective de los primeros relatos hardboiled."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://thrillingdetective.com/2019/08/18/three-gun-terry/"
       ]
     },
     {
@@ -201,7 +263,18 @@
       "serie": "",
       "obras": [],
       "articulos": [],
-      "descripcion": "Detective de relatos de Dime Detective, antecedente de una temprana adaptación cinematográfica de Daly."
+      "descripcion": "Detective de relatos de Dime Detective, antecedente de una temprana adaptación cinematográfica de Daly.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Detective pulp de acción",
+          "descripcion": "Detective cercano al modelo Race Williams, importante sobre todo como testimonio histórico."
+        }
+      ],
+      "nivelArchivo": "complementario",
+      "estadoSenas": "propuesta_documentada",
+      "notaEditorial": "Interés histórico en relatos pulp y adaptación cinematográfica, pero con menor peso que Race Williams."
     },
     {
       "id": "daly-marty-day",
@@ -219,7 +292,11 @@
       "serie": "",
       "obras": [],
       "articulos": [],
-      "descripcion": "Antiguo millonario arruinado convertido en vengador junto al misterioso Reckoner en relatos pulp."
+      "descripcion": "Antiguo millonario arruinado convertido en vengador junto al misterioso Reckoner en relatos pulp.",
+      "senasIdentidad": [],
+      "nivelArchivo": "complementario",
+      "estadoSenas": "pendiente_de_documentar",
+      "notaEditorial": "Personaje del corpus pulp con escaso material indexado; falta documentar su recorrido."
     }
   ],
   "series": [
