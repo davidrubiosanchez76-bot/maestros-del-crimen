@@ -78,7 +78,17 @@
         "paretsky-hard-time"
       ],
       "articulos": [],
-      "descripcion": "Detective de Chicago tenaz e independiente que investiga crimen y corrupción."
+      "descripcion": "Detective de Chicago tenaz e independiente que investiga crimen y corrupción.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Independencia profesional",
+          "descripcion": "No separa fácilmente la investigación de sus compromisos con su comunidad."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "paretsky-lotty",
@@ -96,7 +106,10 @@
       "serie": "paretsky-warshawski",
       "obras": [],
       "articulos": [],
-      "descripcion": "Médica y amiga de Warshawski, figura significativa de su círculo personal y profesional."
+      "descripcion": "Médica y amiga de Warshawski, figura significativa de su círculo personal y profesional.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "paretsky-contreras",
@@ -114,7 +127,11 @@
       "serie": "paretsky-warshawski",
       "obras": [],
       "articulos": [],
-      "descripcion": "Vecino de Warshawski y colaborador recurrente en sus asuntos cotidianos."
+      "descripcion": "Vecino de Warshawski y colaborador recurrente en sus asuntos cotidianos.",
+      "senasIdentidad": [],
+      "nivelArchivo": "complementario",
+      "estadoSenas": "pendiente_de_documentar",
+      "notaEditorial": "Vecino recurrente y figura afectiva, pero menos definitorio del policial que Warshawski y Lotty."
     }
   ],
   "series": [
