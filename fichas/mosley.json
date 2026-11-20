@@ -93,7 +93,17 @@
         "mosley-farewell-amethystine"
       ],
       "articulos": [],
-      "descripcion": "Hombre afroamericano que investiga en Los Ángeles y conoce sus comunidades desde dentro."
+      "descripcion": "Hombre afroamericano que investiga en Los Ángeles y conoce sus comunidades desde dentro.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Red de barrio",
+          "descripcion": "Investiga apoyándose en el conocimiento cercano de la comunidad afroamericana de Los Ángeles."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "mosley-mouse",
@@ -127,7 +137,17 @@
         "mosley-farewell-amethystine"
       ],
       "articulos": [],
-      "descripcion": "Amigo de Rawlins y figura recurrente cuya manera de actuar contrasta con la del protagonista."
+      "descripcion": "Amigo de Rawlins y figura recurrente cuya manera de actuar contrasta con la del protagonista.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Respuesta violenta",
+          "descripcion": "Su carácter expeditivo contrasta con el empeño de Easy Rawlins por negociar."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "mosley-fearless",
@@ -149,7 +169,10 @@
         "mosley-fear-of-the-dark"
       ],
       "articulos": [],
-      "descripcion": "Hombre valeroso cuya ayuda resulta decisiva para Paris Minton en sus problemas criminales."
+      "descripcion": "Hombre valeroso cuya ayuda resulta decisiva para Paris Minton en sus problemas criminales.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "mosley-paris",
@@ -171,7 +194,17 @@
         "mosley-fear-of-the-dark"
       ],
       "articulos": [],
-      "descripcion": "Librero que intenta sobrevivir a intrigas peligrosas con ayuda de Fearless Jones."
+      "descripcion": "Librero que intenta sobrevivir a intrigas peligrosas con ayuda de Fearless Jones.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Librería",
+          "descripcion": "Su condición de librero le da una perspectiva distinta de los investigadores tradicionales."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "mosley-mcgill",
@@ -193,7 +226,10 @@
         "mosley-when-the-thrill-is-gone"
       ],
       "articulos": [],
-      "descripcion": "Investigador de Nueva York con un pasado comprometido y voluntad de cambiar."
+      "descripcion": "Investigador de Nueva York con un pasado comprometido y voluntad de cambiar.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
