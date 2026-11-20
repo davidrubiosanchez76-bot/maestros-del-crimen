@@ -62,7 +62,17 @@
         "gaboriau-monsieur-lecoq"
       ],
       "articulos": [],
-      "descripcion": "Investigador francés metódico y observador."
+      "descripcion": "Investigador francés metódico y observador.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Disfraces y vigilancia",
+          "descripcion": "Alterna la observación policial con identidades adoptadas para investigar sin ser reconocido."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
