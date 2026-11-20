@@ -112,7 +112,10 @@
         "rendell-no-man-s-nightingale"
       ],
       "articulos": [],
-      "descripcion": "Inspector perspicaz de la policía inglesa y observador de conflictos familiares."
+      "descripcion": "Inspector perspicaz de la policía inglesa y observador de conflictos familiares.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
