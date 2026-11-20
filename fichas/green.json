@@ -70,7 +70,10 @@
         "green-the-mystery-of-the-hasty-arrow"
       ],
       "articulos": [],
-      "descripcion": "Detective paciente y detallista de la ficción estadounidense temprana."
+      "descripcion": "Detective paciente y detallista de la ficción estadounidense temprana.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "green-amelia",
@@ -91,7 +94,17 @@
         "green-lost-man-s-lane"
       ],
       "articulos": [],
-      "descripcion": "Mujer de sociedad que interviene en casos detectivescos y anticipa una tradición de investigadoras aficionadas."
+      "descripcion": "Mujer de sociedad que interviene en casos detectivescos y anticipa una tradición de investigadoras aficionadas.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Curiosidad detectivesca",
+          "descripcion": "Su posición social le permite observar a los demás e investigar con independencia."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
