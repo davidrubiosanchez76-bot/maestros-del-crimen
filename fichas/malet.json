@@ -72,7 +72,26 @@
         "malet-casse-pipe-a-la-nation"
       ],
       "articulos": [],
-      "descripcion": "Investigador parisino irónico, áspero y conocedor de la ciudad."
+      "descripcion": "Investigador parisino irónico, áspero y conocedor de la ciudad.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Pipa",
+          "descripcion": "Fuma en pipa, parte de su imagen literaria más reconocible."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Conocimiento de París",
+          "descripcion": "Los barrios y calles de la capital francesa son esenciales para sus pesquisas."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.lemonde.fr/archives/article/1986/08/01/les-pas-perdus-de-nestor-burma_2921277_1819218.html"
+      ]
     }
   ],
   "series": [
