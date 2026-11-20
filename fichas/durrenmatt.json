@@ -58,7 +58,17 @@
         "durrenmatt-der-verdacht"
       ],
       "articulos": [],
-      "descripcion": "Comisario suizo cuyo pensamiento pone a prueba la relación entre ley, justicia y azar."
+      "descripcion": "Comisario suizo cuyo pensamiento pone a prueba la relación entre ley, justicia y azar.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Dilemas filosóficos",
+          "descripcion": "Recurre a la reflexión moral en su enfrentamiento con los criminales."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
