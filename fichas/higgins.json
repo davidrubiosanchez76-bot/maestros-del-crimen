@@ -62,7 +62,10 @@
         "higgins-the-friends-of-eddie-coyle"
       ],
       "articulos": [],
-      "descripcion": "Delincuente de poca monta atrapado entre la necesidad de negociar y la desconfianza general."
+      "descripcion": "Delincuente de poca monta atrapado entre la necesidad de negociar y la desconfianza general.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "higgins-cogan",
@@ -82,7 +85,10 @@
         "higgins-cogan-s-trade"
       ],
       "articulos": [],
-      "descripcion": "Profesional del hampa enviado a resolver un problema de dinero y disciplina criminal."
+      "descripcion": "Profesional del hampa enviado a resolver un problema de dinero y disciplina criminal.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "higgins-digger",
@@ -102,7 +108,10 @@
         "higgins-the-digger-s-game"
       ],
       "articulos": [],
-      "descripcion": "Protagonista de The Digger's Game, vinculado a negocios y apuestas del ambiente criminal de Boston."
+      "descripcion": "Protagonista de The Digger's Game, vinculado a negocios y apuestas del ambiente criminal de Boston.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [],
