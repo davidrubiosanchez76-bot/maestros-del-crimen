@@ -71,7 +71,10 @@
         "leonard-the-big-bounce"
       ],
       "articulos": [],
-      "descripcion": "Exjugador de béisbol y protagonista de The Big Bounce."
+      "descripcion": "Exjugador de béisbol y protagonista de The Big Bounce.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "leonard-folley",
@@ -91,7 +94,10 @@
         "leonard-out-of-sight"
       ],
       "articulos": [],
-      "descripcion": "Atracador de bancos protagonista de Out of Sight."
+      "descripcion": "Atracador de bancos protagonista de Out of Sight.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "leonard-raylan",
@@ -112,7 +118,10 @@
         "leonard-riding-the-rap"
       ],
       "articulos": [],
-      "descripcion": "Agente federal de métodos directos y protagonista de varias novelas y relatos de Leonard."
+      "descripcion": "Agente federal de métodos directos y protagonista de varias novelas y relatos de Leonard.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "leonard-karen",
@@ -132,7 +141,10 @@
         "leonard-out-of-sight"
       ],
       "articulos": [],
-      "descripcion": "Agente federal que se cruza con Jack Foley en Out of Sight."
+      "descripcion": "Agente federal que se cruza con Jack Foley en Out of Sight.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [],
