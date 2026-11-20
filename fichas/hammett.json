@@ -64,7 +64,17 @@
         "hammett-the-dain-curse"
       ],
       "articulos": [],
-      "descripcion": "Investigador profesional anónimo habituado a casos violentos."
+      "descripcion": "Investigador profesional anónimo habituado a casos violentos.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Anonimato",
+          "descripcion": "Su nombre verdadero nunca se revela en las historias: es simplemente el agente de la Continental."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "hammett-spade",
@@ -84,7 +94,17 @@
         "hammett-the-maltese-falcon"
       ],
       "articulos": [],
-      "descripcion": "Detective privado de San Francisco; independiente y reservado."
+      "descripcion": "Detective privado de San Francisco; independiente y reservado.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Código personal",
+          "descripcion": "Su forma de resolver los casos obedece a una ética profesional dura y a menudo incómoda."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "hammett-nick",
@@ -104,7 +124,17 @@
         "hammett-the-thin-man"
       ],
       "articulos": [],
-      "descripcion": "Exdetective que vuelve a investigar acompañado de su esposa."
+      "descripcion": "Exdetective que vuelve a investigar acompañado de su esposa.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Cócteles",
+          "descripcion": "Su afición a la bebida y las reuniones sociales contrasta con los detectives solitarios anteriores."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "hammett-nora",
@@ -124,7 +154,17 @@
         "hammett-the-thin-man"
       ],
       "articulos": [],
-      "descripcion": "Compañera de Nick, ingeniosa y decisiva para la dinámica de la historia."
+      "descripcion": "Compañera de Nick, ingeniosa y decisiva para la dinámica de la historia.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Humor irónico",
+          "descripcion": "Su ingenio y diálogo ágil establecen una dinámica singular con Nick Charles."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
