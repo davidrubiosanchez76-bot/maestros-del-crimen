@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-20-correccion-terry-mack",
+  "version": "2026-11-20-senas-41-autores",
   "descripcion": "MAESTROS DEL CRIMEN · Balas y Estrellas · algunas bibliografías son selecciones iniciales que se ampliarán progresivamente.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -41,7 +41,9 @@
     "malet": "fichas/malet.json",
     "durrenmatt": "fichas/durrenmatt.json",
     "leonard": "fichas/leonard.json",
-    "gonzalez-ledesma": "fichas/gonzalez-ledesma.json"
+    "gonzalez-ledesma": "fichas/gonzalez-ledesma.json",
+    "stout": "fichas/stout.json",
+    "bramah": "fichas/bramah.json"
   },
   "autores": [
     {
@@ -1917,6 +1919,70 @@
         "gonzalez-ledesma-no-hay-que-morir-dos-veces"
       ],
       "debutPorVerificar": true
+    },
+    {
+      "id": "stout",
+      "nombre": "Rex Stout",
+      "nombreCompleto": "Rex Todhunter Stout",
+      "nacimiento": "1886",
+      "fallecimiento": "1975",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1934,
+      "seudonimos": [],
+      "generos": [
+        "whodunit",
+        "hardboiled"
+      ],
+      "imagen": "",
+      "resumen": "Creador del detective sedentario Nero Wolfe y de su colaborador Archie Goodwin.",
+      "articulos": [],
+      "personajes": [
+        "stout-nero-wolfe",
+        "stout-archie-goodwin"
+      ],
+      "series": [
+        "stout-wolfe"
+      ],
+      "obras": [
+        "stout-fer-de-lance",
+        "stout-the-league-of-frightened-men",
+        "stout-the-rubber-band",
+        "stout-too-many-cooks",
+        "stout-the-doorbell-rang"
+      ],
+      "alcanceBibliografia": "Selección inicial de novelas; no incluye las colecciones de relatos."
+    },
+    {
+      "id": "bramah",
+      "nombre": "Ernest Bramah",
+      "nombreCompleto": "Ernest Bramah Smith",
+      "nacimiento": "1868",
+      "fallecimiento": "1942",
+      "origen": "Reino Unido",
+      "pais": "Reino Unido",
+      "lugar": "",
+      "fin": "",
+      "debutNegro": 1934,
+      "seudonimos": [],
+      "generos": [
+        "whodunit"
+      ],
+      "imagen": "",
+      "resumen": "Creador del detective ciego Max Carrados, conocido principalmente por relatos publicados desde 1913-1914.",
+      "articulos": [],
+      "personajes": [
+        "bramah-max-carrados"
+      ],
+      "series": [
+        "bramah-carrados"
+      ],
+      "obras": [
+        "bramah-the-bravo-of-london"
+      ],
+      "alcanceBibliografia": "Selección inicial de novelas; no incluye las colecciones de relatos."
     }
   ],
   "personajes": [
@@ -4764,6 +4830,71 @@
         "rendell-no-man-s-nightingale"
       ],
       "articulos": []
+    },
+    {
+      "id": "stout-nero-wolfe",
+      "nombre": "Nero Wolfe",
+      "autor": "stout",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "stout-wolfe",
+      "obras": [
+        "stout-fer-de-lance",
+        "stout-the-league-of-frightened-men",
+        "stout-the-rubber-band",
+        "stout-too-many-cooks",
+        "stout-the-doorbell-rang"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "stout-archie-goodwin",
+      "nombre": "Archie Goodwin",
+      "autor": "stout",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "stout-wolfe",
+      "obras": [
+        "stout-fer-de-lance",
+        "stout-the-league-of-frightened-men",
+        "stout-the-rubber-band",
+        "stout-too-many-cooks",
+        "stout-the-doorbell-rang"
+      ],
+      "articulos": []
+    },
+    {
+      "id": "bramah-max-carrados",
+      "nombre": "Max Carrados",
+      "autor": "bramah",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Investigador aficionado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "bramah-carrados",
+      "obras": [
+        "bramah-the-bravo-of-london"
+      ],
+      "articulos": []
     }
   ],
   "series": [
@@ -5066,6 +5197,18 @@
       "nombre": "Sir Henry Merrivale",
       "autor": "carr",
       "descripcion": "Novelas de Sir Henry Merrivale, publicadas por Carr como Carter Dickson."
+    },
+    {
+      "id": "stout-wolfe",
+      "nombre": "Nero Wolfe",
+      "autor": "stout",
+      "descripcion": "Investigaciones de Nero Wolfe y Archie Goodwin."
+    },
+    {
+      "id": "bramah-carrados",
+      "nombre": "Max Carrados",
+      "autor": "bramah",
+      "descripcion": "Ciclo principalmente de relatos de Max Carrados, más una novela de 1934."
     }
   ],
   "obras": [
@@ -12970,6 +13113,83 @@
         "whodunit",
         "psychological thriller"
       ]
+    },
+    {
+      "id": "stout-fer-de-lance",
+      "titulo": "Fer-de-Lance",
+      "original": "Fer-de-Lance",
+      "anio": 1934,
+      "autor": "stout",
+      "seudonimo": "",
+      "serie": "stout-wolfe",
+      "generos": [
+        "whodunit",
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "stout-the-league-of-frightened-men",
+      "titulo": "The League of Frightened Men",
+      "original": "The League of Frightened Men",
+      "anio": 1935,
+      "autor": "stout",
+      "seudonimo": "",
+      "serie": "stout-wolfe",
+      "generos": [
+        "whodunit",
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "stout-the-rubber-band",
+      "titulo": "The Rubber Band",
+      "original": "The Rubber Band",
+      "anio": 1936,
+      "autor": "stout",
+      "seudonimo": "",
+      "serie": "stout-wolfe",
+      "generos": [
+        "whodunit",
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "stout-too-many-cooks",
+      "titulo": "Too Many Cooks",
+      "original": "Too Many Cooks",
+      "anio": 1938,
+      "autor": "stout",
+      "seudonimo": "",
+      "serie": "stout-wolfe",
+      "generos": [
+        "whodunit",
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "stout-the-doorbell-rang",
+      "titulo": "The Doorbell Rang",
+      "original": "The Doorbell Rang",
+      "anio": 1965,
+      "autor": "stout",
+      "seudonimo": "",
+      "serie": "stout-wolfe",
+      "generos": [
+        "whodunit",
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "bramah-the-bravo-of-london",
+      "titulo": "The Bravo of London",
+      "original": "The Bravo of London",
+      "anio": 1934,
+      "autor": "bramah",
+      "seudonimo": "",
+      "serie": "bramah-carrados",
+      "generos": [
+        "whodunit"
+      ]
     }
   ],
   "destacados": {
@@ -13167,12 +13387,20 @@
       "gonzalez-ledesma-expediente-barcelona",
       "gonzalez-ledesma-cronica-sentimental-en-rojo",
       "gonzalez-ledesma-una-novela-de-barrio"
+    ],
+    "stout": [
+      "stout-fer-de-lance",
+      "stout-the-league-of-frightened-men",
+      "stout-the-rubber-band"
+    ],
+    "bramah": [
+      "bramah-the-bravo-of-london"
     ]
   },
   "totales": {
-    "autores": 39,
-    "personajes": 118,
-    "series": 50,
-    "obras": 632
+    "autores": 41,
+    "personajes": 121,
+    "series": 52,
+    "obras": 638
   }
 }
