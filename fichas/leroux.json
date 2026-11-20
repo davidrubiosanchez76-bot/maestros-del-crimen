@@ -69,7 +69,23 @@
         "leroux-rouletabille-chez-les-bohemiens"
       ],
       "articulos": [],
-      "descripcion": "Joven reportero cuya investigación une razonamiento y trabajo de campo."
+      "descripcion": "Joven reportero cuya investigación une razonamiento y trabajo de campo.",
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Cabeza redonda",
+          "descripcion": "Su apodo Rouletabille alude a la forma redondeada de su cabeza."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Deducción de espacios cerrados",
+          "descripcion": "Desmonta enigmas de apariencia imposible mediante razonamiento."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "leroux-cheri",
@@ -89,7 +105,10 @@
         "leroux-les-premieres-aventures-de-cheri-bibi"
       ],
       "articulos": [],
-      "descripcion": "Presidiario y fugitivo de un ciclo de novelas populares de Leroux."
+      "descripcion": "Presidiario y fugitivo de un ciclo de novelas populares de Leroux.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
