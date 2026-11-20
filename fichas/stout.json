@@ -63,7 +63,46 @@
         "stout-the-doorbell-rang"
       ],
       "articulos": [],
-      "descripcion": "Detective sedentario y corpulento apasionado por la cerveza, la alta cocina y el cultivo de orquídeas."
+      "descripcion": "Detective sedentario y corpulento apasionado por la cerveza, la alta cocina y el cultivo de orquídeas.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Alta cocina",
+          "descripcion": "Disfruta con los platos elaborados por Fritz Brenner y sigue horarios estrictos de comidas."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Cerveza",
+          "descripcion": "Bebe cerveza de forma habitual, como parte de sus rutinas cotidianas."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Jardinería",
+          "etiqueta": "Orquídeas",
+          "descripcion": "Dedica varias horas diarias a sus plantas en el invernadero de la azotea."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Corpulencia",
+          "descripcion": "Su gran envergadura física es un rasgo recurrente en los libros."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Evitar salir de casa",
+          "descripcion": "Prefiere delegar las visitas y pesquisas exteriores en Archie Goodwin."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.nerowolfe.org/htm/tidbits/food.htm",
+        "https://www.nerowolfe.org/htm/tidbits/orchids.htm",
+        "https://www.penguinrandomhouse.com/books/174297/fer-de-lancethe-league-of-frightened-men-by-rex-stout/"
+      ]
     },
     {
       "id": "stout-archie-goodwin",
@@ -87,7 +126,26 @@
         "stout-the-doorbell-rang"
       ],
       "articulos": [],
-      "descripcion": "Investigador de campo y narrador habitual de las aventuras de Wolfe."
+      "descripcion": "Investigador de campo y narrador habitual de las aventuras de Wolfe.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Narrador irónico",
+          "descripcion": "Su humor y su voz en primera persona cuentan las peculiaridades de Wolfe."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Trabajo de campo",
+          "descripcion": "Realiza entrevistas, seguimientos y desplazamientos que Wolfe prefiere evitar."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.stopyourekillingme.com/S_Authors/Stout_Rex.html"
+      ]
     }
   ],
   "series": [
