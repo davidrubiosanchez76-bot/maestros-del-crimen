@@ -35,7 +35,6 @@
       "daly-satan",
       "daly-strang",
       "daly-terry-mack-character",
-      "daly-three-gun-terry",
       "daly-clay-holt",
       "daly-marty-day"
     ],
@@ -163,7 +162,7 @@
     },
     {
       "id": "daly-terry-mack-character",
-      "nombre": "Terry Mack",
+      "nombre": "Three Gun Terry (Terry Mack)",
       "autor": "daly",
       "ocupacion": "Detective privado",
       "ocupacionDetalle": "Detective privado",
@@ -179,25 +178,12 @@
         "daly-the-man-in-the-shadows"
       ],
       "articulos": [],
-      "descripcion": "Investigador protagonista de relatos y de The Man in the Shadows."
-    },
-    {
-      "id": "daly-three-gun-terry",
-      "nombre": "Three Gun Terry",
-      "autor": "daly",
-      "ocupacion": "Detective privado",
-      "ocupacionDetalle": "Detective privado",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Antihéroe"
-      ],
-      "serie": "",
-      "obras": [],
-      "articulos": [],
-      "descripcion": "Protagonista temprano de los relatos de Black Mask y precursor de Race Williams."
+      "descripcion": "Investigador armado que aparece en el relato de 1923 Three Gun Terry, antecedente inmediato de Race Williams. También conocido como Terry Mack y Three Gun Mack. Es una sola figura literaria, no tres detectives distintos.",
+      "aliases": [
+        "Three Gun Terry",
+        "Three Gun Mack",
+        "Terry Mack"
+      ]
     },
     {
       "id": "daly-clay-holt",
