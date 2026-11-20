@@ -66,7 +66,10 @@
         "woolrich-phantom-lady"
       ],
       "articulos": [],
-      "descripcion": "Hombre que necesita encontrar a una testigo inalcanzable para defenderse de una acusación."
+      "descripcion": "Hombre que necesita encontrar a una testigo inalcanzable para defenderse de una acusación.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [],
