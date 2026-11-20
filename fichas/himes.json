@@ -70,7 +70,10 @@
         "himes-plan-b"
       ],
       "articulos": [],
-      "descripcion": "Policía de Harlem cuya dureza convive con su conocimiento del barrio."
+      "descripcion": "Policía de Harlem cuya dureza convive con su conocimiento del barrio.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "himes-johnson",
@@ -97,7 +100,10 @@
         "himes-plan-b"
       ],
       "articulos": [],
-      "descripcion": "Compañero de Jones, célebre por su carácter y por la violencia del ambiente en que trabaja."
+      "descripcion": "Compañero de Jones, célebre por su carácter y por la violencia del ambiente en que trabaja.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
