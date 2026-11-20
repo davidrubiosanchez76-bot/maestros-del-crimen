@@ -56,7 +56,10 @@
         "mccoy-they-shoot-horses-don-t-they"
       ],
       "articulos": [],
-      "descripcion": "Joven inmerso en la explotación de los maratones de baile de la Gran Depresión."
+      "descripcion": "Joven inmerso en la explotación de los maratones de baile de la Gran Depresión.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [],
