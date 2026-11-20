@@ -358,19 +358,10 @@
           "descripcion": "La imagen de Three Gun Terry se vincula al pistolero y detective de los primeros relatos hardboiled."
         }
       ],
-      "estadoRasgos": "propuesta_documentada"
-    },
-    "daly-three-gun-terry": {
-      "nivelArchivo": "principal",
-      "rasgos": [
-        {
-          "categoria": "manias",
-          "tema": "Manías y costumbres",
-          "etiqueta": "Tres pistolas",
-          "descripcion": "Precursor del detective privado armado; es el mismo personaje conocido como Terry Mack."
-        }
-      ],
-      "estadoRasgos": "propuesta_documentada"
+      "estadoRasgos": "propuesta_documentada",
+      "fuentes": [
+        "https://thrillingdetective.com/2019/08/18/three-gun-terry/"
+      ]
     },
     "daly-clay-holt": {
       "nivelArchivo": "complementario",
@@ -960,15 +951,8 @@
     },
     "leonard-raylan": {
       "nivelArchivo": "principal",
-      "rasgos": [
-        {
-          "categoria": "rasgos",
-          "tema": "Vestimenta",
-          "etiqueta": "Sombrero vaquero",
-          "descripcion": "Su atuendo de hombre de ley estadounidense forma parte de su identidad popular; confirmar en las novelas antes de usarlo como filtro."
-        }
-      ],
-      "estadoRasgos": "propuesta_documentada"
+      "estadoRasgos": "pendiente_de_documentar",
+      "rasgos": []
     },
     "leonard-karen": {
       "nivelArchivo": "recurrente",
@@ -1419,8 +1403,8 @@
     }
   },
   "totales": {
-    "revisados": 119,
-    "conRasgos": 77,
+    "revisados": 118,
+    "conRasgos": 76,
     "pendientes": 42,
     "complementarios": 8
   }
