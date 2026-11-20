@@ -68,7 +68,38 @@
         "sayers-gaudy-night"
       ],
       "articulos": [],
-      "descripcion": "Aristócrata perspicaz, de brillante inteligencia y sentido del humor."
+      "descripcion": "Aristócrata perspicaz, de brillante inteligencia y sentido del humor.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Piano clásico",
+          "descripcion": "Interpreta música de Bach y Scarlatti al piano."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Vinos",
+          "descripcion": "Conoce vinos y utiliza esa pericia incluso en sus razonamientos."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Libros antiguos",
+          "descripcion": "Es un coleccionista apasionado de ediciones y obras raras."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Vestimenta",
+          "etiqueta": "Monóculo",
+          "descripcion": "El monóculo forma parte de su estilo de aristócrata extravagante."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.stopyourekillingme.com/Characters/Wimsey_Lord-Peter.html"
+      ]
     },
     {
       "id": "sayers-vane",
@@ -91,7 +122,17 @@
         "sayers-clouds-of-witness"
       ],
       "articulos": [],
-      "descripcion": "Novelista de misterio independiente y colaboradora en investigaciones."
+      "descripcion": "Novelista de misterio independiente y colaboradora en investigaciones.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Escritura policiaca",
+          "descripcion": "Es novelista de misterio y defiende su autonomía intelectual."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
