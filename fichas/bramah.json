@@ -53,7 +53,33 @@
         "bramah-the-bravo-of-london"
       ],
       "articulos": [],
-      "descripcion": "Investigador ciego que utiliza el tacto y otros sentidos para interpretar indicios, como en el relato The Coin of Dionysius."
+      "descripcion": "Investigador ciego que utiliza el tacto y otros sentidos para interpretar indicios, como en el relato The Coin of Dionysius.",
+      "senasIdentidad": [
+        {
+          "categoria": "discapacidades",
+          "tema": "Discapacidad visual",
+          "etiqueta": "Ceguera",
+          "descripcion": "Es un detective ciego; la ficción presenta sus investigaciones sin reducir su identidad a esta condición."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Percepción táctil",
+          "descripcion": "Utiliza el tacto para examinar monedas y otros indicios, como en The Coin of Dionysius."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Coleccionismo",
+          "etiqueta": "Numismática",
+          "descripcion": "Su conocimiento de las monedas antiguas es significativo en algunas investigaciones."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.ebsco.com/research-starters/literature-and-writing/ernest-bramah",
+        "https://www.gutenberg.org/cache/epub/34732/pg34732-images.html"
+      ]
     }
   ],
   "series": [
