@@ -64,7 +64,32 @@
         "conan-doyle-the-valley-of-fear"
       ],
       "articulos": [],
-      "descripcion": "Detective consultor de Baker Street célebre por la observación y la deducción."
+      "descripcion": "Detective consultor de Baker Street célebre por la observación y la deducción.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Violín",
+          "descripcion": "Toca el violín y escucha música para concentrarse o distraer su mente."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Pipa y tabaco",
+          "descripcion": "El hábito de fumar y las largas reflexiones en Baker Street son rasgos literarios."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Química y disfraces",
+          "descripcion": "Practica experimentos químicos y es experto en ocultar su identidad."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.gutenberg.org/ebooks/1661"
+      ]
     },
     {
       "id": "conan-doyle-watson",
@@ -87,7 +112,23 @@
         "conan-doyle-the-valley-of-fear"
       ],
       "articulos": [],
-      "descripcion": "Médico, compañero y narrador de buena parte de las investigaciones de Holmes."
+      "descripcion": "Médico, compañero y narrador de buena parte de las investigaciones de Holmes.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Escritura de memorias",
+          "descripcion": "Narra y publica numerosas aventuras del detective."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Experiencia médica",
+          "descripcion": "Su formación y experiencia como médico militar complementan las pesquisas."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "conan-doyle-moriarty",
@@ -107,7 +148,17 @@
         "conan-doyle-the-valley-of-fear"
       ],
       "articulos": [],
-      "descripcion": "Adversario de Holmes y figura clave de su mitología, principalmente en relatos."
+      "descripcion": "Adversario de Holmes y figura clave de su mitología, principalmente en relatos.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Matemáticas",
+          "descripcion": "Profesor de matemáticas y organizador de una red delictiva clandestina."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "conan-doyle-lestrade",
@@ -128,7 +179,10 @@
         "conan-doyle-the-hound-of-the-baskervilles"
       ],
       "articulos": [],
-      "descripcion": "Inspector de Scotland Yard que reaparece en múltiples aventuras de Holmes."
+      "descripcion": "Inspector de Scotland Yard que reaparece en múltiples aventuras de Holmes.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "conan-doyle-mycroft",
@@ -146,7 +200,23 @@
       "serie": "",
       "obras": [],
       "articulos": [],
-      "descripcion": "Hermano de Sherlock Holmes, de extraordinaria capacidad intelectual y vínculos con el Estado; protagonismo principalmente en relatos."
+      "descripcion": "Hermano de Sherlock Holmes, de extraordinaria capacidad intelectual y vínculos con el Estado; protagonismo principalmente en relatos.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Diogenes Club",
+          "descripcion": "Frecuenta un club londinense famoso por sus reglas de silencio."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Deducción extraordinaria",
+          "descripcion": "Su talento intelectual rivaliza con el de su hermano Sherlock."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "conan-doyle-irene",
@@ -164,7 +234,17 @@
       "serie": "",
       "obras": [],
       "articulos": [],
-      "descripcion": "Cantante y figura memorable de Un escándalo en Bohemia, relato de Sherlock Holmes."
+      "descripcion": "Cantante y figura memorable de Un escándalo en Bohemia, relato de Sherlock Holmes.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Canto lírico",
+          "descripcion": "Es cantante de ópera, una característica de su biografía dentro de los relatos."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
