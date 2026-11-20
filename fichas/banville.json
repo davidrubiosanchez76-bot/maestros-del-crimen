@@ -75,7 +75,17 @@
         "banville-even-the-dead"
       ],
       "articulos": [],
-      "descripcion": "Patólogo dublinés cuya curiosidad por ciertas muertes lo conduce a investigaciones y secretos familiares."
+      "descripcion": "Patólogo dublinés cuya curiosidad por ciertas muertes lo conduce a investigaciones y secretos familiares.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Bebida y tabaco",
+          "descripcion": "Su relación problemática con el alcohol y el tabaco forma parte de sus hábitos narrativos."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "banville-hackett",
@@ -101,7 +111,10 @@
         "banville-even-the-dead"
       ],
       "articulos": [],
-      "descripcion": "Inspector de la Garda que colabora con Quirke en varios de sus casos."
+      "descripcion": "Inspector de la Garda que colabora con Quirke en varios de sus casos.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "banville-strafford",
@@ -124,7 +137,10 @@
         "banville-the-drowned"
       ],
       "articulos": [],
-      "descripcion": "Inspector irlandés que investiga crímenes dentro de ambientes sociales reservados."
+      "descripcion": "Inspector irlandés que investiga crímenes dentro de ambientes sociales reservados.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
