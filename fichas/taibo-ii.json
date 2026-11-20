@@ -72,7 +72,32 @@
         "taibo-ii-ya-no-hay-balas"
       ],
       "articulos": [],
-      "descripcion": "Detective mexicano marcado por la ironía y los conflictos de su ciudad."
+      "descripcion": "Detective mexicano marcado por la ironía y los conflictos de su ciudad.",
+      "senasIdentidad": [
+        {
+          "categoria": "discapacidades",
+          "tema": "Discapacidad visual",
+          "etiqueta": "Visión de un solo ojo",
+          "descripcion": "Pierde un ojo durante sus aventuras; la pérdida de visión es un rasgo explícito en las novelas."
+        },
+        {
+          "categoria": "discapacidades",
+          "tema": "Movilidad",
+          "etiqueta": "Cojera",
+          "descripcion": "Arrastra una cojera asociada a la violencia sufrida durante su actividad detectivesca."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Humor negro mexicano",
+          "descripcion": "Combina ironía y obstinación en investigaciones poco ortodoxas."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://revistas-filologicas.unam.mx/literatura-mexicana/index.php/lm/article/view/1254"
+      ]
     }
   ],
   "series": [
