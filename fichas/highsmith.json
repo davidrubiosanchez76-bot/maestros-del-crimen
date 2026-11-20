@@ -75,7 +75,38 @@
         "highsmith-ripley-under-water"
       ],
       "articulos": [],
-      "descripcion": "Personaje seductor y amoral que se mueve entre impostura, deseo de ascenso y crimen."
+      "descripcion": "Personaje seductor y amoral que se mueve entre impostura, deseo de ascenso y crimen.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Clavecín",
+          "descripcion": "Toca el clavecín en su vida acomodada posterior a la primera novela."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Jardinería",
+          "etiqueta": "Jardinería",
+          "descripcion": "Cuida los jardines de su residencia francesa."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Arte y otras aficiones",
+          "etiqueta": "Arte",
+          "descripcion": "Se interesa por pintura, objetos de valor y obras artísticas."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Suplantación de identidades",
+          "descripcion": "La impostura es una conducta recurrente y esencial de sus historias."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.latimes.com/archives/la-xpm-1993-01-17-bk-1795-story.html"
+      ]
     }
   ],
   "series": [
