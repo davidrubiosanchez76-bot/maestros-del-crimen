@@ -85,7 +85,17 @@
         "1280"
       ],
       "articulos": [],
-      "descripcion": "Sheriff del condado de Potts en 1280 almas, narrador aparentemente ingenuo, manipulador y ambiguo."
+      "descripcion": "Sheriff del condado de Potts en 1280 almas, narrador aparentemente ingenuo, manipulador y ambiguo.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Aparente simpleza",
+          "descripcion": "Cultiva una imagen de sheriff poco brillante que oculta otros impulsos y cálculos."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "lou-ford",
@@ -107,7 +117,17 @@
         "ciudad"
       ],
       "articulos": [],
-      "descripcion": "Ayudante de sheriff de Texas y narrador de El asesino dentro de mí. También aparece en Ciudad violenta."
+      "descripcion": "Ayudante de sheriff de Texas y narrador de El asesino dentro de mí. También aparece en Ciudad violenta.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Máscara de amabilidad",
+          "descripcion": "Su cortesía provinciana oculta una personalidad mucho más perturbadora."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "doc-mccoy",
@@ -127,7 +147,10 @@
         "huida"
       ],
       "articulos": [],
-      "descripcion": "Delincuente que, junto a Carol McCoy, intenta escapar tras un golpe en La huida."
+      "descripcion": "Delincuente que, junto a Carol McCoy, intenta escapar tras un golpe en La huida.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "roy-dillon",
@@ -147,7 +170,10 @@
         "timadores"
       ],
       "articulos": [],
-      "descripcion": "Joven estafador protagonista de Los timadores, atrapado en complicadas relaciones personales."
+      "descripcion": "Joven estafador protagonista de Los timadores, atrapado en complicadas relaciones personales.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [],
