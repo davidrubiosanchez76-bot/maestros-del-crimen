@@ -1,0 +1,173 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "stout",
+    "nombre": "Rex Stout",
+    "nombreCompleto": "Rex Todhunter Stout",
+    "nacimiento": "1886",
+    "fallecimiento": "1975",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "",
+    "fin": "",
+    "debutNegro": 1934,
+    "seudonimos": [],
+    "generos": [
+      "whodunit",
+      "hardboiled"
+    ],
+    "imagen": "",
+    "resumen": "Creador del detective sedentario Nero Wolfe y de su colaborador Archie Goodwin.",
+    "bio": [
+      "Escritor estadounidense que publicó ficción de varios géneros antes del debut de Nero Wolfe en Fer-de-Lance (1934).",
+      "Las investigaciones combinan el enigma deductivo con el trabajo de calle de Archie Goodwin. Wolfe resuelve desde su casa neoyorquina, entre orquídeas, gastronomía y cerveza."
+    ],
+    "apunte": "El extravagante horario de cuidado de las orquídeas y las comidas preparadas por Fritz son una parte estructural de la vida de Wolfe.",
+    "articulos": [],
+    "personajes": [
+      "stout-nero-wolfe",
+      "stout-archie-goodwin"
+    ],
+    "series": [
+      "stout-wolfe"
+    ],
+    "obras": [
+      "stout-fer-de-lance",
+      "stout-the-league-of-frightened-men",
+      "stout-the-rubber-band",
+      "stout-too-many-cooks",
+      "stout-the-doorbell-rang"
+    ],
+    "alcanceBibliografia": "Selección inicial de novelas; no incluye las colecciones de relatos."
+  },
+  "personajes": [
+    {
+      "id": "stout-nero-wolfe",
+      "nombre": "Nero Wolfe",
+      "autor": "stout",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "stout-wolfe",
+      "obras": [
+        "stout-fer-de-lance",
+        "stout-the-league-of-frightened-men",
+        "stout-the-rubber-band",
+        "stout-too-many-cooks",
+        "stout-the-doorbell-rang"
+      ],
+      "articulos": [],
+      "descripcion": "Detective sedentario y corpulento apasionado por la cerveza, la alta cocina y el cultivo de orquídeas."
+    },
+    {
+      "id": "stout-archie-goodwin",
+      "nombre": "Archie Goodwin",
+      "autor": "stout",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "stout-wolfe",
+      "obras": [
+        "stout-fer-de-lance",
+        "stout-the-league-of-frightened-men",
+        "stout-the-rubber-band",
+        "stout-too-many-cooks",
+        "stout-the-doorbell-rang"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador de campo y narrador habitual de las aventuras de Wolfe."
+    }
+  ],
+  "series": [
+    {
+      "id": "stout-wolfe",
+      "nombre": "Nero Wolfe",
+      "autor": "stout",
+      "descripcion": "Investigaciones de Nero Wolfe y Archie Goodwin."
+    }
+  ],
+  "obras": [
+    {
+      "id": "stout-fer-de-lance",
+      "titulo": "Fer-de-Lance",
+      "original": "Fer-de-Lance",
+      "anio": 1934,
+      "autor": "stout",
+      "seudonimo": "",
+      "serie": "stout-wolfe",
+      "generos": [
+        "whodunit",
+        "hardboiled"
+      ],
+      "sinopsis": "El primer caso de Nero Wolfe y Archie Goodwin conecta dos muertes en un misterio de medios de ejecución poco habituales."
+    },
+    {
+      "id": "stout-the-league-of-frightened-men",
+      "titulo": "The League of Frightened Men",
+      "original": "The League of Frightened Men",
+      "anio": 1935,
+      "autor": "stout",
+      "seudonimo": "",
+      "serie": "stout-wolfe",
+      "generos": [
+        "whodunit",
+        "hardboiled"
+      ],
+      "sinopsis": "Una vieja burla universitaria se transforma en amenaza para un grupo de hombres."
+    },
+    {
+      "id": "stout-the-rubber-band",
+      "titulo": "The Rubber Band",
+      "original": "The Rubber Band",
+      "anio": 1936,
+      "autor": "stout",
+      "seudonimo": "",
+      "serie": "stout-wolfe",
+      "generos": [
+        "whodunit",
+        "hardboiled"
+      ],
+      "sinopsis": "Una vieja deuda de honor se relaciona con un crimen y varios intereses económicos."
+    },
+    {
+      "id": "stout-too-many-cooks",
+      "titulo": "Too Many Cooks",
+      "original": "Too Many Cooks",
+      "anio": 1938,
+      "autor": "stout",
+      "seudonimo": "",
+      "serie": "stout-wolfe",
+      "generos": [
+        "whodunit",
+        "hardboiled"
+      ],
+      "sinopsis": "La reunión de grandes cocineros se ve interrumpida por un asesinato, un caso especialmente afín a Wolfe."
+    },
+    {
+      "id": "stout-the-doorbell-rang",
+      "titulo": "The Doorbell Rang",
+      "original": "The Doorbell Rang",
+      "anio": 1965,
+      "autor": "stout",
+      "seudonimo": "",
+      "serie": "stout-wolfe",
+      "generos": [
+        "whodunit",
+        "hardboiled"
+      ],
+      "sinopsis": "Una mujer encomienda a Wolfe una investigación que desafía a las autoridades."
+    }
+  ]
+}
