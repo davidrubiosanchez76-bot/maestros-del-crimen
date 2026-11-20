@@ -73,7 +73,17 @@
         "sjowall-wahloo-polismordaren"
       ],
       "articulos": [],
-      "descripcion": "Inspector sueco que combina pesquisa profesional con mirada crítica al entorno social."
+      "descripcion": "Inspector sueco que combina pesquisa profesional con mirada crítica al entorno social.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Paciencia investigadora",
+          "descripcion": "Su método se apoya en cooperación, análisis y constancia, no en genialidades aisladas."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "sjowall-kollberg",
@@ -102,7 +112,10 @@
         "sjowall-wahloo-polismordaren"
       ],
       "articulos": [],
-      "descripcion": "Compañero de Martin Beck, observador e incisivo, con visión crítica del oficio."
+      "descripcion": "Compañero de Martin Beck, observador e incisivo, con visión crítica del oficio.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "sjowall-gunvald",
@@ -131,7 +144,17 @@
         "sjowall-wahloo-polismordaren"
       ],
       "articulos": [],
-      "descripcion": "Policía de fuerte temperamento y métodos directos, figura recurrente de la serie."
+      "descripcion": "Policía de fuerte temperamento y métodos directos, figura recurrente de la serie.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Métodos directos",
+          "descripcion": "Su carácter temperamental contrasta con la paciencia de Martin Beck."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
