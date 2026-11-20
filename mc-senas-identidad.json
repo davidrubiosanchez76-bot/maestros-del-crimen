@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": "2026-11-20-audit-1",
+  "revision": "2026-11-20-audit-2",
   "descripcion": "Señas de identidad y revisión editorial. Rasgos no documentados quedan vacíos, sin inventar afinidades ni diagnósticos. Datos sin spoilers.",
   "niveles": {
     "principal": "Protagonista o figura de especial relevancia",
@@ -1400,12 +1400,102 @@
       "nivelArchivo": "principal",
       "rasgos": [],
       "estadoRasgos": "pendiente_de_documentar"
+    },
+    "stout-nero-wolfe": {
+      "nivelArchivo": "principal",
+      "estadoRasgos": "propuesta_documentada",
+      "rasgos": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Alta cocina",
+          "descripcion": "Disfruta con los platos elaborados por Fritz Brenner y sigue horarios estrictos de comidas."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Cerveza",
+          "descripcion": "Bebe cerveza de forma habitual, como parte de sus rutinas cotidianas."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Jardinería",
+          "etiqueta": "Orquídeas",
+          "descripcion": "Dedica varias horas diarias a sus plantas en el invernadero de la azotea."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Corpulencia",
+          "descripcion": "Su gran envergadura física es un rasgo recurrente en los libros."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Evitar salir de casa",
+          "descripcion": "Prefiere delegar las visitas y pesquisas exteriores en Archie Goodwin."
+        }
+      ],
+      "fuentes": [
+        "https://www.nerowolfe.org/htm/tidbits/food.htm",
+        "https://www.nerowolfe.org/htm/tidbits/orchids.htm",
+        "https://www.penguinrandomhouse.com/books/174297/fer-de-lancethe-league-of-frightened-men-by-rex-stout/"
+      ]
+    },
+    "stout-archie-goodwin": {
+      "nivelArchivo": "principal",
+      "estadoRasgos": "propuesta_documentada",
+      "rasgos": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Narrador irónico",
+          "descripcion": "Su humor y su voz en primera persona cuentan las peculiaridades de Wolfe."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Trabajo de campo",
+          "descripcion": "Realiza entrevistas, seguimientos y desplazamientos que Wolfe prefiere evitar."
+        }
+      ],
+      "fuentes": [
+        "https://www.stopyourekillingme.com/S_Authors/Stout_Rex.html"
+      ]
+    },
+    "bramah-max-carrados": {
+      "nivelArchivo": "principal",
+      "estadoRasgos": "propuesta_documentada",
+      "rasgos": [
+        {
+          "categoria": "discapacidades",
+          "tema": "Discapacidad visual",
+          "etiqueta": "Ceguera",
+          "descripcion": "Es un detective ciego; la ficción presenta sus investigaciones sin reducir su identidad a esta condición."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Percepción táctil",
+          "descripcion": "Utiliza el tacto para examinar monedas y otros indicios, como en The Coin of Dionysius."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Coleccionismo",
+          "etiqueta": "Numismática",
+          "descripcion": "Su conocimiento de las monedas antiguas es significativo en algunas investigaciones."
+        }
+      ],
+      "fuentes": [
+        "https://www.ebsco.com/research-starters/literature-and-writing/ernest-bramah",
+        "https://www.gutenberg.org/cache/epub/34732/pg34732-images.html"
+      ]
     }
   },
   "totales": {
-    "revisados": 118,
-    "conRasgos": 76,
-    "pendientes": 42,
+    "revisados": 121,
+    "conRasgos": 78,
+    "pendientes": 43,
     "complementarios": 8
   }
 }
