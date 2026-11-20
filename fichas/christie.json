@@ -173,7 +173,32 @@
         "christie-telon"
       ],
       "articulos": [],
-      "descripcion": "Detective belga famoso por su lógica, su observación del comportamiento humano y su cuidado en la interpretación de las pistas. Sus investigaciones recorren varias décadas de la novela de enigma."
+      "descripcion": "Detective belga famoso por su lógica, su observación del comportamiento humano y su cuidado en la interpretación de las pistas. Sus investigaciones recorren varias décadas de la novela de enigma.",
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Bigote encerado",
+          "descripcion": "Su bigote cuidadosamente arreglado es una de sus señas de identidad."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Orden y simetría",
+          "descripcion": "Defiende el orden, el método y la precisión en las cosas cotidianas."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Pequeñas células grises",
+          "descripcion": "Prefiere la observación psicológica y el razonamiento antes que la acción física."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.agathachristie.com/en/characters/hercule-poirot"
+      ]
     },
     {
       "id": "marple",
@@ -204,7 +229,32 @@
         "christie-dormido"
       ],
       "articulos": [],
-      "descripcion": "Jane Marple resuelve misterios mediante la observación de las relaciones humanas y de la vida cotidiana de su pueblo. Su apariencia discreta suele hacer que otros la subestimen."
+      "descripcion": "Jane Marple resuelve misterios mediante la observación de las relaciones humanas y de la vida cotidiana de su pueblo. Su apariencia discreta suele hacer que otros la subestimen.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Jardinería",
+          "etiqueta": "Jardinería",
+          "descripcion": "Cultiva su jardín en St Mary Mead y conoce bien las plantas."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Arte y otras aficiones",
+          "etiqueta": "Punto y labores",
+          "descripcion": "Tejer forma parte de la apariencia inofensiva con la que observa a sus vecinos."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Cotilleos de pueblo",
+          "descripcion": "Extrae claves sobre la conducta humana de las conversaciones y analogías de su comunidad."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.agathachristie.com/en/characters/miss-marple"
+      ]
     },
     {
       "id": "christie-tommy",
@@ -227,7 +277,17 @@
         "christie-puerta"
       ],
       "articulos": [],
-      "descripcion": "Tommy Beresford afronta con Tuppence aventuras de espionaje y pesquisas domésticas. Frente al ímpetu de su compañera, suele aportar prudencia y método."
+      "descripcion": "Tommy Beresford afronta con Tuppence aventuras de espionaje y pesquisas domésticas. Frente al ímpetu de su compañera, suele aportar prudencia y método.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Investigación en pareja",
+          "descripcion": "Resuelve problemas junto a Tuppence; ambos evolucionan como matrimonio a lo largo de los libros."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "christie-tuppence",
@@ -250,7 +310,17 @@
         "christie-puerta"
       ],
       "articulos": [],
-      "descripcion": "Tuppence Cowley, más tarde Beresford, es la investigadora ingeniosa e impulsiva de la pareja. Su trayectoria literaria avanza con su edad y su vida familiar."
+      "descripcion": "Tuppence Cowley, más tarde Beresford, es la investigadora ingeniosa e impulsiva de la pareja. Su trayectoria literaria avanza con su edad y su vida familiar.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Audacia e improvisación",
+          "descripcion": "La iniciativa de Tuppence complementa el enfoque más prudente de Tommy."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "christie-battle",
@@ -274,7 +344,17 @@
         "christie-cartas"
       ],
       "articulos": [],
-      "descripcion": "Policía metódico y reservado que suele esconder su sagacidad tras una apariencia poco llamativa. Interviene en distintos misterios, entre ellos Chimneys y Hacia cero."
+      "descripcion": "Policía metódico y reservado que suele esconder su sagacidad tras una apariencia poco llamativa. Interviene en distintos misterios, entre ellos Chimneys y Hacia cero.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Expresión impasible",
+          "descripcion": "Su aire tranquilo y poco expresivo lleva a otros a subestimar su perspicacia."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "christie-race",
@@ -297,7 +377,17 @@
         "christie-nilo"
       ],
       "articulos": [],
-      "descripcion": "Coronel relacionado con servicios de inteligencia y con varias investigaciones criminales. Su experiencia y sus contactos lo convierten en colaborador de otros investigadores."
+      "descripcion": "Coronel relacionado con servicios de inteligencia y con varias investigaciones criminales. Su experiencia y sus contactos lo convierten en colaborador de otros investigadores.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Inteligencia y viajes",
+          "descripcion": "Sus investigaciones están relacionadas con viajes y asuntos de inteligencia."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "christie-oliver",
@@ -321,7 +411,32 @@
         "christie-elefantes"
       ],
       "articulos": [],
-      "descripcion": "Novelista de misterio y frecuente colaboradora de Poirot. Su imaginación, sus intuiciones y su ironía sobre el oficio de escribir la convierten en uno de los personajes más singulares de Christie."
+      "descripcion": "Novelista de misterio y frecuente colaboradora de Poirot. Su imaginación, sus intuiciones y su ironía sobre el oficio de escribir la convierten en uno de los personajes más singulares de Christie.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Manzanas",
+          "descripcion": "Su afición a comer manzanas es uno de sus rasgos recurrentes."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Peinados cambiantes",
+          "descripcion": "Sus intentos de llevar el cabello arreglado producen peinados muy variables."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Intuición femenina",
+          "descripcion": "Defiende con entusiasmo sus intuiciones, a veces con resultados sorprendentes."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.agathachristie.com/en/news/2023/facts-about-ariadne-oliver"
+      ]
     },
     {
       "id": "christie-hastings",
@@ -348,7 +463,17 @@
         "christie-telon"
       ],
       "articulos": [],
-      "descripcion": "Amigo y colaborador de Poirot, con frecuencia narrador de sus pesquisas. Su perspectiva más espontánea contrasta con el método analítico del detective."
+      "descripcion": "Amigo y colaborador de Poirot, con frecuencia narrador de sus pesquisas. Su perspectiva más espontánea contrasta con el método analítico del detective.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Relatos en primera persona",
+          "descripcion": "Narra muchas investigaciones de Poirot desde su perspectiva, con una admiración mezclada de desconcierto."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "christie-pyne",
@@ -364,7 +489,26 @@
       "serie": "",
       "obras": [],
       "articulos": [],
-      "descripcion": "Personaje principalmente de relatos; atiende a personas descontentas y organiza soluciones inesperadas para sus problemas. No protagoniza ninguna de las 66 novelas policiacas de Christie."
+      "descripcion": "Personaje principalmente de relatos; atiende a personas descontentas y organiza soluciones inesperadas para sus problemas. No protagoniza ninguna de las 66 novelas policiacas de Christie.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Consultorio de felicidad",
+          "descripcion": "Se anuncia como especialista en personas infelices; no se define como detective."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Calvicie",
+          "descripcion": "Es descrito como un hombre corpulento y con poco pelo."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.agathachristie.com/en/characters/parker-pyne"
+      ]
     },
     {
       "id": "christie-quin",
@@ -380,7 +524,26 @@
       "serie": "",
       "obras": [],
       "articulos": [],
-      "descripcion": "Personaje misterioso de relatos, asociado al señor Satterthwaite y a la observación de la naturaleza humana. No protagoniza ninguna de las 66 novelas policiacas de Christie."
+      "descripcion": "Personaje misterioso de relatos, asociado al señor Satterthwaite y a la observación de la naturaleza humana. No protagoniza ninguna de las 66 novelas policiacas de Christie.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Apariciones inesperadas",
+          "descripcion": "Surge en momentos decisivos y orienta discretamente a Mr Satterthwaite."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Vestimenta",
+          "etiqueta": "Simbología de Arlequín",
+          "descripcion": "Su nombre y presencia remiten al personaje de la commedia dell'arte."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada",
+      "fuentesSenas": [
+        "https://www.agathachristie.com/en/characters/harley-quin"
+      ]
     }
   ],
   "series": [
