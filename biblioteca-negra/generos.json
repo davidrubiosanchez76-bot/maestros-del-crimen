@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "generos": [
+    {
+      "id": "hardboiled",
+      "titulo": "Hardboiled",
+      "descripcion": "Detectives duros, calles violentas y ciudades corruptas. Nacido en el pulp estadounidense, desplazó la investigación del salón a los bajos fondos. Hammett y Chandler marcaron sus señas de identidad.",
+      "subtitulo": "Detectives duros, ciudad y corrupción.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUTFI86jmlr0Cv2AV7jsiaaxyRKp5R-pgFhIkl0L0woQ0W7GMAr98dbFvShHVJ8ROQ9OCjwYFscQ76-tQTUorZYgSAdbd0YIIpaum0itzbivlaR2Mq93GV1oC5WqEhQiPMUiurmZoUoc3RTYLW0VuGhtKLCpi7DUFhrVhSy1MvvAhxqMdluyRpTpzkKHs/s1600/image.webp"
+    },
+    {
+      "id": "whodunit",
+      "titulo": "Whodunit · Novela de enigma",
+      "descripcion": "Crimen, pistas, sospechosos y una pregunta: ¿quién lo hizo? El lector participa en la deducción junto al investigador. Incluye la tradición de Christie, sin confundirla automáticamente con el Cozy Crime actual.",
+      "subtitulo": "Un crimen, las pistas y quién lo hizo.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSEj0DaSLNZhJr0t0GD9BGFJZumvIYCNRf5d6LhOOsFYsz7RKmJRGhHc0b7WHXAj68IRwqgITK6_eECbRM1oK9CdV66uGAGvnVIr-WtwwbuJtpEDRQs6AccfIP07S2wY7MA6Pmztj72P9WLSwxc-T83_5Gtr-fMkTOZjtMSCDBiOz_2haBC1jUfA4GRvM/s1600/image.webp"
+    },
+    {
+      "id": "cozy-crime",
+      "titulo": "Cozy Crime",
+      "descripcion": "Misterios criminales de tono confortable, violencia poco explícita, comunidad acogedora y, a menudo, humor. Mantiene su espacio propio, sin absorber retrospectivamente los clásicos del whodunit.",
+      "subtitulo": "Misterios de tono amable, sin sordidez.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm58-Eg61-HMs_-TyhdShglyipcYLVdD5RjWPBRY2U-brh-2KPqweu0Wo7oh-KCgU57evdMAhbtHYLzusnv0I6S2t2nb288dnqvJpRVtMXAD0khtR59rNzbdYtYd428UPLhB_b8FhVL6iNFxCyThsITf1Evht2aUWIrIe25ZTFctbvLqnGfBRNp5QjhpM/s1600/image.webp"
+    },
+    {
+      "id": "police-procedural",
+      "titulo": "Police Procedural",
+      "descripcion": "La investigación como oficio: atestados, entrevistas, indicios, burocracia, colaboración entre agentes y trabajo cotidiano en comisarías.",
+      "subtitulo": "La investigación desde la comisaría.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7nussD9-XQ0N85pHa2OKs22V5fbw8qPPhM9beK1d5DHa3vjj0XJP5YehBS0aUEq-dIyteaRWrAMCwrBIuY7Wf2clbUqweh1iFDwuORJ760CPsUXbT7SGVE3JbDc-atCYdyK0OdfvbID3KbLK6-IQpHwAgArfk4Q48HAJXlxzruVl6YcdcqZQy78Kyd6U/s1600/image.webp"
+    },
+    {
+      "id": "crook-story",
+      "titulo": "Crook Story",
+      "descripcion": "El relato se coloca del lado del delincuente, el estafador o el asesino. Importan sus decisiones, ambiciones, errores y consecuencias.",
+      "subtitulo": "El delito contado desde el delincuente.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4rPQV355l2jg2Vzcx6wy7DWK7UNheAqnToGgfjRETehOIgHDick05YfAA7ctQ6_lB_hJXS1XHg0f3fvozpFWUNIpHxzABWVtPaRv_sTq0owf_mMIADTwQ_sMAQtw1bDk7pAqYz0R7FP4jON6lXWFYeA91CV2TLLIMx0XQAMnHj09dtu047aJXoJMLPd0/s1600/image.webp"
+    },
+    {
+      "id": "heist",
+      "titulo": "Heist Fiction",
+      "descripcion": "Robos y golpes criminales: preparación, reparto de tareas, ejecución y complicaciones. El mecanismo del atraco mueve la historia.",
+      "subtitulo": "Atracos, botines y golpes criminales.",
+      "imagen": "data:image/webp;base64,UklGRkggAABXRUJQVlA4IDwgAACwiACdASpoAc0APkkij0SioiGUafUkKASEsTd4qYQuQBmqeHvzf9y/cT2x+O+yH1x4U/Kr5ReGnYfkqc6/9D7pvmZ/l//B/mfcp+kP+l7gf6sf8X+9euB+ynuu/dn8bvgX+yP/n/2vvFf9X9vPeH/ffUY/rP+u9ff1W/Qj/b705f3h+IP+t/8z9wvaY//V268I/Kl820SMyfa1qHd7+MP7L+Qvyy1JvzD+uf77hHwHdobFR/9On7u/vTm9ErtNf9sSxEKtm07uNEvi1hGDdibfpmQf2pKd1TroGm57XROraHP7xbNwRojnXLNIh6LhJleAwyn/IS54FOoMwbg7f/Z6KmWtYxX1wq0rBtA5gAO7VYh+SG8tvdbiUusfu2sSai0lupdi6tckkaiEo3O8oQF7EbBcTAcyAF8/QDo/6FeSsXh/yGaoRstH8e/RiBQKWfQuo2kuQwYmTmnyQKT4d8EuDJXrQH3DYFrMutEDBLyzGgK9K3yLd4uXsctBDGLb2mAQyNuw6CI4Cx10HsmQQZDMtprwnLOoWFcMbl8OY1snJ9Mmzc4lUXSaxpPsBE9o58nrMK3oR+oRqeiQ9RrQGF59mNQihR1bx5mlcV8pcLmTJfx6n8g2Ex83nXoaiFU6v0+oCDO2MB2hOy+AMaQfA05EEmHnAdFyF7TmSym/UTtST0NTZGGMGg83C0qcAzxMcPqWa2ZVuRdIFjmXp+mEKmbfptC+6Dgp9TkEoumHWYybsNYRwrDlF+gBCG302pHpO9GRzR6P0P56taxjTxHLHNHEjpU2EPeDFmx6TmTJ153UEX9u2Ve5MhM3THVB8jgnU13ZrESd4uHpIywIx0MZLGcRGbeHyl/XXFJ2o9LqXe+v7YDtdfsHy4eUDjKFre1h2d1cwti7D3hk8ASl6/RDFiIVvHG+bRccCbvgOiek9agIBSk1X8Ivpat9rRiYvdn9IxzlsyDJUi1xpzI8rolhwb6sfYgLpqAqMbf3SqZvG2JBwVjjSq/4L+FDcSDbs6DFibKH6V2lPy9TGaoyKI9nIaSvk5q1ZGklYqjYlcf+lvWp+CAsCQw7+cyC40i3xZv3gWFZHaorN52TPHPwzLBVyL5iCYpjZ28i4FPJXA8vsqsFPhEYw6lBj4GDFmACxcNx/K7UuP3HoOJzJOa7vXxf/31psH6q07fsnauvWgU2aXwQnlp4updfnpQcF4B2uDpy8aDhTeSFWesET7bpbSHqQPR8Rb75D58XEfPC3aRRkeSH/nckn9QxGa6iF/2f+0nHGARhaxSQ7rKANy3eYZkAHgd3a07y2N55Hsxj7wvJv4YghlZIakU+rRTvNzeHJTtMMX9AF4KViQSDjLjr1M1xEZGRl3UolW76yRoce1sl+q0u+EBxWL7Q1z6zv2sGAMWUqCgqZLUxcHzz2RM7di4rUW5IKnolyZKTZ6GLktDzuGHyRzHvYEYGdPRwVTX4IMiAAP7+murFLwpeqmiqfP/XMf+TeZqk8gQQq7COn0dv/6xR/IKc5n8xR/KUYCfwB0ufKQNNgYg+F6uIE43C+IWDyWPB3HhlVj2/E6RD1dW1Xu79BE0pB5q5QuLHVLXbgHGUtomTJhkTBiAtr0py7Frmu9kaDEY97j7VgQ+5kdbyG4FBMhPz/OqttMBYkhF0i1mexvZ9J6oZ0m/H113/7xJmBk774qyavtVGQfAC2POGexGeKKiXeBRH/w0DOGfjXQ9yCNU0U4SPDWLgFXLbK2uyOWOa36d3ofOM74AyuJbD/e45+2N1u10XDfGUkLMHgu9XHnuLAmOrucmExAKwCu6+964iZAjsM+2Wu0jCkQqfECOiilwlQoN82f/ceD1rhjSynwsP/4ArDYwApX3l7AG4tv8chNI+pblRpdlafHmhomIPsWqs6/+nf/liPqAlbcDQLuwmg2BqA6VkUWk5JLpnneMES1F0Og90bTPK27/Rk+b4LSFI+VdgwTD8SwB72pl5SxiZUDMAhF/yjjwIyDvbP1LMsYC9UxEl/6EczWdAFFJmBYbePtTcD85rpPUFPLoJGdw1QDVUUdf1ZNj2b6lQCprs6oaC4wSBn/ZTuk1XPzv98WMkvVe7g5bkPbMHfesJW/KDYkm4fmjjyMVAKThx0pVHn9JlJf8qfLMvrzvXigGLiYxrfe77xsukc/xS3mgm4CUKjEQRdLXAJ73SCjeLvD1cGzsU8L/RR+5bq8S1c3TjSc+RAZMFyuovDoCVzsLamjiRFv67kGU6sMgC2L2euohtcxoFbsliSWM64qcM5q+z6hzkoJyEWcfeWBCrd3t+mqdxkktiL1Ni9v2G7jMcsRfYZkrHWZmZ7pwguY+0FYakB65i4WP0pTXAeIBsn7hTqaIwn6UDoz+P5rtLT3KKemVBk56+JfL4yeg50kgx0wl6//qngw3jMkFJ7G08fdYWehFfl9B518WZbXN7lCK6zCvXKStjgtEfO9Dk6IciqOSGY+D8acxg4fytROcJ7jQTtm7NVENtnxF6EpO997bloxEDNKQige2oFw2tEuKng7sypMmqJx4Yz398E8UnReKaFvKYmlJN9X6jXosVGdM3En21ceSb3QTaMA8SRcdRwM584ToolQXdlFsNGQbNkwfaHWJyKUGT1V3TzINduiah85524eAkHjJ83qudkvH9dHSUi9apgLUjnq2w7E2BxCuYYEh6ZJPeIe95cO1qEbxFBFtimT1r+NVjW8VdM+qn59uCSejio6McW4fUKksJ1tYzzlx3SQ09colt6wlHHrGMTOtSmll5+RoHO9MCpu60LsA8UFaK0NriIk2s3g+FDVAZH27i04+OAKu/tN7dx588/nmqopKSoEcBydbu7xy2dWkyu98r3akzZV1WwvIkObWMiCICewhDkXruRB5nTQpHRVMQlUaUcvweM75J89vbhVvSVaoClTVS1Ub+bKR0fuw6ZX5GOfnaTiLChHXmnRIshDGmjF9g80fFliG1MquTB/xt+a0NHg1lPFRIJNqTemO75uqCHnqGzzQEfEzwXOai8h1hih3PWqV0x7QzlXsXpExZXkLpEVCNK6GhTmteivuvdpEVwwCm4srsBydeck1TrbLs0W6nx20QgifG8Chr6eT5ODOo72fLiYf8fO0i6z08GXkDNsydoT+M582NWoJRq01Wpyzvm93VTzIFlpBG4Dy4qVGLN14j6EmTuecIuD/9e881b4a9uk5SAhbuGuSfvRZ/dTi0dRXFMbn7G00SoIMlMUUSAxEouBP47ou4R4uvl7weJiwU2qk5aJb8iM5tihHYkuNtrmfZQaMy31P68zTWpnxQpbv1cVV5kqt/QcShyDPdE12r4MQp5EvKLv7ZpSvauQlLXYpZJ37FcEsbHaq0u29kiCeqfVp47SRgtPWwq86VkFRLoqjqgNCbiQ4sfcZaa/EaMcaKbwzfSHrYBoPtzAkq2/ZCK2HGvkx6r/7lr811X5ej9RcQx5lTIPTlZCMS6wXL39A4w+Gr3YOfvFpjMsgs6m9koang6ASNXKQ64Tcle0A5Du6KG2XDDBgh/V+dlLpkbXB/PBfAaz9SN1etXhPw7k66ux8ByzUY6WayD5xSdDEMPLKmd140AlHGeyogt6xfM0szi6BrAP3kucgsa0JzHUtPF1J2n69ypQjVMQUdgsqf1bDTNTj/hoB8sPZ9AiNt8YZFKzQ4W/RIxsjbnozBw5btnzrvlAte7FlHqeONo1xAlmBv4OKxI9hhPjcCM+3mYu4WT8xa1+KQCfDkNypJTGUgexJ/uzofBBbr0hzb4v7ULorUCyc4v4FqGpzy0rsbOYZ/15+dIKJg5+qfRyTAYpWbbsKV++qAf//PN2YLyKgB/7I+vkKLvoXz7npefwEiNuOKuzmr95vFUlCmhped+i9OJADDjzF4B2DEi6RXeWuY5nYUglI2jmp0jNR9nX3H/Vs33tRO72H8SUNm5ZIdQI5JB5gIgsy2iJ9quBm+s+SpEhdL43z74/sV3JvXeSzsdow3KNsuum9FCly2xu5USyGW+z2bpw/GbtKprWiQtuS+AXCYq3lBY72aJIiB1MbJHOu0sBygmtm4aCUaB0XQwusJs48DcqJlcVCF4nEyuoAieLNkAlQCNaxRHWsY2sbOS/SMYT8ul8CZZmlodxzyYYF7TqFZbspByc/9MW20Z/+KnntJHrSOTYKTeHlQNct+lyY57+mA+o7sEh+G3dGLT+u1GwkU75Y1L2ZijlaVr9BR+n6dFZt87N8+XsvvfqHCRHXayxbIib7b6AR5aFPLM3wZZb23qK/MGKKoeGr45vVYVrDgSDpvQFtAsQrO9e0lxNzo1+vXy4kKY10HWz45KoTno0rvKhCpjnC5E8cFga5jvVB2bYk8eimth3Skg9AY41pQhQi3jnnkbuW6F4PJqdt8XKmq4R85LTlk1bUYmESkh5xZ5x/4NQT6WHqDsLInUcxqhAM/0IeIWr6pA11J0gCX4zihis4LvoL2MpCqQFbyrTBZoQPgFFybvhM4JM+UZn6wl9jpaBr6LWw/0L+80vjQU4L3TFxxdZhw4UC69Tn6cPTpmzY3iO0F9ykNoa3GDkmo8w4Vk3Ln0DZ+lEK6ZBqSy7XkaW+KyzhnYkmQEboICKqORJXd1URnhgR6v++D/ubwOT5PNzX4nSb5W4/TGoMYnPuo2Aa/ALVl9XSfYbZQ5dbW+U6ioGR8QsfNeEjcogOwK34ZcCbiBQeYiAntnGzNq2ZO1eMjHVEljAIJh0G3Jl0rmM5IE28SHAbgkHfYJ4izKrQU/f/x4HDuj/Yj2xfE3WHpvik56Ooj8Uo7ignsIZNL57Vm6U2QqhSqt9OrUNjhrnbp8Plf4bhkbcW39MPSyCVckgSZSDMG1MWRkg598Ip+ZrAE391aeK9NjMQillTEH2NdFVcfspwz/kmGpPE6nZvHkqfMAGckG9SMqPFW1031mYNb8PVR1uEhRKeppC9D37NztyfVykME0dIx72K3rYee0TphacFXzFaPi8oFesQeB6s/PFHc7wc7slhPLiOYUA2JD7PavVJIIwp4U4PulBIKRTOf7D2RfqHnQBiKv8Pb8MsI4PAsO6U+xEcOiCx0qVx/f/Ft6pnVexJ0HjMqR+XVUqCCzY2Xlqj9iVUB2Zf7Z/M71md1AHYPeixY3GWEZ9/n/z+KEQ1nF/VwU6K4dcG4fKFXCTgARbWN+UuWP1Pz7G7Cuyz50FjYdECTlxAFQtNBPHR8JQX5NzPVMmqc1asPfxZaJrsh6Z43CnmbI2fDsv7SHbnQQ6p8ygu7DztQPWd0d3QsMPo0eqhjJHmlSu4X7EwAl99NAiTwHGxceEvvr1ntiM1U6EBx6yvByaMUcWPfgThXYTjB6cQja0MhHwKvtQp453b+V9vW+wseef/IwNF8MtwYregmo0ecZWG+9ekzNKzXcgCyg2Wwokx9WbtfrheFfXRG+immynnfTcobjNKwqsRt4DU/AyzX78Xm5Rdox97XAqIMhuqFUpBkfqluxEHPDCAMJ2ijsNosbDQIZuXP1c1V/6nK6AbUR8x3cpyQYIF1nuMS2gtMLpUZ6OiiGrmwWSL0NmIecFudMNknirl1mInSjRg/Iv4eZpqnU2BonOK/C/g3YCb+Tt+PT+TINxZyorupL4HzYEMWsLUaytW4ky8+k/vJKzghIgcPkOHikwmE9GLegjDHIVIpm79PnY8XmGOzv7JR9Gwj2U3egCzxGp5h8ZpfZiGyWanLZM/lSGjApAXChQZqDO57wUgV46Fq55AsJUiLQmrEYNR80/5GLPlZqigpfI0O5KyrLotXnY2JNYVu3Qs4X5HKC6AwFGEpRu/GANpS6ZPgiv+i21n4Y7VS9L4U5wX1e4bG7kvnwzTh8Fllg99OX6AE+kqzHTCkUWOyefedBOgqiXDBnjbCD0hKfInnf2LhNTEaQsMfZFcO25n4datTAeWLakMqvxTxFY6afFEK+mccrAX4n6E6aaMGkD88K6A5Kf+EMq6sWO/Qr/7FV21tJSkVPtK/2Ffr1jWzy5EOve8XH5ASrVLBSjdZRte5CC+AehB0z1FbxgElHhBqMSmJG9XDtUkMcNnA/xTb+vLezO+O6zbGWuF7Lb5vc4unt349CIG5br3KYn8t5YveaTAIZQ3i2YpVMuha4pzs1wRqkk0SZxQTsN1ptQI8CD/DZIf3E4cWdLtMp1dilavFlBykKymcVoKYc4d8q1wH44pT/dS9OZs8BcfCeAW/MyFRTIy8YbslS5/Ze+4QVLDllMGnVH6lHx5Q4aAQiFn8HveVBdJzQ/EApNjAtDKOFV9gmqBwZKnzBrDNxrTWKC20LdSvUgOUhe1MwYOe+9+vKxM27RvTM5QvYzClJSrcAzmgXrrlNANVJy2KoI1lgkxflPc5WbirDLqCAapBGES77abAEr9585IEs8mYHx/ZUayvUSopAnfLyM9eJVEMM0/V6YK9KZL2hlpMw676XMyJtzclAlMM70eo6bznSRRbRtREssrgHfmnildgsyLnAiX79wMLGUACeHreD/Bo6oAqrPvb0iKn4T/IHLMdCym1iIIZgv2B2OQcISrLEWozPdwpvlPWeDmDbJGdzx6kxckrFYqF8H+zncieOXoCeUc/ZfuSeU9sph4eNO2j3pR5PsASUOtS235wsCjKL0VvpjAPQPNpa92nRWIaja4qel1pNlQlr1sZQ0mIYlf/QhORshsOsJ8EJ4WaVW8AhlobGef5KSZ0YMZInhsNqvVGH0/ASuDfew5Pv8L2mDE/oIlBUGkl/qZYW1ytlg1WSHKikbptPYW0kowWwRLwdbrrgdyEI9CvTZhsXvg5ri2QeP+kKYQj4Eo0ASfmcBjwLh6YxpDQ9fTWp4kpVyPGqCy5hJ5El3vTrAMN5MJeAnY1p9zZ/u1ksElbJJqoqq8EWKCKdtrUF+OZ4bNmU5PiZKWFLoqScGcgvBaXGDAdOk6uY+xrMJ2jZ58PgTg3j2jYa4wuTq5AqfwmatPvXYgPPdwaK0LShUAo8h8KsUkLEUHUfYPA3Z+2pjG0cmlbYxN+W/7HSNPLvKjAvhnzuQSkL0aIg4nUaRcrb4HM1p/asH5FrDmCiOT/6t9DICmHUFpK65MDjJT0XFchDwQ1LnBykU7Xma62IebIdha4+DSMPz8apXX+UxBNKERoGCr2W4M+ugo38VGvXxMJCUv/YgzRjvgSZhjtwHYFRGB/W3VgCvP8qPQuzWb/xRbyc63PRQmdXcKHYl9y86OkyG7ZBFUmalSwuvOndaDMrewKzwyHTrvgrpdwCuVlMV/MTq2fM61Xjuk7d+iUmpvxb42Gkv7rb2hbaVnExmpsoxKn0zGpa28NcOVvy7vdItkVGbWQmmMKkM1QlLWrsA+3yfR8G5FMcRx1qanaXVxFcN5AJ9/TIwTJuKVv1IJWCc1QBRL4kmzVX0pAOFyeJY6B5jd3eM2+B4PyfqvF85vx1pe+0E0n7SpKJnYzCtzW43rmpW2KbjTcgzyLV4N8aEA6kBr/yoBO8K7NtmrRW9A/L+7anYG7cE2xEP10D/3DBZKMzxOoQyOgqZeHFGCbt8cRCvOdYXzFIW9IvfzSIfYevxX3zGZNAeCnxOBgrmfbokhYirPLxWgW1UMlHdSDGYzdyWKpta4qAsXAGx2cLW7ejSYp4KPMHxYgfPVqWIRrAySnqTDDMlJcY7udKG79THcW9QjEtOLYWRWXbGxXoD+2poT0txtiH521lrLKUmworo9F6IybjMOTYd8HOPVCSBjROslcxUSjRzVw8QSNAp6SgwBmM4EYNcPV5G8F7NZW/qr+PHDcWJUzNUw6ZTQeYLt9P+r06sGryjluEG7LS8ImRTRs8ARzQlY7FiSH1HXeAkX2X6eKIrusiZMnokOB2/8lyI9XraPMbqPYDJaEdn50TGkg6gkD6YL0ahWz34LpbO9J9woeAHloo1GRCOcaiCtxLcuvYWfo6oyppyGQOydOXWnGVzPeGbgHISJCvsINVUn35WI1Ubp2ttaEefbiDQp2oJjNIUiC6bpnxn6Jz91SI2u5xkTuZ8zzL2UOcBndZ6F71gkAd6z2ADsqmlohgSl0hZgZPBtdUY3xJx72NrXG9cISoUQTHGGicmwFSpyX8Aes6xelJXcgZtAFuy3WgxiHhFZv/y3bTfgqiIx3+AOjQkpRIJ6Wb68m+VQJYP5E1DE/FA6N32G2u5FIjmWL4a435/vofdv+jK0GyM6IKd5MKKcrM9HE99CjXa3Mh+EjmO4IwUkt/DhgR5pAfK+z9QLLfsKOpFaVvPGlmsQ0Zp6D7bG08YmLJUr9omnLieNz7ANoUKASZBvg5AWKkW9vrj2qtcwTRt5Y6FWWWDPY4Yoz4xPJRc7EDcP+pLrbqyzwgiSQhs+jZvgSSqxUvPBRhbQ9NYSb5rYlpd9nMmLL1aty+HkglwgmfbeJPkSCogjG02t50jbGtlq432wlfz09DpReaH4LSAtqo3/p/PD0CdBjlT4aZKjc38aw6I2/l+Cw5++qgrfHjIMTGshBHQMdeHVLRC69WjHbC8MWC/a6U+cYiZNMEhlOi8bN+Xj4LHE+1xsJHmfi504CBm7qs6k+NldhCoOPB0grEQDgwasz2AO/jxCu5yA2RmexLBWErGXqwhG6SIgA9aKq8Tng069ETvOH3HJXRDcpllIn6Tk7ifDm2OUH0MKJOc0FXChrWFrKFq18kmegWwj8DERHMt5aiV+yF6PEcjYvCbPopFY8kY7B/MpERQicuLaUfhTG1vOIpD9JLBC1zKn2l8vA71zA+yymJiKkUorr28oYTyfFGv9kbA9wDXLTKB0EOgtCTuTwo5D19LNUKZtPPfBC+NGDy+DSWSgPLyk67a9AQYiz7q/v6cwm8/GVtJnHez8F3wNZ+sH304T3K5C1SbcYPRIZedwhVqjk40VtSCeHOIoUPdmJCn341qBCtAxG61JgM+8fpyr1viLqh7FDALcqO1OBXiVpKd97QFxsuWbLc0ffPy4iUxs96+oMo+Y4SZ5BtgdXNzS+n8GlrqmBZ3XTX7Gm0MmsgYhHG+tjavJtnF+TXGrzCT2T+uPayl/CtyyaP1qJ2FBM6YG8RB3+hbd3ljd8L+2TKj+NewriwTEOSPzUmcXcySmCmlonCpTqEX3OZfILvh/+FT3O9Ds4cZPgI2FbXxqbyJtsyV8mdeNS7evF3422tl09aBIxZ0J6yTZiJhb9DeXS5rle778fsBLKLVSsi6RC84miCvY61NJ2W5YYdQU2J+Nf7unL5incrFiGziK0Zg6EKE5SfA8AB1i0G35q30PILGhLngijlu0P7nV00+DvYp0Fia+wvKBYq4mlSx9Idf+XOpk2bMVHaOXaKS8ZdsjSZAm7SYZmlcBOQCB6pkzs9tYugCY9Z62UuMKZfjs8XkMrkyGNkxv5/aWpIJSQec/AeVx+F46XmhkpAUgeELh2UpJzatpDhLud9v5Ryuq2elRg9enev5eRfrJNLNGfRFAs59SP+JBSSuqsO41+S3Cr+eVp/2CxEym9Uz54OSaPgnxUrcdSyPWysIAHAp2ce3UDjdabv2Rx3W48+wYKISJ/CivdoacJvjNupne5J1Bjw/Wf1wVAgT0EpOsDa8jiQXsbWl8Ck/4q4s50PkiQJSIdK2X+caPMYHLnjczr4Do+lxTCWL9bju0H87uPU7sv0WYJwUMZeXipznfgQrPcLPe+90vz54VjOpp43ZJ9jKrfeukfcADz/OpS7XXx21JzYaP038AdPWHH4zsE9wmklsRqlcCOSStJnnm59yUZPIoAQXg1fAwhASGrr/OBBUzrlC29qY+CpaM+fBJ4eWUXHYWWAv+V7MXKpw1/6a616j8uflw02EnU2aMjnHmvqrvKSCfjBTrRgelvvQsrMgKdggqIb5KSNiY/3CYRSi0Y2cS+rupeGlhfwyCE9UoeuVh5fli2Z1QWHGXHPsXD3a9z/ODW3tIxRq8aiA1Jw0czTmVxRL6dcaAOQtrHzay1mkiunmq7/6l8x9NbLon8MhsktaTG66law58UX2xV2MWBF6MJGrLPorcYIy42sbKWu2zhsoO8rvgVDFQ3IrrGMZPOGmoIsvLUdtMfcMw7jpiXWmLuBKCaGEBx5xqTUtGBi2/SKtC4ps4VVrCnxO2fO0GeCA5u5SUpBjNYGesytBgm55FFdz0KuMmcmvScGXxbBS3UNrVXfX+IK4ojCFM09a/TJhwbVm/7Bp0yIVWDDT6IIQgQLpelWOWlIfIbvajxDwth9kz155oq5DDy77JyKGltuyngTKVqPsFGnfxZxcAWU1Zei3tfNIuDI734+tmCzyxSXKSEaDsPyNj0IxRjntWDarK1iRP4Tl3Np8lIOLj+Nfeq5mnHmgqomcnpoaVZuZNZEgu9DXFusQUfjTOXDxbjzzKLb22yh37SYKVafkoojpg9vvWS6Xa6HA4jRj5cJxyZr3DDb9cFYdHgm9LukpXxb9B55sKytG4vO9p0RlFFCbMrjPeBbeIBcglLhpcfqI+KaCKeMs9NFMiqi9UN9gZikJ80K2LpJgExXirwR9ggMnIszy7GFsgxYYoBbt6Klwy1oKYDplj7t/zpIg1ExQIO87OP/pLCO8dxN8udf3X5Ca3Yg4kGeBJdoy7f4XvDWNnfv5oCrywzPB3Mi5yO3ENPkFqidi/PswnA3aqmppmQmU/ZjDUlJIY4/OgnKVhgWW4mSPzmb6Pl9QCemPeaMYdROukih+wby+7Uk4CJAT3MX1jpU+ThJXDQr/cojuR1v7R/vdxAKW8nY53TjAYywO0s1JN+IN5DXK3m/p0CtJYIH/xKMwXiUDMSKlK//y989Y/cePYSFxauha8l7C+DqwHgXuCYoNCt6WiinDXC/kSz3clZcyK+fNZhq0g2uITQfHSYhcuhFWbxd+6KXHUDr4CeM/bUxJpsBCSlrgAV94cqcflwkhIBL27Sa6hcbGynIyqwp6jptlQkgj8YK/bQi8e8cotydSg8bZtLzgsZh369bO+b1vFPqT3ZrcVmpgAAAA=="
+    },
+    {
+      "id": "psychological-thriller",
+      "titulo": "Psychological Thriller",
+      "descripcion": "Obsesión, paranoia, engaño, trauma y manipulación. El suspense nace de la mente y de la fragilidad de las certezas de sus personajes.",
+      "subtitulo": "Obsesiones, engaños y mentes peligrosas.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXmCqZIcMCfSUUgcY5tUu0VEpcJBKS0sQuJb-OZrclIKz-PNKb_nzfVsmhedWNMaV2WlAQBgBS2t_eOSyUl7VDIfKNXqgq10ZMS1xI5eob4tnE270tmhVIq7SfAWV2k6Hv33GojGcDDEM3lv7GLZ_YmHhxqGhgOfVJHHIzuzFzLC1FBKMrmxkpTXHdlhM/s1600/image.webp"
+    },
+    {
+      "id": "domestic-noir",
+      "titulo": "Domestic Noir",
+      "descripcion": "La amenaza nace de relaciones íntimas, secretos familiares, matrimonios, manipulación o violencia en el espacio cotidiano.",
+      "subtitulo": "Peligros ocultos en el entorno íntimo.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiToPTXwN6EJ5syl8L8cf0OXjFgSQ2lTeYkn6ekDvA2fzb_GyPXhy90OrK45fmpaeDDr-zv66sOFB9C9h4p4VsIJ5VvYiuvIthQUB7fhd1NEmuD9IvwWGo8cM-w4BQpv2sfhiCtuBi8FOW_eqs7g2DYOlMF6xEGqONzmLOT87Axkby_keWY1KWyZL1ni7E/s1600/image.webp"
+    },
+    {
+      "id": "crime-thriller",
+      "titulo": "Crime Thriller",
+      "descripcion": "Intriga criminal dirigida por el peligro, las persecuciones y la tensión creciente. La urgencia de sobrevivir o detener la amenaza es tan importante como resolver el crimen.",
+      "subtitulo": "Amenazas y tensión hasta el desenlace.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6mZSjOJUNWDuvvVt38fBCPkzmMWoK2yXYPNb_-qHJ2IgWcBORxjNUpBeOlaCd6TERzx64CKjq2FgNub6f_7g9i5-a8ywrBvTxJsY1jFoDA0-Bp0t0e3basiLnJpVWx6BhrYAeLzYBDtedTS2LGH4ogvIhsw1IlNffivAji_GQU8DkmfEtQBhkS_jOBvY/s1600/image.webp"
+    },
+    {
+      "id": "tartan-noir",
+      "titulo": "Tartan Noir",
+      "descripcion": "Novela negra escocesa con especial atención a las tensiones sociales, los paisajes y la violencia latente; puede ser urbana o insular.",
+      "subtitulo": "Crimen y sombras sociales de Escocia.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8hpa2oh2rhaJphRrfsRZMiwQOr4sQOpBgZZzHDHX9deD4DE3i30EIQnWeKaXA2oO2V15ercrkAHqq_7ex9PuITnDAsdyaUh6ghxh7xMp5ux0CEAvfZSy1QBjQ4jQ2zLqX0Vf9cOYuwHd4MTyggPbRDjxeZ42YXj6piMDc9s0IiRaaRyUzxN5g-BU73us/s1600/image.webp"
+    },
+    {
+      "id": "rural-noir",
+      "titulo": "Rural Noir",
+      "descripcion": "Crímenes en territorios aislados, comunidades pequeñas y paisajes donde los secretos y resentimientos encuentran tiempo para enquistarse.",
+      "subtitulo": "Crimen en el campo y comunidades cerradas.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieu5XxcM8c1S3jVSPuKwU6m9yzfWiC7S4_MVACAkiWF4cxp5LfnrFPfFhuL7mqziHuwDWw-u6RW1dZjLqJ4ZqMXz3YJhHQnddbUkCunmBvw5AYY5rcV-lYdp6xCYMyAdzTSRVJeNFlW46RGg7oklJkQAQTnmpvmZQDzHBVNLu3_oNekcvo6biEma_IXlA/s1600/image.webp"
+    },
+    {
+      "id": "meta-noir",
+      "titulo": "Meta-Noir",
+      "descripcion": "La novela negra juega con sus propias reglas: ironiza sobre sus clichés, retuerce el relato detectivesco o lo convierte en una parodia autoconsciente.",
+      "subtitulo": "La novela negra juega con sus reglas.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxjF_wKyoyVWYyI1wQhwy95xI4T2XW4D4PbZBJEoCJ93ZygvfRvwGFSk8WOvXYp2Xrnnd_U-vyqrU520MuACxAots-uJP3JfscgKBBvquCPYLkWC_PshF4XsAhAo8VIwYEU8jE4pt4X5s0NuqaQDmpPTrRqCjAvxuC1Z3R6WFs0yaAA9fGzo76opimqjo/s1600/image.webp"
+    },
+    {
+      "id": "weird-noir",
+      "titulo": "Weird Noir",
+      "descripcion": "El delito se encuentra con lo insólito, lo grotesco o lo desconcertante. No siempre es una comedia: a veces la extrañeza resulta inquietante.",
+      "subtitulo": "Policial, insólito y desconcierto.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCojW5re4r0RYO4JldSfRShYUTTUsdAv31aDlyQaGDG1S_m4JRbtYY1_3u0AiHfP_4QVlrheEzqaBpGVlHWaNFDA9IpzDdnvEDwZpehlQeSha715qZl8yP8MzKGrtpcOdQ3xiL6B_UHivgpP_lGTmh8Hh-BY0JXo8wY07i-cLJ9SJe0teEOSW_ECHTM1c/s1600/image.webp"
+    },
+    {
+      "id": "spy-fiction",
+      "titulo": "Spy Fiction",
+      "descripcion": "Espionaje, dobles juegos, servicios secretos y conspiraciones internacionales; la sospecha se convierte en el verdadero motor de la intriga.",
+      "subtitulo": "Espías, traiciones y dobles juegos.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxejAKYTbuA4vOHel6yVU0V46mtMXCa4B1yMkpiE440tNiQQ41NW7e6qsDUKrxaxVK-hIm3ZMfB1O669npKpT3Wf0jUZHHRa_ra7D_vCKXuq3d_sYARBGvUTuaFnXkeJBKAKKUrA_Tr0ZH-2euPAoD6Ayc_nH5GYPHUQn0IE4zEgEwF4g0RJcyy8NgnSo/s1600/image.webp"
+    }
+  ]
+}
