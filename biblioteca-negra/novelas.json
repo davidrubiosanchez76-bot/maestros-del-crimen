@@ -1,0 +1,1118 @@
+{
+  "version": 1,
+  "novelas": [
+    {
+      "id": "por-encima-de-mi-cadaver",
+      "title": "Por encima de mi cadáver",
+      "author": "Jeffrey Archer",
+      "original": "Over My Dead Body",
+      "year": "2021",
+      "synopsis": "William Warwick investiga varios asesinatos sin resolver, mientras las intrigas de un coleccionista de arte y un crimen a bordo de un crucero complican su trabajo.",
+      "cover": "https://m.media-amazon.com/images/I/81ZGnarP3ZL._AC_UF1000,1000_QL80_.jpg",
+      "review": "",
+      "buy": "https://amzn.to/4ddYFkZ",
+      "quien": [
+        "policia"
+      ],
+      "que": [
+        "asesinato",
+        "corrupcion"
+      ],
+      "como": [
+        "policial",
+        "persecucion"
+      ],
+      "porque": [
+        "codicia"
+      ],
+      "donde": [
+        "internacional"
+      ],
+      "cuando": [
+        "actual"
+      ],
+      "generos": [
+        "police-procedural",
+        "crime-thriller"
+      ]
+    },
+    {
+      "id": "perfil-asesino",
+      "title": "Perfil asesino",
+      "author": "John Connolly",
+      "original": "The Killing Kind",
+      "year": "2001",
+      "synopsis": "Una fosa común descubierta en Maine devuelve al detective Charlie Parker al misterio de una comunidad religiosa desaparecida décadas atrás.",
+      "cover": "https://m.media-amazon.com/images/I/61wvcQsoH5L.jpg",
+      "review": "",
+      "buy": "https://amzn.to/4w99v3o",
+      "quien": [
+        "detective-privado"
+      ],
+      "que": [
+        "asesinato",
+        "desaparicion"
+      ],
+      "como": [
+        "noir"
+      ],
+      "porque": [
+        "ideologia",
+        "psicologico"
+      ],
+      "donde": [
+        "rural"
+      ],
+      "cuando": [
+        "actual"
+      ],
+      "generos": [
+        "hardboiled",
+        "crime-thriller"
+      ]
+    },
+    {
+      "id": "vestido-de-novia",
+      "title": "Vestido de novia",
+      "author": "Pierre Lemaitre",
+      "original": "Robe de marié",
+      "year": "2009",
+      "synopsis": "Sophie empieza a sufrir olvidos inexplicables y pequeños incidentes que no recuerda. Pronto aparecen cadáveres a su alrededor y su vida se convierte en una pesadilla.",
+      "cover": "https://www.lecturasalazar.com/sites/default/files/2024-08/Vestido%20de%20novia.jpg",
+      "review": "",
+      "buy": "https://amzn.to/4teByeV",
+      "quien": [
+        "victima"
+      ],
+      "que": [
+        "asesinato",
+        "manipulacion"
+      ],
+      "como": [
+        "psicologica"
+      ],
+      "porque": [
+        "psicologico",
+        "supervivencia"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "actual"
+      ],
+      "generos": [
+        "psychological-thriller",
+        "domestic-noir"
+      ]
+    },
+    {
+      "id": "el-accidente-en-la-a35",
+      "title": "El accidente en la A35",
+      "author": "Graeme Macrae Burnet",
+      "original": "The Accident on the A35",
+      "year": "2017",
+      "synopsis": "La muerte de un abogado en una carretera de Saint-Louis lleva al inspector Georges Gorski a investigar, mientras el hijo de la víctima emprende sus propias pesquisas.",
+      "cover": "https://m.media-amazon.com/images/I/8149SpAYf5L._UF1000,1000_QL80_.jpg",
+      "review": "",
+      "buy": "https://amzn.to/42cf03o",
+      "quien": [
+        "policia",
+        "civil"
+      ],
+      "que": [
+        "asesinato"
+      ],
+      "como": [
+        "policial",
+        "amateur",
+        "psicologica"
+      ],
+      "porque": [
+        "psicologico"
+      ],
+      "donde": [
+        "pueblo"
+      ],
+      "cuando": [
+        "actual"
+      ],
+      "generos": [
+        "police-procedural",
+        "psychological-thriller"
+      ]
+    },
+    {
+      "id": "el-fruto-prohibido",
+      "title": "El fruto prohibido",
+      "author": "James Hadley Chase",
+      "original": "You Find Him, I'll Fix Him",
+      "year": "1956",
+      "synopsis": "Intriga criminal de James Hadley Chase en la que los intereses económicos y las apariencias empujan a los personajes a actuar al límite.",
+      "cover": "https://imagessl0.casadellibro.com/a/l/s5/79/9788490065679.webp",
+      "review": "",
+      "buy": "https://amzn.to/4tEWoFe",
+      "quien": [
+        "civil"
+      ],
+      "que": [
+        "corrupcion",
+        "manipulacion"
+      ],
+      "como": [
+        "noir"
+      ],
+      "porque": [
+        "codicia",
+        "supervivencia"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "mediados"
+      ],
+      "generos": [
+        "crime-thriller",
+        "crook-story"
+      ]
+    },
+    {
+      "id": "un-diamante-al-rojo-vivo",
+      "title": "Un diamante al rojo vivo",
+      "author": "Donald E. Westlake",
+      "original": "The Hot Rock",
+      "year": "1970",
+      "synopsis": "Un ladrón profesional y su equipo tratan de recuperar una joya robada en un golpe que no sale según lo previsto.",
+      "cover": "https://m.media-amazon.com/images/I/61o1w2QVnOL._AC_UF1000,1000_QL80_.jpg",
+      "review": "",
+      "buy": "https://amzn.to/4udMLgw",
+      "quien": [
+        "criminal"
+      ],
+      "que": [
+        "robo"
+      ],
+      "como": [
+        "planificacion",
+        "satirica"
+      ],
+      "porque": [
+        "codicia"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "finales"
+      ],
+      "generos": [
+        "heist",
+        "crook-story",
+        "meta-noir"
+      ]
+    },
+    {
+      "id": "disparad-al-pianista",
+      "title": "Disparad al pianista",
+      "author": "David Goodis",
+      "original": "Down There",
+      "year": "1956",
+      "synopsis": "Un pianista que arrastra un pasado turbio intenta sobrevivir a la violencia de los bajos fondos.",
+      "cover": "https://www.tiposinfames.com/media/img/portadas/9788490569313.jpg",
+      "review": "",
+      "buy": "https://amzn.to/4umaxqS",
+      "quien": [
+        "civil"
+      ],
+      "que": [
+        "crimen-organizado"
+      ],
+      "como": [
+        "noir"
+      ],
+      "porque": [
+        "supervivencia"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "mediados"
+      ],
+      "generos": [
+        "crook-story",
+        "psychological-thriller"
+      ]
+    },
+    {
+      "id": "un-ciego-con-una-pistola",
+      "title": "Un ciego con una pistola",
+      "author": "Chester Himes",
+      "original": "Blind Man with a Pistol",
+      "year": "1969",
+      "synopsis": "Los detectives de Harlem Grave Digger Jones y Coffin Ed Johnson se enfrentan a una ciudad convulsa y violenta.",
+      "cover": "https://m.media-amazon.com/images/I/91gX9MIFfHL._AC_UF1000,1000_QL80_.jpg",
+      "review": "",
+      "buy": "https://amzn.to/4n2KVg4",
+      "quien": [
+        "policia"
+      ],
+      "que": [
+        "asesinato",
+        "corrupcion"
+      ],
+      "como": [
+        "policial",
+        "noir"
+      ],
+      "porque": [
+        "social"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "mediados"
+      ],
+      "generos": [
+        "police-procedural",
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "el-cartero-siempre-llama-dos-veces",
+      "title": "El cartero siempre llama dos veces",
+      "author": "James M. Cain",
+      "original": "The Postman Always Rings Twice",
+      "year": "1934",
+      "synopsis": "Un vagabundo y la esposa del dueño de un restaurante inician una relación que los arrastra a un plan criminal.",
+      "cover": "https://m.media-amazon.com/images/I/71IuYSTb8mL._AC_UF1000,1000_QL80_.jpg",
+      "review": "",
+      "buy": "https://amzn.to/48X6Hw3",
+      "quien": [
+        "criminal"
+      ],
+      "que": [
+        "asesinato",
+        "familiar"
+      ],
+      "como": [
+        "criminal"
+      ],
+      "porque": [
+        "pasion",
+        "codicia"
+      ],
+      "donde": [
+        "carretera"
+      ],
+      "cuando": [
+        "anos30"
+      ],
+      "generos": [
+        "crook-story",
+        "psychological-thriller"
+      ]
+    },
+    {
+      "id": "el-talento-de-mr-ripley",
+      "title": "El talento de Mr. Ripley",
+      "author": "Patricia Highsmith",
+      "original": "The Talented Mr. Ripley",
+      "year": "1955",
+      "synopsis": "Tom Ripley viaja a Europa con un encargo aparentemente sencillo y acaba seducido por la vida de lujo y las identidades ajenas.",
+      "cover": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQHinYa0r9V2M09RHbMsfLDfzw5J1Evr12mBQi4WIXS1HlT9KMrrCL8kEDtw0lxTyqBRuvKsiih4glFw_vlIXxeO6e9aFtMD18nVo0VehwLygVeEzr1jsVw&usqp=CAc",
+      "review": "",
+      "buy": "https://amzn.to/4cNf4LK",
+      "quien": [
+        "criminal"
+      ],
+      "que": [
+        "asesinato",
+        "manipulacion"
+      ],
+      "como": [
+        "criminal",
+        "psicologica"
+      ],
+      "porque": [
+        "codicia",
+        "psicologico"
+      ],
+      "donde": [
+        "internacional"
+      ],
+      "cuando": [
+        "mediados"
+      ],
+      "generos": [
+        "crook-story",
+        "psychological-thriller"
+      ]
+    },
+    {
+      "id": "el-escondite",
+      "title": "El escondite",
+      "author": "Ian Rankin",
+      "original": "Hide and Seek",
+      "year": "1991",
+      "synopsis": "El inspector John Rebus investiga la muerte de un drogadicto en Edimburgo y descubre que el caso es menos sencillo de lo que parece.",
+      "cover": "https://static.fnac-static.com/multimedia/Images/ES/NR/b7/50/6c/7098551/1507-1.jpg",
+      "review": "",
+      "buy": "https://amzn.to/48X6SYf",
+      "quien": [
+        "policia"
+      ],
+      "que": [
+        "asesinato"
+      ],
+      "como": [
+        "policial",
+        "noir"
+      ],
+      "porque": [
+        "social"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "finales"
+      ],
+      "generos": [
+        "tartan-noir",
+        "police-procedural"
+      ]
+    },
+    {
+      "id": "noches-blancas",
+      "title": "Noches blancas",
+      "author": "Ann Cleeves",
+      "original": "White Nights",
+      "year": "2008",
+      "synopsis": "El inspector Jimmy Perez investiga una muerte misteriosa en las islas Shetland, durante un verano de luz interminable.",
+      "cover": "https://m.media-amazon.com/images/I/61i+6RWNSRL.jpg",
+      "review": "",
+      "buy": "https://amzn.to/4tBczUa",
+      "quien": [
+        "policia"
+      ],
+      "que": [
+        "asesinato"
+      ],
+      "como": [
+        "policial"
+      ],
+      "porque": [
+        "psicologico"
+      ],
+      "donde": [
+        "rural"
+      ],
+      "cuando": [
+        "actual"
+      ],
+      "generos": [
+        "tartan-noir",
+        "police-procedural",
+        "rural-noir"
+      ]
+    },
+    {
+      "id": "cuervo-negro",
+      "title": "Cuervo Negro",
+      "author": "Ann Cleeves",
+      "original": "Raven Black",
+      "year": "2006",
+      "synopsis": "En las islas Shetland, el hallazgo del cuerpo de una joven desencadena una investigación que remueve viejos recelos.",
+      "cover": "https://m.media-amazon.com/images/I/71McxLq7XvL._AC_UF1000,1000_QL80_.jpg",
+      "review": "",
+      "buy": "https://amzn.to/4mO0uZf",
+      "quien": [
+        "policia"
+      ],
+      "que": [
+        "asesinato"
+      ],
+      "como": [
+        "policial"
+      ],
+      "porque": [
+        "psicologico"
+      ],
+      "donde": [
+        "rural"
+      ],
+      "cuando": [
+        "actual"
+      ],
+      "generos": [
+        "tartan-noir",
+        "police-procedural",
+        "rural-noir"
+      ]
+    },
+    {
+      "id": "cosecha-roja",
+      "title": "Cosecha Roja",
+      "author": "Dashiell Hammett",
+      "original": "",
+      "year": "1929",
+      "synopsis": "Un investigador privado llega a una ciudad dominada por el crimen y provoca una guerra entre sus bandas rivales.",
+      "cover": "https://m.media-amazon.com/images/I/71Ri7ZQ-TAL._AC_UF1000,1000_QL80_.jpg",
+      "review": "",
+      "buy": "https://amzn.to/4bqkT1e",
+      "quien": [
+        "detective-privado"
+      ],
+      "que": [
+        "crimen-organizado",
+        "corrupcion"
+      ],
+      "como": [
+        "noir"
+      ],
+      "porque": [
+        "social",
+        "codicia"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "anos20-30"
+      ],
+      "generos": [
+        "hardboiled",
+        "crook-story"
+      ]
+    },
+    {
+      "id": "pulp",
+      "title": "Pulp",
+      "author": "Charles Bukowski",
+      "original": "",
+      "year": "1994",
+      "synopsis": "Nick Belane, un detective privado de Los Ángeles, acepta encargos cada vez más absurdos en una parodia del género negro.",
+      "cover": "https://cms.anagrama-ed.es/uploads/media/portadas/0001/19/f073250bff44315d9e98f16917e1c23b2fda81a6.jpeg",
+      "review": "",
+      "buy": "https://amzn.to/4vKItPn",
+      "quien": [
+        "detective-privado"
+      ],
+      "que": [
+        "desaparicion"
+      ],
+      "como": [
+        "satirica",
+        "noir"
+      ],
+      "porque": [
+        "psicologico"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "finales"
+      ],
+      "generos": [
+        "meta-noir",
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "noir",
+      "title": "Noir",
+      "author": "Robert Coover",
+      "original": "",
+      "year": "2010",
+      "synopsis": "sátira criminal · noir insólito · investigación turbia · ambiente urbano",
+      "cover": "https://m.media-amazon.com/images/I/81ddm1PMNlL._UF350,350_QL50_.jpg",
+      "review": "",
+      "buy": "https://amzn.to/3OJaTbO",
+      "quien": [
+        "detective-privado"
+      ],
+      "que": [
+        "asesinato"
+      ],
+      "como": [
+        "satirica",
+        "insolita",
+        "noir"
+      ],
+      "porque": [
+        "psicologico"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "actual"
+      ],
+      "generos": [
+        "meta-noir",
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "el-percheron-mortal",
+      "title": "El percherón mortal",
+      "author": "John Franklin Bardin",
+      "original": "The Deadly Percheron",
+      "year": "1946",
+      "synopsis": "Un psiquiatra neoyorquino sigue a un paciente envuelto en episodios absurdos y perturbadores, hasta verse atrapado en un misterio sobre identidad y memoria.",
+      "cover": "https://m.media-amazon.com/images/I/71+D2P4GbeL._AC_UF1000,1000_QL80_.jpg",
+      "review": "",
+      "buy": "https://amzn.to/4t0Crrt",
+      "quien": [
+        "civil"
+      ],
+      "que": [
+        "asesinato",
+        "manipulacion"
+      ],
+      "como": [
+        "insolita",
+        "psicologica",
+        "satirica"
+      ],
+      "porque": [
+        "psicologico"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "mediados"
+      ],
+      "generos": [
+        "weird-noir",
+        "psychological-thriller"
+      ]
+    },
+    {
+      "id": "el-asesino-dentro-de-mi",
+      "title": "El asesino dentro de mí",
+      "author": "Jim Thompson",
+      "original": "",
+      "year": "1952",
+      "synopsis": "Tras la fachada de un agente de la ley afable, Lou Ford esconde una violencia cada vez más difícil de contener.",
+      "cover": "https://m.media-amazon.com/images/I/71ML9QwO5lL._SY466_.jpg",
+      "review": "",
+      "buy": "https://amzn.to/3NAclNe",
+      "quien": [
+        "criminal"
+      ],
+      "que": [
+        "asesinato",
+        "manipulacion"
+      ],
+      "como": [
+        "criminal",
+        "psicologica"
+      ],
+      "porque": [
+        "psicologico"
+      ],
+      "donde": [
+        "pueblo"
+      ],
+      "cuando": [
+        "mediados"
+      ],
+      "generos": [
+        "crook-story",
+        "psychological-thriller",
+        "rural-noir"
+      ]
+    },
+    {
+      "id": "la-mascara-de-dimitrios",
+      "title": "La máscara de Dimitrios",
+      "author": "Eric Ambler",
+      "original": "",
+      "year": "1939",
+      "synopsis": "Un escritor sigue el rastro de un criminal internacional cuya historia lo conduce por una Europa de espionaje y traiciones.",
+      "cover": "https://m.media-amazon.com/images/I/517Y12T0Z3L._SY522_.jpg",
+      "review": "",
+      "buy": "https://amzn.to/4lyYkMw",
+      "quien": [
+        "civil"
+      ],
+      "que": [
+        "espionaje",
+        "corrupcion"
+      ],
+      "como": [
+        "amateur",
+        "noir"
+      ],
+      "porque": [
+        "codicia"
+      ],
+      "donde": [
+        "internacional"
+      ],
+      "cuando": [
+        "anos30"
+      ],
+      "generos": [
+        "spy-fiction",
+        "crime-thriller"
+      ]
+    },
+    {
+      "id": "la-bestia-se-acerca",
+      "title": "La bestia se acerca",
+      "author": "Margaret Millar",
+      "original": "Beast in View",
+      "year": "1955",
+      "synopsis": "Helen Clarvoe, recluida en una habitación de hotel, recibe una inquietante llamada. Un amigo comienza a investigar quién está detrás de las amenazas.",
+      "cover": "https://imagessl0.casadellibro.com/a/l/s5/80/9788490061480.webp",
+      "review": "https://balasyestrellas.blogspot.com/2025/03/la-bestia-se-acerca-margaret-millar.html",
+      "buy": "https://amzn.to/4ltR9F1",
+      "quien": [
+        "victima",
+        "civil"
+      ],
+      "que": [
+        "amenaza",
+        "manipulacion"
+      ],
+      "como": [
+        "psicologica",
+        "amateur"
+      ],
+      "porque": [
+        "psicologico"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "mediados"
+      ],
+      "generos": [
+        "psychological-thriller"
+      ]
+    },
+    {
+      "id": "los-amigos-de-eddie-coyle",
+      "title": "Los amigos de Eddie Coyle",
+      "author": "George V. Higgins",
+      "original": "",
+      "year": "1971",
+      "synopsis": "Eddie, un delincuente de poca monta en Boston, intenta salir a flote entre negocios de armas, atracadores e informantes.",
+      "cover": "https://www.troa.es/imagenes_grandes/9788492/978849266344.JPG",
+      "review": "",
+      "buy": "https://amzn.to/413aHqm",
+      "quien": [
+        "criminal"
+      ],
+      "que": [
+        "crimen-organizado",
+        "robo"
+      ],
+      "como": [
+        "criminal",
+        "noir"
+      ],
+      "porque": [
+        "supervivencia",
+        "codicia"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "finales"
+      ],
+      "generos": [
+        "crook-story",
+        "crime-thriller"
+      ]
+    },
+    {
+      "id": "muerte-en-la-vicaria",
+      "title": "Muerte en la vicaría",
+      "author": "Agatha Christie",
+      "original": "",
+      "year": "1930",
+      "synopsis": "Un coronel aparece asesinado en la casa del párroco de St. Mary Mead; Miss Marple comienza a observar a los sospechosos.",
+      "cover": "https://m.media-amazon.com/images/I/61C6DK2a8xL._SY466_.jpg",
+      "review": "",
+      "buy": "https://amzn.to/3PaG3ZA",
+      "quien": [
+        "detective-amateur"
+      ],
+      "que": [
+        "asesinato"
+      ],
+      "como": [
+        "pistas"
+      ],
+      "porque": [
+        "codicia",
+        "pasion"
+      ],
+      "donde": [
+        "pueblo"
+      ],
+      "cuando": [
+        "anos20-30"
+      ],
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "odio",
+      "title": "Odio",
+      "author": "Ed McBain",
+      "original": "",
+      "year": "1956",
+      "synopsis": "Una investigación del distrito 87 de Ed McBain traslada al lector al trabajo cotidiano y áspero de una comisaría.",
+      "cover": "https://m.media-amazon.com/images/I/71hR0duvlcL._SY466_.jpg",
+      "review": "",
+      "buy": "https://amzn.to/4sICdp5",
+      "quien": [
+        "policia"
+      ],
+      "que": [
+        "asesinato"
+      ],
+      "como": [
+        "policial"
+      ],
+      "porque": [
+        "psicologico"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "mediados"
+      ],
+      "generos": [
+        "police-procedural"
+      ]
+    },
+    {
+      "id": "el-perro-de-los-baskerville",
+      "title": "El perro de los Baskerville",
+      "author": "Arthur Conan Doyle",
+      "original": "",
+      "year": "1902",
+      "synopsis": "Sherlock Holmes investiga la leyenda de una criatura monstruosa que parece amenazar a una familia inglesa.",
+      "cover": "https://imagessl0.casadellibro.com/a/l/s5/10/9788467052510.webp",
+      "review": "",
+      "buy": "https://amzn.to/4rzYTqL",
+      "quien": [
+        "detective-privado"
+      ],
+      "que": [
+        "asesinato"
+      ],
+      "como": [
+        "pistas"
+      ],
+      "porque": [
+        "codicia"
+      ],
+      "donde": [
+        "rural"
+      ],
+      "cuando": [
+        "historica"
+      ],
+      "generos": [
+        "whodunit"
+      ]
+    },
+    {
+      "id": "por-amor-a-imabelle",
+      "title": "Por amor a Imabelle",
+      "author": "Chester Himes",
+      "original": "",
+      "year": "1957",
+      "synopsis": "Una estafa sentimental desemboca en un enredo criminal por las calles de Harlem, donde intervienen dos policías poco convencionales.",
+      "cover": "https://imagessl5.casadellibro.com/a/l/s5/75/9788446028475.webp",
+      "review": "",
+      "buy": "https://amzn.to/3NCJ58w",
+      "quien": [
+        "policia",
+        "criminal"
+      ],
+      "que": [
+        "estafa",
+        "crimen-organizado"
+      ],
+      "como": [
+        "noir"
+      ],
+      "porque": [
+        "codicia"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "mediados"
+      ],
+      "generos": [
+        "hardboiled",
+        "police-procedural"
+      ]
+    },
+    {
+      "id": "el-halcon-maltes",
+      "title": "El halcón maltés",
+      "author": "Dashiell Hammett",
+      "original": "",
+      "year": "1930",
+      "synopsis": "Sam Spade se ve envuelto en una trama de engaños y asesinatos alrededor de una misteriosa estatuilla.",
+      "cover": "https://imagessl4.casadellibro.com/a/l/s7/34/9788420684734.webp",
+      "review": "",
+      "buy": "https://amzn.to/3NjjOQI",
+      "quien": [
+        "detective-privado"
+      ],
+      "que": [
+        "asesinato",
+        "robo"
+      ],
+      "como": [
+        "noir"
+      ],
+      "porque": [
+        "codicia"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "anos20-30"
+      ],
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "pacto-de-sangre",
+      "title": "Pacto de sangre",
+      "author": "James M. Cain",
+      "original": "Double Indemnity",
+      "year": "1943",
+      "synopsis": "Un vendedor de seguros y una mujer casada traman un asesinato para cobrar una póliza y eludir las sospechas.",
+      "cover": "https://m.media-amazon.com/images/I/71sGXLbX0OL._AC_UF1000,1000_QL80_.jpg",
+      "review": "https://balasyestrellas.blogspot.com/2023/02/pacto-de-sangre-de-james-m-cain.html",
+      "buy": "https://www.libroslowcost.es/libro/pacto-de-sangre_60566",
+      "quien": [
+        "criminal"
+      ],
+      "que": [
+        "asesinato",
+        "familiar"
+      ],
+      "como": [
+        "criminal",
+        "persecucion"
+      ],
+      "porque": [
+        "codicia",
+        "pasion"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "anos30"
+      ],
+      "generos": [
+        "crook-story",
+        "psychological-thriller"
+      ]
+    },
+    {
+      "id": "epitafio-para-un-espia",
+      "title": "Epitafio para un espía",
+      "author": "Eric Ambler",
+      "original": "",
+      "year": "1938",
+      "synopsis": "Un hombre de vacaciones en la Costa Azul queda atrapado en una red de sospechas y espionaje.",
+      "cover": "https://m.media-amazon.com/images/I/71VIBDmHJvL._SY466_.jpg",
+      "review": "https://balasyestrellas.blogspot.com/2024/01/epitafio-para-un-espia-eric-ambler.html",
+      "buy": "https://amzn.to/40renSN",
+      "quien": [
+        "civil"
+      ],
+      "que": [
+        "espionaje"
+      ],
+      "como": [
+        "amateur",
+        "pistas"
+      ],
+      "porque": [
+        "supervivencia"
+      ],
+      "donde": [
+        "mediterraneo"
+      ],
+      "cuando": [
+        "anos30"
+      ],
+      "generos": [
+        "spy-fiction",
+        "crime-thriller"
+      ]
+    },
+    {
+      "id": "la-mirada-del-observador",
+      "title": "La mirada del observador",
+      "author": "Marc Behm",
+      "original": "",
+      "year": "1980",
+      "synopsis": "Un hombre que vigila a una sospechosa acaba obsesionado con su vida y se introduce en una espiral de crímenes.",
+      "cover": "https://m.media-amazon.com/images/I/71U9y86115L._AC_UF1000,1000_QL80_.jpg",
+      "review": "https://balasyestrellas.blogspot.com/2024/02/la-mirada-del-observador-marc-behm.html",
+      "buy": "https://amzn.to/3NhNkX6",
+      "quien": [
+        "detective-privado"
+      ],
+      "que": [
+        "asesinato",
+        "desaparicion"
+      ],
+      "como": [
+        "noir",
+        "psicologica"
+      ],
+      "porque": [
+        "psicologico"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "finales"
+      ],
+      "generos": [
+        "psychological-thriller",
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "tres-asesinos",
+      "title": "Tres asesinos",
+      "author": "Kotaro Isaka",
+      "original": "",
+      "year": "2004",
+      "synopsis": "crimen organizado · venganza · crimen contemporáneo · noir insólito",
+      "cover": "https://www.abacus.coop/dw/image/v2/BDLM_PRD/on/demandware.static/-/Sites-AbacusMaster/default/dw69dd08ef/images/large/1532551.25.jpg?sw=740",
+      "review": "https://balasyestrellas.blogspot.com/2024/04/tres-asesinos-kotaro-isaka.html",
+      "buy": "https://amzn.to/4lqeB6a",
+      "quien": [
+        "criminal",
+        "civil"
+      ],
+      "que": [
+        "asesinato",
+        "crimen-organizado"
+      ],
+      "como": [
+        "criminal",
+        "insolita"
+      ],
+      "porque": [
+        "venganza"
+      ],
+      "donde": [
+        "japon"
+      ],
+      "cuando": [
+        "actual"
+      ],
+      "generos": [
+        "crook-story",
+        "crime-thriller",
+        "weird-noir"
+      ]
+    },
+    {
+      "id": "escupire-sobre-vuestra-tumba",
+      "title": "Escupiré sobre vuestra tumba",
+      "author": "Boris Vian",
+      "original": "",
+      "year": "1946",
+      "synopsis": "Una novela de venganza y violencia marcada por el racismo en Estados Unidos.",
+      "cover": "https://www.naoslibros.es/media/img/portadas/_visd_0000JPG015S9.jpg",
+      "review": "https://balasyestrellas.blogspot.com/2023/03/escupire-sobre-vuestra-tumba-de-boris.html",
+      "buy": "https://amzn.to/4ruerw4",
+      "quien": [
+        "criminal"
+      ],
+      "que": [
+        "asesinato"
+      ],
+      "como": [
+        "criminal"
+      ],
+      "porque": [
+        "venganza",
+        "social"
+      ],
+      "donde": [
+        "pueblo"
+      ],
+      "cuando": [
+        "mediados"
+      ],
+      "generos": [
+        "crook-story",
+        "crime-thriller"
+      ]
+    },
+    {
+      "id": "una-mujer-endemoniada",
+      "title": "Una mujer endemoniada",
+      "author": "Jim Thompson",
+      "original": "",
+      "year": "1954",
+      "synopsis": "Un relato de Jim Thompson sobre violencia, personajes moralmente ambiguos y los rincones más oscuros de la vida cotidiana.",
+      "cover": "https://m.media-amazon.com/images/I/61nhN9x6TpL._SY466_.jpg",
+      "review": "https://balasyestrellas.blogspot.com/2023/06/una-mujer-endemoniada-novela-jim-thompson.html",
+      "buy": "https://amzn.to/3PknhyV",
+      "quien": [
+        "criminal",
+        "civil"
+      ],
+      "que": [
+        "asesinato",
+        "manipulacion"
+      ],
+      "como": [
+        "criminal",
+        "psicologica"
+      ],
+      "porque": [
+        "codicia",
+        "pasion"
+      ],
+      "donde": [
+        "urbano"
+      ],
+      "cuando": [
+        "mediados"
+      ],
+      "generos": [
+        "crook-story",
+        "psychological-thriller"
+      ]
+    }
+  ]
+}
