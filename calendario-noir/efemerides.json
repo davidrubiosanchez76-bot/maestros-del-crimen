@@ -1,0 +1,2477 @@
+{
+  "version": 2,
+  "daily": [
+    {
+      "dia": "01",
+      "mes": "01",
+      "nombre": "Joe Orton",
+      "tipo": "Nacimiento",
+      "ano": "1933",
+      "desc": "Nace el dramaturgo británico cuya obra, cargada de humor negro y crimen, influiría en el tono del noir contemporáneo."
+    },
+    {
+      "dia": "01",
+      "mes": "01",
+      "nombre": "Petros Markaris",
+      "tipo": "Nacimiento",
+      "ano": "1937",
+      "desc": "Nace la voz del noir griego y creador del comisario Kostas Jaritos."
+    },
+    {
+      "dia": "02",
+      "mes": "01",
+      "nombre": "Redadas de Palmer",
+      "tipo": "True Crime",
+      "ano": "1920",
+      "desc": "El Departamento de Justicia de EE.UU. lanza una gran operación contra sospechosos de anarquismo y comunismo, episodio clave en la historia policial y judicial estadounidense."
+    },
+    {
+      "dia": "04",
+      "mes": "01",
+      "nombre": "Harlan Coben",
+      "tipo": "Nacimiento",
+      "ano": "1962",
+      "desc": "Nace el autor estadounidense de thrillers de suspense, conocido por sus tramas de desapariciones, secretos familiares y giros criminales."
+    },
+    {
+      "dia": "08",
+      "mes": "01",
+      "nombre": "Wilkie Collins",
+      "tipo": "★ Nacimiento",
+      "ano": "1824",
+      "desc": "Nace el creador de La piedra lunar, considerada por T.S. Eliot como la primera y mejor novela de detectives inglesa."
+    },
+    {
+      "dia": "09",
+      "mes": "01",
+      "nombre": "John Dunning",
+      "tipo": "Nacimiento",
+      "ano": "1942",
+      "desc": "Nace el escritor estadounidense de novela criminal, creador del expolicía y librero Cliff Janeway."
+    },
+    {
+      "dia": "10",
+      "mes": "01",
+      "nombre": "Dashiell Hammett",
+      "tipo": "✞ Fallecimiento",
+      "ano": "1961",
+      "desc": "Fallece el gran fundador de la novela negra moderna y padre de Sam Spade."
+    },
+    {
+      "dia": "11",
+      "mes": "01",
+      "nombre": "Thomas Hardy",
+      "tipo": "Fallecimiento",
+      "ano": "1928",
+      "desc": "Fallece el escritor británico cuya obra influyó en la evolución de la narrativa social y criminal."
+    },
+    {
+      "dia": "12",
+      "mes": "01",
+      "nombre": "La sombra de una duda",
+      "tipo": "Cine Noir",
+      "ano": "1943",
+      "desc": "Se estrena en Nueva York el thriller de Alfred Hitchcock, una de sus películas más oscuras y cercanas al noir doméstico."
+    },
+    {
+      "dia": "12",
+      "mes": "01",
+      "nombre": "Walter Mosley",
+      "tipo": "Nacimiento",
+      "ano": "1952",
+      "desc": "Nace el creador de Easy Rawlins, una de las voces fundamentales de la novela negra afroamericana contemporánea."
+    },
+    {
+      "dia": "12",
+      "mes": "01",
+      "nombre": "Agatha Christie",
+      "tipo": "Fallecimiento",
+      "ano": "1976",
+      "desc": "La Reina del Crimen. Creadora de Hércules Poirot y Miss Marple."
+    },
+    {
+      "dia": "13",
+      "mes": "01",
+      "nombre": "Creación de la Policía General del Reino",
+      "tipo": "Efemeride",
+      "ano": "1824",
+      "desc": "Un real decreto crea la Policía General del Reino, antecedente histórico de la Policía Nacional española."
+    },
+    {
+      "dia": "14",
+      "mes": "01",
+      "nombre": "John Lescroart",
+      "tipo": "Nacimiento",
+      "ano": "1948",
+      "desc": "Nace el autor estadounidense de thrillers legales y criminales, creador de Dismas Hardy y Abe Glitsky."
+    },
+    {
+      "dia": "15",
+      "mes": "01",
+      "nombre": "La Dalia Negra",
+      "tipo": "True Crime",
+      "ano": "1947",
+      "desc": "Se halla el cuerpo mutilado de Elizabeth Short en Los Ángeles. El caso inspiraría la obra maestra de James Ellroy."
+    },
+    {
+      "dia": "15",
+      "mes": "01",
+      "nombre": "Carlo Fruttero",
+      "tipo": "✞ Fallecimiento",
+      "ano": "2012",
+      "desc": "Fallece una de las mitades del dúo literario Fruttero & Lucentini, renovadores del noir italiano."
+    },
+    {
+      "dia": "17",
+      "mes": "01",
+      "nombre": "Fred Vargas",
+      "tipo": "★ Nacimiento",
+      "ano": "1957",
+      "desc": "Nace la gran dama del polar francés, creadora del comisario Adamsberg."
+    },
+    {
+      "dia": "17",
+      "mes": "01",
+      "nombre": "A sangre fría",
+      "tipo": "📖 Publicación",
+      "ano": "1966",
+      "desc": "Truman Capote publica en formato libro su obra maestra, fundando el género True Crime moderno."
+    },
+    {
+      "dia": "19",
+      "mes": "01",
+      "nombre": "Edgar Allan Poe",
+      "tipo": "★ Nacimiento",
+      "ano": "1809",
+      "desc": "El gran pionero. Creador del detective Auguste Dupin."
+    },
+    {
+      "dia": "19",
+      "mes": "01",
+      "nombre": "Patricia Highsmith",
+      "tipo": "★ Nacimiento",
+      "ano": "1921",
+      "desc": "Maestra indiscutible del suspense psicológico y creadora de Tom Ripley."
+    },
+    {
+      "dia": "19",
+      "mes": "01",
+      "nombre": "Julian Barnes / Dan Kavanagh",
+      "tipo": "Nacimiento",
+      "ano": "1946",
+      "desc": "Nace Julian Barnes, autor que también cultivó la novela criminal bajo el seudónimo Dan Kavanagh."
+    },
+    {
+      "dia": "20",
+      "mes": "01",
+      "nombre": "Detención de Vito Rizzuto",
+      "tipo": "True Crime",
+      "ano": "2004",
+      "desc": "El jefe mafioso canadiense Vito Rizzuto es detenido en Montreal a petición de las autoridades estadounidenses por su presunta vinculación con asesinatos mafiosos."
+    },
+    {
+      "dia": "24",
+      "mes": "01",
+      "nombre": "E.T.A. Hoffmann",
+      "tipo": "★ Nacimiento",
+      "ano": "1776",
+      "desc": "Nace el escritor y compositor alemán, claro precursor literario de Edgar Allan Poe."
+    },
+    {
+      "dia": "24",
+      "mes": "01",
+      "nombre": "Ejecución de Ted Bundy",
+      "tipo": "True Crime",
+      "ano": "1989",
+      "desc": "El asesino en serie es ejecutado en la silla eléctrica en Florida, cierre de uno de los casos criminales más mediáticos de EE.UU."
+    },
+    {
+      "dia": "26",
+      "mes": "01",
+      "nombre": "Jean-Claude Izzo",
+      "tipo": "✞ Fallecimiento",
+      "ano": "2000",
+      "desc": "Nos deja prematuramente el padre del polar marsellés y creador de Fabio Montale."
+    },
+    {
+      "dia": "27",
+      "mes": "01",
+      "nombre": "Caso Alcàsser (hallazgo)",
+      "tipo": "True Crime",
+      "ano": "1993",
+      "desc": "Son hallados los cuerpos de las tres niñas de Alcàsser en un paraje de Tous (Valencia), crimen que conmocionó a España."
+    },
+    {
+      "dia": "27",
+      "mes": "01",
+      "nombre": "James Sallis",
+      "tipo": "Fallecimiento",
+      "ano": "2026",
+      "desc": "Fallece el autor estadounidense de Drive y de la serie de Lew Griffin, una de las voces más singulares del noir contemporáneo."
+    },
+    {
+      "dia": "31",
+      "mes": "01",
+      "nombre": "Norman Mailer",
+      "tipo": "Nacimiento",
+      "ano": "1923",
+      "desc": "Nace el autor de La canción del verdugo, obra clave del true crime literario sobre Gary Gilmore."
+    },
+    {
+      "dia": "02",
+      "mes": "02",
+      "nombre": "Las hermanas Papin",
+      "tipo": "True Crime",
+      "ano": "1933",
+      "desc": "Christine y Léa Papin asesinan brutalmente a la esposa y la hija de su patrón en Le Mans, caso que inspiraría obras teatrales, ensayos y lecturas criminológicas."
+    },
+    {
+      "dia": "02",
+      "mes": "02",
+      "nombre": "El tercer hombre (estreno en EE.UU.)",
+      "tipo": "Cine Noir",
+      "ano": "1950",
+      "desc": "Se estrena en Nueva York el clásico de Carol Reed, meses después de su apertura británica de 1949."
+    },
+    {
+      "dia": "03",
+      "mes": "02",
+      "nombre": "Henning Mankell",
+      "tipo": "★ Nacimiento",
+      "ano": "1948",
+      "desc": "Nace el pilar del noir nórdico moderno y creador de Kurt Wallander."
+    },
+    {
+      "dia": "04",
+      "mes": "02",
+      "nombre": "Patricia Highsmith",
+      "tipo": "✞ Fallecimiento",
+      "ano": "1995",
+      "desc": "Nos deja la gran exploradora de la amoralidad y la culpa, madre del sociópata Tom Ripley."
+    },
+    {
+      "dia": "05",
+      "mes": "02",
+      "nombre": "Margaret Millar",
+      "tipo": "Nacimiento",
+      "ano": "1915",
+      "desc": "Nace la autora canadiense-estadounidense de misterio y suspense psicológico, ganadora del Edgar por Beast in View."
+    },
+    {
+      "dia": "06",
+      "mes": "02",
+      "nombre": "El sueño eterno",
+      "tipo": "📖 Publicación",
+      "ano": "1939",
+      "desc": "Raymond Chandler publica su primera novela, presentando al mundo al icónico detective Philip Marlowe."
+    },
+    {
+      "dia": "07",
+      "mes": "02",
+      "nombre": "Josef Mengele",
+      "tipo": "Fallecimiento",
+      "ano": "1979",
+      "desc": "Muere en Brasil el criminal nazi fugado, cuya persecución inspiró múltiples relatos de investigación y caza de criminales."
+    },
+    {
+      "dia": "08",
+      "mes": "02",
+      "nombre": "John Grisham",
+      "tipo": "★ Nacimiento",
+      "ano": "1955",
+      "desc": "Nace el rey indiscutible del thriller legal y de tribunales contemporáneo."
+    },
+    {
+      "dia": "10",
+      "mes": "02",
+      "nombre": "Edgar Wallace",
+      "tipo": "Fallecimiento",
+      "ano": "1932",
+      "desc": "Fallece el prolífico autor británico de novela criminal, teatro y guiones, uno de los escritores populares más leídos de su tiempo."
+    },
+    {
+      "dia": "10",
+      "mes": "02",
+      "nombre": "Julian Rathbone",
+      "tipo": "Nacimiento",
+      "ano": "1935",
+      "desc": "Nace el novelista británico, autor de thrillers y novelas criminales como la serie de Chris Shovelin."
+    },
+    {
+      "dia": "11",
+      "mes": "02",
+      "nombre": "Paco Ignacio Taibo II",
+      "tipo": "★ Nacimiento",
+      "ano": "1949",
+      "desc": "Nace el creador del detective Héctor Belascoarán y figura clave del neopolicial latinoamericano."
+    },
+    {
+      "dia": "12",
+      "mes": "02",
+      "nombre": "Andrew Garve",
+      "tipo": "Nacimiento",
+      "ano": "1908",
+      "desc": "Nace Paul Winterton, autor británico de misterio y novela criminal bajo el seudónimo Andrew Garve."
+    },
+    {
+      "dia": "13",
+      "mes": "02",
+      "nombre": "Georges Simenon",
+      "tipo": "★ Nacimiento",
+      "ano": "1903",
+      "desc": "Nace el prolífico autor belga, padre del comisario Jules Maigret."
+    },
+    {
+      "dia": "14",
+      "mes": "02",
+      "nombre": "Matanza de San Valentín",
+      "tipo": "True Crime",
+      "ano": "1929",
+      "desc": "Siete miembros y asociados de la banda de Bugs Moran son asesinados en Chicago, uno de los episodios más célebres del crimen organizado estadounidense."
+    },
+    {
+      "dia": "14",
+      "mes": "02",
+      "nombre": "El silencio de los corderos",
+      "tipo": "🎞️ Cine Noir",
+      "ano": "1991",
+      "desc": "Se estrena en EE.UU. la oscarizada adaptación de la novela de Thomas Harris con Hannibal Lecter."
+    },
+    {
+      "dia": "17",
+      "mes": "02",
+      "nombre": "Ruth Rendell",
+      "tipo": "★ Nacimiento",
+      "ano": "1930",
+      "desc": "Nace la reina inglesa del suspense psicológico oscuro."
+    },
+    {
+      "dia": "18",
+      "mes": "02",
+      "nombre": "Len Deighton",
+      "tipo": "Nacimiento",
+      "ano": "1929",
+      "desc": "Nace el autor británico de The Ipcress File, figura clave del thriller de espionaje moderno."
+    },
+    {
+      "dia": "18",
+      "mes": "02",
+      "nombre": "George Pelecanos",
+      "tipo": "Nacimiento",
+      "ano": "1957",
+      "desc": "Nace el escritor estadounidense de novela criminal, conocido por sus historias hard-boiled ambientadas en Washington D. C."
+    },
+    {
+      "dia": "18",
+      "mes": "02",
+      "nombre": "Ngaio Marsh",
+      "tipo": "Fallecimiento",
+      "ano": "1982",
+      "desc": "Fallece una de las grandes damas de la Edad de Oro de la novela detectivesca, creadora del inspector Roderick Alleyn."
+    },
+    {
+      "dia": "20",
+      "mes": "02",
+      "nombre": "Chester Himes",
+      "tipo": "★ Nacimiento",
+      "ano": "1909",
+      "desc": "Nace el implacable retratista del Harlem más duro y violento."
+    },
+    {
+      "dia": "22",
+      "mes": "02",
+      "nombre": "Philip Kerr",
+      "tipo": "Nacimiento",
+      "ano": "1956",
+      "desc": "Nace el escritor escocés, creador de Bernie Gunther y figura clave del thriller histórico criminal."
+    },
+    {
+      "dia": "24",
+      "mes": "02",
+      "nombre": "Gillian Flynn",
+      "tipo": "Nacimiento",
+      "ano": "1971",
+      "desc": "Nace la autora estadounidense de Perdida, Heridas abiertas y Lugares oscuros, referente del thriller psicológico contemporáneo."
+    },
+    {
+      "dia": "27",
+      "mes": "02",
+      "nombre": "Daniel Mainwaring",
+      "tipo": "Nacimiento",
+      "ano": "1902",
+      "desc": "Nace el novelista y guionista estadounidense, autor de la novela Build My Gallows High y guionista de Retorno al pasado."
+    },
+    {
+      "dia": "28",
+      "mes": "02",
+      "nombre": "Ben Hecht",
+      "tipo": "Nacimiento",
+      "ano": "1894",
+      "desc": "Nace el guionista y escritor estadounidense vinculado al cine criminal clásico, con títulos como Scarface, Encadenados y La ley del hampa."
+    },
+    {
+      "dia": "01",
+      "mes": "03",
+      "nombre": "Secuestro del bebé Lindbergh",
+      "tipo": "True Crime",
+      "ano": "1932",
+      "desc": "Charles Lindbergh Jr. es secuestrado en Nueva Jersey, en uno de los casos criminales más mediáticos del siglo XX."
+    },
+    {
+      "dia": "01",
+      "mes": "03",
+      "nombre": "Nevada Barr",
+      "tipo": "Nacimiento",
+      "ano": "1952",
+      "desc": "Nace la autora estadounidense de misterio, creadora de la serie protagonizada por la ranger Anna Pigeon."
+    },
+    {
+      "dia": "02",
+      "mes": "03",
+      "nombre": "David Goodis",
+      "tipo": "Nacimiento",
+      "ano": "1917",
+      "desc": "Nace el autor estadounidense de noir oscuro y fatalista, figura clave del pulp y del roman noir."
+    },
+    {
+      "dia": "03",
+      "mes": "03",
+      "nombre": "Fuga de John Dillinger",
+      "tipo": "True Crime",
+      "ano": "1934",
+      "desc": "El célebre atracador escapa de la cárcel de Crown Point, Indiana, en uno de los episodios más legendarios del crimen estadounidense."
+    },
+    {
+      "dia": "03",
+      "mes": "03",
+      "nombre": "Chester Himes",
+      "tipo": "✞ Fallecimiento",
+      "ano": "1984",
+      "desc": "Fallece en España el creador de Ataúd Johnson y Sepulturero Jones."
+    },
+    {
+      "dia": "03",
+      "mes": "03",
+      "nombre": "Paliza a Rodney King",
+      "tipo": "True Crime",
+      "ano": "1991",
+      "desc": "La brutal agresión policial contra Rodney King es grabada en vídeo, caso clave para entender el crimen institucional y el noir urbano contemporáneo."
+    },
+    {
+      "dia": "04",
+      "mes": "03",
+      "nombre": "James Ellroy",
+      "tipo": "★ Nacimiento",
+      "ano": "1948",
+      "desc": "Nace el Perro Rabioso de la literatura negra, autor de L.A. Confidential."
+    },
+    {
+      "dia": "07",
+      "mes": "03",
+      "nombre": "Léo Malet",
+      "tipo": "★ Nacimiento",
+      "ano": "1909",
+      "desc": "Nace el creador del detective Nestor Burma y pionero de la novela negra francesa."
+    },
+    {
+      "dia": "09",
+      "mes": "03",
+      "nombre": "Mickey Spillane",
+      "tipo": "★ Nacimiento",
+      "ano": "1918",
+      "desc": "Nace el autor de la hiperviolenta saga de Mike Hammer, auténtico fenómeno de ventas pulp."
+    },
+    {
+      "dia": "10",
+      "mes": "03",
+      "nombre": "Åke Edwardson",
+      "tipo": "Nacimiento",
+      "ano": "1953",
+      "desc": "Nace el escritor sueco de novela negra, creador del inspector Erik Winter."
+    },
+    {
+      "dia": "13",
+      "mes": "03",
+      "nombre": "Asesinato de Kitty Genovese",
+      "tipo": "True Crime",
+      "ano": "1964",
+      "desc": "Kitty Genovese es asesinada en Queens, caso que marcaría el debate sobre la indiferencia social y el llamado efecto espectador."
+    },
+    {
+      "dia": "15",
+      "mes": "03",
+      "nombre": "Lawrence Sanders",
+      "tipo": "Nacimiento",
+      "ano": "1920",
+      "desc": "Nace el autor estadounidense de novela criminal y suspense, creador de las series Edward X. Delaney y Archy McNally."
+    },
+    {
+      "dia": "15",
+      "mes": "03",
+      "nombre": "Marcia Muller",
+      "tipo": "★ Nacimiento",
+      "ano": "1944",
+      "desc": "Nace la escritora pionera en introducir a las mujeres como detectives privadas duras, con Sharon McCone."
+    },
+    {
+      "dia": "17",
+      "mes": "03",
+      "nombre": "Peter Robinson",
+      "tipo": "Nacimiento",
+      "ano": "1950",
+      "desc": "Nace el escritor británico-canadiense de novela criminal, creador del inspector Alan Banks."
+    },
+    {
+      "dia": "18",
+      "mes": "03",
+      "nombre": "Robo del Museo Isabella Stewart Gardner",
+      "tipo": "True Crime",
+      "ano": "1990",
+      "desc": "Dos ladrones disfrazados de policías roban trece obras de arte en Boston, considerado uno de los mayores robos de arte de la historia."
+    },
+    {
+      "dia": "20",
+      "mes": "03",
+      "nombre": "Atentado con gas sarín en Tokio",
+      "tipo": "True Crime",
+      "ano": "1995",
+      "desc": "La secta Aum Shinrikyo ataca el metro de Tokio con gas sarín, uno de los crímenes terroristas más graves de Japón."
+    },
+    {
+      "dia": "21",
+      "mes": "03",
+      "nombre": "Cierre de Alcatraz",
+      "tipo": "Efemeride",
+      "ano": "1963",
+      "desc": "Cierra la prisión federal de Alcatraz, icono del imaginario criminal estadounidense y escenario de múltiples relatos carcelarios."
+    },
+    {
+      "dia": "22",
+      "mes": "03",
+      "nombre": "James Patterson",
+      "tipo": "Nacimiento",
+      "ano": "1947",
+      "desc": "Nace el autor estadounidense de thrillers y creador de Alex Cross, uno de los detectives más populares del suspense contemporáneo."
+    },
+    {
+      "dia": "24",
+      "mes": "03",
+      "nombre": "El Padrino",
+      "tipo": "🎞️ Cine Noir",
+      "ano": "1972",
+      "desc": "Llega a los cines la magistral adaptación de Francis Ford Coppola de la novela mafiosa de Mario Puzo."
+    },
+    {
+      "dia": "25",
+      "mes": "03",
+      "nombre": "El sabueso de los Baskerville",
+      "tipo": "📖 Publicación",
+      "ano": "1902",
+      "desc": "Sale a la venta en formato libro la aventura más terrorífica y célebre de Sherlock Holmes."
+    },
+    {
+      "dia": "26",
+      "mes": "03",
+      "nombre": "Mystery Writers of America",
+      "tipo": "Fundacion",
+      "ano": "1945",
+      "desc": "Se funda en Nueva York la asociación que otorga los Premios Edgar y reúne a autores de misterio, policial y thriller."
+    },
+    {
+      "dia": "26",
+      "mes": "03",
+      "nombre": "Raymond Chandler",
+      "tipo": "✞ Fallecimiento",
+      "ano": "1959",
+      "desc": "Fallece el gran estilista del género y creador de Philip Marlowe."
+    },
+    {
+      "dia": "27",
+      "mes": "03",
+      "nombre": "Dana Stabenow",
+      "tipo": "Nacimiento",
+      "ano": "1952",
+      "desc": "Nace la autora estadounidense de misterio, creadora de la serie de Kate Shugak ambientada en Alaska."
+    },
+    {
+      "dia": "29",
+      "mes": "03",
+      "nombre": "Jo Nesbø",
+      "tipo": "★ Nacimiento",
+      "ano": "1960",
+      "desc": "Nace el gigante del thriller escandinavo, padre de Harry Hole."
+    },
+    {
+      "dia": "02",
+      "mes": "04",
+      "nombre": "Émile Zola",
+      "tipo": "Nacimiento",
+      "ano": "1840",
+      "desc": "Nace el escritor francés cuyo naturalismo influiría decisivamente en la novela criminal moderna."
+    },
+    {
+      "dia": "05",
+      "mes": "04",
+      "nombre": "Live and Let Die (Vive y deja morir)",
+      "tipo": "Publicacion",
+      "ano": "1954",
+      "desc": "Ian Fleming publica en Londres la segunda novela de James Bond, consolidando la serie de espionaje protagonizada por el agente 007."
+    },
+    {
+      "dia": "07",
+      "mes": "04",
+      "nombre": "Jim Thompson",
+      "tipo": "✞ Fallecimiento",
+      "ano": "1977",
+      "desc": "Fallece el genio pulp, el escritor más oscuro y retorcido de la edad de oro."
+    },
+    {
+      "dia": "08",
+      "mes": "04",
+      "nombre": "Kōbō Abe",
+      "tipo": "Nacimiento",
+      "ano": "1924",
+      "desc": "Nace el escritor japonés cuya obra incorpora elementos de misterio psicológico y existencial."
+    },
+    {
+      "dia": "09",
+      "mes": "04",
+      "nombre": "Jean-Paul Belmondo",
+      "tipo": "Nacimiento",
+      "ano": "1933",
+      "desc": "Nace el actor francés clave en el polar y el cine criminal europeo."
+    },
+    {
+      "dia": "12",
+      "mes": "04",
+      "nombre": "Tom Clancy",
+      "tipo": "Nacimiento",
+      "ano": "1947",
+      "desc": "Nace el autor estadounidense que renovó el thriller político y de espionaje moderno."
+    },
+    {
+      "dia": "13",
+      "mes": "04",
+      "nombre": "Casino Royale",
+      "tipo": "📖 Publicación",
+      "ano": "1953",
+      "desc": "Ian Fleming publica la primera novela protagonizada por el espía James Bond, el agente 007."
+    },
+    {
+      "dia": "14",
+      "mes": "04",
+      "nombre": "Asesinato de Abraham Lincoln",
+      "tipo": "True Crime",
+      "ano": "1865",
+      "desc": "El presidente de EE.UU. es tiroteado por John Wilkes Booth en uno de los crímenes más famosos de la historia."
+    },
+    {
+      "dia": "20",
+      "mes": "04",
+      "nombre": "Columbine",
+      "tipo": "True Crime",
+      "ano": "1999",
+      "desc": "Masacre en el instituto Columbine, uno de los crímenes más impactantes de la historia reciente de EE.UU."
+    },
+    {
+      "dia": "24",
+      "mes": "04",
+      "nombre": "Sue Grafton",
+      "tipo": "★ Nacimiento",
+      "ano": "1940",
+      "desc": "Nace la creadora de la detective Kinsey Millhone y del famoso alfabeto del crimen."
+    },
+    {
+      "dia": "24",
+      "mes": "04",
+      "nombre": "Perdición (Double Indemnity)",
+      "tipo": "🎞️ Cine Noir",
+      "ano": "1944",
+      "desc": "Se estrena la joya de Billy Wilder basada en la novela de James M. Cain, fijando la estética del cine negro clásico."
+    },
+    {
+      "dia": "27",
+      "mes": "04",
+      "nombre": "Dr. Mabuse, el jugador",
+      "tipo": "Cine Noir",
+      "ano": "1922",
+      "desc": "Se estrena en Berlín la primera parte de Dr. Mabuse, el jugador, de Fritz Lang, antecedente fundamental del thriller criminal europeo."
+    },
+    {
+      "dia": "28",
+      "mes": "04",
+      "nombre": "Harper Lee",
+      "tipo": "★ Nacimiento",
+      "ano": "1926",
+      "desc": "Nace la autora de Matar a un ruiseñor, clásico indispensable con uno de los juicios más famosos de la literatura."
+    },
+    {
+      "dia": "28",
+      "mes": "04",
+      "nombre": "Ian Rankin",
+      "tipo": "★ Nacimiento",
+      "ano": "1960",
+      "desc": "Nace el pilar del Tartan Noir escocés y creador del inspector John Rebus."
+    },
+    {
+      "dia": "29",
+      "mes": "04",
+      "nombre": "Disturbios de Los Ángeles",
+      "tipo": "True Crime",
+      "ano": "1992",
+      "desc": "Estallan tras el caso Rodney King, reflejando tensiones sociales clave del noir urbano."
+    },
+    {
+      "dia": "01",
+      "mes": "05",
+      "nombre": "Freida McFadden",
+      "tipo": "Nacimiento",
+      "ano": "1980",
+      "desc": "Nace la autora estadounidense de thrillers psicológicos y fenómeno superventas con La asistenta."
+    },
+    {
+      "dia": "01",
+      "mes": "05",
+      "nombre": "Premios Edgar 2025",
+      "tipo": "Efeméride",
+      "ano": "2025",
+      "desc": "La Mystery Writers of America celebra la 79.ª edición de los Premios Edgar, con Laura Lippman y John Sandford como Grand Masters."
+    },
+    {
+      "dia": "02",
+      "mes": "05",
+      "nombre": "El cartero siempre llama dos veces (adaptación)",
+      "tipo": "Cine Noir",
+      "ano": "1946",
+      "desc": "Se estrena en Estados Unidos la adaptación de la novela de James M. Cain con Lana Turner y John Garfield, clásico del cine negro."
+    },
+    {
+      "dia": "02",
+      "mes": "05",
+      "nombre": "Ruth Rendell",
+      "tipo": "✞ Fallecimiento",
+      "ano": "2015",
+      "desc": "Fallece la inmensa creadora del inspector Wexford y reina de la novela de suspense psicológico inglesa."
+    },
+    {
+      "dia": "04",
+      "mes": "05",
+      "nombre": "Crimen de la Guardia Urbana",
+      "tipo": "True Crime",
+      "ano": "2017",
+      "desc": "Aparece el cuerpo calcinado de Pedro Rodríguez cerca del pantano de Foix, caso que conmocionó a España."
+    },
+    {
+      "dia": "05",
+      "mes": "05",
+      "nombre": "Linda Fairstein",
+      "tipo": "Nacimiento",
+      "ano": "1947",
+      "desc": "Nace la escritora estadounidense de thrillers legales y exfiscal especializada en delitos sexuales."
+    },
+    {
+      "dia": "05",
+      "mes": "05",
+      "nombre": "West Memphis Three",
+      "tipo": "True Crime",
+      "ano": "1993",
+      "desc": "Desaparecen tres niños en West Memphis, Arkansas; el caso derivaría en uno de los procesos criminales más polémicos de EE.UU."
+    },
+    {
+      "dia": "06",
+      "mes": "05",
+      "nombre": "Orson Welles",
+      "tipo": "Nacimiento",
+      "ano": "1915",
+      "desc": "Nace el cineasta que firmaría Sed de mal, una de las últimas grandes obras del cine negro clásico."
+    },
+    {
+      "dia": "07",
+      "mes": "05",
+      "nombre": "H. H. Holmes",
+      "tipo": "True Crime",
+      "ano": "1896",
+      "desc": "Es ejecutado Herman Webster Mudgett, conocido como H. H. Holmes, uno de los criminales más célebres de la historia estadounidense."
+    },
+    {
+      "dia": "08",
+      "mes": "05",
+      "nombre": "Jacques Mesrine",
+      "tipo": "True Crime",
+      "ano": "1978",
+      "desc": "El famoso criminal francés escapa de la prisión de La Santé, consolidando su leyenda."
+    },
+    {
+      "dia": "09",
+      "mes": "05",
+      "nombre": "Asesinato de Aldo Moro",
+      "tipo": "True Crime",
+      "ano": "1978",
+      "desc": "Las Brigadas Rojas asesinan al político italiano Aldo Moro tras 55 días de secuestro, uno de los episodios más impactantes del terrorismo europeo."
+    },
+    {
+      "dia": "09",
+      "mes": "05",
+      "nombre": "Joel Rifkin",
+      "tipo": "True Crime",
+      "ano": "1994",
+      "desc": "El asesino en serie Joel Rifkin es declarado culpable de asesinato en Nueva York."
+    },
+    {
+      "dia": "10",
+      "mes": "05",
+      "nombre": "Tana French",
+      "tipo": "Nacimiento",
+      "ano": "1973",
+      "desc": "Nace la autora irlandesa-estadounidense de la serie Dublin Murder Squad y una de las voces actuales más sólidas del thriller literario."
+    },
+    {
+      "dia": "18",
+      "mes": "05",
+      "nombre": "El estrangulador de Boston",
+      "tipo": "True Crime",
+      "ano": "1967",
+      "desc": "Albert DeSalvo es arrestado como principal sospechoso de una serie de asesinatos que aterrorizaron Boston."
+    },
+    {
+      "dia": "21",
+      "mes": "05",
+      "nombre": "Raymond Burr",
+      "tipo": "Nacimiento",
+      "ano": "1917",
+      "desc": "Nace el actor que dio vida al icónico abogado Perry Mason, figura clave del crimen televisivo."
+    },
+    {
+      "dia": "21",
+      "mes": "05",
+      "nombre": "Leopold y Loeb",
+      "tipo": "True Crime",
+      "ano": "1924",
+      "desc": "Asesinan al joven Bobby Franks en Chicago en busca del 'crimen perfecto', uno de los casos más célebres del siglo XX."
+    },
+    {
+      "dia": "22",
+      "mes": "05",
+      "nombre": "Arthur Conan Doyle",
+      "tipo": "Nacimiento",
+      "ano": "1859",
+      "desc": "Nace el creador de Sherlock Holmes, figura clave en el nacimiento de la literatura detectivesca moderna."
+    },
+    {
+      "dia": "23",
+      "mes": "05",
+      "nombre": "Bonnie y Clyde",
+      "tipo": "True Crime",
+      "ano": "1934",
+      "desc": "La pareja criminal más famosa de América es abatida en una emboscada policial en Luisiana."
+    },
+    {
+      "dia": "25",
+      "mes": "05",
+      "nombre": "Condena de los responsables de Enron",
+      "tipo": "True Crime",
+      "ano": "2006",
+      "desc": "Un jurado federal declara culpables de fraude y conspiración a los exdirectivos de Enron Kenneth Lay y Jeffrey Skilling."
+    },
+    {
+      "dia": "27",
+      "mes": "05",
+      "nombre": "Dashiell Hammett",
+      "tipo": "Nacimiento",
+      "ano": "1894",
+      "desc": "Nace el autor que revolucionó la novela negra con su estilo seco y realista."
+    },
+    {
+      "dia": "28",
+      "mes": "05",
+      "nombre": "Ian Fleming",
+      "tipo": "Nacimiento",
+      "ano": "1908",
+      "desc": "Nace el creador de James Bond, figura clave en el thriller de espionaje moderno."
+    },
+    {
+      "dia": "31",
+      "mes": "05",
+      "nombre": "John Connolly",
+      "tipo": "Nacimiento",
+      "ano": "1968",
+      "desc": "Nace el creador del detective Charlie Parker, mezclando noir con elementos sobrenaturales."
+    },
+    {
+      "dia": "03",
+      "mes": "06",
+      "nombre": "El caso Jack Unterweger",
+      "tipo": "True Crime",
+      "ano": "1992",
+      "desc": "El escritor y asesino austriaco es detenido en EE.UU. tras ser vinculado a varios asesinatos, uno de los casos más inquietantes de criminales mediáticos."
+    },
+    {
+      "dia": "04",
+      "mes": "06",
+      "nombre": "Val McDermid",
+      "tipo": "★ Nacimiento",
+      "ano": "1955",
+      "desc": "Nace la gran referente contemporánea del Tartan Noir escocés."
+    },
+    {
+      "dia": "05",
+      "mes": "06",
+      "nombre": "Ken Follett",
+      "tipo": "★ Nacimiento",
+      "ano": "1949",
+      "desc": "Nace el gran maestro británico del thriller histórico y de espionaje."
+    },
+    {
+      "dia": "05",
+      "mes": "06",
+      "nombre": "Asesinato de Robert F. Kennedy",
+      "tipo": "True Crime",
+      "ano": "1968",
+      "desc": "El senador estadounidense es tiroteado en Los Ángeles, en uno de los magnicidios más impactantes del siglo XX."
+    },
+    {
+      "dia": "08",
+      "mes": "06",
+      "nombre": "Sara Paretsky",
+      "tipo": "★ Nacimiento",
+      "ano": "1947",
+      "desc": "Nace la creadora de V.I. Warshawski y pilar fundamental en la evolución feminista de la novela negra."
+    },
+    {
+      "dia": "08",
+      "mes": "06",
+      "nombre": "George Orwell",
+      "tipo": "Publicacion",
+      "ano": "1949",
+      "desc": "Se publica 1984 en Reino Unido, novela clave sobre vigilancia, control y poder, influyente en el thriller político."
+    },
+    {
+      "dia": "08",
+      "mes": "06",
+      "nombre": "Captura de James Earl Ray",
+      "tipo": "True Crime",
+      "ano": "1968",
+      "desc": "Es detenido el asesino de Martin Luther King, cerrando una intensa persecución internacional."
+    },
+    {
+      "dia": "09",
+      "mes": "06",
+      "nombre": "Patricia Cornwell",
+      "tipo": "Nacimiento",
+      "ano": "1956",
+      "desc": "Nace la autora que popularizó el thriller forense con su saga de Kay Scarpetta."
+    },
+    {
+      "dia": "10",
+      "mes": "06",
+      "nombre": "Alicia Giménez Bartlett",
+      "tipo": "★ Nacimiento",
+      "ano": "1951",
+      "desc": "Nace la pionera creadora de la inspectora Petra Delicado."
+    },
+    {
+      "dia": "11",
+      "mes": "06",
+      "nombre": "Ejecución de Timothy McVeigh",
+      "tipo": "True Crime",
+      "ano": "2001",
+      "desc": "Es ejecutado por inyección letal el autor del atentado de Oklahoma City de 1995, uno de los ataques terroristas más mortíferos de Estados Unidos."
+    },
+    {
+      "dia": "12",
+      "mes": "06",
+      "nombre": "Asesinatos de Nicole Brown Simpson y Ron Goldman",
+      "tipo": "True Crime",
+      "ano": "1994",
+      "desc": "Nicole Brown Simpson y Ron Goldman son asesinados en Los Ángeles. Sus cuerpos serían encontrados el 13 de junio, dando lugar a un proceso judicial de enorme repercusión."
+    },
+    {
+      "dia": "13",
+      "mes": "06",
+      "nombre": "Dorothy L. Sayers",
+      "tipo": "★ Nacimiento",
+      "ano": "1893",
+      "desc": "Nace la gran dama de la Edad de Oro del misterio y creadora del aristocrático Lord Peter Wimsey."
+    },
+    {
+      "dia": "14",
+      "mes": "06",
+      "nombre": "M. Vázquez Montalbán",
+      "tipo": "★ Nacimiento",      "ano": "1939",
+      "desc": "Nace el referente de la novela negra mediterránea y padre de Pepe Carvalho."
+    },
+    {
+      "dia": "15",
+      "mes": "06",
+      "nombre": "Captura de Ted Bundy",
+      "tipo": "True Crime",
+      "ano": "1978",
+      "desc": "El asesino en serie es capturado definitivamente en Florida tras una larga fuga."
+    },
+    {
+      "dia": "16",
+      "mes": "06",
+      "nombre": "Psicosis",
+      "tipo": "🎞️ Cine Noir",
+      "ano": "1960",
+      "desc": "Hitchcock estrena en Nueva York su obra maestra basada en la novela de Robert Bloch."
+    },
+    {
+      "dia": "17",
+      "mes": "06",
+      "nombre": "Watergate (detenciones)",
+      "tipo": "True Crime",
+      "ano": "1972",
+      "desc": "Son arrestados los implicados en el caso Watergate, uno de los mayores escándalos políticos de la historia."
+    },
+    {
+      "dia": "20",
+      "mes": "06",
+      "nombre": "Jean-Claude Izzo",
+      "tipo": "★ Nacimiento",
+      "ano": "1945",
+      "desc": "Nace el creador de la aclamada trilogía negra de Marsella."
+    },
+    {
+      "dia": "20",
+      "mes": "06",
+      "nombre": "Muerte de Bugsy Siegel",
+      "tipo": "True Crime",
+      "ano": "1947",
+      "desc": "El mafioso estadounidense es asesinado en Beverly Hills, símbolo del crimen organizado y figura clave en el imaginario noir."
+    },
+    {
+      "dia": "20",
+      "mes": "06",
+      "nombre": "Comparecencia judicial de O. J. Simpson",
+      "tipo": "True Crime",
+      "ano": "1994",
+      "desc": "O. J. Simpson comparece ante un tribunal de Los Ángeles y se declara no culpable de los asesinatos de Nicole Brown Simpson y Ronald Goldman."
+    },
+    {
+      "dia": "21",
+      "mes": "06",
+      "nombre": "Chinatown",
+      "tipo": "Cine Noir",
+      "ano": "1974",
+      "desc": "Se estrena en Nueva York y Los Ángeles el neo-noir dirigido por Roman Polanski, protagonizado por Jack Nicholson y Faye Dunaway."
+    },
+    {
+      "dia": "24",
+      "mes": "06",
+      "nombre": "Lawrence Block",
+      "tipo": "★ Nacimiento",
+      "ano": "1938",
+      "desc": "Nace el polifacético creador de Matthew Scudder y del encantador ladrón Bernie Rhodenbarr."
+    },
+    {
+      "dia": "25",
+      "mes": "06",
+      "nombre": "Hallazgo de los asesinatos de Chris Benoit",
+      "tipo": "True Crime",
+      "ano": "2007",
+      "desc": "La policía encuentra los cuerpos del luchador Chris Benoit, su esposa Nancy y su hijo Daniel; la investigación concluye que Benoit los asesinó antes de suicidarse."
+    },
+    {
+      "dia": "27",
+      "mes": "06",
+      "nombre": "The Friends of Eddie Coyle",
+      "tipo": "Cine Noir",
+      "ano": "1973",
+      "desc": "Se estrena en Nueva York y Los Ángeles el seco retrato del crimen profesional dirigido por Peter Yates, adaptación de la novela de George V. Higgins."
+    },
+    {
+      "dia": "28",
+      "mes": "06",
+      "nombre": "Asesinato del archiduque Francisco Fernando",
+      "tipo": "True Crime",
+      "ano": "1914",
+      "desc": "El atentado de Sarajevo desencadena la Primera Guerra Mundial, uno de los magnicidios más trascendentales de la historia."
+    },
+    {
+      "dia": "30",
+      "mes": "06",
+      "nombre": "El crimen de Road Hill",
+      "tipo": "🩸 True Crime",
+      "ano": "1860",
+      "desc": "Se descubre el asesinato que inspiraría al inspector Whicher y sentaría las bases de la novela detectivesca."
+    },
+    {
+      "dia": "01",
+      "mes": "07",
+      "nombre": "James M. Cain",
+      "tipo": "★ Nacimiento",
+      "ano": "1892",
+      "desc": "Nace el autor de clásicos inmortales de la pasión y el crimen."
+    },
+    {
+      "dia": "01",
+      "mes": "07",
+      "nombre": "Inicio de operaciones de Europol",
+      "tipo": "Fundacion",
+      "ano": "1999",
+      "desc": "Europol comienza oficialmente a funcionar como oficina europea de cooperación policial para combatir el crimen organizado y otros delitos internacionales."
+    },
+    {
+      "dia": "07",
+      "mes": "07",
+      "nombre": "Arthur Conan Doyle",
+      "tipo": "✞ Fallecimiento",
+      "ano": "1930",
+      "desc": "Fallece el escritor que elevó la deducción lógica a la categoría de arte."
+    },
+    {
+      "dia": "07",
+      "mes": "07",
+      "nombre": "Semana Negra de Gijón",
+      "tipo": "🎪 Festival",
+      "ano": "1988",
+      "desc": "Arranca la primera edición del certamen literario y cultural más longevo y multitudinario del género en español."
+    },
+    {
+      "dia": "09",
+      "mes": "07",
+      "nombre": "Muerte de Jackie Presser",
+      "tipo": "True Crime",
+      "ano": "1988",
+      "desc": "Fallece el controvertido líder sindical vinculado al crimen organizado en EE.UU."
+    },
+    {
+      "dia": "10",
+      "mes": "07",
+      "nombre": "El largo adiós",
+      "tipo": "Publicacion",
+      "ano": "1953",
+      "desc": "Se publica la novela de Raymond Chandler considerada una de las cumbres del noir."
+    },
+    {
+      "dia": "14",
+      "mes": "07",
+      "nombre": "Caso Sacco y Vanzetti (veredicto)",
+      "tipo": "True Crime",
+      "ano": "1921",
+      "desc": "Son declarados culpables en uno de los juicios más polémicos del siglo XX."
+    },
+    {
+      "dia": "15",
+      "mes": "07",
+      "nombre": "Arsène Lupin",
+      "tipo": "📖 Publicación",
+      "ano": "1905",
+      "desc": "Maurice Leblanc publica el primer relato de las aventuras del incombustible ladrón de guante blanco."
+    },
+    {
+      "dia": "16",
+      "mes": "07",
+      "nombre": "Lucky Luciano",
+      "tipo": "True Crime",
+      "ano": "1936",
+      "desc": "El capo de la mafia italoamericana es condenado, golpe clave al crimen organizado en EE.UU."
+    },
+    {
+      "dia": "17",
+      "mes": "07",
+      "nombre": "Erle Stanley Gardner",
+      "tipo": "★ Nacimiento",
+      "ano": "1889",
+      "desc": "Nace el abogado y escritor que creó a Perry Mason, el defensor más famoso de las letras y la pantalla."
+    },
+    {
+      "dia": "17",
+      "mes": "07",
+      "nombre": "Andrea Camilleri",
+      "tipo": "Fallecimiento",
+      "ano": "2019",
+      "desc": "Fallece el creador del comisario Montalbano, referente del noir mediterráneo."
+    },
+    {
+      "dia": "21",
+      "mes": "07",
+      "nombre": "Michael Connelly",
+      "tipo": "Nacimiento",
+      "ano": "1956",
+      "desc": "Nace el creador de Harry Bosch y Mickey Haller, uno de los grandes autores contemporáneos de novela policíaca."
+    },
+    {
+      "dia": "22",
+      "mes": "07",
+      "nombre": "Muerte de John Dillinger",
+      "tipo": "True Crime",
+      "ano": "1934",
+      "desc": "El célebre atracador es abatido por agentes federales en Chicago, símbolo del crimen estadounidense de la Gran Depresión."
+    },
+    {
+      "dia": "22",
+      "mes": "07",
+      "nombre": "Detención de Anders Breivik",
+      "tipo": "True Crime",
+      "ano": "2011",
+      "desc": "Anders Breivik es detenido después de cometer los atentados de Oslo y Utøya, que causaron 77 muertos en Noruega."
+    },
+    {
+      "dia": "23",
+      "mes": "07",
+      "nombre": "Raymond Chandler",
+      "tipo": "★ Nacimiento",
+      "ano": "1888",
+      "desc": "Nace el maestro de los diálogos cortantes y la melancolía urbana."
+    },
+    {
+      "dia": "24",
+      "mes": "07",
+      "nombre": "John D. MacDonald",
+      "tipo": "Nacimiento",
+      "ano": "1916",
+      "desc": "Nace el autor de la serie de Travis McGee y de El cabo del miedo, figura clave del thriller criminal estadounidense."
+    },
+    {
+      "dia": "25",
+      "mes": "07",
+      "nombre": "Josephine Tey",
+      "tipo": "Nacimiento",
+      "ano": "1896",
+      "desc": "Nace la autora escocesa de misterio, creadora del inspector Alan Grant y autora de La hija del tiempo."
+    },
+    {
+      "dia": "25",
+      "mes": "07",
+      "nombre": "Mata Hari",
+      "tipo": "True Crime",
+      "ano": "1917",
+      "desc": "La bailarina y presunta espía es condenada a muerte por un tribunal militar francés en uno de los casos de espionaje más célebres del siglo XX."
+    },
+    {
+      "dia": "26",
+      "mes": "07",
+      "nombre": "Nacimiento del FBI",
+      "tipo": "Fundacion",
+      "ano": "1908",
+      "desc": "Se crea la fuerza de agentes especiales del Departamento de Justicia estadounidense, origen del futuro FBI."
+    },
+    {
+      "dia": "31",
+      "mes": "07",
+      "nombre": "J. K. Rowling / Robert Galbraith",
+      "tipo": "Nacimiento",
+      "ano": "1965",
+      "desc": "Nace la autora que, bajo el seudónimo Robert Galbraith, desarrollaría la serie criminal de Cormoran Strike."
+    },
+    {
+      "dia": "01",
+      "mes": "08",
+      "nombre": "Dolores Hitchens",
+      "tipo": "Fallecimiento",
+      "ano": "1973",
+      "desc": "Fallece la autora estadounidense de misterio y novela criminal, también publicada como D. B. Olsen, Dolan Birkley y Noel Burke."
+    },
+    {
+      "dia": "02",
+      "mes": "08",
+      "nombre": "Fritz Lang",
+      "tipo": "Fallecimiento",
+      "ano": "1976",
+      "desc": "Fallece el director de M, el vampiro de Düsseldorf, obra fundamental del cine criminal europeo."
+    },
+    {
+      "dia": "03",
+      "mes": "08",
+      "nombre": "P.D. James",
+      "tipo": "★ Nacimiento",
+      "ano": "1920",
+      "desc": "Nace la gran dama del misterio británico contemporáneo."
+    },
+    {
+      "dia": "04",
+      "mes": "08",
+      "nombre": "Dennis Lehane",
+      "tipo": "★ Nacimiento",
+      "ano": "1965",
+      "desc": "Nace el aclamado autor bostoniano de joyas como Mystic River y Shutter Island."
+    },
+    {
+      "dia": "05",
+      "mes": "08",
+      "nombre": "Per Wahlöö",
+      "tipo": "Nacimiento",
+      "ano": "1926",
+      "desc": "Nace el escritor sueco que, junto a Maj Sjöwall, creó la serie de Martin Beck, base esencial del noir nórdico moderno."
+    },
+    {
+      "dia": "06",
+      "mes": "08",
+      "nombre": "William Kemmler",
+      "tipo": "True Crime",
+      "ano": "1890",
+      "desc": "Es ejecutado en Nueva York el primer condenado a morir en la silla eléctrica, un caso clave en la historia penal moderna."
+    },
+    {
+      "dia": "06",
+      "mes": "08",
+      "nombre": "El fugitivo (The Fugitive)",
+      "tipo": "Cine Noir",
+      "ano": "1993",
+      "desc": "Se estrena comercialmente en Estados Unidos el thriller de persecución e investigación protagonizado por Harrison Ford."
+    },
+    {
+      "dia": "07",
+      "mes": "08",
+      "nombre": "Stephen Marlowe",
+      "tipo": "Nacimiento",
+      "ano": "1928",
+      "desc": "Nace el escritor estadounidense de misterio y novela criminal, creador del detective privado Chester Drum."
+    },
+    {
+      "dia": "08",
+      "mes": "08",
+      "nombre": "Gran Robo del Tren",
+      "tipo": "True Crime",
+      "ano": "1963",
+      "desc": "Una banda asalta el tren correo Glasgow-Londres y comete uno de los robos más célebres de la historia criminal británica."
+    },
+    {
+      "dia": "09",
+      "mes": "08",
+      "nombre": "Joe Orton",
+      "tipo": "Fallecimiento",
+      "ano": "1967",
+      "desc": "Fallece el dramaturgo británico Joe Orton, asesinado por su pareja Kenneth Halliwell, en un caso ligado al humor negro y la tragedia personal."
+    },
+    {
+      "dia": "09",
+      "mes": "08",
+      "nombre": "La Familia Manson",
+      "tipo": "🩸 True Crime",
+      "ano": "1969",
+      "desc": "La secta de Charles Manson asesina a Sharon Tate y a cuatro personas más, cerrando trágicamente la década de los 60."
+    },
+    {
+      "dia": "12",
+      "mes": "08",
+      "nombre": "Ian Fleming",
+      "tipo": "Fallecimiento",
+      "ano": "1964",
+      "desc": "Fallece el creador de James Bond, figura clave del thriller de espionaje moderno."
+    },
+    {
+      "dia": "13",
+      "mes": "08",
+      "nombre": "Alfred Hitchcock",
+      "tipo": "★ Nacimiento",
+      "ano": "1899",
+      "desc": "Nace en Londres el eterno Maestro del Suspense cinematográfico."
+    },
+    {
+      "dia": "14",
+      "mes": "08",
+      "nombre": "Jeremiah Healy",
+      "tipo": "Fallecimiento",
+      "ano": "2014",
+      "desc": "Fallece el autor estadounidense de novela hard-boiled, creador del detective privado John Francis Cuddy."
+    },
+    {
+      "dia": "15",
+      "mes": "08",
+      "nombre": "Stieg Larsson",
+      "tipo": "★ Nacimiento",
+      "ano": "1954",
+      "desc": "Nace el periodista que revolucionaría el mundo con la saga Millennium."
+    },
+    {
+      "dia": "16",
+      "mes": "08",
+      "nombre": "Georgette Heyer",
+      "tipo": "Nacimiento",
+      "ano": "1902",
+      "desc": "Nace la escritora británica, autora de varias novelas detectivescas además de sus conocidas obras históricas."
+    },
+    {
+      "dia": "16",
+      "mes": "08",
+      "nombre": "Sospechosos habituales",
+      "tipo": "Cine Noir",
+      "ano": "1995",
+      "desc": "Se estrena en Estados Unidos el thriller criminal de Bryan Singer, célebre por su estructura de engaño y giro final."
+    },
+    {
+      "dia": "20",
+      "mes": "08",
+      "nombre": "Elmore Leonard",
+      "tipo": "Fallecimiento",
+      "ano": "2013",
+      "desc": "Fallece uno de los grandes maestros estadounidenses de la novela criminal contemporánea."
+    },
+    {
+      "dia": "22",
+      "mes": "08",
+      "nombre": "Peter James",
+      "tipo": "Nacimiento",
+      "ano": "1948",
+      "desc": "Nace el escritor británico de novela criminal, creador del detective Roy Grace."
+    },
+    {
+      "dia": "23",
+      "mes": "08",
+      "nombre": "Sacco y Vanzetti",
+      "tipo": "🩸 True Crime",
+      "ano": "1927",
+      "desc": "Son ejecutados en la silla eléctrica los anarquistas italianos tras uno de los juicios más polémicos de la historia."
+    },
+    {
+      "dia": "23",
+      "mes": "08",
+      "nombre": "El sueño eterno",
+      "tipo": "Cine Noir",
+      "ano": "1946",
+      "desc": "Se estrena en Nueva York la adaptación de Howard Hawks de la novela de Raymond Chandler, con Humphrey Bogart como Philip Marlowe."
+    },
+    {
+      "dia": "25",
+      "mes": "08",
+      "nombre": "Frederick Forsyth",
+      "tipo": "Nacimiento",
+      "ano": "1938",
+      "desc": "Nace el autor británico de thrillers políticos y de espionaje como Chacal y Odessa."
+    },
+    {
+      "dia": "25",
+      "mes": "08",
+      "nombre": "Truman Capote",
+      "tipo": "Fallecimiento",
+      "ano": "1984",
+      "desc": "Fallece el autor de A sangre fría, obra decisiva en la consolidación del true crime literario moderno."
+    },
+    {
+      "dia": "26",
+      "mes": "08",
+      "nombre": "John Buchan",
+      "tipo": "Nacimiento",
+      "ano": "1875",
+      "desc": "Nace el autor escocés de Los treinta y nueve escalones, obra esencial en la evolución del thriller de espionaje."
+    },
+    {
+      "dia": "29",
+      "mes": "08",
+      "nombre": "Ingrid Bergman",
+      "tipo": "★ Nacimiento",
+      "ano": "1915",
+      "desc": "Nace la mítica actriz sueca, figura clave en joyas del suspense como Encadenados o Luz de gas."
+    },
+    {
+      "dia": "30",
+      "mes": "08",
+      "nombre": "Peter Corris",
+      "tipo": "Fallecimiento",
+      "ano": "2018",
+      "desc": "Fallece el escritor australiano, creador del detective privado Cliff Hardy y figura clave de la novela criminal australiana."
+    },
+    {
+      "dia": "31",
+      "mes": "08",
+      "nombre": "Jack el Destripador",
+      "tipo": "🩸 True Crime",
+      "ano": "1888",
+      "desc": "Aparece el cuerpo de Mary Ann Nichols, la primera víctima canónica del asesino en serie más famoso de la historia."
+    },
+    {
+      "dia": "31",
+      "mes": "08",
+      "nombre": "El tercer hombre",
+      "tipo": "Cine Noir",
+      "ano": "1949",
+      "desc": "Se estrena en Londres la obra maestra del cine negro británico dirigida por Carol Reed, con guion de Graham Greene."
+    },
+    {
+      "dia": "01",
+      "mes": "09",
+      "nombre": "Jesse Kellerman",
+      "tipo": "Nacimiento",
+      "ano": "1978",
+      "desc": "Nace el novelista estadounidense de suspense y misterio, hijo de Jonathan y Faye Kellerman."
+    },
+    {
+      "dia": "01",
+      "mes": "09",
+      "nombre": "Thomas Chastain",
+      "tipo": "Fallecimiento",
+      "ano": "1994",
+      "desc": "Fallece el autor estadounidense de novela criminal y expresidente de Mystery Writers of America."
+    },
+    {
+      "dia": "02",
+      "mes": "09",
+      "nombre": "White Heat (Al rojo vivo)",
+      "tipo": "Cine Noir",
+      "ano": "1949",
+      "desc": "Se estrena en Nueva York el clásico de Raoul Walsh protagonizado por James Cagney, una de las cumbres del cine negro estadounidense."
+    },
+    {
+      "dia": "03",
+      "mes": "09",
+      "nombre": "Alan Ladd",
+      "tipo": "Nacimiento",
+      "ano": "1913",
+      "desc": "Nace el actor estadounidense asociado al cine noir clásico, protagonista de El cuervo, La llave de cristal y La dalia azul."
+    },
+    {
+      "dia": "04",
+      "mes": "09",
+      "nombre": "Georges Simenon",
+      "tipo": "✞ Fallecimiento",
+      "ano": "1989",
+      "desc": "Nos deja el maestro de la atmósfera psicológica y los claroscuros del alma humana."
+    },
+    {
+      "dia": "06",
+      "mes": "09",
+      "nombre": "Andrea Camilleri",
+      "tipo": "★ Nacimiento",
+      "ano": "1925",
+      "desc": "Nace el querido maestro siciliano, creador del comisario Salvo Montalbano."
+    },
+    {
+      "dia": "10",
+      "mes": "09",
+      "nombre": "Peter Lovesey",
+      "tipo": "Nacimiento",
+      "ano": "1936",
+      "desc": "Nace el escritor británico de novela policíaca histórica y contemporánea, creador de los detectives Sergeant Cribb y Peter Diamond."
+    },
+    {
+      "dia": "15",
+      "mes": "09",
+      "nombre": "Agatha Christie",
+      "tipo": "★ Nacimiento",
+      "ano": "1890",
+      "desc": "Nace en Torquay la mujer que vendería más libros que nadie en la historia, solo superada por la Biblia."
+    },
+    {
+      "dia": "16",
+      "mes": "09",
+      "nombre": "Atentado de Wall Street",
+      "tipo": "True Crime",
+      "ano": "1920",
+      "desc": "Explota un carro bomba en el distrito financiero de Nueva York, causando decenas de muertos en uno de los grandes casos criminales sin resolver de EE.UU."
+    },
+    {
+      "dia": "17",
+      "mes": "09",
+      "nombre": "Robert B. Parker",
+      "tipo": "Nacimiento",
+      "ano": "1932",
+      "desc": "Nace el creador del detective Spenser, figura clave de la novela policíaca estadounidense contemporánea."
+    },
+    {
+      "dia": "18",
+      "mes": "09",
+      "nombre": "Patty Hearst",
+      "tipo": "True Crime",
+      "ano": "1975",
+      "desc": "La heredera y fugitiva es capturada por el FBI en San Francisco tras uno de los casos criminales más mediáticos de los años setenta."
+    },
+    {
+      "dia": "19",
+      "mes": "09",
+      "nombre": "Manifiesto del Unabomber",
+      "tipo": "True Crime",
+      "ano": "1995",
+      "desc": "The Washington Post y The New York Times publican el manifiesto de Ted Kaczynski, paso decisivo para su identificación y captura."
+    },
+    {
+      "dia": "19",
+      "mes": "09",
+      "nombre": "L.A. Confidential",
+      "tipo": "Cine Noir",
+      "ano": "1997",
+      "desc": "Se estrena en Estados Unidos la adaptación de la novela de James Ellroy, uno de los grandes neo-noir de los años noventa."
+    },
+    {
+      "dia": "21",
+      "mes": "09",
+      "nombre": "Stephen King",
+      "tipo": "★ Nacimiento",
+      "ano": "1947",
+      "desc": "Nace el rey del terror, que incursionó en el noir magistralmente con la trilogía de Bill Hodges."
+    },
+    {
+      "dia": "22",
+      "mes": "09",
+      "nombre": "Raphael Montes",
+      "tipo": "Nacimiento",
+      "ano": "1990",
+      "desc": "Nace el escritor brasileño de novela criminal y suspense, una de las voces destacadas del thriller latinoamericano contemporáneo."
+    },
+    {
+      "dia": "25",
+      "mes": "09",
+      "nombre": "Maj Sjöwall",
+      "tipo": "Nacimiento",
+      "ano": "1935",
+      "desc": "Nace la escritora sueca, coautora de la saga de Martin Beck y pionera del noir nórdico."
+    },
+    {
+      "dia": "25",
+      "mes": "09",
+      "nombre": "Cornell Woolrich",
+      "tipo": "✞ Fallecimiento",
+      "ano": "1968",
+      "desc": "Fallece, solo y amargado, el genio indiscutible del suspense y la angustia urbana."
+    },
+    {
+      "dia": "27",
+      "mes": "09",
+      "nombre": "Jim Thompson",
+      "tipo": "★ Nacimiento",
+      "ano": "1906",
+      "desc": "Nace el autor de El asesino dentro de mí, maestro de la psique criminal."
+    },
+    {
+      "dia": "27",
+      "mes": "09",
+      "nombre": "Irvine Welsh",
+      "tipo": "Nacimiento",
+      "ano": "1958",
+      "desc": "Nace el escritor escocés de Trainspotting, autor de una obra marcada por crimen, adicciones y marginalidad urbana."
+    },
+    {
+      "dia": "28",
+      "mes": "09",
+      "nombre": "Donna Leon",
+      "tipo": "★ Nacimiento",
+      "ano": "1942",
+      "desc": "Nace la escritora que se enamoró de Venecia y le dio voz literaria a través de su comisario Guido Brunetti."
+    },
+    {
+      "dia": "29",
+      "mes": "09",
+      "nombre": "Scotland Yard",
+      "tipo": "🖋️ Fundación",
+      "ano": "1829",
+      "desc": "Se funda la Policía Metropolitana de Londres, institución clave en la literatura criminal victoriana."
+    },
+    {
+      "dia": "02",
+      "mes": "10",
+      "nombre": "Graham Greene",
+      "tipo": "Nacimiento",
+      "ano": "1904",
+      "desc": "Nace el autor británico de thrillers morales y de espionaje como El tercer hombre y Brighton Rock."
+    },
+    {
+      "dia": "03",
+      "mes": "10",
+      "nombre": "El Halcón Maltés",
+      "tipo": "🎞️ Cine Noir",
+      "ano": "1941",
+      "desc": "Se estrena la adaptación de John Huston con Humphrey Bogart, dando inicio oficial al cine negro clásico."
+    },
+    {
+      "dia": "03",
+      "mes": "10",
+      "nombre": "Veredicto del caso O. J. Simpson",
+      "tipo": "True Crime",
+      "ano": "1995",
+      "desc": "O. J. Simpson es absuelto de los asesinatos de Nicole Brown Simpson y Ron Goldman, en uno de los juicios más mediáticos del siglo XX."
+    },
+    {
+      "dia": "05",
+      "mes": "10",
+      "nombre": "Henning Mankell",
+      "tipo": "Fallecimiento",
+      "ano": "2015",
+      "desc": "Fallece el creador del inspector Kurt Wallander, figura clave del noir nórdico contemporáneo."
+    },
+    {
+      "dia": "06",
+      "mes": "10",
+      "nombre": "Stanley Ellin",
+      "tipo": "Nacimiento",
+      "ano": "1916",
+      "desc": "Nace el escritor estadounidense de misterio, célebre por sus relatos criminales y ganador de varios Premios Edgar."
+    },
+    {
+      "dia": "07",
+      "mes": "10",
+      "nombre": "Edgar Allan Poe",
+      "tipo": "✞ Fallecimiento",
+      "ano": "1849",
+      "desc": "Fallece en circunstancias misteriosas tras ser hallado vagando delirante por las calles de Baltimore."
+    },
+    {
+      "dia": "07",
+      "mes": "10",
+      "nombre": "Natsuo Kirino",
+      "tipo": "Nacimiento",
+      "ano": "1951",
+      "desc": "Nace la escritora japonesa de novela criminal, autora de Out y figura destacada del thriller psicológico y social."
+    },
+    {
+      "dia": "09",
+      "mes": "10",
+      "nombre": "James H. McClure",
+      "tipo": "Nacimiento",
+      "ano": "1939",
+      "desc": "Nace el autor de la serie policial Kramer y Zondi, ambientada en Sudáfrica y marcada por las tensiones del apartheid."
+    },
+    {
+      "dia": "09",
+      "mes": "10",
+      "nombre": "Leonardo Padura",
+      "tipo": "★ Nacimiento",
+      "ano": "1955",
+      "desc": "Nace el gran cronista del desencanto cubano y creador del detective Mario Conde."
+    },
+    {
+      "dia": "09",
+      "mes": "10",
+      "nombre": "Caso Wanninkhof",
+      "tipo": "True Crime",
+      "ano": "1999",
+      "desc": "Desaparece Rocío Wanninkhof en Mijas (Málaga). Su asesinato y la posterior condena errónea de Dolores Vázquez marcarían la crónica judicial española."
+    },
+    {
+      "dia": "10",
+      "mes": "10",
+      "nombre": "J. D. Robb / Nora Roberts",
+      "tipo": "Nacimiento",
+      "ano": "1950",
+      "desc": "Nace Nora Roberts, autora que bajo el seudónimo J. D. Robb desarrolla la serie policial futurista In Death."
+    },
+    {
+      "dia": "11",
+      "mes": "10",
+      "nombre": "Elmore Leonard",
+      "tipo": "Nacimiento",
+      "ano": "1925",
+      "desc": "Nace uno de los grandes maestros estadounidenses de la novela criminal, autor de Un romance muy peligroso, Cómo conquistar Hollywood y Rum Punch."
+    },
+    {
+      "dia": "12",
+      "mes": "10",
+      "nombre": "Anatole France",
+      "tipo": "Fallecimiento",
+      "ano": "1924",
+      "desc": "Fallece el escritor francés cuya obra influyó en la evolución de la narrativa moderna, incluida la criminal."
+    },
+    {
+      "dia": "14",
+      "mes": "10",
+      "nombre": "Los sobornados (The Big Heat)",
+      "tipo": "🎞️ Cine Noir",
+      "ano": "1953",
+      "desc": "Se estrena en Nueva York el contundente noir de Fritz Lang protagonizado por Glenn Ford."
+    },
+    {
+      "dia": "14",
+      "mes": "10",
+      "nombre": "Pulp Fiction",
+      "tipo": "Cine Noir",
+      "ano": "1994",
+      "desc": "Se estrena en Estados Unidos la película de Quentin Tarantino, hito del neo-noir criminal de los años noventa."
+    },
+    {
+      "dia": "15",
+      "mes": "10",
+      "nombre": "Mario Puzo",
+      "tipo": "★ Nacimiento",
+      "ano": "1920",
+      "desc": "Nace el escritor italoamericano que redefinió el género de la mafia con El Padrino."
+    },
+    {
+      "dia": "18",
+      "mes": "10",
+      "nombre": "M. Vázquez Montalbán",
+      "tipo": "✞ Fallecimiento",
+      "ano": "2003",
+      "desc": "Fallece sorpresivamente en el aeropuerto de Bangkok el irrepetible creador de Pepe Carvalho."
+    },
+    {
+      "dia": "19",
+      "mes": "10",
+      "nombre": "John le Carré",
+      "tipo": "★ Nacimiento",
+      "ano": "1931",
+      "desc": "Nace el maestro indiscutible de la novela de espionaje realista."
+    },
+    {
+      "dia": "22",
+      "mes": "10",
+      "nombre": "Ann Rule",
+      "tipo": "Nacimiento",
+      "ano": "1931",
+      "desc": "Nace la autora estadounidense que popularizó el true crime moderno con obras como The Stranger Beside Me."
+    },
+    {
+      "dia": "27",
+      "mes": "10",
+      "nombre": "James M. Cain",
+      "tipo": "✞ Fallecimiento",
+      "ano": "1977",
+      "desc": "Nos deja el autor de El cartero siempre llama dos veces."
+    },
+    {
+      "dia": "28",
+      "mes": "10",
+      "nombre": "Anne Perry",
+      "tipo": "Nacimiento",
+      "ano": "1938",
+      "desc": "Nace la escritora británica de novela policíaca histórica, autora de las series de Thomas Pitt y William Monk."
+    },
+    {
+      "dia": "29",
+      "mes": "10",
+      "nombre": "Joseph Pulitzer",
+      "tipo": "Fallecimiento",
+      "ano": "1911",
+      "desc": "Fallece el editor cuyo legado daría lugar a los premios que reconocerían el periodismo de investigación."
+    },
+    {
+      "dia": "29",
+      "mes": "10",
+      "nombre": "Lee Child",
+      "tipo": "Nacimiento",
+      "ano": "1954",
+      "desc": "Nace el creador de Jack Reacher, uno de los personajes más populares del thriller contemporáneo."
+    },
+    {
+      "dia": "30",
+      "mes": "10",
+      "nombre": "Asesinato de Cheri Jo Bates",
+      "tipo": "True Crime",
+      "ano": "1966",
+      "desc": "La joven estudiante es asesinada en Riverside, California, caso asociado durante años a la mitología criminal del Zodiaco."
+    },
+    {
+      "dia": "30",
+      "mes": "10",
+      "nombre": "El caso Martha Moxley",
+      "tipo": "True Crime",
+      "ano": "1975",
+      "desc": "Martha Moxley es asesinada en Greenwich, Connecticut; el caso se convertiría en uno de los crímenes más mediáticos de la alta sociedad estadounidense."
+    },
+    {
+      "dia": "30",
+      "mes": "10",
+      "nombre": "Muerte de Whitey Bulger",
+      "tipo": "True Crime",
+      "ano": "2018",
+      "desc": "El célebre jefe criminal de Boston es asesinado en prisión, cerrando una de las trayectorias criminales más famosas de EE.UU."
+    },
+    {
+      "dia": "31",
+      "mes": "10",
+      "nombre": "Dick Francis",
+      "tipo": "Nacimiento",
+      "ano": "1920",
+      "desc": "Nace el escritor galés de thrillers criminales ambientados en el mundo de las carreras de caballos."
+    },
+    {
+      "dia": "31",
+      "mes": "10",
+      "nombre": "H. R. F. Keating",
+      "tipo": "Nacimiento",
+      "ano": "1926",
+      "desc": "Nace el escritor británico de novela detectivesca, creador del inspector Ganesh Ghote."
+    },
+    {
+      "dia": "02",
+      "mes": "11",
+      "nombre": "Burt Lancaster",
+      "tipo": "Nacimiento",
+      "ano": "1913",
+      "desc": "Nace el actor protagonista de Forajidos, clásico esencial del cine noir basado en el relato de Ernest Hemingway."
+    },
+    {
+      "dia": "05",
+      "mes": "11",
+      "nombre": "Maurice-Bernard Endrèbe",
+      "tipo": "★ Nacimiento",
+      "ano": "1918",
+      "desc": "Nace uno de los grandes divulgadores e introductores de la novela policiaca norteamericana en Francia."
+    },
+    {
+      "dia": "07",
+      "mes": "11",
+      "nombre": "Albert Camus",
+      "tipo": "Nacimiento",
+      "ano": "1913",
+      "desc": "Nace el autor de El extranjero, obra clave en la literatura de culpa, crimen y absurdo moral."
+    },
+    {
+      "dia": "08",
+      "mes": "11",
+      "nombre": "Alain Delon",
+      "tipo": "Nacimiento",
+      "ano": "1935",
+      "desc": "Nace el actor francés, icono del polar europeo gracias a películas como El silencio de un hombre, Círculo rojo y Borsalino."
+    },
+    {
+      "dia": "08",
+      "mes": "11",
+      "nombre": "Ted Bundy y Carol DaRonch",
+      "tipo": "True Crime",
+      "ano": "1974",
+      "desc": "Carol DaRonch logra escapar de un intento de secuestro de Ted Bundy, que se hacía pasar por policía. Su testimonio será decisivo para la investigación del asesino en serie."
+    },
+    {
+      "dia": "09",
+      "mes": "11",
+      "nombre": "Émile Gaboriau",
+      "tipo": "Nacimiento",
+      "ano": "1832",
+      "desc": "Nace el escritor francés, pionero de la novela policíaca y creador del inspector Lecoq, personaje que influyó en la aparición de Sherlock Holmes."
+    },
+    {
+      "dia": "09",
+      "mes": "11",
+      "nombre": "Mary Jane Kelly: Jack el Destripador",
+      "tipo": "True Crime",
+      "ano": "1888",
+      "desc": "Mary Jane Kelly es asesinada en Whitechapel, Londres. Es considerada la quinta y última víctima canónica de Jack el Destripador, cuya identidad nunca llegó a descubrirse."
+    },
+    {
+      "dia": "09",
+      "mes": "11",
+      "nombre": "Los asesinatos de John List",
+      "tipo": "True Crime",
+      "ano": "1971",
+      "desc": "John List asesina a su esposa, sus tres hijos y su madre en Nueva Jersey y desaparece. Conseguirá vivir bajo otra identidad hasta su detención en 1989."
+    },
+    {
+      "dia": "09",
+      "mes": "11",
+      "nombre": "Stieg Larsson",
+      "tipo": "Fallecimiento",
+      "ano": "2004",
+      "desc": "Fallece el creador de Millennium, meses antes de la publicación de Los hombres que no amaban a las mujeres."
+    },
+    {
+      "dia": "10",
+      "mes": "11",
+      "nombre": "Asesinato de Dean O'Banion",
+      "tipo": "True Crime",
+      "ano": "1924",
+      "desc": "El jefe de la banda del North Side de Chicago es asesinado en su floristería. Su muerte intensifica la guerra entre bandas durante la Ley Seca y la rivalidad con el entorno de Al Capone."
+    },
+    {
+      "dia": "10",
+      "mes": "11",
+      "nombre": "Caroline Kepnes",
+      "tipo": "Nacimiento",
+      "ano": "1976",
+      "desc": "Nace la escritora estadounidense, creadora de Joe Goldberg y autora de You, un thriller psicológico que explora la obsesión, el acoso y el asesinato."
+    },
+    {
+      "dia": "11",
+      "mes": "11",
+      "nombre": "Fiódor Dostoyevski",
+      "tipo": "Nacimiento",
+      "ano": "1821",
+      "desc": "Nace el autor de Crimen y castigo, obra esencial en la exploración literaria de culpa, asesinato y conciencia criminal."
+    },
+    {
+      "dia": "11",
+      "mes": "11",
+      "nombre": "Robert Ryan",
+      "tipo": "Nacimiento",
+      "ano": "1909",
+      "desc": "Nace el actor estadounidense, uno de los grandes rostros del cine negro clásico, protagonista de Encrucijada de odios, Nadie puede vencerme y La casa en la sombra."
+    },
+    {
+      "dia": "12",
+      "mes": "11",
+      "nombre": "Léo Malet",
+      "tipo": "✞ Fallecimiento",
+      "ano": "1996",
+      "desc": "Nos deja el creador de la trilogía negra de París y del cínico Nestor Burma."
+    },
+    {
+      "dia": "12",
+      "mes": "11",
+      "nombre": "Veredicto del caso Laci Peterson",
+      "tipo": "True Crime",
+      "ano": "2004",
+      "desc": "Un jurado declara culpable a Scott Peterson del asesinato de su esposa embarazada, Laci, y del homicidio de su hijo no nacido, tras uno de los procesos criminales más mediáticos de Estados Unidos."
+    },
+    {
+      "dia": "13",
+      "mes": "11",
+      "nombre": "George V. Higgins",
+      "tipo": "Nacimiento",      "ano": "1939",
+      "desc": "Nace el escritor estadounidense, autor de Los amigos de Eddie Coyle y Mátalos suavemente, maestro del diálogo y del realismo criminal ambientado en los bajos fondos de Boston."
+    },
+    {
+      "dia": "13",
+      "mes": "11",
+      "nombre": "Los asesinatos de Amityville",
+      "tipo": "True Crime",
+      "ano": "1974",
+      "desc": "Ronald DeFeo Jr. asesina a sus padres y cuatro hermanos en Amityville, Nueva York. El crimen acabaría inspirando una célebre saga de terror cinematográfico."
+    },
+    {
+      "dia": "13",
+      "mes": "11",
+      "nombre": "Caso Nani",
+      "tipo": "True Crime",
+      "ano": "1983",
+      "desc": "Desaparece Santiago Corella, «El Nani», cuando se hallaba bajo custodia policial en Madrid. El caso destaparía una trama de corrupción policial."
+    },
+    {
+      "dia": "14",
+      "mes": "11",
+      "nombre": "Cara Black",
+      "tipo": "Nacimiento",
+      "ano": "1951",
+      "desc": "Nace la escritora estadounidense de novela policíaca, creadora de la detective privada Aimée Leduc, protagonista de una serie de investigaciones ambientadas en París."
+    },
+    {
+      "dia": "14",
+      "mes": "11",
+      "nombre": "Reunión de Apalachin",
+      "tipo": "True Crime",
+      "ano": "1957",
+      "desc": "La policía descubre una cumbre de jefes mafiosos en Nueva York, hecho clave para reconocer la estructura nacional de la Cosa Nostra."
+    },
+    {
+      "dia": "15",
+      "mes": "11",
+      "nombre": "Carole Nelson Douglas",
+      "tipo": "Nacimiento",
+      "ano": "1944",
+      "desc": "Nace la escritora estadounidense de misterio, autora de las novelas protagonizadas por Irene Adler, personaje del universo de Sherlock Holmes, y de la serie detectivesca Midnight Louie."
+    },
+    {
+      "dia": "15",
+      "mes": "11",
+      "nombre": "Asesinato de la familia Clutter",
+      "tipo": "True Crime",
+      "ano": "1959",
+      "desc": "Richard Hickock y Perry Smith asesinan a cuatro miembros de la familia Clutter en Kansas, caso que inspiraría A sangre fría de Truman Capote."
+    },
+    {
+      "dia": "15",
+      "mes": "11",
+      "nombre": "El cabo del miedo",
+      "tipo": "Cine Noir",
+      "ano": "1991",
+      "desc": "Se estrena en Estados Unidos el thriller de Martin Scorsese con Robert De Niro, remake oscuro del clásico de 1962."
+    },
+    {
+      "dia": "16",
+      "mes": "11",
+      "nombre": "Detención de Ed Gein",
+      "tipo": "True Crime",
+      "ano": "1957",
+      "desc": "Es arrestado el criminal de Wisconsin cuyos crímenes inspirarían personajes como Norman Bates, Leatherface y Buffalo Bill."
+    },
+    {
+      "dia": "16",
+      "mes": "11",
+      "nombre": "Anne Holt",
+      "tipo": "Nacimiento",
+      "ano": "1958",
+      "desc": "Nace la escritora noruega de novela negra, creadora de Hanne Wilhelmsen. Abogada, antigua empleada de la policía de Oslo y exministra de Justicia, es una figura destacada del noir nórdico."
+    },
+    {
+      "dia": "17",
+      "mes": "11",
+      "nombre": "Casino Royale",
+      "tipo": "Cine Noir",
+      "ano": "2006",
+      "desc": "Se estrena comercialmente en Estados Unidos la película que presenta a Daniel Craig como James Bond, recuperando el personaje más áspero y cercano al thriller de espionaje de Ian Fleming."
+    },
+    {
+      "dia": "18",
+      "mes": "11",
+      "nombre": "Frances Fyfield",
+      "tipo": "Nacimiento",
+      "ano": "1948",
+      "desc": "Nace la escritora británica de novela criminal, creadora de la fiscal Helen West y de Sarah Fortune. Su experiencia jurídica aporta realismo a sus thrillers psicológicos."
+    },
+    {
+      "dia": "18",
+      "mes": "11",
+      "nombre": "Programa contra el crimen organizado del FBI",
+      "tipo": "Fundacion",
+      "ano": "1957",
+      "desc": "Tras la reunión de Apalachin, J. Edgar Hoover ordena crear una iniciativa específica contra la mafia y el crimen organizado."
+    },
+    {
+      "dia": "18",
+      "mes": "11",
+      "nombre": "La tragedia de Jonestown",
+      "tipo": "True Crime",
+      "ano": "1978",
+      "desc": "Más de 900 personas mueren en Guyana bajo el liderazgo de Jim Jones, fundador del Templo del Pueblo. La matanza incluye el asesinato del congresista Leo Ryan y desencadena una investigación internacional."
+    },
+    {
+      "dia": "19",
+      "mes": "11",
+      "nombre": "Kate Alice Marshall",
+      "tipo": "Nacimiento",
+      "ano": "1988",
+      "desc": "Nace la escritora estadounidense de suspense y thriller psicológico, autora de Lo que el bosque esconde, novela sobre secretos del pasado, violencia y memoria traumática."
+    },
+    {
+      "dia": "19",
+      "mes": "11",
+      "nombre": "Charles Manson",
+      "tipo": "Fallecimiento",
+      "ano": "2017",
+      "desc": "Muere en prisión el líder de la Familia Manson, uno de los criminales más notorios de la cultura true crime del siglo XX."
+    },
+    {
+      "dia": "20",
+      "mes": "11",
+      "nombre": "John Gardner",
+      "tipo": "Nacimiento",
+      "ano": "1926",
+      "desc": "Nace el escritor británico de espionaje y novela criminal. Creador del agente Boysie Oakes, retomó las aventuras de James Bond y escribió nuevas historias del profesor Moriarty."
+    },
+    {
+      "dia": "21",
+      "mes": "11",
+      "nombre": "Atentados de Birmingham",
+      "tipo": "True Crime",
+      "ano": "1974",
+      "desc": "Dos bombas estallan en pubs de Birmingham, causando 21 muertos. La investigación derivará en el caso de los Seis de Birmingham, uno de los errores judiciales más graves de la historia británica."
+    },
+    {
+      "dia": "22",
+      "mes": "11",
+      "nombre": "Joel Townsley Rogers",
+      "tipo": "Nacimiento",
+      "ano": "1896",
+      "desc": "Nace el escritor estadounidense de relatos pulp y misterio, autor de The Red Right Hand, novela de culto que combina enigma detectivesco, suspense psicológico y elementos de horror."
+    },
+    {
+      "dia": "22",
+      "mes": "11",
+      "nombre": "Asesinato de John F. Kennedy",
+      "tipo": "True Crime",
+      "ano": "1963",
+      "desc": "El presidente estadounidense es asesinado en Dallas, uno de los magnicidios más investigados y mediáticos del siglo XX."
+    },
+    {
+      "dia": "22",
+      "mes": "11",
+      "nombre": "Jason Starr",
+      "tipo": "Nacimiento",
+      "ano": "1966",
+      "desc": "Nace el novelista estadounidense especializado en noir urbano y thriller psicológico. Autor vinculado a Hard Case Crime y ganador de los premios Anthony y Barry."
+    },
+    {
+      "dia": "22",
+      "mes": "11",
+      "nombre": "Casino, de Martin Scorsese",
+      "tipo": "Cine Noir",
+      "ano": "1995",
+      "desc": "Se estrena comercialmente en Estados Unidos el drama criminal de Martin Scorsese sobre el control mafioso de los casinos de Las Vegas, basado en la obra de Nicholas Pileggi."
+    },
+    {
+      "dia": "23",
+      "mes": "11",
+      "nombre": "Muerte de Alexander Litvinenko",
+      "tipo": "True Crime",
+      "ano": "2006",
+      "desc": "Muere en Londres el exagente ruso Alexander Litvinenko tras ser envenenado con polonio-210. La investigación policial y radiológica desvela un asesinato de extraordinaria complejidad forense y repercusión internacional."
+    },
+    {
+      "dia": "24",
+      "mes": "11",
+      "nombre": "Muerte de Lee Harvey Oswald",
+      "tipo": "True Crime",
+      "ano": "1963",
+      "desc": "Jack Ruby mata a tiros al presunto asesino de Kennedy en la comisaría de Dallas, en directo ante las cámaras."
+    },
+    {
+      "dia": "24",
+      "mes": "11",
+      "nombre": "El misterio de D. B. Cooper",
+      "tipo": "True Crime",
+      "ano": "1971",
+      "desc": "Un hombre secuestra un avión comercial estadounidense, obtiene un rescate de 200.000 dólares y salta en paracaídas durante el vuelo. Su identidad y destino permanecen sin esclarecer, convirtiendo el caso en uno de los grandes misterios del FBI."
+    },
+    {
+      "dia": "25",
+      "mes": "11",
+      "nombre": "Arturo Pérez-Reverte",
+      "tipo": "★ Nacimiento",
+      "ano": "1951",
+      "desc": "Nace el creador de la saga de Falcó y autor de la mítica novela de misterio intelectual El club Dumas."
+    },
+    {
+      "dia": "25",
+      "mes": "11",
+      "nombre": "La ratonera",
+      "tipo": "Efemeride",
+      "ano": "1952",
+      "desc": "Se estrena en Londres la obra de misterio de Agatha Christie, convertida en el montaje teatral de mayor duración de la historia."
+    },
+    {
+      "dia": "26",
+      "mes": "11",
+      "nombre": "El gran robo de Brink's-Mat",
+      "tipo": "True Crime",
+      "ano": "1983",
+      "desc": "Seis atracadores asaltan un almacén de seguridad próximo al aeropuerto londinense de Heathrow y roban oro, diamantes y dinero por valor de unos 26 millones de libras. El caso revela conexiones entre robos millonarios, blanqueo y crimen organizado."
+    },
+    {
+      "dia": "27",
+      "mes": "11",
+      "nombre": "Kathryn Bigelow",
+      "tipo": "Nacimiento",
+      "ano": "1951",
+      "desc": "Nace la directora estadounidense de Acero azul, Le llaman Bodhi y Días extraños, películas que combinan thriller criminal, violencia urbana y elementos del neo-noir contemporáneo."
+    },
+    {
+      "dia": "27",
+      "mes": "11",
+      "nombre": "P.D. James",
+      "tipo": "✞ Fallecimiento",
+      "ano": "2014",
+      "desc": "Fallece la creadora del poeta y detective Adam Dalgliesh."
+    },
+    {
+      "dia": "28",
+      "mes": "11",
+      "nombre": "Rita Mae Brown",
+      "tipo": "Nacimiento",
+      "ano": "1944",
+      "desc": "Nace la escritora estadounidense, autora de novelas de misterio como la serie Mrs. Murphy."
+    },
+    {
+      "dia": "28",
+      "mes": "11",
+      "nombre": "Richard Osman",
+      "tipo": "Nacimiento",
+      "ano": "1970",
+      "desc": "Nace el escritor y presentador británico, creador de El club del crimen de los jueves, serie de misterio protagonizada por un grupo de jubilados aficionados a resolver asesinatos."
+    },
+    {
+      "dia": "28",
+      "mes": "11",
+      "nombre": "Muerte de Jeffrey Dahmer",
+      "tipo": "True Crime",
+      "ano": "1994",
+      "desc": "El asesino en serie estadounidense muere tras ser agredido por otro recluso en una prisión de Wisconsin. Su caso sigue siendo objeto de estudios sobre investigación criminal, psicopatología y fallos policiales."
+    },
+    {
+      "dia": "29",
+      "mes": "11",
+      "nombre": "Joel Coen",
+      "tipo": "Nacimiento",
+      "ano": "1954",
+      "desc": "Nace el cineasta estadounidense que, junto a su hermano Ethan, renovó el cine criminal con Sangre fácil, Muerte entre las flores, Fargo y No es país para viejos."
+    },
+    {
+      "dia": "30",
+      "mes": "11",
+      "nombre": "John Dickson Carr",
+      "tipo": "Nacimiento",
+      "ano": "1906",
+      "desc": "Nace uno de los grandes maestros de la Edad de Oro del misterio detectivesco. Creador del doctor Gideon Fell y de Henry Merrivale, destacó por sus ingeniosas tramas de crímenes imposibles y habitaciones cerradas."
+    },
+    {
+      "dia": "30",
+      "mes": "11",
+      "nombre": "Ridley Scott",
+      "tipo": "Nacimiento",
+      "ano": "1937",
+      "desc": "Nace el director británico de Blade Runner, Black Rain y American Gangster, cineasta que ha explorado el neo-noir, el crimen organizado y la corrupción policial desde diferentes géneros."
+    },
+    {
+      "dia": "30",
+      "mes": "11",
+      "nombre": "David Mamet",
+      "tipo": "Nacimiento",
+      "ano": "1947",
+      "desc": "Nace el dramaturgo, guionista y director estadounidense de Casa de juegos y El último golpe, además de guionista de Los intocables de Eliot Ness. Sus obras destacan por los engaños, las estafas y los diálogos cortantes."
+    },
+    {
+      "dia": "01",
+      "mes": "12",
+      "nombre": "Rex Stout",
+      "tipo": "Nacimiento",
+      "ano": "1886",
+      "desc": "Nace el creador de Nero Wolfe y Archie Goodwin, una de las grandes figuras de la novela detectivesca estadounidense."
+    },
+    {
+      "dia": "02",
+      "mes": "12",
+      "nombre": "Pablo Escobar",
+      "tipo": "🩸 True Crime",
+      "ano": "1993",
+      "desc": "Es abatido por la policía el narcotraficante colombiano más famoso de la historia del crimen organizado."
+    },
+    {
+      "dia": "03",
+      "mes": "12",
+      "nombre": "El caso Agatha Christie",
+      "tipo": "🕵️‍♂️ Misterio Real",
+      "ano": "1926",
+      "desc": "La autora desaparece durante 11 días tras encontrar su coche abandonado, desatando una cacería policial sin precedentes."
+    },
+    {
+      "dia": "04",
+      "mes": "12",
+      "nombre": "Cornell Woolrich",
+      "tipo": "★ Nacimiento",
+      "ano": "1903",
+      "desc": "Nace la pluma oscura detrás de clásicos como La novia vestida de negro o La ventana indiscreta."
+    },
+    {
+      "dia": "05",
+      "mes": "12",
+      "nombre": "Joan Didion",
+      "tipo": "★ Nacimiento",
+      "ano": "1934",
+      "desc": "Nace la inmensa cronista estadounidense que tan bien retrató la oscuridad y los crímenes de California en los 60."
+    },
+    {
+      "dia": "06",
+      "mes": "12",
+      "nombre": "William P. McGivern",
+      "tipo": "Nacimiento",
+      "ano": "1918",
+      "desc": "Nace el autor de novelas criminales como Los sobornados, llevada al cine por Fritz Lang como The Big Heat."
+    },
+    {
+      "dia": "06",
+      "mes": "12",
+      "nombre": "Linda Barnes",
+      "tipo": "Nacimiento",
+      "ano": "1949",
+      "desc": "Nace la escritora estadounidense de misterio, creadora de la detective privada Carlotta Carlyle."
+    },
+    {
+      "dia": "08",
+      "mes": "12",
+      "nombre": "John Banville / Benjamin Black",
+      "tipo": "Nacimiento",
+      "ano": "1945",
+      "desc": "Nace el autor irlandés que, como Benjamin Black, escribiría novelas criminales protagonizadas por Quirke."
+    },
+    {
+      "dia": "12",
+      "mes": "12",
+      "nombre": "John le Carré",
+      "tipo": "✞ Fallecimiento",
+      "ano": "2020",
+      "desc": "Fallece el brillante novelista que nos enseñó la verdadera y fría cara de la Guerra Fría."
+    },
+    {
+      "dia": "13",
+      "mes": "12",
+      "nombre": "Ross Macdonald",
+      "tipo": "Nacimiento",
+      "ano": "1915",
+      "desc": "Nace Kenneth Millar, conocido como Ross Macdonald, creador del detective Lew Archer y una de las grandes voces del hard-boiled psicológico."
+    },
+    {
+      "dia": "14",
+      "mes": "12",
+      "nombre": "Friedrich Dürrenmatt",
+      "tipo": "Fallecimiento",
+      "ano": "1990",
+      "desc": "Fallece el autor suizo de La promesa, obra fundamental del noir existencial europeo."
+    },
+    {
+      "dia": "15",
+      "mes": "12",
+      "nombre": "Donald Goines",
+      "tipo": "Nacimiento",
+      "ano": "1936",
+      "desc": "Nace el autor estadounidense de ficción criminal urbana, figura clave de la novela callejera y del noir afroamericano."
+    },
+    {
+      "dia": "17",
+      "mes": "12",
+      "nombre": "Dorothy L. Sayers",
+      "tipo": "Fallecimiento",
+      "ano": "1957",
+      "desc": "Fallece la autora británica, creadora de Lord Peter Wimsey y una de las grandes figuras de la Edad de Oro del misterio."
+    },
+    {
+      "dia": "20",
+      "mes": "12",
+      "nombre": "Primeros asesinatos del Zodiaco",
+      "tipo": "True Crime",
+      "ano": "1968",
+      "desc": "Betty Lou Jensen y David Faraday son asesinados en Lake Herman Road, primer crimen confirmado atribuido al asesino del Zodiaco."
+    },
+    {
+      "dia": "21",
+      "mes": "12",
+      "nombre": "Condena de Sam Sheppard",
+      "tipo": "True Crime",
+      "ano": "1954",
+      "desc": "El médico Sam Sheppard es condenado por el asesinato de su esposa Marilyn. Años después su condena sería anulada y resultaría absuelto en un nuevo juicio."
+    },
+    {
+      "dia": "24",
+      "mes": "12",
+      "nombre": "James Hadley Chase",
+      "tipo": "Nacimiento",
+      "ano": "1906",
+      "desc": "Nace el autor británico de novela negra pulp, popularísimo en Europa y autor de No hay orquídeas para Miss Blandish."
+    },
+    {
+      "dia": "24",
+      "mes": "12",
+      "nombre": "Mary Higgins Clark",
+      "tipo": "Nacimiento",
+      "ano": "1927",
+      "desc": "Nace la autora estadounidense de suspense, conocida como la Reina del Suspense y figura clave del thriller popular."
+    },
+    {
+      "dia": "25",
+      "mes": "12",
+      "nombre": "El golpe (The Sting)",
+      "tipo": "Cine Noir",
+      "ano": "1973",
+      "desc": "Se estrena en Estados Unidos esta película de estafadores ambientada en el mundo del crimen organizado."
+    },
+    {
+      "dia": "26",
+      "mes": "12",
+      "nombre": "Caso JonBenét Ramsey",
+      "tipo": "True Crime",
+      "ano": "1996",
+      "desc": "Es encontrado el cuerpo de JonBenét Ramsey en su casa de Boulder, Colorado, uno de los casos criminales sin resolver más mediáticos de Estados Unidos."
+    },
+    {
+      "dia": "28",
+      "mes": "12",
+      "nombre": "Sue Grafton",
+      "tipo": "Fallecimiento",
+      "ano": "2017",
+      "desc": "Fallece la creadora de Kinsey Millhone y de la célebre serie del alfabeto del crimen."
+    }
+  ],
+  "monthOnly": [
+    {
+      "mes": "11",
+      "ano": "1887",
+      "nombre": "Estudio en escarlata",
+      "desc": "Arthur Conan Doyle presenta a Sherlock Holmes y al doctor Watson en Beeton's Christmas Annual."
+    },
+    {
+      "mes": "11",
+      "ano": "1891",
+      "nombre": "Las cinco semillas de naranja",
+      "desc": "The Strand Magazine publica este relato de Sherlock Holmes, ilustrado por Sidney Paget."
+    },
+    {
+      "mes": "11",
+      "ano": "1927",
+      "nombre": "Cosecha roja",
+      "desc": "Comienza en Black Mask la publicación por entregas de la obra de Dashiell Hammett, con The Cleansing of Poisonville."
+    },
+    {
+      "mes": "11",
+      "ano": "1928",
+      "nombre": "La maldición de los Dain",
+      "desc": "Black Mask publica Black Lives, primera entrega de la novela de Dashiell Hammett protagonizada por el detective de la Continental."
+    }
+  ]
+}
