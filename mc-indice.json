@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-27-ursula-curtiss-v1",
+  "version": "2026-11-27-thomas-walsh-v1",
   "descripcion": "MAESTROS DEL CRIMEN · índice con señas de identidad verificables, filtro por aficiones, particularidades y criterios de relevancia editorial. La ausencia de etiqueta no descarta un rasgo por documentar.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -49,7 +49,8 @@
     "mcgivern": "fichas/mcgivern.json",
     "matsumoto-seicho": "fichas/matsumoto-seicho.json",
     "wade-miller": "fichas/wade-miller.json",
-    "curtiss": "fichas/curtiss.json"
+    "curtiss": "fichas/curtiss.json",
+    "walsh-thomas": "fichas/walsh-thomas.json"
   },
   "autores": [
     {
@@ -2360,6 +2361,50 @@
         "curtiss-the-poisoned-orchard",
         "curtiss-dog-in-the-manger",
         "curtiss-death-of-a-crow"
+      ]
+    },
+    {
+      "id": "walsh-thomas",
+      "nombre": "Thomas Walsh",
+      "nombreCompleto": "Thomas Francis Morgan Walsh",
+      "nacimiento": "1908",
+      "fallecimiento": "1984",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "Nueva York, Estados Unidos",
+      "fin": "Danbury, Connecticut, Estados Unidos",
+      "debutNegro": 1950,
+      "seudonimos": [],
+      "generos": [
+        "police procedural",
+        "crime thriller",
+        "psychological thriller",
+        "hardboiled"
+      ],
+      "imagen": "",
+      "resumen": "Periodista y escritor estadounidense formado en las revistas pulp, especializado en suspense policial urbano y autores de policías moralmente vulnerables; ganó el Edgar a la mejor primera novela por Pesadilla en Manhattan.",
+      "alcanceBibliografia": "Once novelas documentadas (1950–1968), sin incluir relatos, serializaciones ni volúmenes recopilatorios; la producción de narrativa breve queda fuera.",
+      "articulos": [],
+      "personajes": [
+        "walsh-thomas-ritchie-mccallister",
+        "walsh-thomas-walter-sheridan",
+        "walsh-thomas-paddy-ahern",
+        "walsh-thomas-ray-cassidy",
+        "walsh-thomas-eckstrom"
+      ],
+      "series": [],
+      "obras": [
+        "walsh-thomas-nightmare-in-manhattan",
+        "walsh-thomas-the-night-watch",
+        "walsh-thomas-the-dark-window",
+        "walsh-thomas-dangerous-passenger",
+        "walsh-thomas-the-eye-of-the-needle",
+        "walsh-thomas-a-thief-in-the-night",
+        "walsh-thomas-to-hide-a-rogue",
+        "walsh-thomas-the-tenth-point",
+        "walsh-thomas-the-face-of-the-enemy",
+        "walsh-thomas-the-resurrection-man",
+        "walsh-thomas-the-action-of-the-tiger"
       ]
     }
   ],
@@ -7717,6 +7762,144 @@
       "serie": "",
       "obras": [
         "curtiss-the-birthday-gift"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "walsh-thomas-ritchie-mccallister",
+      "nombre": "Ritchie McCallister",
+      "autor": "walsh-thomas",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Detective joven destinado a la vigilancia de un atracador",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "walsh-thomas-the-night-watch"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Integridad",
+          "descripcion": "Se resiste a encubrir a un compañero que ha vulnerado su deber profesional."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "walsh-thomas-walter-sheridan",
+      "nombre": "Walter Sheridan",
+      "autor": "walsh-thomas",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Detective implicado en un dispositivo de vigilancia",
+      "sexo": "Masculino",
+      "roles": [
+        "Antagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "",
+      "obras": [
+        "walsh-thomas-the-night-watch"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Codicia",
+          "descripcion": "La posibilidad de apropiarse del dinero de un atraco precipita sus decisiones criminales."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "walsh-thomas-paddy-ahern",
+      "nombre": "Paddy Ahern",
+      "autor": "walsh-thomas",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Detective veterano próximo a la jubilación",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "walsh-thomas-the-night-watch"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Alcohol",
+          "descripcion": "Recurre ocasionalmente a la bebida durante las tensiones de su labor policial."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "walsh-thomas-ray-cassidy",
+      "nombre": "Ray Cassidy",
+      "autor": "walsh-thomas",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Responsable de seguridad nocturna en el Hotel Imperial; antiguo policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "walsh-thomas-the-dark-window"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Temor tras el tiroteo",
+          "descripcion": "Las secuelas emocionales de un tiroteo anterior han dañado su confianza y su vida profesional."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "walsh-thomas-eckstrom",
+      "nombre": "Eckstrom",
+      "autor": "walsh-thomas",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Teniente detective que organiza la vigilancia policial",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "walsh-thomas-the-night-watch"
       ],
       "articulos": [],
       "senasIdentidad": [],
@@ -17733,6 +17916,142 @@
         "psychological thriller",
         "crime thriller"
       ]
+    },
+    {
+      "id": "walsh-thomas-nightmare-in-manhattan",
+      "titulo": "Pesadilla en Manhattan",
+      "original": "Nightmare in Manhattan",
+      "anio": 1950,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "walsh-thomas-the-night-watch",
+      "titulo": "Un ladrón en la noche",
+      "original": "The Night Watch",
+      "anio": 1952,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "crook story"
+      ]
+    },
+    {
+      "id": "walsh-thomas-the-dark-window",
+      "titulo": "Los apuros de Mr. Janisek",
+      "original": "The Dark Window",
+      "anio": 1956,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "walsh-thomas-dangerous-passenger",
+      "titulo": "Dangerous Passenger",
+      "original": "Dangerous Passenger",
+      "anio": 1959,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "walsh-thomas-the-eye-of-the-needle",
+      "titulo": "The Eye of the Needle",
+      "original": "The Eye of the Needle",
+      "anio": 1961,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "walsh-thomas-a-thief-in-the-night",
+      "titulo": "A Thief in the Night",
+      "original": "A Thief in the Night",
+      "anio": 1962,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "walsh-thomas-to-hide-a-rogue",
+      "titulo": "Esconder a un canalla",
+      "original": "To Hide a Rogue",
+      "anio": 1964,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "walsh-thomas-the-tenth-point",
+      "titulo": "The Tenth Point",
+      "original": "The Tenth Point",
+      "anio": 1965,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "walsh-thomas-the-face-of-the-enemy",
+      "titulo": "The Face of the Enemy",
+      "original": "The Face of the Enemy",
+      "anio": 1966,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "walsh-thomas-the-resurrection-man",
+      "titulo": "The Resurrection Man",
+      "original": "The Resurrection Man",
+      "anio": 1966,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "walsh-thomas-the-action-of-the-tiger",
+      "titulo": "The Action of the Tiger",
+      "original": "The Action of the Tiger",
+      "anio": 1968,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
     }
   ],
   "destacados": {
@@ -17968,12 +18287,17 @@
       "curtiss-voice-out-of-darkness",
       "curtiss-the-forbidden-garden",
       "curtiss-out-of-the-dark"
+    ],
+    "walsh-thomas": [
+      "walsh-thomas-nightmare-in-manhattan",
+      "walsh-thomas-the-night-watch",
+      "walsh-thomas-the-dark-window"
     ]
   },
   "totales": {
-    "autores": 47,
-    "personajes": 166,
+    "autores": 48,
+    "personajes": 171,
     "series": 60,
-    "obras": 770
+    "obras": 781
   }
 }
