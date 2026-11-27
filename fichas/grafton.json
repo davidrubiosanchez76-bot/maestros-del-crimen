@@ -1,0 +1,768 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "grafton",
+    "nombre": "Sue Grafton",
+    "nombreCompleto": "Sue Taylor Grafton",
+    "nacimiento": "1940",
+    "fallecimiento": "2017",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "Louisville, Kentucky, Estados Unidos",
+    "fin": "Santa Bárbara, California, Estados Unidos",
+    "debutNegro": 1982,
+    "seudonimos": [],
+    "generos": [
+      "hardboiled",
+      "crime thriller"
+    ],
+    "imagen": "",
+    "resumen": "Novelista estadounidense, creadora de la detective privada Kinsey Millhone y del Alfabeto del crimen, ciclo de 25 novelas que renovó el hardboiled con una protagonista femenina independiente.",
+    "bibliografiaCompleta": true,
+    "notaBibliografia": "Bibliografía íntegra de novelas criminales de Kinsey Millhone: 25 entregas A–Y (1982–2017). Las novelas no policiales Keziah Dane (1967) y The Lolly-Madonna War (1969), la recopilación Kinsey y yo y los relatos no se contabilizan entre esas 25 novelas.",
+    "articulos": [],
+    "personajes": [
+      "grafton-kinsey",
+      "grafton-henry-pitts",
+      "grafton-rosie",
+      "grafton-con-dolan",
+      "grafton-robert-dietz",
+      "grafton-cheney-phillips",
+      "grafton-stacey-oliphant",
+      "grafton-william-pitts"
+    ],
+    "series": [
+      "grafton-kinsey-millhone"
+    ],
+    "obras": [
+      "grafton-a-is-for",
+      "grafton-b-is-for",
+      "grafton-c-is-for",
+      "grafton-d-is-for",
+      "grafton-e-is-for",
+      "grafton-f-is-for",
+      "grafton-g-is-for",
+      "grafton-h-is-for",
+      "grafton-i-is-for",
+      "grafton-j-is-for",
+      "grafton-k-is-for",
+      "grafton-l-is-for",
+      "grafton-m-is-for",
+      "grafton-n-is-for",
+      "grafton-o-is-for",
+      "grafton-p-is-for",
+      "grafton-q-is-for",
+      "grafton-r-is-for",
+      "grafton-s-is-for",
+      "grafton-t-is-for",
+      "grafton-u-is-for",
+      "grafton-v-is-for",
+      "grafton-w-is-for",
+      "grafton-x-is-for",
+      "grafton-y-is-for"
+    ],
+    "bio": [
+      "Sue Taylor Grafton nació el 24 de abril de 1940 en Louisville (Kentucky) y falleció el 28 de diciembre de 2017 en Santa Bárbara (California). Era hija de Cornelius Warren «C. W.» Grafton, abogado y autor de novelas criminales, y se graduó en Literatura Inglesa por la Universidad de Louisville.",
+      "Antes de su irrupción en la novela negra publicó dos obras de ficción general, Keziah Dane (1967) y The Lolly-Madonna War (1969), y trabajó como guionista de cine y televisión. Su debut en la novela criminal llegó en 1982 con A Is for Alibi (A de adulterio), que presentó a la detective privada Kinsey Millhone.",
+      "Ambientada en Santa Teresa, versión literaria de Santa Bárbara cuyo nombre homenajea a Ross Macdonald, la serie traslada el detective hardboiled a la mirada de una mujer independiente, práctica y de humor seco. Kinsey vive en una pequeña casa adaptada del garaje de su casero Henry Pitts, recorre despachos y calles buscando pruebas y establece vínculos recurrentes con Rosie, Dolan, Dietz y otros personajes.",
+      "La serie El alfabeto del crimen llegó a veinticinco novelas, de la A a la Y, publicadas durante treinta y cinco años. La narrativa conserva una cronología interna situada en la década de 1980, aunque los títulos aparecieran hasta 2017. Las ediciones españolas fueron publicadas por Tusquets, con títulos adaptados al orden alfabético castellano.",
+      "Entre sus reconocimientos destacan los premios Anthony y Shamus, el Cartier Diamond Dagger (2008) y el nombramiento de Grand Master por Mystery Writers of America en 2009. La autora falleció tras publicar Y Is for Yesterday y nunca escribió la entrega prevista para la Z."
+    ],
+    "apunte": "La letra que falta es una declaración de intenciones: Grafton planeaba cerrar El alfabeto del crimen con Z Is for Zero, pero murió en diciembre de 2017 y la novela nunca fue escrita. Su familia rechazó encargar una conclusión a otro escritor. En total, el ciclo abarca 25 novelas de Kinsey Millhone —no 26—: Kinsey y yo (Kinsey and Me) es una colección de relatos, no otra entrega de la secuencia. Además, la primera novela policial de Grafton fue A de adulterio (1982), no Keziah Dane (1967), un debut literario ajeno al género. Atención a los años: la primera edición de D Is for Deadbeat es de 1987 y la de G Is for Gumshoe de 1990, aunque algunos repertorios las anticipen a 1986 y 1989.",
+    "fuentesDocumentales": [
+      "https://www.suegrafton.com/pdf/Sue_Grafton_Book_Checklist.pdf",
+      "https://www.planetadelibros.com/serie-alfabeto-del-crimen/6725",
+      "https://www.fantasticfiction.com/g/sue-grafton/kinsey-millhone/",
+      "https://www.ebsco.com/research-starters/literature-and-writing/sue-grafton",
+      "https://us.macmillan.com/books/9780805002485/disfordeadbeat/",
+      "https://us.macmillan.com/books/9780805004618/gisforgumshoe/",
+      "https://www.panmacmillan.com/authors/sue-grafton/y-is-for-yesterday/9781447260226",
+      "https://www.carnegiecenterlex.org/hall-of-fame/sue-grafton/",
+      "https://www.planetadelibros.com/libro-y-de-yesterday/236810",
+      "https://www.penguinrandomhouse.com/series/KMM/a-kinsey-millhone-novel/"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "grafton-kinsey",
+      "nombre": "Kinsey Millhone",
+      "autor": "grafton",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Exagente de policía y detective privada de Santa Teresa (California)",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "grafton-kinsey-millhone",
+      "obras": [
+        "grafton-a-is-for",
+        "grafton-b-is-for",
+        "grafton-c-is-for",
+        "grafton-d-is-for",
+        "grafton-e-is-for",
+        "grafton-f-is-for",
+        "grafton-g-is-for",
+        "grafton-h-is-for",
+        "grafton-i-is-for",
+        "grafton-j-is-for",
+        "grafton-k-is-for",
+        "grafton-l-is-for",
+        "grafton-m-is-for",
+        "grafton-n-is-for",
+        "grafton-o-is-for",
+        "grafton-p-is-for",
+        "grafton-q-is-for",
+        "grafton-r-is-for",
+        "grafton-s-is-for",
+        "grafton-t-is-for",
+        "grafton-u-is-for",
+        "grafton-v-is-for",
+        "grafton-w-is-for",
+        "grafton-x-is-for",
+        "grafton-y-is-for"
+      ],
+      "articulos": [],
+      "descripcion": "Investigadora independiente de 32 años al comienzo de la saga, narradora en primera persona, dos veces divorciada, que vive sola en un garaje acondicionado en la propiedad de Henry Pitts.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Deportes",
+          "etiqueta": "Correr",
+          "descripcion": "Corre unos cinco kilómetros (tres millas) casi todas las mañanas para mantenerse en forma."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Comida rápida y sándwiches",
+          "descripcion": "Prefiere la comida poco elaborada, incluidos sándwiches de mantequilla de cacahuete con pepinillos."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Ropa práctica",
+          "descripcion": "Viste a menudo vaqueros y camisetas de cuello alto; conserva un único vestido negro para ocasiones formales."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Volkswagen Escarabajo",
+          "descripcion": "Durante buena parte de la saga conduce un Volkswagen Escarabajo azul claro."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Investigación metódica",
+          "descripcion": "Reconstruye trayectorias personales mediante entrevistas, registros, seguimientos y trabajo documental."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "grafton-henry-pitts",
+      "nombre": "Henry Pitts",
+      "autor": "grafton",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Panadero jubilado y casero de Kinsey en Santa Teresa",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "grafton-kinsey-millhone",
+      "obras": [
+        "grafton-a-is-for",
+        "grafton-b-is-for",
+        "grafton-c-is-for",
+        "grafton-d-is-for",
+        "grafton-e-is-for",
+        "grafton-f-is-for",
+        "grafton-g-is-for",
+        "grafton-h-is-for",
+        "grafton-i-is-for",
+        "grafton-j-is-for",
+        "grafton-k-is-for",
+        "grafton-l-is-for",
+        "grafton-m-is-for",
+        "grafton-n-is-for",
+        "grafton-o-is-for",
+        "grafton-p-is-for",
+        "grafton-q-is-for",
+        "grafton-r-is-for",
+        "grafton-s-is-for",
+        "grafton-t-is-for",
+        "grafton-u-is-for",
+        "grafton-v-is-for",
+        "grafton-w-is-for",
+        "grafton-x-is-for",
+        "grafton-y-is-for"
+      ],
+      "articulos": [],
+      "descripcion": "Octogenario que alquila a Kinsey un pequeño apartamento instalado en el antiguo garaje de su casa y actúa como amigo y apoyo cotidiano.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Panadería",
+          "descripcion": "Antiguo panadero profesional que sigue preparando panes y platos para amigos y vecinos."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Crucigramas",
+          "descripcion": "Compone crucigramas como actividad habitual."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "grafton-rosie",
+      "nombre": "Rosie",
+      "autor": "grafton",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Propietaria de un bar restaurante húngaro frecuentado por Kinsey",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "grafton-kinsey-millhone",
+      "obras": [
+        "grafton-a-is-for",
+        "grafton-b-is-for",
+        "grafton-c-is-for",
+        "grafton-d-is-for",
+        "grafton-e-is-for",
+        "grafton-f-is-for",
+        "grafton-g-is-for",
+        "grafton-h-is-for",
+        "grafton-i-is-for",
+        "grafton-j-is-for",
+        "grafton-k-is-for",
+        "grafton-l-is-for",
+        "grafton-m-is-for",
+        "grafton-n-is-for",
+        "grafton-o-is-for",
+        "grafton-p-is-for",
+        "grafton-q-is-for",
+        "grafton-r-is-for",
+        "grafton-s-is-for",
+        "grafton-t-is-for",
+        "grafton-u-is-for",
+        "grafton-v-is-for",
+        "grafton-w-is-for",
+        "grafton-x-is-for",
+        "grafton-y-is-for"
+      ],
+      "articulos": [],
+      "descripcion": "Dueña de un establecimiento de comida húngara, de carácter fuerte y cariñoso, donde Kinsey suele reunirse y comer.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Gastronomía",
+          "etiqueta": "Cocina húngara",
+          "descripcion": "Sirve platos húngaros y bebidas a sus clientes habituales."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Franqueza",
+          "descripcion": "Su carácter firme y sus opiniones directas contribuyen a la vida social del entorno de Kinsey."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "grafton-con-dolan",
+      "nombre": "Con Dolan",
+      "autor": "grafton",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Teniente de Homicidios de Santa Teresa",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "grafton-kinsey-millhone",
+      "obras": [
+        "grafton-a-is-for",
+        "grafton-q-is-for"
+      ],
+      "articulos": [],
+      "descripcion": "Teniente de policía que mantiene relaciones profesionales a veces tensas pero cooperativas con Kinsey; destaca su colaboración en un caso antiguo reabierto en Q de quién.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "grafton-robert-dietz",
+      "nombre": "Robert Dietz",
+      "autor": "grafton",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Investigador privado y colaborador sentimental de Kinsey",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "grafton-kinsey-millhone",
+      "obras": [
+        "grafton-g-is-for",
+        "grafton-m-is-for"
+      ],
+      "articulos": [],
+      "descripcion": "Detective experimentado contratado para proteger a Kinsey en G de guardaespaldas y colaborador en M de maldad; mantiene una relación intermitente con ella.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "grafton-cheney-phillips",
+      "nombre": "Cheney Phillips",
+      "autor": "grafton",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Detective de la policía de Santa Teresa",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "grafton-kinsey-millhone",
+      "obras": [
+        "grafton-x-is-for"
+      ],
+      "articulos": [],
+      "descripcion": "Agente que trabaja con otros detectives del departamento local y establece una relación personal e investigadora con Kinsey.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "grafton-stacey-oliphant",
+      "nombre": "Stacey Oliphant",
+      "autor": "grafton",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Antiguo detective del sheriff, jubilado",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "grafton-kinsey-millhone",
+      "obras": [
+        "grafton-q-is-for"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador retirado que colabora con Dolan y Kinsey en la identificación de una víctima hallada años atrás en una cantera.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "grafton-william-pitts",
+      "nombre": "William Pitts",
+      "autor": "grafton",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Hermano de Henry Pitts y esposo de Rosie",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Sin clasificar"
+      ],
+      "serie": "grafton-kinsey-millhone",
+      "obras": [
+        "grafton-w-is-for"
+      ],
+      "articulos": [],
+      "descripcion": "Hermano de Henry, personaje del entorno afectivo de Kinsey que termina casándose con Rosie.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    }
+  ],
+  "series": [
+    {
+      "id": "grafton-kinsey-millhone",
+      "nombre": "El alfabeto del crimen / Kinsey Millhone",
+      "autor": "grafton",
+      "descripcion": "Ciclo completo de 25 novelas de detective privado, de A Is for Alibi (1982) a Y Is for Yesterday (2017), ambientado fundamentalmente en Santa Teresa, California, con continuidad interna situada en los años ochenta. La entrega Z Is for Zero fue proyectada, pero nunca escrita ni publicada. Kinsey y yo es una recopilación de relatos y material autobiográfico, no una vigesimosexta novela."
+    }
+  ],
+  "obras": [
+    {
+      "id": "grafton-a-is-for",
+      "titulo": "A de adulterio",
+      "original": "A Is for Alibi",
+      "anio": 1982,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una mujer recién salida de prisión contrata a Kinsey para demostrar que no asesinó a su marido, delito por el que cumplió siete años."
+    },
+    {
+      "id": "grafton-b-is-for",
+      "titulo": "B de bestias",
+      "original": "B Is for Burglar",
+      "anio": 1985,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una mujer contrata a Kinsey para localizar a su hermana desaparecida, necesaria para firmar un documento familiar aparentemente intrascendente."
+    },
+    {
+      "id": "grafton-c-is-for",
+      "titulo": "C de cadáver",
+      "original": "C Is for Corpse",
+      "anio": 1986,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Un joven que ha sufrido un grave accidente teme que alguien esté intentando asesinarlo y solicita ayuda a Kinsey."
+    },
+    {
+      "id": "grafton-d-is-for",
+      "titulo": "D de deuda",
+      "original": "D Is for Deadbeat",
+      "anio": 1987,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Kinsey acepta entregar un cheque de veinticinco mil dólares a un adolescente y acaba investigando el pasado de quien le encomendó la entrega."
+    },
+    {
+      "id": "grafton-e-is-for",
+      "titulo": "E de evidencia",
+      "original": "E Is for Evidence",
+      "anio": 1988,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una investigación por incendio intencionado en una fábrica se vuelve contra Kinsey cuando ella misma queda implicada en la trama."
+    },
+    {
+      "id": "grafton-f-is-for",
+      "titulo": "F de fugitivo",
+      "original": "F Is for Fugitive",
+      "anio": 1989,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Kinsey investiga un antiguo asesinato para tratar de demostrar la inocencia de un condenado que se había fugado de prisión."
+    },
+    {
+      "id": "grafton-g-is-for",
+      "titulo": "G de guardaespaldas",
+      "original": "G Is for Gumshoe",
+      "anio": 1990,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Tras recibir amenazas de un asesino a sueldo, Kinsey contrata protección mientras busca a una mujer desaparecida en el desierto de Mojave."
+    },
+    {
+      "id": "grafton-h-is-for",
+      "titulo": "H de homicidio",
+      "original": "H Is for Homicide",
+      "anio": 1991,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Kinsey se infiltra en una red de fraudes a compañías de seguros tras el asesinato de un compañero relacionado con la investigación."
+    },
+    {
+      "id": "grafton-i-is-for",
+      "titulo": "I de inocente",
+      "original": "I Is for Innocent",
+      "anio": 1992,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Kinsey retoma una investigación para un litigio civil por asesinato después de que el detective anterior muriera inesperadamente."
+    },
+    {
+      "id": "grafton-j-is-for",
+      "titulo": "J de juicio",
+      "original": "J Is for Judgment",
+      "anio": 1993,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una compañía de seguros contrata a Kinsey para localizar a un supuesto fallecido cuya viuda acaba de cobrar una importante indemnización."
+    },
+    {
+      "id": "grafton-k-is-for",
+      "titulo": "K de Kinsey",
+      "original": "K Is for Killer",
+      "anio": 1994,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una madre pide a Kinsey que descubra quién mató a su hija, después de diez meses de investigación policial sin resultados."
+    },
+    {
+      "id": "grafton-l-is-for",
+      "titulo": "L de ley (o fuera de ella)",
+      "original": "L Is for Lawless",
+      "anio": 1995,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Lo que empieza como un encargo para recuperar dinero robado se transforma en una persecución que lleva a Kinsey a recorrer Estados Unidos."
+    },
+    {
+      "id": "grafton-m-is-for",
+      "titulo": "M de maldad",
+      "original": "M Is for Malice",
+      "anio": 1996,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Kinsey localiza a un heredero desaparecido; la muerte posterior de este la obliga a investigar con la colaboración del detective Robert Dietz."
+    },
+    {
+      "id": "grafton-n-is-for",
+      "titulo": "N de nudo",
+      "original": "N Is for Noose",
+      "anio": 1998,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una viuda quiere averiguar qué preocupaba a su marido, un investigador del sheriff, antes de que muriera repentinamente."
+    },
+    {
+      "id": "grafton-o-is-for",
+      "titulo": "O de odio",
+      "original": "O Is for Outlaw",
+      "anio": 1999,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una caja con recuerdos y una carta nunca entregada obliga a Kinsey a reconsiderar la historia de su primer marido, antiguo policía acusado de asesinato."
+    },
+    {
+      "id": "grafton-p-is-for",
+      "titulo": "P de peligro",
+      "original": "P Is for Peril",
+      "anio": 2001,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Kinsey busca a un médico desaparecido por encargo de su exmujer y se ve envuelta en otra investigación relacionada con unas oficinas nuevas."
+    },
+    {
+      "id": "grafton-q-is-for",
+      "titulo": "Q de quién",
+      "original": "Q Is for Quarry",
+      "anio": 2002,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Kinsey colabora con los policías Dolan y Stacey Oliphant en la identificación de una joven asesinada cuyo cuerpo apareció en una cantera en 1969."
+    },
+    {
+      "id": "grafton-r-is-for",
+      "titulo": "R de rebelde",
+      "original": "R Is for Ricochet",
+      "anio": 2004,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Kinsey recoge de prisión a una joven y termina ayudándola a esclarecer la trama de la que fue víctima y los intereses de quien la perjudicó."
+    },
+    {
+      "id": "grafton-s-is-for",
+      "titulo": "S de silencio",
+      "original": "S Is for Silence",
+      "anio": 2005,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Un nuevo encargo permite reconstruir la desaparición de una mujer ocurrida treinta y cuatro años atrás, mediante testimonios y recuerdos contradictorios."
+    },
+    {
+      "id": "grafton-t-is-for",
+      "titulo": "T de trampa",
+      "original": "T Is for Trespass",
+      "anio": 2007,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una comprobación de antecedentes de una cuidadora contratada para atender a un vecino herido revela que la mujer representa un grave peligro."
+    },
+    {
+      "id": "grafton-u-is-for",
+      "titulo": "U de ultimátum",
+      "original": "U Is for Undertow",
+      "anio": 2009,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Un hombre recupera un recuerdo de infancia que podría aportar una pista sobre un secuestro cometido en 1967."
+    },
+    {
+      "id": "grafton-v-is-for",
+      "titulo": "V de venganza",
+      "original": "V Is for Vengeance",
+      "anio": 2011,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Kinsey presencia un hurto en una tienda y se ve involucrada en la investigación de la posterior muerte de la mujer a la que sorprendió robando."
+    },
+    {
+      "id": "grafton-w-is-for",
+      "titulo": "W de whisky",
+      "original": "W Is for Wasted",
+      "anio": 2013,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "La muerte de un indigente que llevaba el teléfono de Kinsey conduce a descubrir vínculos con otro fallecimiento, el de un investigador privado."
+    },
+    {
+      "id": "grafton-x-is-for",
+      "titulo": "X de rayos X",
+      "original": "X",
+      "anio": 2015,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Un encargo aparentemente rutinario y los papeles del fallecido detective Pete Wolinsky arrastran a Kinsey a nuevas investigaciones."
+    },
+    {
+      "id": "grafton-y-is-for",
+      "titulo": "Y de Yesterday",
+      "original": "Y Is for Yesterday",
+      "anio": 2017,
+      "autor": "grafton",
+      "seudonimo": "",
+      "serie": "grafton-kinsey-millhone",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "El regreso de un joven implicado años atrás en una agresión sexual grabada desencadena un chantaje y una investigación vinculada a los hechos de 1979."
+    }
+  ]
+}
