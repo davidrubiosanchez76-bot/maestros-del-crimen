@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-27-ard-v1",
+  "version": "2026-11-27-mcgivern-v1",
   "descripcion": "MAESTROS DEL CRIMEN · índice con señas de identidad verificables, filtro por aficiones, particularidades y criterios de relevancia editorial. La ausencia de etiqueta no descarta un rasgo por documentar.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -45,7 +45,8 @@
     "stout": "fichas/stout.json",
     "bramah": "fichas/bramah.json",
     "burnett": "fichas/burnett.json",
-    "ard": "fichas/ard.json"
+    "ard": "fichas/ard.json",
+    "mcgivern": "fichas/mcgivern.json"
   },
   "autores": [
     {
@@ -2103,6 +2104,71 @@
         "ard-like-ice-she-was",
         "ard-a-girl-for-danny",
         "ard-the-sins-of-billy-serene"
+      ]
+    },
+    {
+      "id": "mcgivern",
+      "nombre": "William P. McGivern",
+      "nombreCompleto": "William Peter McGivern",
+      "nacimiento": "1918",
+      "fallecimiento": "1982",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "Chicago, Illinois, Estados Unidos",
+      "fin": "Palm Desert, California, Estados Unidos",
+      "debutNegro": 1948,
+      "seudonimos": [
+        "Bill Peters",
+        "P. F. Costello",
+        "Gerald Vance",
+        "Clee Garson",
+        "John York Cabot",
+        "Duncan Farnsworth"
+      ],
+      "generos": [
+        "hardboiled",
+        "crime thriller",
+        "police procedural",
+        "heist fiction"
+      ],
+      "imagen": "",
+      "resumen": "Novelista y guionista estadounidense que retrató la corrupción policial y el crimen urbano; autor de Uno contra todos (The Big Heat), Rogue Cop y Reto al destino (Odds Against Tomorrow).",
+      "alcanceBibliografia": "selección amplia de ficción criminal no exhaustiva; se excluyen narraciones bélicas, fantasía, recopilaciones y títulos cuya pertenencia al género no se ha comprobado",
+      "articulos": [],
+      "personajes": [
+        "mcgivern-dave-bannion",
+        "mcgivern-barney-nolan",
+        "mcgivern-mike-carmody",
+        "mcgivern-earl-slater",
+        "mcgivern-johnny-ingram",
+        "mcgivern-dave-burke"
+      ],
+      "series": [],
+      "obras": [
+        "mcgivern-but-death-runs-faster",
+        "mcgivern-heaven-ran-last",
+        "mcgivern-very-cold-for-may",
+        "mcgivern-shield-for-murder",
+        "mcgivern-blondes-die-young",
+        "mcgivern-the-crooked-frame",
+        "mcgivern-the-big-heat",
+        "mcgivern-margin-of-terror",
+        "mcgivern-rogue-cop",
+        "mcgivern-the-darkest-hour",
+        "mcgivern-the-seven-file",
+        "mcgivern-night-extra",
+        "mcgivern-odds-against-tomorrow",
+        "mcgivern-savage-streets",
+        "mcgivern-seven-lies-south",
+        "mcgivern-the-road-to-the-snail",
+        "mcgivern-a-pride-of-place",
+        "mcgivern-a-choice-of-assassins",
+        "mcgivern-the-caper-of-the-golden-bulls",
+        "mcgivern-lie-down-i-want-to-talk-to-you",
+        "mcgivern-caprifoil",
+        "mcgivern-reprisal",
+        "mcgivern-night-of-the-juggler",
+        "mcgivern-summitt"
       ]
     }
   ],
@@ -6563,6 +6629,173 @@
       "serie": "",
       "obras": [
         "ard-no-angels-for-me"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "mcgivern-dave-bannion",
+      "nombre": "Dave Bannion",
+      "autor": "mcgivern",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Sargento de homicidios",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "mcgivern-the-big-heat"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Integridad inflexible",
+          "descripcion": "Insiste en proseguir su investigación pese a las presiones de sus superiores."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "mcgivern-barney-nolan",
+      "nombre": "Barney Nolan",
+      "autor": "mcgivern",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Detective policial corrupto",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "",
+      "obras": [
+        "mcgivern-shield-for-murder"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Codicia",
+          "descripcion": "El deseo de enriquecerse precipita su crimen y el posterior encubrimiento."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "mcgivern-mike-carmody",
+      "nombre": "Mike Carmody",
+      "autor": "mcgivern",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Detective policial comprado por el hampa",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "mcgivern-rogue-cop"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Deducción policial",
+          "descripcion": "Conserva una notable capacidad para interpretar las pruebas de los delitos pese a sus conductas corruptas."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "mcgivern-earl-slater",
+      "nombre": "Earl «Tex» Slater",
+      "autor": "mcgivern",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Exconvicto reclutado para atracar un banco",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "mcgivern-odds-against-tomorrow"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos psicológicos",
+          "etiqueta": "Racismo",
+          "descripcion": "Su hostilidad racial hacia Johnny Ingram condiciona el desarrollo del atraco."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "mcgivern-johnny-ingram",
+      "nombre": "Johnny Ingram",
+      "autor": "mcgivern",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Cantante y jugador endeudado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "mcgivern-odds-against-tomorrow"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Música",
+          "etiqueta": "Canto",
+          "descripcion": "Se gana la vida como cantante, al tiempo que lucha contra sus problemas económicos."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "mcgivern-dave-burke",
+      "nombre": "Dave Burke",
+      "autor": "mcgivern",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Expolicía que organiza el robo de un banco",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "mcgivern-odds-against-tomorrow"
       ],
       "articulos": [],
       "senasIdentidad": [],
@@ -15384,6 +15617,309 @@
         "hardboiled",
         "crime thriller"
       ]
+    },
+    {
+      "id": "mcgivern-but-death-runs-faster",
+      "titulo": "But Death Runs Faster",
+      "original": "But Death Runs Faster",
+      "anio": 1948,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-heaven-ran-last",
+      "titulo": "Heaven Ran Last",
+      "original": "Heaven Ran Last",
+      "anio": 1949,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-very-cold-for-may",
+      "titulo": "Very Cold for May",
+      "original": "Very Cold for May",
+      "anio": 1950,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-shield-for-murder",
+      "titulo": "Shield for Murder",
+      "original": "Shield for Murder",
+      "anio": 1951,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-blondes-die-young",
+      "titulo": "Blondes Die Young",
+      "original": "Blondes Die Young",
+      "anio": 1952,
+      "autor": "mcgivern",
+      "seudonimo": "Bill Peters",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-the-crooked-frame",
+      "titulo": "The Crooked Frame",
+      "original": "The Crooked Frame",
+      "anio": 1952,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-the-big-heat",
+      "titulo": "Uno contra todos",
+      "original": "The Big Heat",
+      "anio": 1953,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcgivern-margin-of-terror",
+      "titulo": "Margin of Terror",
+      "original": "Margin of Terror",
+      "anio": 1953,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-rogue-cop",
+      "titulo": "Rogue Cop",
+      "original": "Rogue Cop",
+      "anio": 1954,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-the-darkest-hour",
+      "titulo": "The Darkest Hour",
+      "original": "The Darkest Hour",
+      "anio": 1955,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcgivern-the-seven-file",
+      "titulo": "The Seven File",
+      "original": "The Seven File",
+      "anio": 1956,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "mcgivern-night-extra",
+      "titulo": "Night Extra",
+      "original": "Night Extra",
+      "anio": 1957,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-odds-against-tomorrow",
+      "titulo": "Reto al destino",
+      "original": "Odds Against Tomorrow",
+      "anio": 1957,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "heist fiction",
+        "crook story"
+      ]
+    },
+    {
+      "id": "mcgivern-savage-streets",
+      "titulo": "Savage Streets",
+      "original": "Savage Streets",
+      "anio": 1959,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-seven-lies-south",
+      "titulo": "Seven Lies South",
+      "original": "Seven Lies South",
+      "anio": 1960,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-the-road-to-the-snail",
+      "titulo": "The Road to the Snail",
+      "original": "The Road to the Snail",
+      "anio": 1961,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-a-pride-of-place",
+      "titulo": "A Pride of Place",
+      "original": "A Pride of Place",
+      "anio": 1962,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-a-choice-of-assassins",
+      "titulo": "A Choice of Assassins",
+      "original": "A Choice of Assassins",
+      "anio": 1963,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "spy fiction"
+      ]
+    },
+    {
+      "id": "mcgivern-the-caper-of-the-golden-bulls",
+      "titulo": "The Caper of the Golden Bulls",
+      "original": "The Caper of the Golden Bulls",
+      "anio": 1966,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "heist fiction",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-lie-down-i-want-to-talk-to-you",
+      "titulo": "Lie Down, I Want to Talk to You",
+      "original": "Lie Down, I Want to Talk to You",
+      "anio": 1967,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-caprifoil",
+      "titulo": "Caprifoil",
+      "original": "Caprifoil",
+      "anio": 1972,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "spy fiction"
+      ]
+    },
+    {
+      "id": "mcgivern-reprisal",
+      "titulo": "Reprisal",
+      "original": "Reprisal",
+      "anio": 1973,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-night-of-the-juggler",
+      "titulo": "Night of the Juggler",
+      "original": "Night of the Juggler",
+      "anio": 1975,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "mcgivern-summitt",
+      "titulo": "Summitt",
+      "original": "Summitt",
+      "anio": 1982,
+      "autor": "mcgivern",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
     }
   ],
   "destacados": {
@@ -15599,12 +16135,17 @@
       "ard-the-perfect-frame",
       "ard-shakedown",
       "ard-all-i-can-get"
+    ],
+    "mcgivern": [
+      "mcgivern-the-big-heat",
+      "mcgivern-rogue-cop",
+      "mcgivern-odds-against-tomorrow"
     ]
   },
   "totales": {
-    "autores": 43,
-    "personajes": 132,
+    "autores": 44,
+    "personajes": 138,
     "series": 58,
-    "obras": 676
+    "obras": 700
   }
 }
