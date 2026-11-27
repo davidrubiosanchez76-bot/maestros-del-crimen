@@ -26,8 +26,7 @@
       "walsh-thomas-ritchie-mccallister",
       "walsh-thomas-walter-sheridan",
       "walsh-thomas-paddy-ahern",
-      "walsh-thomas-ray-cassidy",
-      "walsh-thomas-eckstrom"
+      "walsh-thomas-ray-cassidy"
     ],
     "series": [],
     "obras": [
@@ -151,7 +150,7 @@
           "descripcion": "Recurre ocasionalmente a la bebida durante las tensiones de su labor policial."
         }
       ],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "complementario",
       "estadoSenas": "propuesta_documentada"
     },
     {
@@ -183,29 +182,6 @@
       ],
       "nivelArchivo": "principal",
       "estadoSenas": "propuesta_documentada"
-    },
-    {
-      "id": "walsh-thomas-eckstrom",
-      "nombre": "Eckstrom",
-      "autor": "walsh-thomas",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Teniente detective que organiza la vigilancia policial",
-      "sexo": "Masculino",
-      "roles": [
-        "Aliado / colaborador"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "",
-      "obras": [
-        "walsh-thomas-the-night-watch"
-      ],
-      "articulos": [],
-      "descripcion": "Superior que asigna a McCallister, Ahern y Sheridan la vigilancia de un delincuente buscado.",
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [],
