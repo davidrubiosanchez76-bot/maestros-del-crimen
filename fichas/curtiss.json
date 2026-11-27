@@ -23,18 +23,13 @@
     "articulos": [],
     "personajes": [
       "curtiss-katie-meredith",
-      "curtiss-victoria-devlin",
-      "curtiss-lou-fabian",
-      "curtiss-sarah-trafton",
-      "curtiss-madeline-potter",
       "curtiss-cora-applegate",
       "curtiss-elsa-marrable",
       "curtiss-alice-dimmock",
       "curtiss-harriet-crewe",
-      "curtiss-kate-barlow",
       "curtiss-kit-austen",
       "curtiss-celia-brett",
-      "curtiss-lydia-peel"
+      "curtiss-libby-mannering"
     ],
     "series": [],
     "obras": [
@@ -67,7 +62,7 @@
       "Su estilo combinó la observación psicológica con el misterio criminal y elementos del gótico doméstico. Figuran entre sus títulos The Second Sickle (1950), The Stairway (1957), The Forbidden Garden (1962), The Wasp (1963), Out of the Dark (1964) y Letter of Intent (1971).",
       "Dos de sus novelas llegaron al cine: Out of the Dark inspiró I Saw What You Did (1965) de William Castle, reinterpretada en televisión en 1988; The Forbidden Garden dio origen a What Ever Happened to Aunt Alice? (1969). Sus novelas fueron reeditadas en otros países y circularon también con títulos alternativos."
     ],
-    "apunte": "La especialidad de Curtiss no era el detective heroico, sino el terror que entra por la puerta de casa. En The Forbidden Garden (1962) la viuda Elsa Marrable convierte un jardín en escondite de crímenes; en Out of the Dark (1964), dos adolescentes creen gastar una broma por teléfono sin saber que han llamado a un asesino. Ambas historias llegaron al cine: What Ever Happened to Aunt Alice? (1969) e I Saw What You Did (1965, rehecha en 1988). Para evitar duplicados, Noche de terror es The Deadly Climate (1954), y Jugando con la muerte es Out of the Dark (1964): no son obras distintas. La bibliografía separa también The Second Sickle / The Hollow House, The Noonday Devil / Catch a Killer, The Birthday Gift / Dig a Little Deeper y Dog in the Manger / The Graveyard Shift.",
+    "apunte": "La especialidad de Curtiss no era el detective heroico, sino el terror que entra por la puerta de casa. En The Forbidden Garden (1962) la viuda Elsa Marrable convierte un jardín en escondite de crímenes; en Out of the Dark (1964), dos adolescentes creen gastar una broma por teléfono sin saber que han llamado a un asesino. Ambas historias llegaron al cine: What Ever Happened to Aunt Alice? (1969) e I Saw What You Did (1965, rehecha en 1988). Para evitar duplicados, Noche de terror es The Deadly Climate (1954), y Jugando con la muerte es Out of the Dark (1964): no son obras distintas. La bibliografía separa también The Second Sickle / The Hollow House, The Noonday Devil / Catch a Killer, The Birthday Gift / Dig a Little Deeper y Dog in the Manger / The Graveyard Shift. Kit Austen es el nombre de la novela Out of the Dark y Libby Mannering su otra protagonista. La película I Saw What You Did cambia el apellido de Kit a Austin; no debe confundirse con el texto literario.",
     "fuentesDocumentales": [
       "https://www.stopyourekillingme.com/C_Authors/Curtiss_Ursula.html",
       "https://embden11.home.xs4all.nl/Engels/curtiss.htm",
@@ -77,7 +72,8 @@
       "https://catalog.afi.com/Catalog/moviedetails/23221",
       "https://www.uniliber.com/ficha/noche-de-terror_114988616/",
       "https://datos.bne.es/resource/XX924386",
-      "https://www.kirkusreviews.com/book-reviews/a/ursula-gurtiss/the-wasp/"
+      "https://www.kirkusreviews.com/book-reviews/a/ursula-gurtiss/the-wasp/",
+      "https://www.kirkusreviews.com/book-reviews/a/ursula-curtiss/out-of-the-dark-31/"
     ]
   },
   "personajes": [
@@ -100,105 +96,6 @@
       ],
       "articulos": [],
       "descripcion": "Regresa al escenario de una antigua tragedia y afronta sospechas renovadas sobre la muerte de su hermana de acogida.",
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "curtiss-victoria-devlin",
-      "nombre": "Victoria Devlin",
-      "autor": "curtiss",
-      "ocupacion": "Investigador aficionado",
-      "ocupacionDetalle": "Joven empeñada en cumplir una promesa pese al peligro",
-      "sexo": "Femenino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "",
-      "obras": [
-        "curtiss-the-second-sickle"
-      ],
-      "articulos": [],
-      "descripcion": "Su insistencia en mantener una promesa la expone a amenazas y a un crimen.",
-      "senasIdentidad": [
-        {
-          "categoria": "rasgos",
-          "tema": "Rasgos de personalidad",
-          "etiqueta": "Fidelidad a la palabra",
-          "descripcion": "Se empeña en respetar una promesa incluso cuando la pone en peligro."
-        }
-      ],
-      "nivelArchivo": "principal",
-      "estadoSenas": "propuesta_documentada"
-    },
-    {
-      "id": "curtiss-lou-fabian",
-      "nombre": "Lou Fabian",
-      "autor": "curtiss",
-      "ocupacion": "Investigador aficionado",
-      "ocupacionDetalle": "Mujer sobre la que recae la sospecha de secuestro",
-      "sexo": "Femenino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "",
-      "obras": [
-        "curtiss-the-face-of-the-tiger"
-      ],
-      "articulos": [],
-      "descripcion": "Se ve acusada por segunda vez de estar implicada en la desaparición de un menor.",
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "curtiss-sarah-trafton",
-      "nombre": "Sarah Trafton",
-      "autor": "curtiss",
-      "ocupacion": "Investigador aficionado",
-      "ocupacionDetalle": "Esposa que intenta esclarecer muertes familiares",
-      "sexo": "Femenino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "",
-      "obras": [
-        "curtiss-so-dies-the-dreamer"
-      ],
-      "articulos": [],
-      "descripcion": "Busca al culpable de un asesinato para entender también el aparente suicidio de su marido.",
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "curtiss-madeline-potter",
-      "nombre": "Madeline Potter",
-      "autor": "curtiss",
-      "ocupacion": "Investigador aficionado",
-      "ocupacionDetalle": "Viuda sometida a chantaje psicológico",
-      "sexo": "Femenino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "",
-      "obras": [
-        "curtiss-the-stairway"
-      ],
-      "articulos": [],
-      "descripcion": "Intenta resistir la presión de Cora Applegate mientras lidia con las consecuencias de la muerte de su marido.",
       "senasIdentidad": [],
       "nivelArchivo": "principal",
       "estadoSenas": "pendiente_de_documentar"
@@ -299,38 +196,8 @@
       "articulos": [],
       "descripcion": "Espectadora no voluntaria de una trama homicida mientras cuida a su sobrino James.",
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "complementario",
       "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "curtiss-kate-barlow",
-      "nombre": "Kate Barlow",
-      "autor": "curtiss",
-      "ocupacion": "Sin ocupación relevante",
-      "ocupacionDetalle": "Joven viuda que vive con sus parientes políticos",
-      "sexo": "Femenino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "",
-      "obras": [
-        "curtiss-the-wasp"
-      ],
-      "articulos": [],
-      "descripcion": "Sufre hostigamiento cuando un familiar explota su miedo a las avispas.",
-      "senasIdentidad": [
-        {
-          "categoria": "manias",
-          "tema": "Manías y costumbres",
-          "etiqueta": "Temor a las avispas",
-          "descripcion": "Un accidente con una avispa desencadena el aprovechamiento cruel de ese miedo por parte de su familia política."
-        }
-      ],
-      "nivelArchivo": "principal",
-      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "curtiss-kit-austen",
@@ -350,7 +217,7 @@
         "curtiss-out-of-the-dark"
       ],
       "articulos": [],
-      "descripcion": "Una llamada telefónica realizada como travesura la relaciona con un homicida que intenta encontrarla.",
+      "descripcion": "Adolescente que propone hacer llamadas telefónicas de broma durante una velada en casa de Libby Mannering; en la película el apellido aparece como Austin, no en la novela.",
       "senasIdentidad": [
         {
           "categoria": "manias",
@@ -386,24 +253,24 @@
       "estadoSenas": "pendiente_de_documentar"
     },
     {
-      "id": "curtiss-lydia-peel",
-      "nombre": "Lydia Peel",
+      "id": "curtiss-libby-mannering",
+      "nombre": "Libby Mannering",
       "autor": "curtiss",
-      "ocupacion": "Investigador aficionado",
-      "ocupacionDetalle": "Mujer arrastrada a una trama por un encargo rutinario",
+      "ocupacion": "Sin ocupación relevante",
+      "ocupacionDetalle": "Adolescente de catorce años de la familia Mannering",
       "sexo": "Femenino",
       "roles": [
-        "Protagonista"
+        "Coprotagonista"
       ],
       "perfiles": [
         "Héroe"
       ],
       "serie": "",
       "obras": [
-        "curtiss-the-birthday-gift"
+        "curtiss-out-of-the-dark"
       ],
       "articulos": [],
-      "descripcion": "Un simple recado la introduce en una red de identidades fingidas y crímenes.",
+      "descripcion": "Libby invita a Kit Austen cuando sus padres están ausentes; ambas participan en el juego de llamadas telefónicas que las pone en peligro.",
       "senasIdentidad": [],
       "nivelArchivo": "principal",
       "estadoSenas": "pendiente_de_documentar"
