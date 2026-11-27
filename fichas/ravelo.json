@@ -1,0 +1,539 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "ravelo",
+    "nombre": "Alexis Ravelo",
+    "nombreCompleto": "Alexis Ravelo Betancor",
+    "nacimiento": "1971",
+    "fallecimiento": "2023",
+    "origen": "España",
+    "pais": "España",
+    "lugar": "Las Palmas de Gran Canaria, Canarias, España",
+    "fin": "Las Palmas de Gran Canaria, Canarias, España",
+    "debutNegro": 2006,
+    "seudonimos": [
+      "M. A. West"
+    ],
+    "generos": [
+      "hardboiled",
+      "crime thriller",
+      "crook story",
+      "rural noir",
+      "heist fiction",
+      "psychological thriller"
+    ],
+    "imagen": "",
+    "resumen": "Escritor canario de novela negra y crítica social; creador del exmarino Eladio Monroy y autor de La estrategia del pequinés, Las flores no sangran y Un tío con una bolsa en la cabeza.",
+    "alcanceBibliografia": "Selección de quince novelas negrocriminales publicadas entre 2006 y 2022, incluidas las seis de Eladio Monroy y el díptico La iniquidad. No se contabilizan relatos, ficción infantil, la fantasía La otra vida de Ned Blackbird, la novela histórica Los milagros prohibidos, la narración social El hambre y la fe, ni la recopilación Las islas negras (2026).",
+    "articulos": [],
+    "personajes": [
+      "ravelo-eladio-personaje",
+      "ravelo-gloria",
+      "ravelo-el-rubio",
+      "ravelo-cora",
+      "ravelo-gabriel-sanchez-santana",
+      "ravelo-marta-ferrer",
+      "ravelo-tomas"
+    ],
+    "series": [
+      "ravelo-eladio-monroy",
+      "ravelo-la-iniquidad"
+    ],
+    "obras": [
+      "ravelo-tres-funerales",
+      "ravelo-la-noche-de-piedra",
+      "ravelo-solo-los-muertos",
+      "ravelo-los-dias-de-mercurio",
+      "ravelo-los-tipos-duros-no-leen-poesia",
+      "ravelo-morir-despacio",
+      "ravelo-la-estrategia-del-pequines",
+      "ravelo-la-ultima-tumba",
+      "ravelo-el-viento-y-la-sangre",
+      "ravelo-las-flores-no-sangran",
+      "ravelo-el-peor-de-los-tiempos",
+      "ravelo-la-ceguera-del-cangrejo",
+      "ravelo-un-tio-con-una-bolsa-en-la-cabeza",
+      "ravelo-si-no-hubiera-manana",
+      "ravelo-los-nombres-prestados"
+    ],
+    "bio": [
+      "Alexis Ravelo Betancor nació el 20 de agosto de 1971 y falleció el 30 de enero de 2023 en Las Palmas de Gran Canaria. Se crio en el barrio de Escaleritas, trabajó en hostelería, estudió Filosofía y asistió a talleres de Augusto Monterroso, Mario Merlino y Alfredo Bryce Echenique.",
+      "Publicó su primera novela criminal en 2006: Tres funerales para Eladio Monroy, inicio de una serie de seis títulos protagonizada por un jubilado de la marina mercante que acepta trabajos extraoficiales y recorre la geografía social de Las Palmas, entre el humor, la violencia y la crítica de clase.",
+      "En paralelo a Eladio Monroy, investigó los mecanismos del mal en las novelas La noche de piedra (2007) y Los días de mercurio (2010), reunidas como La iniquidad. La estrategia del pequinés (2013) explora la desesperación social mediante una novela de atracos y obtuvo en 2014 el premio Dashiell Hammett; La última tumba fue distinguida con el Ciudad de Getafe en 2013 y Las flores no sangran obtuvo el premio Valencia Negra.",
+      "Su obra posterior incluye La ceguera del cangrejo (2019), intriga de corrupción y ecologismo en Lanzarote, Un tío con una bolsa en la cabeza (2020), una sátira negra sobre la corrupción municipal, y Los nombres prestados (2022), una exploración del legado de la violencia política que ganó el Premio Café Gijón de 2021.",
+      "Además de la novela criminal escribió literatura infantil, teatro, relatos, textos de fantasía y novela histórica. Impulsó actividades de promoción cultural y estuvo vinculado al festival Aridane Criminal de La Palma. En 2026 se reeditó póstumamente un volumen recopilatorio de tres novelas, Las islas negras, que no constituye un título narrativo nuevo."
+    ],
+    "apunte": "Alexis Ravelo convirtió Las Palmas de Gran Canaria en escenario noir mediante Eladio Monroy, pensionista de la marina y buscavidas que, aunque investiga delitos, no es detective profesional ni policía. Sus aficiones a los libros descatalogados y al café, su relación con la librera Gloria y la sociabilidad del bar Casablanca le dan un perfil propio. En 2013 Ravelo perpetró una broma editorial: publicó El viento y la sangre como M. A. West, un supuesto escritor norteamericano de biografía inventada. Las reediciones pueden desordenar su cronología: La noche de piedra apareció en 2007 (no en 2023); el Hammett de La estrategia del pequinés corresponde a 2014, pero la novela es de 2013. Las islas negras (2026) contiene La ceguera del cangrejo, Un tío con una bolsa en la cabeza y Los nombres prestados, y no se cuenta como novela adicional. Los otros géneros literarios del autor se documentan sin forzarlos a ser novela negra.",
+    "fuentesDocumentales": [
+      "https://alreveseditorial.com/autores/alexis-ravelo",
+      "https://www.icdcultural.org/talleres/alexis-ravelo-ciclo-letras-vivas-ii",
+      "https://bibliotecadecanarias.org/escritores-as/alexis-ravelo",
+      "https://portal.academiacanarialengua.org/archipielago-letras/alexis-ravelo/",
+      "https://www.rtve.es/noticias/20230130/muere-escritor-novela-negra-alexis-ravelo/2419122.shtml",
+      "https://alreveseditorial.com/libros/la-noche-de-piedra",
+      "https://alreveseditorial.com/libros/la-estrategia-del-pequines-10o-aniversario",
+      "https://alreveseditorial.com/libros/las-flores-no-sangran",
+      "https://www.siruela.com/catalogo.php?id_libro=4154",
+      "https://www.siruela.com/catalogo.php?id_libro=3874",
+      "https://www.siruela.com/catalogo.php?id_libro=4434",
+      "https://www.siruela.com/catalogo.php?id_libro=5284",
+      "https://elpais.com/cultura/2014/09/02/actualidad/1409656992_471934.html",
+      "https://alexisravelo.wordpress.com/tag/el-viento-y-la-sangre/",
+      "https://rl.academiacanarialengua.org/no-8/la-ciudad-negra-de-eladio-monroy-las-palmas-de-gran-canaria-en-cuatro-novelas-de-alexis-ravelo/"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "ravelo-eladio-personaje",
+      "nombre": "Eladio Monroy",
+      "autor": "ravelo",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Antiguo jefe de máquinas de la marina mercante, pensionista y recadero extralegal",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "ravelo-eladio-monroy",
+      "obras": [
+        "ravelo-tres-funerales",
+        "ravelo-solo-los-muertos",
+        "ravelo-los-tipos-duros-no-leen-poesia",
+        "ravelo-morir-despacio",
+        "ravelo-el-peor-de-los-tiempos",
+        "ravelo-si-no-hubiera-manana"
+      ],
+      "articulos": [],
+      "descripcion": "Exmarinero retirado, irónico y tenaz, que acepta encargos bajo cuerda en Las Palmas de Gran Canaria; una particular idea de la justicia compensa su mal carácter.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura",
+          "etiqueta": "Libros descatalogados",
+          "descripcion": "Frecuenta la librería de Gloria para buscar libros antiguos."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Café cortado",
+          "descripcion": "Suele tomar un cortado en el bar Casablanca de Casimiro."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Ironía",
+          "descripcion": "Su humor seco y su desconfianza contrastan con su lealtad personal."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ravelo-gloria",
+      "nombre": "Gloria",
+      "autor": "ravelo",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Librera, vecina y compañera sentimental ocasional de Monroy",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "ravelo-eladio-monroy",
+      "obras": [
+        "ravelo-tres-funerales",
+        "ravelo-solo-los-muertos",
+        "ravelo-los-tipos-duros-no-leen-poesia",
+        "ravelo-morir-despacio",
+        "ravelo-el-peor-de-los-tiempos",
+        "ravelo-si-no-hubiera-manana"
+      ],
+      "articulos": [],
+      "descripcion": "Librera e interlocutora afectiva de Eladio Monroy; forma parte estable de su círculo personal.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura",
+          "etiqueta": "Libros",
+          "descripcion": "La literatura y el trabajo en una librería constituyen su vínculo permanente con el investigador."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ravelo-el-rubio",
+      "nombre": "El Rubio",
+      "autor": "ravelo",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Exdelincuente y empleado de seguridad hotelera",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "ravelo-la-estrategia-del-pequines"
+      ],
+      "articulos": [],
+      "descripcion": "Antiguo ladrón que decide volver a dar un golpe para pagar la asistencia de su esposa gravemente enferma.",
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Lealtad a su esposa",
+          "descripcion": "Su necesidad de conseguir dinero para la enfermedad de su mujer le hace volver a delinquir."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ravelo-cora",
+      "nombre": "Cora",
+      "autor": "ravelo",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Trabajadora sexual que participa en un atraco",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "ravelo-la-estrategia-del-pequines"
+      ],
+      "articulos": [],
+      "descripcion": "Mujer pragmática que acepta participar en el golpe preparado por el Rubio, consciente de la precariedad de su futuro.",
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Pragmatismo",
+          "descripcion": "Evalúa sus opciones desde la necesidad de sobrevivir en un entorno hostil."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ravelo-gabriel-sanchez-santana",
+      "nombre": "Gabriel Sánchez Santana («Gabrielo»)",
+      "autor": "ravelo",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Alcalde corrupto del pueblo ficticio de San Expósito",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "ravelo-un-tio-con-una-bolsa-en-la-cabeza"
+      ],
+      "articulos": [],
+      "descripcion": "Alcalde que ha hecho fortuna a través de negocios corruptos y cuya vida pasa ante sus ojos mientras permanece maniatado, con una bolsa sobre la cabeza.",
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Ambición",
+          "descripcion": "Aprovecha su posición pública para obtener ventajas económicas."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ravelo-marta-ferrer",
+      "nombre": "Marta Ferrer",
+      "autor": "ravelo",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Traductora residente en Nidocuervo",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "ravelo-los-nombres-prestados"
+      ],
+      "articulos": [],
+      "descripcion": "Mujer que vive con Abel en un pueblo tranquilo, donde su identidad y su vida presente están amenazadas por secretos ligados a la violencia política.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Traducción",
+          "descripcion": "Trabaja como traductora profesional."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ravelo-tomas",
+      "nombre": "Tomás",
+      "autor": "ravelo",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Hombre vinculado al pasado violento de Marta",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "ravelo-los-nombres-prestados"
+      ],
+      "articulos": [],
+      "descripcion": "Figura central en Los nombres prestados, cuyas decisiones del pasado obligan a reconsiderar la culpa, la memoria y la redención.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    }
+  ],
+  "series": [
+    {
+      "id": "ravelo-eladio-monroy",
+      "nombre": "Eladio Monroy",
+      "autor": "ravelo",
+      "descripcion": "Seis novelas ambientadas en Las Palmas de Gran Canaria: Tres funerales para Eladio Monroy (2006), Solo los muertos (2008), Los tipos duros no leen poesía (2011), Morir despacio (2012), El peor de los tiempos (2017), Si no hubiera mañana (2021)."
+    },
+    {
+      "id": "ravelo-la-iniquidad",
+      "nombre": "La iniquidad",
+      "autor": "ravelo",
+      "descripcion": "Díptico temático sobre violencia social, el mal y la corrupción moral: La noche de piedra (2007) y Los días de mercurio (2010). No tiene detective recurrente; la reedición de la primera novela en 2023 no constituye obra nueva."
+    }
+  ],
+  "obras": [
+    {
+      "id": "ravelo-tres-funerales",
+      "titulo": "Tres funerales para Eladio Monroy",
+      "original": "Tres funerales para Eladio Monroy",
+      "anio": 2006,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-eladio-monroy",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Eladio Monroy, marinero jubilado de Las Palmas, acepta un encargo aparentemente menor que lo introduce en una trama de intereses oscuros y violencia."
+    },
+    {
+      "id": "ravelo-la-noche-de-piedra",
+      "titulo": "La noche de piedra",
+      "original": "La noche de piedra",
+      "anio": 2007,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-la-iniquidad",
+      "generos": [
+        "rural noir",
+        "psychological thriller"
+      ],
+      "sinopsis": "Primera novela de La iniquidad, díptico sobre la maldad, la violencia social y las pasiones en entornos rurales."
+    },
+    {
+      "id": "ravelo-solo-los-muertos",
+      "titulo": "Solo los muertos",
+      "original": "Solo los muertos",
+      "anio": 2008,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-eladio-monroy",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Segunda investigación extraoficial de Eladio Monroy entre delincuentes, deudas y secretos de Las Palmas de Gran Canaria."
+    },
+    {
+      "id": "ravelo-los-dias-de-mercurio",
+      "titulo": "Los días de mercurio",
+      "original": "Los días de mercurio",
+      "anio": 2010,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-la-iniquidad",
+      "generos": [
+        "rural noir",
+        "psychological thriller"
+      ],
+      "sinopsis": "En una pequeña ciudad durante la posguerra española, un camarero de pasado turbio chantajea al jefe local de Falange y desencadena nuevos actos de violencia."
+    },
+    {
+      "id": "ravelo-los-tipos-duros-no-leen-poesia",
+      "titulo": "Los tipos duros no leen poesía",
+      "original": "Los tipos duros no leen poesía",
+      "anio": 2011,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-eladio-monroy",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Tercera aventura de Eladio Monroy, pensionista de la marina dedicado a trabajos que lo enfrentan con las redes criminales de la ciudad."
+    },
+    {
+      "id": "ravelo-morir-despacio",
+      "titulo": "Morir despacio",
+      "original": "Morir despacio",
+      "anio": 2012,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-eladio-monroy",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Cuarta novela de Eladio Monroy, cuya subsistencia mediante encargos oficiosos vuelve a envolverlo en delitos y riesgos personales."
+    },
+    {
+      "id": "ravelo-la-estrategia-del-pequines",
+      "titulo": "La estrategia del pequinés",
+      "original": "La estrategia del pequinés",
+      "anio": 2013,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "heist fiction",
+        "crook story"
+      ],
+      "sinopsis": "El Rubio vuelve al delito para reunir dinero por la grave enfermedad de su mujer. Con Júnior, Tito el Palmera y Cora intenta asaltar la caja fuerte de los socios de un gran narcotraficante."
+    },
+    {
+      "id": "ravelo-la-ultima-tumba",
+      "titulo": "La última tumba",
+      "original": "La última tumba",
+      "anio": 2013,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ],
+      "sinopsis": "Novela criminal independiente premiada con el Ciudad de Getafe 2013; sinopsis detallada pendiente de documentar."
+    },
+    {
+      "id": "ravelo-el-viento-y-la-sangre",
+      "titulo": "El viento y la sangre",
+      "original": "El viento y la sangre",
+      "anio": 2013,
+      "autor": "ravelo",
+      "seudonimo": "M. A. West",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crook story"
+      ],
+      "sinopsis": "Una historia violenta de ambición y transgresión moral, concebida como un experimento de hardboiled estadounidense y publicada bajo el seudónimo ficticio M. A. West."
+    },
+    {
+      "id": "ravelo-las-flores-no-sangran",
+      "titulo": "Las flores no sangran",
+      "original": "Las flores no sangran",
+      "anio": 2015,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ],
+      "sinopsis": "Un secuestro exprés en una isla, donde es difícil no encontrarse con alguien conocido, transforma un plan criminal en una cadena de errores."
+    },
+    {
+      "id": "ravelo-el-peor-de-los-tiempos",
+      "titulo": "El peor de los tiempos",
+      "original": "El peor de los tiempos",
+      "anio": 2017,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-eladio-monroy",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Quinta novela del exmarinero Eladio Monroy, que sigue enfrentándose a los bajos fondos de Las Palmas y conservando un círculo de amigos incondicionales."
+    },
+    {
+      "id": "ravelo-la-ceguera-del-cangrejo",
+      "titulo": "La ceguera del cangrejo",
+      "original": "La ceguera del cangrejo",
+      "anio": 2019,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ],
+      "sinopsis": "Intriga criminal en Lanzarote que conecta corrupción, el paisaje insular y el legado del artista y ecologista César Manrique."
+    },
+    {
+      "id": "ravelo-un-tio-con-una-bolsa-en-la-cabeza",
+      "titulo": "Un tío con una bolsa en la cabeza",
+      "original": "Un tío con una bolsa en la cabeza",
+      "anio": 2020,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Gabriel Sánchez Santana, alcalde corrupto de San Expósito, queda atado y con una bolsa sobre la cabeza tras un robo: en su inmovilidad rememora los hechos que lo han llevado hasta allí."
+    },
+    {
+      "id": "ravelo-si-no-hubiera-manana",
+      "titulo": "Si no hubiera mañana",
+      "original": "Si no hubiera mañana",
+      "anio": 2021,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-eladio-monroy",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Sonsoles Nieves pide a Eladio Monroy que averigüe por qué Diego Miranda, su pareja, la ha abandonado repentinamente sin explicación."
+    },
+    {
+      "id": "ravelo-los-nombres-prestados",
+      "titulo": "Los nombres prestados",
+      "original": "Los nombres prestados",
+      "anio": 2022,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Ambientada en los años ochenta, una traductora llamada Marta Ferrer busca refugio con su hijo Abel en Nidocuervo; el pasado de violencia política que comparte con otro personaje amenaza su nueva vida."
+    }
+  ]
+}
