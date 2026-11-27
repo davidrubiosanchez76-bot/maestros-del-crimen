@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-27-thomas-walsh-v1",
+  "version": "2026-11-27-the-gordons-v1",
   "descripcion": "MAESTROS DEL CRIMEN · índice con señas de identidad verificables, filtro por aficiones, particularidades y criterios de relevancia editorial. La ausencia de etiqueta no descarta un rasgo por documentar.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -50,7 +50,8 @@
     "matsumoto-seicho": "fichas/matsumoto-seicho.json",
     "wade-miller": "fichas/wade-miller.json",
     "curtiss": "fichas/curtiss.json",
-    "walsh-thomas": "fichas/walsh-thomas.json"
+    "walsh-thomas": "fichas/walsh-thomas.json",
+    "the-gordons": "fichas/the-gordons.json"
   },
   "autores": [
     {
@@ -2405,6 +2406,65 @@
         "walsh-thomas-the-face-of-the-enemy",
         "walsh-thomas-the-resurrection-man",
         "walsh-thomas-the-action-of-the-tiger"
+      ]
+    },
+    {
+      "id": "the-gordons",
+      "nombre": "The Gordons",
+      "nombreCompleto": "Gordon Gordon y Mildred Nixon Gordon",
+      "nacimiento": "1906 (Gordon Gordon) / 1912 (Mildred Nixon Gordon)",
+      "fallecimiento": "2002 (Gordon Gordon) / 1979 (Mildred Nixon Gordon)",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "Anderson, Indiana (Gordon) / Kansas (Mildred), Estados Unidos",
+      "fin": "Estados Unidos; Mildred falleció en Tucson, Arizona",
+      "debutNegro": 1950,
+      "seudonimos": [],
+      "generos": [
+        "crime thriller",
+        "police procedural",
+        "psychological thriller",
+        "spy fiction"
+      ],
+      "imagen": "",
+      "resumen": "Seudónimo literario conjunto del matrimonio Gordon Gordon y Mildred Nixon Gordon; destacan sus novelas del agente John Ripley y las investigaciones del gato D. C.",
+      "alcanceBibliografia": "Selección de 18 novelas criminales o de suspense de la colaboración (1950–1979), no exhaustiva; excluye la novela de Mildred en solitario de 1946 y los títulos posteriores que Gordon escribió con Mary Dorr.",
+      "articulos": [],
+      "personajes": [
+        "the-gordons-john-ripley-personaje",
+        "the-gordons-dc-gato-personaje",
+        "the-gordons-patti-randall",
+        "the-gordons-ingrid-randall",
+        "the-gordons-crystal-benson",
+        "the-gordons-kelly-sherwood",
+        "the-gordons-frank-mitchell",
+        "the-gordons-hawk",
+        "the-gordons-chris-roberts"
+      ],
+      "series": [
+        "the-gordons-serie-john-ripley",
+        "the-gordons-serie-undercover-cat",
+        "the-gordons-serie-frank-mitchell"
+      ],
+      "obras": [
+        "the-gordons-make-haste-to-live",
+        "the-gordons-fbi-story",
+        "the-gordons-campaign-train",
+        "the-gordons-case-file-fbi",
+        "the-gordons-case-talking-bug",
+        "the-gordons-the-big-frame",
+        "the-gordons-captive",
+        "the-gordons-tiger-on-my-back",
+        "the-gordons-operation-terror",
+        "the-gordons-menace",
+        "the-gordons-undercover-cat",
+        "the-gordons-power-play",
+        "the-gordons-undercover-cat-prowls-again",
+        "the-gordons-night-before-wedding",
+        "the-gordons-the-informant",
+        "the-gordons-catnapped",
+        "the-gordons-ordeal",
+        "the-gordons-night-after-wedding"
       ]
     }
   ],
@@ -7905,6 +7965,230 @@
       "senasIdentidad": [],
       "nivelArchivo": "principal",
       "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "the-gordons-john-ripley-personaje",
+      "nombre": "John «Rip» Ripley",
+      "autor": "the-gordons",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Agente especial del FBI",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "the-gordons-serie-john-ripley",
+      "obras": [
+        "the-gordons-fbi-story",
+        "the-gordons-case-file-fbi",
+        "the-gordons-captive",
+        "the-gordons-operation-terror"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Investigación federal",
+          "descripcion": "Capacidad para reunir pistas y coordinar operaciones contra delincuentes."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "the-gordons-dc-gato-personaje",
+      "nombre": "D. C. («Damn Cat»)",
+      "autor": "the-gordons",
+      "ocupacion": "Sin ocupación relevante",
+      "ocupacionDetalle": "Gato doméstico negro de la familia Randall; informante involuntario del FBI",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "the-gordons-serie-undercover-cat",
+      "obras": [
+        "the-gordons-undercover-cat",
+        "the-gordons-undercover-cat-prowls-again",
+        "the-gordons-catnapped"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Paseos nocturnos",
+          "descripcion": "Sus escapadas nocturnas lo llevan a situaciones relacionadas con delitos."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Transporte de pistas",
+          "descripcion": "Transporta objetos y mensajes que sirven para localizar a delincuentes."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "the-gordons-patti-randall",
+      "nombre": "Patti Randall",
+      "autor": "the-gordons",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Joven de la familia propietaria del gato D. C.",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "the-gordons-serie-undercover-cat",
+      "obras": [
+        "the-gordons-undercover-cat"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "the-gordons-ingrid-randall",
+      "nombre": "Ingrid «Inky» Randall",
+      "autor": "the-gordons",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Hermana adolescente de Patti Randall",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "the-gordons-serie-undercover-cat",
+      "obras": [
+        "the-gordons-undercover-cat"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "the-gordons-crystal-benson",
+      "nombre": "Crystal Benson",
+      "autor": "the-gordons",
+      "ocupacion": "Periodista",
+      "ocupacionDetalle": "Propietaria de un periódico de Nuevo México",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "the-gordons-make-haste-to-live"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "the-gordons-kelly-sherwood",
+      "nombre": "Kelly Sherwood",
+      "autor": "the-gordons",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Cajera bancaria bajo extorsión",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "the-gordons-operation-terror"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "the-gordons-frank-mitchell",
+      "nombre": "Frank Mitchell",
+      "autor": "the-gordons",
+      "ocupacion": "Abogado / justicia",
+      "ocupacionDetalle": "Abogado defensor",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "the-gordons-serie-frank-mitchell",
+      "obras": [
+        "the-gordons-night-before-wedding",
+        "the-gordons-night-after-wedding"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "the-gordons-hawk",
+      "nombre": "Inspector Hawk",
+      "autor": "the-gordons",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Inspector de la policía de Los Ángeles",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "the-gordons-serie-frank-mitchell",
+      "obras": [
+        "the-gordons-night-after-wedding"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "the-gordons-chris-roberts",
+      "nombre": "Chris Roberts",
+      "autor": "the-gordons",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Azafata e informante encubierta del FBI",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "the-gordons-the-informant"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
@@ -8267,6 +8551,24 @@
       "nombre": "Max Thursday",
       "autor": "wade-miller",
       "descripcion": "Ciclo de seis novelas de detective privado entre 1947 y 1951. Deadly Weapon (1946) es un antecedente con Austin Clapp, pero no aparece Max Thursday; por ello queda fuera de la serie."
+    },
+    {
+      "id": "the-gordons-serie-john-ripley",
+      "nombre": "John Ripley (FBI)",
+      "autor": "the-gordons",
+      "descripcion": "Cuatro novelas de investigación federal identificadas con John «Rip» Ripley: FBI Story (1950), Case File: FBI (1953), Captive (1957) y Operation Terror (1961)."
+    },
+    {
+      "id": "the-gordons-serie-undercover-cat",
+      "nombre": "D. C. / Undercover Cat",
+      "autor": "the-gordons",
+      "descripcion": "Trilogía criminal con un gato negro como colaborador involuntario del FBI: Undercover Cat (1963), Undercover Cat Prowls Again (1966) y Catnapped! (1974)."
+    },
+    {
+      "id": "the-gordons-serie-frank-mitchell",
+      "nombre": "Frank Mitchell / Wedding",
+      "autor": "the-gordons",
+      "descripcion": "Díptico criminal protagonizado por el abogado Frank Mitchell: Night Before the Wedding (1969) y Night After the Wedding (1979)."
     }
   ],
   "obras": [
@@ -18052,6 +18354,229 @@
       "generos": [
         "crime thriller"
       ]
+    },
+    {
+      "id": "the-gordons-make-haste-to-live",
+      "titulo": "Negro es mi pasado",
+      "original": "Make Haste to Live",
+      "anio": 1950,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-fbi-story",
+      "titulo": "FBI Story",
+      "original": "FBI Story",
+      "anio": 1950,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "the-gordons-serie-john-ripley",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-campaign-train",
+      "titulo": "Campaign Train",
+      "original": "Campaign Train",
+      "anio": 1952,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-case-file-fbi",
+      "titulo": "El F.B.I. no duerme",
+      "original": "Case File: FBI",
+      "anio": 1953,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "the-gordons-serie-john-ripley",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-case-talking-bug",
+      "titulo": "The Case of the Talking Bug",
+      "original": "The Case of the Talking Bug",
+      "anio": 1955,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-the-big-frame",
+      "titulo": "La trampa",
+      "original": "The Big Frame",
+      "anio": 1957,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-captive",
+      "titulo": "Cautiva",
+      "original": "Captive",
+      "anio": 1957,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "the-gordons-serie-john-ripley",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-tiger-on-my-back",
+      "titulo": "Tiger on My Back",
+      "original": "Tiger on My Back",
+      "anio": 1960,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-operation-terror",
+      "titulo": "Operación terror",
+      "original": "Operation Terror",
+      "anio": 1961,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "the-gordons-serie-john-ripley",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-menace",
+      "titulo": "Menace",
+      "original": "Menace",
+      "anio": 1962,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-undercover-cat",
+      "titulo": "Operación condenado gato",
+      "original": "Undercover Cat",
+      "anio": 1963,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "the-gordons-serie-undercover-cat",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-power-play",
+      "titulo": "Jugada por el poder",
+      "original": "Power Play",
+      "anio": 1965,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "spy fiction"
+      ]
+    },
+    {
+      "id": "the-gordons-undercover-cat-prowls-again",
+      "titulo": "Undercover Cat Prowls Again",
+      "original": "Undercover Cat Prowls Again",
+      "anio": 1966,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "the-gordons-serie-undercover-cat",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-night-before-wedding",
+      "titulo": "Night Before the Wedding",
+      "original": "Night Before the Wedding",
+      "anio": 1969,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "the-gordons-serie-frank-mitchell",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-the-informant",
+      "titulo": "The Informant",
+      "original": "The Informant",
+      "anio": 1973,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "spy fiction",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-catnapped",
+      "titulo": "Catnapped!: The Further Adventures of Undercover Cat",
+      "original": "Catnapped!: The Further Adventures of Undercover Cat",
+      "anio": 1974,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "the-gordons-serie-undercover-cat",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-ordeal",
+      "titulo": "Ordeal",
+      "original": "Ordeal",
+      "anio": 1976,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "the-gordons-night-after-wedding",
+      "titulo": "Night After the Wedding",
+      "original": "Night After the Wedding",
+      "anio": 1979,
+      "autor": "the-gordons",
+      "seudonimo": "",
+      "serie": "the-gordons-serie-frank-mitchell",
+      "generos": [
+        "crime thriller"
+      ]
     }
   ],
   "destacados": {
@@ -18292,12 +18817,17 @@
       "walsh-thomas-nightmare-in-manhattan",
       "walsh-thomas-the-night-watch",
       "walsh-thomas-the-dark-window"
+    ],
+    "the-gordons": [
+      "the-gordons-make-haste-to-live",
+      "the-gordons-operation-terror",
+      "the-gordons-undercover-cat"
     ]
   },
   "totales": {
-    "autores": 48,
-    "personajes": 171,
-    "series": 60,
-    "obras": 781
+    "autores": 49,
+    "personajes": 180,
+    "series": 63,
+    "obras": 799
   }
 }
