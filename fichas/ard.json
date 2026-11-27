@@ -32,9 +32,7 @@
       "ard-lou-largo",
       "ard-johnny-stevens",
       "ard-barney-glines",
-      "ard-danny-fontaine",
-      "ard-tom-doran",
-      "ard-luke-maclane"
+      "ard-danny-fontaine"
     ],
     "series": [
       "ard-timothy-dane",
@@ -239,52 +237,6 @@
       ],
       "articulos": [],
       "descripcion": "En algunas ediciones aparece como Mike Fontaine. Después de salir de prisión inicia una actividad detectivesca.",
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "ard-tom-doran",
-      "nombre": "Tom Doran",
-      "autor": "ard",
-      "ocupacion": "Detective privado",
-      "ocupacionDetalle": "Detective privado",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "",
-      "obras": [
-        "ard-double-cross"
-      ],
-      "articulos": [],
-      "descripcion": "Protagonista de Double Cross, firmada con el seudónimo Mike Moran.",
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "ard-luke-maclane",
-      "nombre": "Luke MacLane",
-      "autor": "ard",
-      "ocupacion": "Detective privado",
-      "ocupacionDetalle": "Detective privado",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "",
-      "obras": [
-        "ard-no-angels-for-me"
-      ],
-      "articulos": [],
-      "descripcion": "Investigador de No Angels for Me.",
       "senasIdentidad": [],
       "nivelArchivo": "principal",
       "estadoSenas": "pendiente_de_documentar"
