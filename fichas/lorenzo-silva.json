@@ -1,0 +1,719 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "lorenzo-silva",
+    "nombre": "Lorenzo Silva",
+    "nombreCompleto": "Lorenzo Manuel Silva Amador",
+    "nacimiento": "1966",
+    "fallecimiento": "",
+    "origen": "España",
+    "pais": "España",
+    "lugar": "Madrid, España",
+    "fin": "",
+    "debutNegro": 1998,
+    "seudonimos": [],
+    "generos": [
+      "police procedural",
+      "crime thriller",
+      "whodunit",
+      "spy fiction"
+    ],
+    "imagen": "",
+    "resumen": "Escritor español y antiguo abogado, creador de Bevilacqua y Chamorro y coautor con Noemí Trujillo de la serie policial de Manuela Mauri. Premio Nadal 2000 y Planeta 2012.",
+    "alcanceBibliografia": "Diecinueve obras de ficción criminal con entidad novelística: 12 novelas de Bevilacqua y Chamorro, 3 de la inspectora Manuela Mauri (junto con Noemí Trujillo), y 4 títulos independientes: La isla del fin de la suerte, Muerte en el «reality show», Nada sucio (con Noemí Trujillo) y Púa. No se contabilizan las dos colecciones de relatos de Bevilacqua y Chamorro, ni obras históricas, reportajes, ensayos y novelas de otros géneros, como La flaqueza del bolchevique.",
+    "articulos": [],
+    "personajes": [
+      "silva-bevilacqua",
+      "silva-chamorro",
+      "silva-arnau",
+      "silva-ines-salgado",
+      "silva-manuela-mauri",
+      "silva-guadalupe-larbi",
+      "silva-sonia-ruiz",
+      "silva-pau-soria",
+      "silva-pua",
+      "silva-mazo",
+      "silva-tortosa",
+      "silva-fonseca"
+    ],
+    "series": [
+      "silva-bevilacqua-chamorro",
+      "silva-manuela-mauri"
+    ],
+    "obras": [
+      "silva-el-lejano-pais-de-los-estanques",
+      "silva-el-alquimista-impaciente",
+      "silva-la-isla-del-fin-de-la-suerte",
+      "silva-la-niebla-y-la-doncella",
+      "silva-la-reina-sin-espejo",
+      "silva-muerte-en-el-reality-show",
+      "silva-la-estrategia-del-agua",
+      "silva-la-marca-del-meridiano",
+      "silva-los-cuerpos-extranos",
+      "silva-donde-los-escorpiones",
+      "silva-nada-sucio",
+      "silva-lejos-del-corazon",
+      "silva-si-esto-es-una-mujer",
+      "silva-el-mal-de-corcira",
+      "silva-la-llama-de-focea",
+      "silva-la-forja-de-una-rebelde",
+      "silva-pua",
+      "silva-la-innombrable",
+      "silva-las-fuerzas-contrarias"
+    ],
+    "bio": [
+      "Lorenzo Manuel Silva Amador nació el 7 de junio de 1966 en Madrid y pasó gran parte de su vida entre Madrid y Getafe. Licenciado en Derecho por la Universidad Complutense, trabajó como abogado, auditor y asesor antes de dedicarse plenamente a la escritura.",
+      "Su primera novela publicada fue Noviembre sin violetas (1995). La flaqueza del bolchevique (1997), finalista del Premio Nadal y posteriormente adaptada al cine, impulsó su trayectoria. Su debut en la novela policial llegó con El lejano país de los estanques (1998), Premio Ojo Crítico, que presentó a los investigadores Rubén Bevilacqua y Virginia Chamorro.",
+      "El alquimista impaciente obtuvo el Premio Nadal 2000 y La marca del meridiano el Premio Planeta 2012. A través de las investigaciones de la Guardia Civil, sus novelas retratan transformaciones de la sociedad española y delitos relacionados con la corrupción, la violencia, el terrorismo y el crimen económico.",
+      "También exploró la intriga fuera de su saga principal: La isla del fin de la suerte (2001) fue una novela negra interactiva; Muerte en el «reality show» (publicada como libro en 2007) satirizó el espectáculo televisivo; Púa (2023) examinó la guerra sucia contra el terrorismo y sus consecuencias morales.",
+      "Con Noemí Trujillo firmó Nada sucio (2016), con la detective Sonia Ruiz, y creó a la inspectora Manuela Mauri, protagonista de tres novelas entre 2019 y 2024. También ha publicado narrativa histórica, no ficción, literatura juvenil y artículos periodísticos. Cofundador y comisario de Getafe Negro, desde 2022 mantiene un papel honorífico en el festival."
+    ],
+    "apunte": "La carrera policial de Silva arranca en 1998, aunque ya había publicado narrativa antes. Rubén Bevilacqua, nacido en Uruguay y licenciado en Psicología, ofrece una voz irónica y analítica que se aleja del detective privado clásico; Chamorro evoluciona a su lado desde agente joven hasta brigada. La serie de ambos cuenta catorce libros, pero solo doce son novelas: Nadie vale más que otro y Tantos lobos son libros de relatos. La investigación La estrategia del agua introduce al joven Arnau. La inspectora Manuela Mauri tiene biblioteca propia en la web del autor, y sus tres novelas están coescritas con Noemí Trujillo. Púa trabaja como librero de viejo tras una etapa clandestina. Para evitar falsas fechas, Muerte en el «reality show» circuló inicialmente en 2003 por entregas y tuvo edición en libro en 2007.",
+    "fuentesDocumentales": [
+      "https://www.lorenzo-silva.com/biografia/",
+      "https://www.lorenzo-silva.com/products/bevilacqua-y-chamorro/",
+      "https://www.lorenzo-silva.com/manuela-mauri/",
+      "https://www.lorenzo-silva.com/libros/",
+      "https://www.lorenzo-silva.com/libros/el-lejano-pais-de-los-estanques/",
+      "https://www.lorenzo-silva.com/libros/el-alquimista-impaciente/",
+      "https://www.lorenzo-silva.com/libros/la-estrategia-del-agua/",
+      "https://www.lorenzo-silva.com/libros/la-marca-del-meridiano/",
+      "https://www.lorenzo-silva.com/libros/las-fuerzas-contrarias/",
+      "https://www.lorenzo-silva.com/libros/la-isla-del-fin-de-la-suerte/",
+      "https://www.lorenzo-silva.com/libros/muerte-en-el-reality-show/",
+      "https://www.lorenzo-silva.com/libros/nada-sucio/",
+      "https://www.lorenzo-silva.com/libros/pua/",
+      "https://www.lorenzo-silva.com/libros/si-esto-es-una-mujer/",
+      "https://www.lorenzo-silva.com/libros/la-forja-de-una-rebelde/",
+      "https://www.lorenzo-silva.com/libros/la-innombrable/",
+      "https://cvc.cervantes.es/el_rinconete/anteriores/noviembre_08/17112008_01.asp"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "silva-bevilacqua",
+      "nombre": "Rubén Bevilacqua («Vila»)",
+      "autor": "lorenzo-silva",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Guardia civil, sargento al inicio de la serie y subteniente en 2025",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "silva-bevilacqua-chamorro",
+      "obras": [
+        "silva-el-lejano-pais-de-los-estanques",
+        "silva-el-alquimista-impaciente",
+        "silva-la-niebla-y-la-doncella",
+        "silva-la-reina-sin-espejo",
+        "silva-la-estrategia-del-agua",
+        "silva-la-marca-del-meridiano",
+        "silva-los-cuerpos-extranos",
+        "silva-donde-los-escorpiones",
+        "silva-lejos-del-corazon",
+        "silva-el-mal-de-corcira",
+        "silva-la-llama-de-focea",
+        "silva-las-fuerzas-contrarias"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador nacido en Uruguay, formado en Psicología y narrador habitual de la saga.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Psicología",
+          "descripcion": "Aprovecha su formación como psicólogo en las entrevistas e investigaciones."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Ironía",
+          "descripcion": "Observa con humor seco los comportamientos humanos."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "silva-chamorro",
+      "nombre": "Virginia Chamorro",
+      "autor": "lorenzo-silva",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Guardia civil, agente al comienzo y brigada en 2025",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "silva-bevilacqua-chamorro",
+      "obras": [
+        "silva-el-lejano-pais-de-los-estanques",
+        "silva-el-alquimista-impaciente",
+        "silva-la-niebla-y-la-doncella",
+        "silva-la-reina-sin-espejo",
+        "silva-la-estrategia-del-agua",
+        "silva-la-marca-del-meridiano",
+        "silva-los-cuerpos-extranos",
+        "silva-donde-los-escorpiones",
+        "silva-lejos-del-corazon",
+        "silva-el-mal-de-corcira",
+        "silva-la-llama-de-focea",
+        "silva-las-fuerzas-contrarias"
+      ],
+      "articulos": [],
+      "descripcion": "Investigadora observadora y metódica, compañera de Bevilacqua durante décadas.",
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Método",
+          "descripcion": "Aporta rigor y un criterio propio a las investigaciones."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "silva-arnau",
+      "nombre": "Juan Arnau",
+      "autor": "lorenzo-silva",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Guardia civil del equipo de Bevilacqua y Chamorro",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "silva-bevilacqua-chamorro",
+      "obras": [
+        "silva-la-estrategia-del-agua",
+        "silva-las-fuerzas-contrarias"
+      ],
+      "articulos": [],
+      "descripcion": "Agente incorporado a la saga en La estrategia del agua, presente también en una entrega de 2025.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "silva-ines-salgado",
+      "nombre": "Inés Salgado",
+      "autor": "lorenzo-silva",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Colaboradora del entorno investigador de Bevilacqua y Chamorro",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Sin clasificar"
+      ],
+      "serie": "silva-bevilacqua-chamorro",
+      "obras": [
+        "silva-las-fuerzas-contrarias"
+      ],
+      "articulos": [],
+      "descripcion": "Colaboradora recurrente mencionada entre el equipo de la saga en Las fuerzas contrarias.",
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "silva-manuela-mauri",
+      "nombre": "Manuela Mauri",
+      "autor": "lorenzo-silva",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Inspectora de homicidios de la Policía Nacional en Madrid",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "silva-manuela-mauri",
+      "obras": [
+        "silva-si-esto-es-una-mujer",
+        "silva-la-forja-de-una-rebelde",
+        "silva-la-innombrable"
+      ],
+      "articulos": [],
+      "descripcion": "Policía que investiga delitos graves al tiempo que afronta dificultades personales y familiares.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Lecturas literarias",
+          "descripcion": "En su biblioteca aparecen Primo Levi, Arturo Barea, Agatha Christie y otros autores."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Perseverancia",
+          "descripcion": "Persiste en investigaciones difíciles pese a los obstáculos personales y profesionales."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "silva-guadalupe-larbi",
+      "nombre": "Guadalupe Larbi",
+      "autor": "lorenzo-silva",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Oficial que reclama el regreso de Mauri a una investigación",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Sin clasificar"
+      ],
+      "serie": "silva-manuela-mauri",
+      "obras": [
+        "silva-si-esto-es-una-mujer"
+      ],
+      "articulos": [],
+      "descripcion": "Busca a Manuela Mauri para pedirle que se reincorpore y dirija la Operación Vertedero.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "silva-sonia-ruiz",
+      "nombre": "Sonia Ruiz",
+      "autor": "lorenzo-silva",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Investigadora privada novel en dificultades económicas",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "silva-nada-sucio"
+      ],
+      "articulos": [],
+      "descripcion": "Detective que afronta su primer caso con ayuda de Pau Soria.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "silva-pau-soria",
+      "nombre": "Pau Soria",
+      "autor": "lorenzo-silva",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Amigo y ayudante de Sonia Ruiz",
+      "sexo": "Masculino",
+      "roles": [
+        "Compañero / ayudante"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "silva-nada-sucio"
+      ],
+      "articulos": [],
+      "descripcion": "Joven colaborador de Sonia Ruiz en la investigación de un caso de acoso.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "silva-pua",
+      "nombre": "Púa",
+      "autor": "lorenzo-silva",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Antiguo agente clandestino; posteriormente librero de lance",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "silva-pua"
+      ],
+      "articulos": [],
+      "descripcion": "Narrador de la novela homónima, marcado por su participación en operaciones ilegales contra el terrorismo.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Libros usados",
+          "descripcion": "Tras retirarse de la clandestinidad trabaja como librero de segunda mano."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "silva-mazo",
+      "nombre": "Mazo",
+      "autor": "lorenzo-silva",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Antiguo compañero de operaciones clandestinas de Púa",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "silva-pua"
+      ],
+      "articulos": [],
+      "descripcion": "Su petición de ayuda impulsa el regreso de Púa a un mundo que había abandonado.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "silva-tortosa",
+      "nombre": "Jueza Tortosa",
+      "autor": "lorenzo-silva",
+      "ocupacion": "Abogado / justicia",
+      "ocupacionDetalle": "Jueza instructora de un asesinato en un programa televisivo",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "silva-muerte-en-el-reality-show"
+      ],
+      "articulos": [],
+      "descripcion": "Investiga, junto al comisario Fonseca, el asesinato de una concursante.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "silva-fonseca",
+      "nombre": "Comisario Fonseca",
+      "autor": "lorenzo-silva",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Comisario investigador del asesinato en un reality show",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "silva-muerte-en-el-reality-show"
+      ],
+      "articulos": [],
+      "descripcion": "Colabora con la jueza Tortosa para esclarecer el homicidio cometido en un plató.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    }
+  ],
+  "series": [
+    {
+      "id": "silva-bevilacqua-chamorro",
+      "nombre": "Bevilacqua y Chamorro",
+      "autor": "lorenzo-silva",
+      "descripcion": "Doce novelas policiacas entre El lejano país de los estanques (1998) y Las fuerzas contrarias (2025). La serie publicada suma catorce títulos contando dos libros de relatos, Nadie vale más que otro (2004) y Tantos lobos (2017), que no se incorporan aquí como novelas."
+    },
+    {
+      "id": "silva-manuela-mauri",
+      "nombre": "Inspectora Manuela Mauri",
+      "autor": "lorenzo-silva",
+      "descripcion": "Trilogía de novela negra escrita conjuntamente con Noemí Trujillo: Si esto es una mujer (2019), La forja de una rebelde (2022) y La Innombrable (2024)."
+    }
+  ],
+  "obras": [
+    {
+      "id": "silva-el-lejano-pais-de-los-estanques",
+      "titulo": "El lejano país de los estanques",
+      "original": "El lejano país de los estanques",
+      "anio": 1998,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-bevilacqua-chamorro",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "Bevilacqua y Chamorro investigan el asesinato de una extranjera en Mallorca y descubren negocios turbios detrás de la aparente tranquilidad turística."
+    },
+    {
+      "id": "silva-el-alquimista-impaciente",
+      "titulo": "El alquimista impaciente",
+      "original": "El alquimista impaciente",
+      "anio": 2000,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-bevilacqua-chamorro",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "Un hombre aparece muerto, atado a una cama en un motel. La pareja reconstruye su doble vida y una red de intereses económicos relacionados con una central nuclear."
+    },
+    {
+      "id": "silva-la-isla-del-fin-de-la-suerte",
+      "titulo": "La isla del fin de la suerte",
+      "original": "La isla del fin de la suerte",
+      "anio": 2001,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Un grupo de invitados reunidos en un aislado islote del Báltico afronta una sucesión de pruebas y asesinatos; la obra surgió de una experiencia narrativa participativa en Internet."
+    },
+    {
+      "id": "silva-la-niebla-y-la-doncella",
+      "titulo": "La niebla y la doncella",
+      "original": "La niebla y la doncella",
+      "anio": 2002,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-bevilacqua-chamorro",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "Bevilacqua y Chamorro reabren un asesinato ocurrido dos años antes en La Gomera, donde un sospechoso fue absuelto y la investigación parecía cerrada."
+    },
+    {
+      "id": "silva-la-reina-sin-espejo",
+      "titulo": "La reina sin espejo",
+      "original": "La reina sin espejo",
+      "anio": 2005,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-bevilacqua-chamorro",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "El asesinato de una conocida periodista en Zaragoza lleva a los investigadores a explorar los secretos de su entorno familiar y profesional, hasta Barcelona."
+    },
+    {
+      "id": "silva-muerte-en-el-reality-show",
+      "titulo": "Muerte en el «reality show»",
+      "original": "Muerte en el «reality show»",
+      "anio": 2007,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "crime thriller"
+      ],
+      "sinopsis": "Una concursante aparece muerta en un jacuzzi durante la grabación de un programa de televisión. La jueza Tortosa y el comisario Fonseca investigan el crimen."
+    },
+    {
+      "id": "silva-la-estrategia-del-agua",
+      "titulo": "La estrategia del agua",
+      "original": "La estrategia del agua",
+      "anio": 2010,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-bevilacqua-chamorro",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "Óscar Santacruz aparece asesinado en el ascensor de su edificio; las pesquisas desvelan conflictos familiares y judiciales y conexiones con la delincuencia madrileña."
+    },
+    {
+      "id": "silva-la-marca-del-meridiano",
+      "titulo": "La marca del meridiano",
+      "original": "La marca del meridiano",
+      "anio": 2012,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-bevilacqua-chamorro",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "Un guardia civil retirado, antiguo mentor de Bevilacqua, aparece asesinado y colgado de un puente. La pesquisa en Cataluña descubre corrupción y lealtades rotas."
+    },
+    {
+      "id": "silva-los-cuerpos-extranos",
+      "titulo": "Los cuerpos extraños",
+      "original": "Los cuerpos extraños",
+      "anio": 2014,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-bevilacqua-chamorro",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "El asesinato de una alcaldesa en una localidad levantina obliga a examinar las luchas políticas locales y las contradicciones de su vida privada."
+    },
+    {
+      "id": "silva-donde-los-escorpiones",
+      "titulo": "Donde los escorpiones",
+      "original": "Donde los escorpiones",
+      "anio": 2016,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-bevilacqua-chamorro",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "El asesinato de un militar español destinado en Herat, Afganistán, conduce a Bevilacqua a investigar un crimen cometido en un entorno militar cerrado."
+    },
+    {
+      "id": "silva-nada-sucio",
+      "titulo": "Nada sucio",
+      "original": "Nada sucio",
+      "anio": 2016,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "La detective Sonia Ruiz, en dificultades económicas, investiga con Pau Soria un caso de acoso laboral. Escrita conjuntamente con Noemí Trujillo."
+    },
+    {
+      "id": "silva-lejos-del-corazon",
+      "titulo": "Lejos del corazón",
+      "original": "Lejos del corazón",
+      "anio": 2018,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-bevilacqua-chamorro",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "La desaparición de un joven relacionado con delitos informáticos y una petición de rescate llevan a la pareja al Campo de Gibraltar, entre dinero ilícito y blanqueo."
+    },
+    {
+      "id": "silva-si-esto-es-una-mujer",
+      "titulo": "Si esto es una mujer",
+      "original": "Si esto es una mujer",
+      "anio": 2019,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-manuela-mauri",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "La inspectora Manuela Mauri se reincorpora para identificar restos humanos hallados en vertederos madrileños y esclarecer un asesinato sin resolver. Con Noemí Trujillo."
+    },
+    {
+      "id": "silva-el-mal-de-corcira",
+      "titulo": "El mal de Corcira",
+      "original": "El mal de Corcira",
+      "anio": 2020,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-bevilacqua-chamorro",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "Un hombre con pasado vinculado a ETA aparece asesinado en Formentera. Bevilacqua sigue las pistas hasta el País Vasco y revisita su propia historia antiterrorista."
+    },
+    {
+      "id": "silva-la-llama-de-focea",
+      "titulo": "La llama de Focea",
+      "original": "La llama de Focea",
+      "anio": 2022,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-bevilacqua-chamorro",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "La muerte de una joven en el Camino de Santiago arrastra a Bevilacqua a una investigación entre Galicia y Barcelona, con conflictos familiares y políticos de fondo."
+    },
+    {
+      "id": "silva-la-forja-de-una-rebelde",
+      "titulo": "La forja de una rebelde",
+      "original": "La forja de una rebelde",
+      "anio": 2022,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-manuela-mauri",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "Durante la pandemia, Mauri investiga un doble asesinato en Alcalá de Henares relacionado con una fiesta clandestina y varios jóvenes testigos. Con Noemí Trujillo."
+    },
+    {
+      "id": "silva-pua",
+      "titulo": "Púa",
+      "original": "Púa",
+      "anio": 2023,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "spy fiction",
+        "crime thriller"
+      ],
+      "sinopsis": "Un antiguo agente clandestino que combatió el terrorismo mediante prácticas ilegales se ha retirado como librero, pero una petición de ayuda reabre su pasado violento."
+    },
+    {
+      "id": "silva-la-innombrable",
+      "titulo": "La Innombrable",
+      "original": "La Innombrable",
+      "anio": 2024,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-manuela-mauri",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "Manuela Mauri aborda casos relacionados con la explotación sexual y la violencia contra las mujeres mientras intenta atender a su familia. Con Noemí Trujillo."
+    },
+    {
+      "id": "silva-las-fuerzas-contrarias",
+      "titulo": "Las fuerzas contrarias",
+      "original": "Las fuerzas contrarias",
+      "anio": 2025,
+      "autor": "lorenzo-silva",
+      "seudonimo": "",
+      "serie": "silva-bevilacqua-chamorro",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "Bevilacqua y Chamorro investigan dos muertes simultáneas durante la primera fase de la pandemia; la crisis pone a prueba al equipo y su relación."
+    }
+  ]
+}
