@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-27-sue-grafton-v1",
+  "version": "2026-11-27-depuracion-personajes-v1",
   "descripcion": "MAESTROS DEL CRIMEN · índice con señas de identidad verificables, filtro por aficiones, particularidades y criterios de relevancia editorial. La ausencia de etiqueta no descarta un rasgo por documentar.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -2073,9 +2073,7 @@
         "ard-lou-largo",
         "ard-johnny-stevens",
         "ard-barney-glines",
-        "ard-danny-fontaine",
-        "ard-tom-doran",
-        "ard-luke-maclane"
+        "ard-danny-fontaine"
       ],
       "series": [
         "ard-timothy-dane",
@@ -2326,18 +2324,13 @@
       "articulos": [],
       "personajes": [
         "curtiss-katie-meredith",
-        "curtiss-victoria-devlin",
-        "curtiss-lou-fabian",
-        "curtiss-sarah-trafton",
-        "curtiss-madeline-potter",
         "curtiss-cora-applegate",
         "curtiss-elsa-marrable",
         "curtiss-alice-dimmock",
         "curtiss-harriet-crewe",
-        "curtiss-kate-barlow",
         "curtiss-kit-austen",
         "curtiss-celia-brett",
-        "curtiss-lydia-peel"
+        "curtiss-libby-mannering"
       ],
       "series": [],
       "obras": [
@@ -2391,8 +2384,7 @@
         "walsh-thomas-ritchie-mccallister",
         "walsh-thomas-walter-sheridan",
         "walsh-thomas-paddy-ahern",
-        "walsh-thomas-ray-cassidy",
-        "walsh-thomas-eckstrom"
+        "walsh-thomas-ray-cassidy"
       ],
       "series": [],
       "obras": [
@@ -2439,7 +2431,6 @@
         "the-gordons-crystal-benson",
         "the-gordons-kelly-sherwood",
         "the-gordons-frank-mitchell",
-        "the-gordons-hawk",
         "the-gordons-chris-roberts"
       ],
       "series": [
@@ -5021,11 +5012,7 @@
       ],
       "serie": "mcbain-87",
       "obras": [
-        "mcbain-cop-hater",
-        "mcbain-the-mugger",
-        "mcbain-the-pusher",
         "mcbain-king-s-ransom",
-        "mcbain-the-con-man",
         "mcbain-killer-s-choice",
         "mcbain-killer-s-payoff",
         "mcbain-lady-killer",
@@ -5064,27 +5051,6 @@
       ],
       "serie": "mcbain-87",
       "obras": [
-        "mcbain-cop-hater",
-        "mcbain-the-mugger",
-        "mcbain-the-pusher",
-        "mcbain-king-s-ransom",
-        "mcbain-the-con-man",
-        "mcbain-killer-s-choice",
-        "mcbain-killer-s-payoff",
-        "mcbain-lady-killer",
-        "mcbain-killer-s-wedge",
-        "mcbain-til-death",
-        "mcbain-give-the-boys-a-great-big-hand",
-        "mcbain-the-heckler",
-        "mcbain-see-them-die",
-        "mcbain-lady-lady-i-did-it",
-        "mcbain-like-love",
-        "mcbain-ten-plus-one",
-        "mcbain-ax",
-        "mcbain-he-who-hesitates",
-        "mcbain-doll",
-        "mcbain-eighty-million-eyes",
-        "mcbain-fuzz",
         "mcbain-fat-ollie-s-book"
       ],
       "articulos": [],
@@ -5749,9 +5715,7 @@
       ],
       "serie": "ellroy-cuarteto-la",
       "obras": [
-        "ellroy-the-black-dahlia",
-        "ellroy-the-big-nowhere",
-        "ellroy-l-a-confidential"
+        "ellroy-the-black-dahlia"
       ],
       "articulos": [],
       "senasIdentidad": [],
@@ -5773,9 +5737,7 @@
       ],
       "serie": "ellroy-cuarteto-la",
       "obras": [
-        "ellroy-l-a-confidential",
-        "ellroy-the-black-dahlia",
-        "ellroy-the-big-nowhere"
+        "ellroy-l-a-confidential"
       ],
       "articulos": [],
       "senasIdentidad": [
@@ -5828,9 +5790,7 @@
       ],
       "serie": "ellroy-cuarteto-la",
       "obras": [
-        "ellroy-l-a-confidential",
-        "ellroy-the-black-dahlia",
-        "ellroy-the-big-nowhere"
+        "ellroy-l-a-confidential"
       ],
       "articulos": [],
       "senasIdentidad": [],
@@ -5908,7 +5868,23 @@
         "paretsky-indemnity-only",
         "paretsky-deadlock",
         "paretsky-burn-marks",
-        "paretsky-hard-time"
+        "paretsky-hard-time",
+        "paretsky-killing-orders",
+        "paretsky-bitter-medicine",
+        "paretsky-blood-shot",
+        "paretsky-guardian-angel",
+        "paretsky-tunnel-vision",
+        "paretsky-total-recall",
+        "paretsky-blacklist",
+        "paretsky-fire-sale",
+        "paretsky-hardball",
+        "paretsky-body-work",
+        "paretsky-breakdown",
+        "paretsky-critical-mass",
+        "paretsky-brush-back",
+        "paretsky-fallout",
+        "paretsky-shell-game",
+        "paretsky-dead-land"
       ],
       "articulos": [],
       "senasIdentidad": [
@@ -5936,7 +5912,28 @@
         "Héroe"
       ],
       "serie": "paretsky-warshawski",
-      "obras": [],
+      "obras": [
+        "paretsky-indemnity-only",
+        "paretsky-deadlock",
+        "paretsky-burn-marks",
+        "paretsky-hard-time",
+        "paretsky-killing-orders",
+        "paretsky-bitter-medicine",
+        "paretsky-blood-shot",
+        "paretsky-guardian-angel",
+        "paretsky-tunnel-vision",
+        "paretsky-total-recall",
+        "paretsky-blacklist",
+        "paretsky-fire-sale",
+        "paretsky-hardball",
+        "paretsky-body-work",
+        "paretsky-breakdown",
+        "paretsky-critical-mass",
+        "paretsky-brush-back",
+        "paretsky-fallout",
+        "paretsky-shell-game",
+        "paretsky-dead-land"
+      ],
       "articulos": [],
       "senasIdentidad": [],
       "nivelArchivo": "recurrente",
@@ -5956,10 +5953,28 @@
         "Héroe"
       ],
       "serie": "paretsky-warshawski",
-      "obras": [],
+      "obras": [
+        "paretsky-burn-marks",
+        "paretsky-hard-time",
+        "paretsky-bitter-medicine",
+        "paretsky-blood-shot",
+        "paretsky-guardian-angel",
+        "paretsky-tunnel-vision",
+        "paretsky-total-recall",
+        "paretsky-blacklist",
+        "paretsky-fire-sale",
+        "paretsky-hardball",
+        "paretsky-body-work",
+        "paretsky-breakdown",
+        "paretsky-critical-mass",
+        "paretsky-brush-back",
+        "paretsky-fallout",
+        "paretsky-shell-game",
+        "paretsky-dead-land"
+      ],
       "articulos": [],
       "senasIdentidad": [],
-      "nivelArchivo": "complementario",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "pendiente_de_documentar",
       "notaEditorial": "Vecino recurrente y figura afectiva, pero menos definitorio del policial que Warshawski y Lotty."
     },
@@ -6951,50 +6966,6 @@
       "estadoSenas": "pendiente_de_documentar"
     },
     {
-      "id": "ard-tom-doran",
-      "nombre": "Tom Doran",
-      "autor": "ard",
-      "ocupacion": "Detective privado",
-      "ocupacionDetalle": "Detective privado",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "",
-      "obras": [
-        "ard-double-cross"
-      ],
-      "articulos": [],
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "ard-luke-maclane",
-      "nombre": "Luke MacLane",
-      "autor": "ard",
-      "ocupacion": "Detective privado",
-      "ocupacionDetalle": "Detective privado",
-      "sexo": "Masculino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "",
-      "obras": [
-        "ard-no-angels-for-me"
-      ],
-      "articulos": [],
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
       "id": "mcgivern-dave-bannion",
       "nombre": "Dave Bannion",
       "autor": "mcgivern",
@@ -7548,11 +7519,15 @@
       ],
       "serie": "wade-miller-serie-max-thursday",
       "obras": [
-        "wade-miller-guilty-bystander"
+        "wade-miller-fatal-step",
+        "wade-miller-uneasy-street",
+        "wade-miller-calamity-fair",
+        "wade-miller-murder-charge",
+        "wade-miller-shoot-to-kill"
       ],
       "articulos": [],
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "pendiente_de_documentar"
     },
     {
@@ -7593,101 +7568,6 @@
       "serie": "",
       "obras": [
         "curtiss-voice-out-of-darkness"
-      ],
-      "articulos": [],
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "curtiss-victoria-devlin",
-      "nombre": "Victoria Devlin",
-      "autor": "curtiss",
-      "ocupacion": "Investigador aficionado",
-      "ocupacionDetalle": "Joven empeñada en cumplir una promesa pese al peligro",
-      "sexo": "Femenino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "",
-      "obras": [
-        "curtiss-the-second-sickle"
-      ],
-      "articulos": [],
-      "senasIdentidad": [
-        {
-          "categoria": "rasgos",
-          "tema": "Rasgos de personalidad",
-          "etiqueta": "Fidelidad a la palabra",
-          "descripcion": "Se empeña en respetar una promesa incluso cuando la pone en peligro."
-        }
-      ],
-      "nivelArchivo": "principal",
-      "estadoSenas": "propuesta_documentada"
-    },
-    {
-      "id": "curtiss-lou-fabian",
-      "nombre": "Lou Fabian",
-      "autor": "curtiss",
-      "ocupacion": "Investigador aficionado",
-      "ocupacionDetalle": "Mujer sobre la que recae la sospecha de secuestro",
-      "sexo": "Femenino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "",
-      "obras": [
-        "curtiss-the-face-of-the-tiger"
-      ],
-      "articulos": [],
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "curtiss-sarah-trafton",
-      "nombre": "Sarah Trafton",
-      "autor": "curtiss",
-      "ocupacion": "Investigador aficionado",
-      "ocupacionDetalle": "Esposa que intenta esclarecer muertes familiares",
-      "sexo": "Femenino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "",
-      "obras": [
-        "curtiss-so-dies-the-dreamer"
-      ],
-      "articulos": [],
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "curtiss-madeline-potter",
-      "nombre": "Madeline Potter",
-      "autor": "curtiss",
-      "ocupacion": "Investigador aficionado",
-      "ocupacionDetalle": "Viuda sometida a chantaje psicológico",
-      "sexo": "Femenino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "",
-      "obras": [
-        "curtiss-the-stairway"
       ],
       "articulos": [],
       "senasIdentidad": [],
@@ -7786,37 +7666,8 @@
       ],
       "articulos": [],
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "complementario",
       "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "curtiss-kate-barlow",
-      "nombre": "Kate Barlow",
-      "autor": "curtiss",
-      "ocupacion": "Sin ocupación relevante",
-      "ocupacionDetalle": "Joven viuda que vive con sus parientes políticos",
-      "sexo": "Femenino",
-      "roles": [
-        "Protagonista"
-      ],
-      "perfiles": [
-        "Héroe desencantado"
-      ],
-      "serie": "",
-      "obras": [
-        "curtiss-the-wasp"
-      ],
-      "articulos": [],
-      "senasIdentidad": [
-        {
-          "categoria": "manias",
-          "tema": "Manías y costumbres",
-          "etiqueta": "Temor a las avispas",
-          "descripcion": "Un accidente con una avispa desencadena el aprovechamiento cruel de ese miedo por parte de su familia política."
-        }
-      ],
-      "nivelArchivo": "principal",
-      "estadoSenas": "propuesta_documentada"
     },
     {
       "id": "curtiss-kit-austen",
@@ -7870,21 +7721,21 @@
       "estadoSenas": "pendiente_de_documentar"
     },
     {
-      "id": "curtiss-lydia-peel",
-      "nombre": "Lydia Peel",
+      "id": "curtiss-libby-mannering",
+      "nombre": "Libby Mannering",
       "autor": "curtiss",
-      "ocupacion": "Investigador aficionado",
-      "ocupacionDetalle": "Mujer arrastrada a una trama por un encargo rutinario",
+      "ocupacion": "Sin ocupación relevante",
+      "ocupacionDetalle": "Adolescente de catorce años de la familia Mannering",
       "sexo": "Femenino",
       "roles": [
-        "Protagonista"
+        "Coprotagonista"
       ],
       "perfiles": [
         "Héroe"
       ],
       "serie": "",
       "obras": [
-        "curtiss-the-birthday-gift"
+        "curtiss-out-of-the-dark"
       ],
       "articulos": [],
       "senasIdentidad": [],
@@ -7975,7 +7826,7 @@
           "descripcion": "Recurre ocasionalmente a la bebida durante las tensiones de su labor policial."
         }
       ],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "complementario",
       "estadoSenas": "propuesta_documentada"
     },
     {
@@ -8006,28 +7857,6 @@
       ],
       "nivelArchivo": "principal",
       "estadoSenas": "propuesta_documentada"
-    },
-    {
-      "id": "walsh-thomas-eckstrom",
-      "nombre": "Eckstrom",
-      "autor": "walsh-thomas",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Teniente detective que organiza la vigilancia policial",
-      "sexo": "Masculino",
-      "roles": [
-        "Aliado / colaborador"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "",
-      "obras": [
-        "walsh-thomas-the-night-watch"
-      ],
-      "articulos": [],
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
     },
     {
       "id": "the-gordons-john-ripley-personaje",
@@ -8139,7 +7968,7 @@
       ],
       "articulos": [],
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "complementario",
       "estadoSenas": "pendiente_de_documentar"
     },
     {
@@ -8202,28 +8031,6 @@
       "serie": "the-gordons-serie-frank-mitchell",
       "obras": [
         "the-gordons-night-before-wedding",
-        "the-gordons-night-after-wedding"
-      ],
-      "articulos": [],
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "the-gordons-hawk",
-      "nombre": "Inspector Hawk",
-      "autor": "the-gordons",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Inspector de la policía de Los Ángeles",
-      "sexo": "Masculino",
-      "roles": [
-        "Aliado / colaborador"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "the-gordons-serie-frank-mitchell",
-      "obras": [
         "the-gordons-night-after-wedding"
       ],
       "articulos": [],
@@ -8387,7 +8194,7 @@
           "descripcion": "Compone crucigramas como actividad habitual."
         }
       ],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "propuesta_documentada"
     },
     {
@@ -8447,7 +8254,7 @@
           "descripcion": "Su carácter firme y sus opiniones directas contribuyen a la vida social del entorno de Kinsey."
         }
       ],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "propuesta_documentada"
     },
     {
@@ -8467,11 +8274,13 @@
       "serie": "grafton-kinsey-millhone",
       "obras": [
         "grafton-a-is-for",
-        "grafton-q-is-for"
+        "grafton-m-is-for",
+        "grafton-q-is-for",
+        "grafton-u-is-for"
       ],
       "articulos": [],
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "pendiente_de_documentar"
     },
     {
@@ -8495,7 +8304,7 @@
       ],
       "articulos": [],
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "pendiente_de_documentar"
     },
     {
@@ -8514,11 +8323,13 @@
       ],
       "serie": "grafton-kinsey-millhone",
       "obras": [
+        "grafton-k-is-for",
+        "grafton-r-is-for",
         "grafton-x-is-for"
       ],
       "articulos": [],
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "pendiente_de_documentar"
     },
     {
@@ -8536,11 +8347,12 @@
       ],
       "serie": "grafton-kinsey-millhone",
       "obras": [
-        "grafton-q-is-for"
+        "grafton-q-is-for",
+        "grafton-u-is-for"
       ],
       "articulos": [],
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "pendiente_de_documentar"
     },
     {
@@ -8563,7 +8375,7 @@
       ],
       "articulos": [],
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "complementario",
       "estadoSenas": "pendiente_de_documentar"
     }
   ],
@@ -19538,7 +19350,7 @@
   },
   "totales": {
     "autores": 50,
-    "personajes": 188,
+    "personajes": 179,
     "series": 64,
     "obras": 824
   }
