@@ -1,0 +1,262 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "behm",
+    "nombre": "Marc Behm",
+    "nombreCompleto": "Marc Behm",
+    "nacimiento": "1925",
+    "fallecimiento": "2007",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "Trenton, Nueva Jersey, Estados Unidos",
+    "fin": "Fort-Mahon-Plage, Somme, Francia",
+    "debutNegro": 1980,
+    "seudonimos": [],
+    "generos": [
+      "psychological thriller",
+      "crime thriller",
+      "hardboiled"
+    ],
+    "imagen": "",
+    "resumen": "Novelista y guionista estadounidense establecido en Francia, autor de La mirada del observador (1980), novela negra de culto sobre obsesión y crimen, y de los guiones de Charada y Help!.",
+    "alcanceBibliografia": "Ocho novelas de interés para el archivo, incluidas obras limítrofes con la ficción histórica y fantástica; se excluyen relatos, antologías, guiones y Le Hold-Up des salopettes (obra póstuma completada por Jérémy Behm). La reina de la noche (1977) fue su debut literario, pero La mirada del observador (1980) es su primera novela inequívocamente policial.",
+    "articulos": [
+      {
+        "titulo": "LA MIRADA DEL OBSERVADOR de Marc Behm | Un detective, la asesina de los mil nombres y una obsesión",
+        "url": "https://balasyestrellas.blogspot.com/2024/02/la-mirada-del-observador-marc-behm.html"
+      }
+    ],
+    "personajes": [
+      "behm-el-ojo",
+      "behm-joanna-eris"
+    ],
+    "series": [],
+    "obras": [
+      "behm-queen-of-the-night",
+      "behm-eye-of-the-beholder",
+      "behm-ice-maiden",
+      "behm-afraid-to-death",
+      "behm-off-the-wall",
+      "behm-seek-to-know-no-more",
+      "behm-crabe",
+      "behm-dime-novel"
+    ],
+    "bio": [
+      "Marc Behm nació el 12 de enero de 1925 en Trenton, Nueva Jersey, y murió el 12 de julio de 2007 en Fort-Mahon-Plage, Francia. Combatió en Europa durante la Segunda Guerra Mundial, se casó con una francesa y desarrolló buena parte de su carrera como expatriado en Francia.",
+      "Tras trabajar como actor y en televisión, se convirtió en guionista. Ideó la historia de Charada (Charade, 1963), dirigida por Stanley Donen con Audrey Hepburn y Cary Grant, y participó en el guion de Help! (1965), de Richard Lester y los Beatles.",
+      "Publicó su primera novela, The Queen of the Night (La reina de la noche), en 1977: una sátira histórica grotesca ambientada en la Alemania nazi. Su irrupción plena en la narrativa policial llegó con The Eye of the Beholder (La mirada del observador, 1980), en la que un detective sin nombre persigue y protege a una asesina de identidades cambiantes. El libro fue particularmente valorado en Francia, donde apareció como Mortelle randonnée.",
+      "La mirada del observador fue adaptada al cine por Claude Miller en 1983 (Mortelle randonnée) y por Stephan Elliott en 1999 (Eye of the Beholder). Behm siguió alternando intriga, horror, fantasía y humor negro en La doncella de hielo, Afraid to Death, Un hombre al margen, No pretendas saber más, Crab y Tout un roman !.",
+      "Su obra cuestiona las convenciones del hardboiled mediante investigadores obsesionados, delincuentes singulares, persecuciones delirantes y protagonistas que distorsionan las fronteras entre el amor, la violencia y el engaño. Su recepción fue especialmente intensa en Francia y España."
+    ],
+    "apunte": "Marc Behm pasó años escribiendo para el cine antes de construir uno de los detectives más anómalos del género. El Ojo de La mirada del observador es un investigador privado al que no se le conoce el nombre, pero que, en lugar de detener a la asesina perseguida, termina ocultando las pruebas de sus crímenes: cree encontrar en ella a la hija perdida. Joanna Eris, que utiliza entre otros nombres el de Luci Brentano, es una sola mujer; no deben crearse fichas separadas para cada alias. La novela es de 1980 y dio lugar a dos adaptaciones (1983 y 1999), que introducen diferencias respecto al texto. Behm debutó literariamente en 1977 con La reina de la noche, una ficción histórica, de modo que su debut en novela inequívocamente negra se fecha en 1980. La bibliografía presenta discrepancias en los años de algunas novelas tardías: Afraid to Death fue editada primero en traducción francesa como Trouille hacia 1990 y el original inglés apareció posteriormente; Off the Wall circula con fechas de 1990 a 1992, aquí se adopta la edición francesa de 1992 documentada por su agencia. Tout un roman ! (1997) y Dime Novel designan la misma obra. Se enlaza la reseña de Balas y Estrellas tanto desde el autor como desde La mirada del observador.",
+    "fuentesDocumentales": [
+      "https://www.winckelmuller.com/Behm.html?lang=fr",
+      "https://www.theguardian.com/books/booksblog/2007/sep/21/awriterlosttotranslations",
+      "https://www.theguardian.com/news/2007/oct/30/guardianobituaries.booksobituaries",
+      "https://www.fantasticfiction.com/b/marc-behm/",
+      "https://elpais.com/cultura/2017/11/17/elemental/1510902615_573319.html",
+      "https://www.lecturalia.com/autor/6888/marc-behm",
+      "https://www.lecturalia.com/libro/42459/un-hombre-al-margen",
+      "https://www.complete-review.com/reviews/behmm/eye_of_the_beholder.htm",
+      "https://www.casadellibro.com/libro-la-mirada-del-observador/9788498671940/1193559",
+      "https://catalogue.bnf.fr/rechercher.do?index=AUT3&numNotice=11890968",
+      "https://polartnoir.fr/livres/marc-behm-tout-un-roman"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "behm-el-ojo",
+      "nombre": "El Ojo (The Eye)",
+      "autor": "behm",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Investigador privado de una agencia estadounidense; su nombre real nunca se revela",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "behm-eye-of-the-beholder"
+      ],
+      "articulos": [],
+      "descripcion": "Detective privado solitario y marcado por la desaparición de su hija. Su seguimiento de una asesina a la que cree reconocer como hija se convierte en una obsesión que lo lleva a ocultar las pruebas de los asesinatos en lugar de detenerla.",
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Pasatiempos",
+          "etiqueta": "Crucigramas",
+          "descripcion": "Resuelve crucigramas compulsivamente mientras observa a la mujer que persigue."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Vigilancia discreta",
+          "descripcion": "Se confunde con el entorno y mantiene seguimientos prolongados sin llamar la atención."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos psicológicos",
+          "etiqueta": "Obsesión paternal",
+          "descripcion": "La búsqueda de su hija desaparecida alimenta el convencimiento de que la asesina a la que sigue podría ser ella."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "behm-joanna-eris",
+      "nombre": "Joanna Eris (Luci Brentano y otros alias)",
+      "autor": "behm",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Asesina que seduce y despoja de su fortuna a sus parejas",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista",
+        "Antagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "",
+      "obras": [
+        "behm-eye-of-the-beholder"
+      ],
+      "articulos": [],
+      "descripcion": "Mujer que adopta identidades sucesivas —entre ellas Luci Brentano—, establece relaciones con hombres adinerados, se apropia de su dinero y los asesina. El Ojo la persigue durante años y confunde la vigilancia con una forma enfermiza de protección.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Identidades múltiples",
+          "descripcion": "Cambia de nombre, apariencia y entorno para engañar a sus víctimas y eludir a la policía."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Manipulación afectiva",
+          "descripcion": "Seduce y utiliza la confianza de hombres ricos antes de cometer sus crímenes."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    }
+  ],
+  "series": [],
+  "obras": [
+    {
+      "id": "behm-queen-of-the-night",
+      "titulo": "La reina de la noche",
+      "original": "The Queen of the Night",
+      "anio": 1977,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ],
+      "sinopsis": "En la Alemania del auge del nazismo, Edmonde Sigelinde Kerrl asciende entre personajes del régimen mientras su vida se convierte en una farsa histórica violenta, sexual y grotesca. Novela histórica picaresca con componentes criminales; no se toma como debut policial."
+    },
+    {
+      "id": "behm-eye-of-the-beholder",
+      "titulo": "La mirada del observador",
+      "original": "The Eye of the Beholder",
+      "anio": 1980,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "sinopsis": "Un detective privado conocido únicamente como el Ojo sigue a Joanna Eris, una mujer que cambia constantemente de identidad y asesina a los hombres con los que se relaciona. Su vigilancia se transforma en una obsesión: cree reconocer en ella a su hija desaparecida y comienza a encubrir sus crímenes.",
+      "resena": "https://balasyestrellas.blogspot.com/2024/02/la-mirada-del-observador-marc-behm.html"
+    },
+    {
+      "id": "behm-ice-maiden",
+      "titulo": "La doncella de hielo",
+      "original": "The Ice Maiden",
+      "anio": 1982,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "heist fiction",
+        "crime thriller"
+      ],
+      "sinopsis": "Tres vampiros, Brand, Tony y Cora, preparan un espectacular atraco para procurarse una vida tranquila. Novela de atracos que mezcla fantasía, humor negro y convenciones del género criminal; primera edición francesa como La Vierge de glace (1982), edición inglesa posterior."
+    },
+    {
+      "id": "behm-afraid-to-death",
+      "titulo": "Afraid to Death",
+      "original": "Afraid to Death",
+      "anio": 1990,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Un jugador que vive al margen de la sociedad es acosado por una mujer rubia que parece perseguirlo a lo largo de toda su vida. El miedo y la fascinación invierten la dinámica de persecución de La mirada del observador. Publicada inicialmente en traducción francesa con el título Trouille."
+    },
+    {
+      "id": "behm-off-the-wall",
+      "titulo": "Un hombre al margen",
+      "original": "Off the Wall",
+      "anio": 1992,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Patrick Nelson, dueño de un garaje de Los Ángeles y lector de las hermanas Brontë, decide convertirse en sospechoso de los asesinatos del Carnicero para llamar la atención de Jenny, la investigadora encargada del caso; su imaginación le hace emprender viajes delirantes."
+    },
+    {
+      "id": "behm-seek-to-know-no-more",
+      "titulo": "No pretendas saber más",
+      "original": "Seek to Know No More",
+      "anio": 1993,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Lucy, una mujer con poderes extraordinarios, recibe un encargo sobrenatural: reclamar las almas de quienes pactaron con el diablo. Thriller fantástico y macabro con persecuciones."
+    },
+    {
+      "id": "behm-crabe",
+      "titulo": "Crab",
+      "original": "Crabe (Crabs)",
+      "anio": 1994,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ],
+      "sinopsis": "Novela de persecución extravagante con elementos sobrenaturales, sátira y humor negro. La narración no debe confundirse con un relato realista de procedimiento policial."
+    },
+    {
+      "id": "behm-dime-novel",
+      "titulo": "Tout un roman !",
+      "original": "Dime Novel",
+      "anio": 1997,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "crook story"
+      ],
+      "sinopsis": "Tras ser secuestrado al nacer, Fécunditatis vive una sucesión de persecuciones, conspiraciones y fugas que involucran mafiosos, terroristas y servicios secretos. Publicada en francés con el título Tout un roman !; Dime Novel es su título original, no una segunda obra."
+    }
+  ]
+}
