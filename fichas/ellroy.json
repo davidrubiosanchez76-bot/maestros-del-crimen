@@ -22,7 +22,7 @@
       "Narrador estadounidense cuya literatura combina investigaciones criminales, conflictos políticos, violencia y obsesión documental.",
       "Desde Réquiem por Brown evolucionó hacia ambiciosos ciclos como el Cuarteto de Los Ángeles, que vincula sucesos reales, ficción y una estructura coral de policías, periodistas y criminales."
     ],
-    "apunte": "El Cuarteto de Los Ángeles utiliza una ciudad histórica recreada con gran densidad de referencias, pero sus personajes y numerosas conspiraciones son ficción; conviene separar dato histórico y elaboración novelesca.",
+    "apunte": "El Cuarteto de Los Ángeles utiliza una ciudad histórica recreada con gran densidad de referencias, pero sus personajes y numerosas conspiraciones son ficción; conviene separar dato histórico y elaboración novelesca. Se han corregido las atribuciones automáticas del Cuarteto de Los Ángeles: Bucky Bleichert es protagonista de La Dalia Negra y Bud White y Edmund Exley de L. A. Confidential. No se asignan a otros libros del cuarteto sin verificar expresamente su aparición.",
     "alcanceBibliografia": "selección inicial no exhaustiva",
     "articulos": [],
     "personajes": [
@@ -72,9 +72,7 @@
       ],
       "serie": "ellroy-cuarteto-la",
       "obras": [
-        "ellroy-the-black-dahlia",
-        "ellroy-the-big-nowhere",
-        "ellroy-l-a-confidential"
+        "ellroy-the-black-dahlia"
       ],
       "articulos": [],
       "descripcion": "Policía marcado por la investigación del crimen de la Dalia Negra.",
@@ -97,9 +95,7 @@
       ],
       "serie": "ellroy-cuarteto-la",
       "obras": [
-        "ellroy-l-a-confidential",
-        "ellroy-the-black-dahlia",
-        "ellroy-the-big-nowhere"
+        "ellroy-l-a-confidential"
       ],
       "articulos": [],
       "descripcion": "Policía de métodos violentos y convicciones difíciles de conciliar con la institución.",
@@ -154,9 +150,7 @@
       ],
       "serie": "ellroy-cuarteto-la",
       "obras": [
-        "ellroy-l-a-confidential",
-        "ellroy-the-black-dahlia",
-        "ellroy-the-big-nowhere"
+        "ellroy-l-a-confidential"
       ],
       "articulos": [],
       "descripcion": "Policía ambicioso y calculador del universo de L. A. Confidential.",
