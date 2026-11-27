@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-27-lorenzo-silva-v1",
+  "version": "2026-11-27-lorenzo-silva-personajes-depurados-v2",
   "descripcion": "MAESTROS DEL CRIMEN · índice con señas de identidad verificables, filtro por aficiones, particularidades y criterios de relevancia editorial. La ausencia de etiqueta no descarta un rasgo por documentar.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -2809,13 +2809,8 @@
         "silva-arnau",
         "silva-ines-salgado",
         "silva-manuela-mauri",
-        "silva-guadalupe-larbi",
         "silva-sonia-ruiz",
-        "silva-pau-soria",
-        "silva-pua",
-        "silva-mazo",
-        "silva-tortosa",
-        "silva-fonseca"
+        "silva-pua"
       ],
       "series": [
         "silva-bevilacqua-chamorro",
@@ -9860,28 +9855,6 @@
       "estadoSenas": "propuesta_documentada"
     },
     {
-      "id": "silva-guadalupe-larbi",
-      "nombre": "Guadalupe Larbi",
-      "autor": "lorenzo-silva",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Oficial que reclama el regreso de Mauri a una investigación",
-      "sexo": "Femenino",
-      "roles": [
-        "Aliado / colaborador"
-      ],
-      "perfiles": [
-        "Sin clasificar"
-      ],
-      "serie": "silva-manuela-mauri",
-      "obras": [
-        "silva-si-esto-es-una-mujer"
-      ],
-      "articulos": [],
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
       "id": "silva-sonia-ruiz",
       "nombre": "Sonia Ruiz",
       "autor": "lorenzo-silva",
@@ -9893,28 +9866,6 @@
       ],
       "perfiles": [
         "Héroe desencantado"
-      ],
-      "serie": "",
-      "obras": [
-        "silva-nada-sucio"
-      ],
-      "articulos": [],
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "silva-pau-soria",
-      "nombre": "Pau Soria",
-      "autor": "lorenzo-silva",
-      "ocupacion": "Otras ocupaciones",
-      "ocupacionDetalle": "Amigo y ayudante de Sonia Ruiz",
-      "sexo": "Masculino",
-      "roles": [
-        "Compañero / ayudante"
-      ],
-      "perfiles": [
-        "Héroe"
       ],
       "serie": "",
       "obras": [
@@ -9953,72 +9904,6 @@
       ],
       "nivelArchivo": "principal",
       "estadoSenas": "propuesta_documentada"
-    },
-    {
-      "id": "silva-mazo",
-      "nombre": "Mazo",
-      "autor": "lorenzo-silva",
-      "ocupacion": "Otras ocupaciones",
-      "ocupacionDetalle": "Antiguo compañero de operaciones clandestinas de Púa",
-      "sexo": "Masculino",
-      "roles": [
-        "Aliado / colaborador"
-      ],
-      "perfiles": [
-        "Moralmente ambiguo"
-      ],
-      "serie": "",
-      "obras": [
-        "silva-pua"
-      ],
-      "articulos": [],
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "silva-tortosa",
-      "nombre": "Jueza Tortosa",
-      "autor": "lorenzo-silva",
-      "ocupacion": "Abogado / justicia",
-      "ocupacionDetalle": "Jueza instructora de un asesinato en un programa televisivo",
-      "sexo": "Femenino",
-      "roles": [
-        "Coprotagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "",
-      "obras": [
-        "silva-muerte-en-el-reality-show"
-      ],
-      "articulos": [],
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "silva-fonseca",
-      "nombre": "Comisario Fonseca",
-      "autor": "lorenzo-silva",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Comisario investigador del asesinato en un reality show",
-      "sexo": "Masculino",
-      "roles": [
-        "Coprotagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "",
-      "obras": [
-        "silva-muerte-en-el-reality-show"
-      ],
-      "articulos": [],
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
@@ -22489,7 +22374,7 @@
   },
   "totales": {
     "autores": 55,
-    "personajes": 221,
+    "personajes": 216,
     "series": 73,
     "obras": 933
   }
