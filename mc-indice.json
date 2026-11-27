@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-27-depuracion-personajes-v1",
+  "version": "2026-11-27-kotaro-isaka-v1",
   "descripcion": "MAESTROS DEL CRIMEN · índice con señas de identidad verificables, filtro por aficiones, particularidades y criterios de relevancia editorial. La ausencia de etiqueta no descarta un rasgo por documentar.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -52,7 +52,8 @@
     "curtiss": "fichas/curtiss.json",
     "walsh-thomas": "fichas/walsh-thomas.json",
     "the-gordons": "fichas/the-gordons.json",
-    "grafton": "fichas/grafton.json"
+    "grafton": "fichas/grafton.json",
+    "isaka": "fichas/isaka.json"
   },
   "autores": [
     {
@@ -2519,6 +2520,59 @@
         "grafton-w-is-for",
         "grafton-x-is-for",
         "grafton-y-is-for"
+      ]
+    },
+    {
+      "id": "isaka",
+      "nombre": "Kōtarō Isaka",
+      "nombreCompleto": "Kōtarō Isaka (伊坂 幸太郎; Isaka Kōtarō)",
+      "nacimiento": "1971",
+      "fallecimiento": "",
+      "origen": "Japón",
+      "pais": "Japón",
+      "lugar": "Matsudo, prefectura de Chiba, Japón",
+      "fin": "",
+      "debutNegro": 2000,
+      "seudonimos": [],
+      "generos": [
+        "crime thriller",
+        "psychological thriller",
+        "crook story",
+        "whodunit"
+      ],
+      "imagen": "",
+      "resumen": "Escritor japonés de misterio y thriller criminal, conocido por sus novelas de sicarios, humor negro y destinos entrecruzados; autor de Tres asesinos y Tren bala.",
+      "alcanceBibliografia": "Selección de nueve novelas representativas de misterio y ficción criminal, no exhaustiva; la recopilación de relatos AX / The Mantis (2017) queda documentada en la serie pero no contabilizada como novela.",
+      "articulos": [
+        {
+          "titulo": "TRES ASESINOS | Tres psicópatas entrañables y una venganza suicida",
+          "url": "https://balasyestrellas.blogspot.com/2024/04/tres-asesinos-kotaro-isaka.html"
+        }
+      ],
+      "personajes": [
+        "isaka-suzuki",
+        "isaka-ballena",
+        "isaka-cigarra",
+        "isaka-empujon",
+        "isaka-nanao",
+        "isaka-mandarina",
+        "isaka-limon",
+        "isaka-principe",
+        "isaka-maria"
+      ],
+      "series": [
+        "isaka-asesinos"
+      ],
+      "obras": [
+        "isaka-audubons-prayer",
+        "isaka-lush-life",
+        "isaka-gravity-clown",
+        "isaka-ahiru-kamo-coin-locker",
+        "isaka-grasshopper",
+        "isaka-golden-slumber",
+        "isaka-maria-beetle",
+        "isaka-seesaw-monster",
+        "isaka-777"
       ]
     }
   ],
@@ -8377,6 +8431,260 @@
       "senasIdentidad": [],
       "nivelArchivo": "complementario",
       "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "isaka-suzuki",
+      "nombre": "Suzuki",
+      "autor": "isaka",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Antiguo profesor de matemáticas que se infiltra en una organización delictiva",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "isaka-asesinos",
+      "obras": [
+        "isaka-grasshopper"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Razonamiento matemático",
+          "descripcion": "Su formación como profesor de matemáticas condiciona una forma analítica de observar situaciones aparentemente inconexas."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "isaka-ballena",
+      "nombre": "La Ballena",
+      "autor": "isaka",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Asesino a sueldo que induce a sus víctimas a quitarse la vida",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "isaka-asesinos",
+      "obras": [
+        "isaka-grasshopper"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Persuasión letal",
+          "descripcion": "Mediante la conversación consigue que otras personas contemplen el suicidio como única salida."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Dostoievski",
+          "descripcion": "Lee repetidamente Crimen y castigo."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "isaka-cigarra",
+      "nombre": "La Cigarra",
+      "autor": "isaka",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Sicario especializado en el uso de cuchillos",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "isaka-asesinos",
+      "obras": [
+        "isaka-grasshopper"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Verborrea",
+          "descripcion": "Habla de forma constante, incluso en medio de situaciones violentas."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Cuchillos",
+          "descripcion": "Destaca por su precisión y velocidad con armas blancas."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "isaka-empujon",
+      "nombre": "El Empujón",
+      "autor": "isaka",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Sicario conocido por provocar muertes simulando accidentes de tráfico",
+      "sexo": "Masculino",
+      "roles": [
+        "Antagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "isaka-asesinos",
+      "obras": [
+        "isaka-grasshopper"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Empujones discretos",
+          "descripcion": "Provoca accidentes fatales mediante movimientos aparentemente leves y fortuitos."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "isaka-nanao",
+      "nombre": "Nanao («Mariquita» / Ladybug)",
+      "autor": "isaka",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Asesino a sueldo japonés conocido por su mala suerte",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "isaka-asesinos",
+      "obras": [
+        "isaka-maria-beetle",
+        "isaka-777"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Mala suerte recurrente",
+          "descripcion": "Todos sus trabajos se complican de manera desproporcionada, hasta convertir la mala suerte en su sello personal."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "isaka-mandarina",
+      "nombre": "Mandarina",
+      "autor": "isaka",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Asesino a sueldo que actúa en pareja con Limón",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "isaka-asesinos",
+      "obras": [
+        "isaka-maria-beetle"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "isaka-limon",
+      "nombre": "Limón",
+      "autor": "isaka",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Sicario que trabaja junto a Mandarina",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "isaka-asesinos",
+      "obras": [
+        "isaka-maria-beetle"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Cine, televisión y cómics",
+          "etiqueta": "Thomas y sus amigos",
+          "descripcion": "Emplea referencias a la serie infantil Thomas y sus amigos al interpretar las personalidades de quienes lo rodean."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "isaka-principe",
+      "nombre": "Satoshi («el Príncipe»)",
+      "autor": "isaka",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Adolescente manipulador y antagonista central de Tren bala",
+      "sexo": "Masculino",
+      "roles": [
+        "Antagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "isaka-asesinos",
+      "obras": [
+        "isaka-maria-beetle"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "isaka-maria",
+      "nombre": "Maria",
+      "autor": "isaka",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Intermediaria y gestora de encargos de Nanao",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "isaka-asesinos",
+      "obras": [
+        "isaka-maria-beetle",
+        "isaka-777"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
@@ -8763,6 +9071,12 @@
       "nombre": "El alfabeto del crimen / Kinsey Millhone",
       "autor": "grafton",
       "descripcion": "Ciclo completo de 25 novelas de detective privado, de A Is for Alibi (1982) a Y Is for Yesterday (2017), ambientado fundamentalmente en Santa Teresa, California, con continuidad interna situada en los años ochenta. La entrega Z Is for Zero fue proyectada, pero nunca escrita ni publicada. Kinsey y yo es una recopilación de relatos y material autobiográfico, no una vigesimosexta novela."
+    },
+    {
+      "id": "isaka-asesinos",
+      "nombre": "Asesinos / Koroshiya",
+      "autor": "isaka",
+      "descripcion": "Ciclo del hampa japonesa compuesto por Grasshopper / Tres asesinos (2004), Maria Beetle / Tren bala (2010), AX / The Mantis (2017; recopilación de cinco relatos enlazados) y 777 / Hotel Lucky Seven (2023). Los títulos vinculados en el índice son las tres novelas; AX se documenta aquí, pero no se presenta erróneamente como novela. El autor explica que Tren bala y 777 guardan continuidad directa, mientras las demás obras funcionan de modo independiente."
     }
   ],
   "obras": [
@@ -19096,6 +19410,124 @@
         "hardboiled",
         "crime thriller"
       ]
+    },
+    {
+      "id": "isaka-audubons-prayer",
+      "titulo": "Audubon's Prayer",
+      "original": "Ōdyubon no inori",
+      "anio": 2000,
+      "autor": "isaka",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "isaka-lush-life",
+      "titulo": "Lush Life",
+      "original": "Rasshu Raifu",
+      "anio": 2002,
+      "autor": "isaka",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "isaka-gravity-clown",
+      "titulo": "Gravity Clown",
+      "original": "Jūryoku piero",
+      "anio": 2003,
+      "autor": "isaka",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "isaka-ahiru-kamo-coin-locker",
+      "titulo": "Ahiru to Kamo no Coin Locker",
+      "original": "Ahiru to kamo no koin rokkā",
+      "anio": 2003,
+      "autor": "isaka",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "isaka-grasshopper",
+      "titulo": "Tres asesinos",
+      "original": "Gurasuhoppā (Grasshopper)",
+      "anio": 2004,
+      "autor": "isaka",
+      "seudonimo": "",
+      "serie": "isaka-asesinos",
+      "generos": [
+        "crime thriller",
+        "crook story"
+      ],
+      "resena": "https://balasyestrellas.blogspot.com/2024/04/tres-asesinos-kotaro-isaka.html"
+    },
+    {
+      "id": "isaka-golden-slumber",
+      "titulo": "Golden Slumber",
+      "original": "Gōruden suranbā",
+      "anio": 2007,
+      "autor": "isaka",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "isaka-maria-beetle",
+      "titulo": "Tren bala",
+      "original": "Mariabītoru (Maria Beetle)",
+      "anio": 2010,
+      "autor": "isaka",
+      "seudonimo": "",
+      "serie": "isaka-asesinos",
+      "generos": [
+        "crime thriller",
+        "crook story"
+      ]
+    },
+    {
+      "id": "isaka-seesaw-monster",
+      "titulo": "Seesaw Monster",
+      "original": "Shisō monsutā",
+      "anio": 2019,
+      "autor": "isaka",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "isaka-777",
+      "titulo": "Hotel Lucky Seven",
+      "original": "777 (Toripuru sebun)",
+      "anio": 2023,
+      "autor": "isaka",
+      "seudonimo": "",
+      "serie": "isaka-asesinos",
+      "generos": [
+        "crime thriller",
+        "crook story"
+      ]
     }
   ],
   "destacados": {
@@ -19346,12 +19778,17 @@
       "grafton-a-is-for",
       "grafton-q-is-for",
       "grafton-y-is-for"
+    ],
+    "isaka": [
+      "isaka-grasshopper",
+      "isaka-maria-beetle",
+      "isaka-777"
     ]
   },
   "totales": {
-    "autores": 50,
-    "personajes": 179,
-    "series": 64,
-    "obras": 824
+    "autores": 51,
+    "personajes": 188,
+    "series": 65,
+    "obras": 833
   }
 }
