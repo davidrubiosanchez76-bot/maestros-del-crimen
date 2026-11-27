@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-27-mcgivern-v1",
+  "version": "2026-11-27-matsumoto-v1",
   "descripcion": "MAESTROS DEL CRIMEN · índice con señas de identidad verificables, filtro por aficiones, particularidades y criterios de relevancia editorial. La ausencia de etiqueta no descarta un rasgo por documentar.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -46,7 +46,8 @@
     "bramah": "fichas/bramah.json",
     "burnett": "fichas/burnett.json",
     "ard": "fichas/ard.json",
-    "mcgivern": "fichas/mcgivern.json"
+    "mcgivern": "fichas/mcgivern.json",
+    "matsumoto-seicho": "fichas/matsumoto-seicho.json"
   },
   "autores": [
     {
@@ -2169,6 +2170,60 @@
         "mcgivern-reprisal",
         "mcgivern-night-of-the-juggler",
         "mcgivern-summitt"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho",
+      "nombre": "Seichō Matsumoto",
+      "nombreCompleto": "Kiyoharu Matsumoto (Matsumoto Kiyoharu)",
+      "nacimiento": "1909",
+      "fallecimiento": "1992",
+      "origen": "Japón",
+      "pais": "Japón",
+      "lugar": "Itabitsu, Kokura (actual Kitakyushu), prefectura de Fukuoka, Japón",
+      "fin": "Tokio, Japón",
+      "debutNegro": 1958,
+      "seudonimos": [],
+      "generos": [
+        "police procedural",
+        "whodunit",
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "imagen": "",
+      "resumen": "Novelista y periodista japonés, impulsor del misterio social o shakai-ha: integró los enigmas policiales con la corrupción, las desigualdades y los traumas del Japón de posguerra.",
+      "alcanceBibliografia": "selección inicial no exhaustiva de novelas criminales; se excluyen relatos, colecciones, novela histórica y ensayos",
+      "articulos": [],
+      "personajes": [
+        "matsumoto-seicho-torigai",
+        "matsumoto-seicho-mihara",
+        "matsumoto-seicho-imanishi",
+        "matsumoto-seicho-yoshimura",
+        "matsumoto-seicho-teiko-uhara",
+        "matsumoto-seicho-kiriko-yanagida",
+        "matsumoto-seicho-tsuneo-asai",
+        "matsumoto-seicho-motoko-haraguchi"
+      ],
+      "series": [
+        "matsumoto-mihara-torigai"
+      ],
+      "obras": [
+        "matsumoto-seicho-ten-to-sen",
+        "matsumoto-seicho-me-no-kabe",
+        "matsumoto-seicho-zero-no-shoten",
+        "matsumoto-seicho-aoi-byoten",
+        "matsumoto-seicho-kuroi-jukai",
+        "matsumoto-seicho-nami-no-to",
+        "matsumoto-seicho-kiri-no-hata",
+        "matsumoto-seicho-suna-no-utsuwa",
+        "matsumoto-seicho-warui-yatsura",
+        "matsumoto-seicho-kuroi-fukuin",
+        "matsumoto-seicho-jikan-no-shuzoku",
+        "matsumoto-seicho-kemonomichi",
+        "matsumoto-seicho-d-no-fukugo",
+        "matsumoto-seicho-kikanakatta-basho",
+        "matsumoto-seicho-kurokawa-no-techo",
+        "matsumoto-seicho-yakou-no-kaidan"
       ]
     }
   ],
@@ -6801,6 +6856,218 @@
       "senasIdentidad": [],
       "nivelArchivo": "principal",
       "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "matsumoto-seicho-torigai",
+      "nombre": "Jūtarō Torigai",
+      "autor": "matsumoto-seicho",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Veterano detective de la policía de Fukuoka",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "matsumoto-mihara-torigai",
+      "obras": [
+        "matsumoto-seicho-ten-to-sen",
+        "matsumoto-seicho-jikan-no-shuzoku"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Observación minuciosa",
+          "descripcion": "Repara en detalles como los billetes de tren y los hábitos de viaje que inicialmente parecen irrelevantes."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "matsumoto-seicho-mihara",
+      "nombre": "Kiichi Mihara",
+      "autor": "matsumoto-seicho",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Subinspector de la Policía Metropolitana de Tokio",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "matsumoto-mihara-torigai",
+      "obras": [
+        "matsumoto-seicho-ten-to-sen",
+        "matsumoto-seicho-jikan-no-shuzoku"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Análisis de horarios",
+          "descripcion": "Contrasta datos de transportes, trayectos y tiempos para desmontar coartadas."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "matsumoto-seicho-imanishi",
+      "nombre": "Imanishi",
+      "autor": "matsumoto-seicho",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Inspector de la Policía Metropolitana de Tokio",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "matsumoto-seicho-suna-no-utsuwa"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Jardinería",
+          "etiqueta": "Bonsáis",
+          "descripcion": "Cultiva bonsáis en su vida privada."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Haikus",
+          "descripcion": "Compone haikus; su afición contrasta con la dureza del trabajo policial."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "matsumoto-seicho-yoshimura",
+      "nombre": "Yoshimura",
+      "autor": "matsumoto-seicho",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Investigador policial colaborador de Imanishi",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Sin clasificar"
+      ],
+      "serie": "",
+      "obras": [
+        "matsumoto-seicho-suna-no-utsuwa"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "matsumoto-seicho-teiko-uhara",
+      "nombre": "Teiko Uhara",
+      "autor": "matsumoto-seicho",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Mujer recién casada que busca a su marido desaparecido",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "matsumoto-seicho-zero-no-shoten"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "matsumoto-seicho-kiriko-yanagida",
+      "nombre": "Kiriko Yanagida",
+      "autor": "matsumoto-seicho",
+      "ocupacion": "Sin ocupación relevante",
+      "ocupacionDetalle": "Joven de Kyushu que intenta obtener defensa jurídica para su hermano",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Sin clasificar"
+      ],
+      "serie": "",
+      "obras": [
+        "matsumoto-seicho-kiri-no-hata"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "matsumoto-seicho-tsuneo-asai",
+      "nombre": "Tsuneo Asai",
+      "autor": "matsumoto-seicho",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Empleado que investiga la muerte repentina de su esposa",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "matsumoto-seicho-kikanakatta-basho"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "matsumoto-seicho-motoko-haraguchi",
+      "nombre": "Motoko Haraguchi",
+      "autor": "matsumoto-seicho",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Empleada de banca que se convierte en dueña de un club de Ginza",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "matsumoto-seicho-kurokawa-no-techo"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Información financiera",
+          "descripcion": "Conoce el sistema bancario y utiliza anotaciones sobre cuentas secretas para negociar ventajas."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
@@ -7151,6 +7418,12 @@
       "nombre": "Danny Fontaine",
       "autor": "ard",
       "descripcion": "Dos novelas: As Bad As I Am (también Wanted: Danny Fontaine) y When She Was Bad. A Girl for Danny se deja fuera de la serie hasta verificar su relación."
+    },
+    {
+      "id": "matsumoto-mihara-torigai",
+      "nombre": "Mihara y Torigai",
+      "autor": "matsumoto-seicho",
+      "descripcion": "Díptico policial formado por El expreso de Tokio (Ten to sen, 1958) y Jikan no shūzoku (1962). El segundo título reúne otra vez a los policías Mihara y Torigai; no es una serie extensa de entregas regulares."
     }
   ],
   "obras": [
@@ -15920,6 +16193,209 @@
       "generos": [
         "crime thriller"
       ]
+    },
+    {
+      "id": "matsumoto-seicho-ten-to-sen",
+      "titulo": "El expreso de Tokio",
+      "original": "Ten to sen",
+      "anio": 1958,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "matsumoto-mihara-torigai",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-me-no-kabe",
+      "titulo": "Me no kabe",
+      "original": "Me no kabe",
+      "anio": 1958,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-zero-no-shoten",
+      "titulo": "Punto cero",
+      "original": "Zero no shōten",
+      "anio": 1959,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-aoi-byoten",
+      "titulo": "Aoi byōten",
+      "original": "Aoi byōten",
+      "anio": 1959,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-kuroi-jukai",
+      "titulo": "Kuroi jukai",
+      "original": "Kuroi jukai",
+      "anio": 1960,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-nami-no-to",
+      "titulo": "Nami no tō",
+      "original": "Nami no tō",
+      "anio": 1960,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-kiri-no-hata",
+      "titulo": "La chica de Kyushu",
+      "original": "Kiri no hata",
+      "anio": 1961,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-suna-no-utsuwa",
+      "titulo": "El castillo de arena",
+      "original": "Suna no utsuwa",
+      "anio": 1961,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-warui-yatsura",
+      "titulo": "Warui yatsura",
+      "original": "Warui yatsura",
+      "anio": 1961,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-kuroi-fukuin",
+      "titulo": "Kuroi fukuin",
+      "original": "Kuroi fukuin",
+      "anio": 1961,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-jikan-no-shuzoku",
+      "titulo": "Jikan no shūzoku",
+      "original": "Jikan no shūzoku",
+      "anio": 1962,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "matsumoto-mihara-torigai",
+      "generos": [
+        "whodunit",
+        "police procedural"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-kemonomichi",
+      "titulo": "Kemonomichi",
+      "original": "Kemonomichi",
+      "anio": 1964,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-d-no-fukugo",
+      "titulo": "D no fukugō",
+      "original": "D no fukugō",
+      "anio": 1968,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-kikanakatta-basho",
+      "titulo": "Un lugar desconocido",
+      "original": "Kikanakatta basho",
+      "anio": 1975,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-kurokawa-no-techo",
+      "titulo": "Kurokawa no techō",
+      "original": "Kurokawa no techō",
+      "anio": 1980,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "matsumoto-seicho-yakou-no-kaidan",
+      "titulo": "Yakō no kaidan",
+      "original": "Yakō no kaidan",
+      "anio": 1981,
+      "autor": "matsumoto-seicho",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ]
     }
   ],
   "destacados": {
@@ -16140,12 +16616,17 @@
       "mcgivern-the-big-heat",
       "mcgivern-rogue-cop",
       "mcgivern-odds-against-tomorrow"
+    ],
+    "matsumoto-seicho": [
+      "matsumoto-seicho-ten-to-sen",
+      "matsumoto-seicho-suna-no-utsuwa",
+      "matsumoto-seicho-zero-no-shoten"
     ]
   },
   "totales": {
-    "autores": 44,
-    "personajes": 138,
-    "series": 58,
-    "obras": 700
+    "autores": 45,
+    "personajes": 146,
+    "series": 59,
+    "obras": 716
   }
 }
