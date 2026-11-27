@@ -22,7 +22,7 @@
       "Novelista estadounidense que trasladó a la ficción detectivesca preocupaciones sobre corrupción empresarial, desigualdad y autonomía de las mujeres.",
       "V. I. Warshawski, detective de Chicago, combina la tradición hardboiled con investigación social, acción y redes personales complejas."
     ],
-    "apunte": "Warshawski no es una simple versión femenina de un detective masculino: tiene una voz propia, una red de afectos y una relación crítica con la política urbana de Chicago.",
+    "apunte": "Warshawski no es una simple versión femenina de un detective masculino: tiene una voz propia, una red de afectos y una relación crítica con la política urbana de Chicago. Se han vinculado las veinte novelas actualmente documentadas con V. I. Warshawski y Lotty Herschel; Salvatore «Mr.» Contreras aparece desde Bitter Medicine y se vincula a los diecisiete títulos del archivo publicados desde 1987.",
     "alcanceBibliografia": "selección inicial no exhaustiva",
     "articulos": [],
     "personajes": [
@@ -54,6 +54,9 @@
       "paretsky-fallout",
       "paretsky-shell-game",
       "paretsky-dead-land"
+    ],
+    "fuentesDocumentales": [
+      "https://saraparetsky.com/books/"
     ]
   },
   "personajes": [
@@ -75,7 +78,23 @@
         "paretsky-indemnity-only",
         "paretsky-deadlock",
         "paretsky-burn-marks",
-        "paretsky-hard-time"
+        "paretsky-hard-time",
+        "paretsky-killing-orders",
+        "paretsky-bitter-medicine",
+        "paretsky-blood-shot",
+        "paretsky-guardian-angel",
+        "paretsky-tunnel-vision",
+        "paretsky-total-recall",
+        "paretsky-blacklist",
+        "paretsky-fire-sale",
+        "paretsky-hardball",
+        "paretsky-body-work",
+        "paretsky-breakdown",
+        "paretsky-critical-mass",
+        "paretsky-brush-back",
+        "paretsky-fallout",
+        "paretsky-shell-game",
+        "paretsky-dead-land"
       ],
       "articulos": [],
       "descripcion": "Detective de Chicago tenaz e independiente que investiga crimen y corrupción.",
@@ -104,7 +123,28 @@
         "Héroe"
       ],
       "serie": "paretsky-warshawski",
-      "obras": [],
+      "obras": [
+        "paretsky-indemnity-only",
+        "paretsky-deadlock",
+        "paretsky-burn-marks",
+        "paretsky-hard-time",
+        "paretsky-killing-orders",
+        "paretsky-bitter-medicine",
+        "paretsky-blood-shot",
+        "paretsky-guardian-angel",
+        "paretsky-tunnel-vision",
+        "paretsky-total-recall",
+        "paretsky-blacklist",
+        "paretsky-fire-sale",
+        "paretsky-hardball",
+        "paretsky-body-work",
+        "paretsky-breakdown",
+        "paretsky-critical-mass",
+        "paretsky-brush-back",
+        "paretsky-fallout",
+        "paretsky-shell-game",
+        "paretsky-dead-land"
+      ],
       "articulos": [],
       "descripcion": "Médica y amiga de Warshawski, figura significativa de su círculo personal y profesional.",
       "senasIdentidad": [],
@@ -125,11 +165,29 @@
         "Héroe"
       ],
       "serie": "paretsky-warshawski",
-      "obras": [],
+      "obras": [
+        "paretsky-burn-marks",
+        "paretsky-hard-time",
+        "paretsky-bitter-medicine",
+        "paretsky-blood-shot",
+        "paretsky-guardian-angel",
+        "paretsky-tunnel-vision",
+        "paretsky-total-recall",
+        "paretsky-blacklist",
+        "paretsky-fire-sale",
+        "paretsky-hardball",
+        "paretsky-body-work",
+        "paretsky-breakdown",
+        "paretsky-critical-mass",
+        "paretsky-brush-back",
+        "paretsky-fallout",
+        "paretsky-shell-game",
+        "paretsky-dead-land"
+      ],
       "articulos": [],
       "descripcion": "Vecino de Warshawski y colaborador recurrente en sus asuntos cotidianos.",
       "senasIdentidad": [],
-      "nivelArchivo": "complementario",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "pendiente_de_documentar",
       "notaEditorial": "Vecino recurrente y figura afectiva, pero menos definitorio del policial que Warshawski y Lotty."
     }
