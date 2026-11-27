@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-27-kotaro-isaka-v1",
+  "version": "2026-11-27-marc-behm-v1",
   "descripcion": "MAESTROS DEL CRIMEN · índice con señas de identidad verificables, filtro por aficiones, particularidades y criterios de relevancia editorial. La ausencia de etiqueta no descarta un rasgo por documentar.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -53,7 +53,8 @@
     "walsh-thomas": "fichas/walsh-thomas.json",
     "the-gordons": "fichas/the-gordons.json",
     "grafton": "fichas/grafton.json",
-    "isaka": "fichas/isaka.json"
+    "isaka": "fichas/isaka.json",
+    "behm": "fichas/behm.json"
   },
   "autores": [
     {
@@ -2573,6 +2574,48 @@
         "isaka-maria-beetle",
         "isaka-seesaw-monster",
         "isaka-777"
+      ]
+    },
+    {
+      "id": "behm",
+      "nombre": "Marc Behm",
+      "nombreCompleto": "Marc Behm",
+      "nacimiento": "1925",
+      "fallecimiento": "2007",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "Trenton, Nueva Jersey, Estados Unidos",
+      "fin": "Fort-Mahon-Plage, Somme, Francia",
+      "debutNegro": 1980,
+      "seudonimos": [],
+      "generos": [
+        "psychological thriller",
+        "crime thriller",
+        "hardboiled"
+      ],
+      "imagen": "",
+      "resumen": "Novelista y guionista estadounidense establecido en Francia, autor de La mirada del observador (1980), novela negra de culto sobre obsesión y crimen, y de los guiones de Charada y Help!.",
+      "alcanceBibliografia": "Ocho novelas de interés para el archivo, incluidas obras limítrofes con la ficción histórica y fantástica; se excluyen relatos, antologías, guiones y Le Hold-Up des salopettes (obra póstuma completada por Jérémy Behm). La reina de la noche (1977) fue su debut literario, pero La mirada del observador (1980) es su primera novela inequívocamente policial.",
+      "articulos": [
+        {
+          "titulo": "LA MIRADA DEL OBSERVADOR de Marc Behm | Un detective, la asesina de los mil nombres y una obsesión",
+          "url": "https://balasyestrellas.blogspot.com/2024/02/la-mirada-del-observador-marc-behm.html"
+        }
+      ],
+      "personajes": [
+        "behm-el-ojo",
+        "behm-joanna-eris"
+      ],
+      "series": [],
+      "obras": [
+        "behm-queen-of-the-night",
+        "behm-eye-of-the-beholder",
+        "behm-ice-maiden",
+        "behm-afraid-to-death",
+        "behm-off-the-wall",
+        "behm-seek-to-know-no-more",
+        "behm-crabe",
+        "behm-dime-novel"
       ]
     }
   ],
@@ -8685,6 +8728,83 @@
       "senasIdentidad": [],
       "nivelArchivo": "recurrente",
       "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "behm-el-ojo",
+      "nombre": "El Ojo (The Eye)",
+      "autor": "behm",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Investigador privado de una agencia estadounidense; su nombre real nunca se revela",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "behm-eye-of-the-beholder"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Pasatiempos",
+          "etiqueta": "Crucigramas",
+          "descripcion": "Resuelve crucigramas compulsivamente mientras observa a la mujer que persigue."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Vigilancia discreta",
+          "descripcion": "Se confunde con el entorno y mantiene seguimientos prolongados sin llamar la atención."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos psicológicos",
+          "etiqueta": "Obsesión paternal",
+          "descripcion": "La búsqueda de su hija desaparecida alimenta el convencimiento de que la asesina a la que sigue podría ser ella."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "behm-joanna-eris",
+      "nombre": "Joanna Eris (Luci Brentano y otros alias)",
+      "autor": "behm",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Asesina que seduce y despoja de su fortuna a sus parejas",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista",
+        "Antagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "",
+      "obras": [
+        "behm-eye-of-the-beholder"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Identidades múltiples",
+          "descripcion": "Cambia de nombre, apariencia y entorno para engañar a sus víctimas y eludir a la policía."
+        },
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Manipulación afectiva",
+          "descripcion": "Seduce y utiliza la confianza de hombres ricos antes de cometer sus crímenes."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
@@ -19528,6 +19648,110 @@
         "crime thriller",
         "crook story"
       ]
+    },
+    {
+      "id": "behm-queen-of-the-night",
+      "titulo": "La reina de la noche",
+      "original": "The Queen of the Night",
+      "anio": 1977,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "behm-eye-of-the-beholder",
+      "titulo": "La mirada del observador",
+      "original": "The Eye of the Beholder",
+      "anio": 1980,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "psychological thriller"
+      ],
+      "resena": "https://balasyestrellas.blogspot.com/2024/02/la-mirada-del-observador-marc-behm.html"
+    },
+    {
+      "id": "behm-ice-maiden",
+      "titulo": "La doncella de hielo",
+      "original": "The Ice Maiden",
+      "anio": 1982,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "heist fiction",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "behm-afraid-to-death",
+      "titulo": "Afraid to Death",
+      "original": "Afraid to Death",
+      "anio": 1990,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "behm-off-the-wall",
+      "titulo": "Un hombre al margen",
+      "original": "Off the Wall",
+      "anio": 1992,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "behm-seek-to-know-no-more",
+      "titulo": "No pretendas saber más",
+      "original": "Seek to Know No More",
+      "anio": 1993,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "behm-crabe",
+      "titulo": "Crab",
+      "original": "Crabe (Crabs)",
+      "anio": 1994,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "behm-dime-novel",
+      "titulo": "Tout un roman !",
+      "original": "Dime Novel",
+      "anio": 1997,
+      "autor": "behm",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "crook story"
+      ]
     }
   ],
   "destacados": {
@@ -19783,12 +20007,17 @@
       "isaka-grasshopper",
       "isaka-maria-beetle",
       "isaka-777"
+    ],
+    "behm": [
+      "behm-eye-of-the-beholder",
+      "behm-ice-maiden",
+      "behm-off-the-wall"
     ]
   },
   "totales": {
-    "autores": 51,
-    "personajes": 188,
+    "autores": 52,
+    "personajes": 190,
     "series": 65,
-    "obras": 833
+    "obras": 841
   }
 }
