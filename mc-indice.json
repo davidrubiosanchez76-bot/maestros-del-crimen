@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-20-senas-identidad-v1",
+  "version": "2026-11-27-burnett-v1",
   "descripcion": "MAESTROS DEL CRIMEN · índice con señas de identidad verificables, filtro por aficiones, particularidades y criterios de relevancia editorial. La ausencia de etiqueta no descarta un rasgo por documentar.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -43,7 +43,8 @@
     "leonard": "fichas/leonard.json",
     "gonzalez-ledesma": "fichas/gonzalez-ledesma.json",
     "stout": "fichas/stout.json",
-    "bramah": "fichas/bramah.json"
+    "bramah": "fichas/bramah.json",
+    "burnett": "fichas/burnett.json"
   },
   "autores": [
     {
@@ -1983,6 +1984,54 @@
         "bramah-the-bravo-of-london"
       ],
       "alcanceBibliografia": "Selección inicial de novelas; no incluye las colecciones de relatos."
+    },
+    {
+      "id": "burnett",
+      "nombre": "W. R. Burnett",
+      "nombreCompleto": "William Riley Burnett",
+      "nacimiento": "1899",
+      "fallecimiento": "1982",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "Springfield, Ohio, Estados Unidos",
+      "fin": "Santa Mónica, California, Estados Unidos",
+      "debutNegro": 1929,
+      "seudonimos": [
+        "John Monahan"
+      ],
+      "generos": [
+        "crook story",
+        "heist fiction",
+        "hardboiled"
+      ],
+      "imagen": "",
+      "resumen": "Novelista y guionista estadounidense decisivo en la consolidación de la narrativa de gánsteres y atracos; autor de El pequeño César, El último refugio y La jungla de asfalto.",
+      "alcanceBibliografia": "selección documentada no exhaustiva; incluye obras limítrofes con el género criminal",
+      "articulos": [],
+      "personajes": [
+        "burnett-rico-bandello",
+        "burnett-roy-earle",
+        "burnett-doc-riemenschneider",
+        "burnett-dix-handley"
+      ],
+      "series": [
+        "burnett-trilogia-urbana"
+      ],
+      "obras": [
+        "burnett-little-caesar",
+        "burnett-iron-man",
+        "burnett-dark-hazard",
+        "burnett-high-sierra",
+        "burnett-nobody-lives-forever",
+        "burnett-the-quick-brown-fox",
+        "burnett-the-asphalt-jungle",
+        "burnett-little-men-big-world",
+        "burnett-vanity-row",
+        "burnett-big-stan",
+        "burnett-underdog",
+        "burnett-the-cool-man",
+        "burnett-goodbye-chicago"
+      ]
     }
   ],
   "personajes": [
@@ -6136,6 +6185,122 @@
         "https://www.ebsco.com/research-starters/literature-and-writing/ernest-bramah",
         "https://www.gutenberg.org/cache/epub/34732/pg34732-images.html"
       ]
+    },
+    {
+      "id": "burnett-rico-bandello",
+      "nombre": "Cesare «Rico» Bandello",
+      "autor": "burnett",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Gánster y jefe de banda en el Chicago de la Ley Seca",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "burnett-little-caesar"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Baja estatura",
+          "descripcion": "Se lo describe como un hombre de complexión pequeña, cuyo poder no depende de su tamaño físico."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "burnett-roy-earle",
+      "nombre": "Roy Earle",
+      "autor": "burnett",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Atracador veterano, conocido como «Mad Dog» Roy Earle",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "burnett-high-sierra"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Apodo «Mad Dog»",
+          "descripcion": "La prensa le atribuye un apodo que contrasta con sus dudas y vínculos afectivos."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "burnett-doc-riemenschneider",
+      "nombre": "Erwin «Doc» Riemenschneider",
+      "autor": "burnett",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Planificador profesional de robos de gran envergadura",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "burnett-trilogia-urbana",
+      "obras": [
+        "burnett-the-asphalt-jungle"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Planificación de atracos",
+          "descripcion": "Diseña la operación, elige especialistas y calcula las necesidades de ejecución y financiación."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "burnett-dix-handley",
+      "nombre": "Dix Handley",
+      "autor": "burnett",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Pistolero y ejecutor contratado para un gran atraco",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "burnett-trilogia-urbana",
+      "obras": [
+        "burnett-the-asphalt-jungle"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Vida rural",
+          "etiqueta": "Nostalgia del campo",
+          "descripcion": "Sueña con regresar a la vida rural y dejar atrás el ambiente criminal de la ciudad."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
@@ -6450,6 +6615,12 @@
       "nombre": "Max Carrados",
       "autor": "bramah",
       "descripcion": "Ciclo principalmente de relatos de Max Carrados, más una novela de 1934."
+    },
+    {
+      "id": "burnett-trilogia-urbana",
+      "nombre": "Trilogía urbana",
+      "autor": "burnett",
+      "descripcion": "Trilogía temática sobre la delincuencia, los poderes económicos y la corrupción de la ciudad: La jungla de asfalto (1949), Little Men, Big World (1951) y Vanity Row (1952). No es una saga de protagonistas recurrentes."
     }
   ],
   "obras": [
@@ -14431,6 +14602,166 @@
       "generos": [
         "whodunit"
       ]
+    },
+    {
+      "id": "burnett-little-caesar",
+      "titulo": "El pequeño César",
+      "original": "Little Caesar",
+      "anio": 1929,
+      "autor": "burnett",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "burnett-iron-man",
+      "titulo": "Iron Man",
+      "original": "Iron Man",
+      "anio": 1930,
+      "autor": "burnett",
+      "seudonimo": "",
+      "serie": "",
+      "generos": []
+    },
+    {
+      "id": "burnett-dark-hazard",
+      "titulo": "Dark Hazard",
+      "original": "Dark Hazard",
+      "anio": 1933,
+      "autor": "burnett",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story"
+      ]
+    },
+    {
+      "id": "burnett-high-sierra",
+      "titulo": "El último refugio",
+      "original": "High Sierra",
+      "anio": 1940,
+      "autor": "burnett",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "heist fiction"
+      ]
+    },
+    {
+      "id": "burnett-nobody-lives-forever",
+      "titulo": "Nobody Lives Forever",
+      "original": "Nobody Lives Forever",
+      "anio": 1943,
+      "autor": "burnett",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "burnett-the-quick-brown-fox",
+      "titulo": "The Quick Brown Fox",
+      "original": "The Quick Brown Fox",
+      "anio": 1943,
+      "autor": "burnett",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "burnett-the-asphalt-jungle",
+      "titulo": "La jungla de asfalto",
+      "original": "The Asphalt Jungle",
+      "anio": 1949,
+      "autor": "burnett",
+      "seudonimo": "",
+      "serie": "burnett-trilogia-urbana",
+      "generos": [
+        "heist fiction",
+        "crook story"
+      ]
+    },
+    {
+      "id": "burnett-little-men-big-world",
+      "titulo": "Little Men, Big World",
+      "original": "Little Men, Big World",
+      "anio": 1951,
+      "autor": "burnett",
+      "seudonimo": "",
+      "serie": "burnett-trilogia-urbana",
+      "generos": [
+        "crook story",
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "burnett-vanity-row",
+      "titulo": "Vanity Row",
+      "original": "Vanity Row",
+      "anio": 1952,
+      "autor": "burnett",
+      "seudonimo": "",
+      "serie": "burnett-trilogia-urbana",
+      "generos": [
+        "crime thriller",
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "burnett-big-stan",
+      "titulo": "Big Stan",
+      "original": "Big Stan",
+      "anio": 1953,
+      "autor": "burnett",
+      "seudonimo": "John Monahan",
+      "serie": "",
+      "generos": [
+        "crook story"
+      ]
+    },
+    {
+      "id": "burnett-underdog",
+      "titulo": "Underdog",
+      "original": "Underdog",
+      "anio": 1957,
+      "autor": "burnett",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "burnett-the-cool-man",
+      "titulo": "The Cool Man",
+      "original": "The Cool Man",
+      "anio": 1968,
+      "autor": "burnett",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "burnett-goodbye-chicago",
+      "titulo": "Goodbye, Chicago",
+      "original": "Goodbye, Chicago",
+      "anio": 1981,
+      "autor": "burnett",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story"
+      ]
     }
   ],
   "destacados": {
@@ -14636,12 +14967,17 @@
     ],
     "bramah": [
       "bramah-the-bravo-of-london"
+    ],
+    "burnett": [
+      "burnett-little-caesar",
+      "burnett-high-sierra",
+      "burnett-the-asphalt-jungle"
     ]
   },
   "totales": {
-    "autores": 41,
-    "personajes": 121,
-    "series": 52,
-    "obras": 638
+    "autores": 42,
+    "personajes": 125,
+    "series": 53,
+    "obras": 651
   }
 }
