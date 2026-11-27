@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-27-marc-behm-v1",
+  "version": "2026-11-27-stuart-kaminsky-v1",
   "descripcion": "MAESTROS DEL CRIMEN · índice con señas de identidad verificables, filtro por aficiones, particularidades y criterios de relevancia editorial. La ausencia de etiqueta no descarta un rasgo por documentar.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -54,7 +54,8 @@
     "the-gordons": "fichas/the-gordons.json",
     "grafton": "fichas/grafton.json",
     "isaka": "fichas/isaka.json",
-    "behm": "fichas/behm.json"
+    "behm": "fichas/behm.json",
+    "kaminsky": "fichas/kaminsky.json"
   },
   "autores": [
     {
@@ -2616,6 +2617,109 @@
         "behm-seek-to-know-no-more",
         "behm-crabe",
         "behm-dime-novel"
+      ]
+    },
+    {
+      "id": "kaminsky",
+      "nombre": "Stuart M. Kaminsky",
+      "nombreCompleto": "Stuart Melvin Kaminsky",
+      "nacimiento": "1934",
+      "fallecimiento": "2009",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "Chicago, Illinois, Estados Unidos",
+      "fin": "San Luis (St. Louis), Misuri, Estados Unidos",
+      "debutNegro": 1977,
+      "seudonimos": [],
+      "generos": [
+        "hardboiled",
+        "police procedural",
+        "whodunit",
+        "crime thriller"
+      ],
+      "imagen": "",
+      "resumen": "Novelista, crítico cinematográfico y profesor estadounidense, creador de Toby Peters, Porfiri Rostnikov, Abe Lieberman y Lew Fonesca; ganador del Edgar a la mejor novela por A Cold Red Sunrise.",
+      "alcanceBibliografia": "58 novelas criminales originales documentadas: 24 Toby Peters, 16 Rostnikov, 10 Lieberman, 6 Fonesca y 2 independientes. No se incluyen como obras originales las novelizaciones derivadas de franquicias televisivas (The Rockford Files, CSI: NY), antologías ni estudios cinematográficos. Las traducciones españolas se registran únicamente cuando están verificadas.",
+      "articulos": [],
+      "personajes": [
+        "kaminsky-toby-peters-personaje",
+        "kaminsky-rostnikov-personaje",
+        "kaminsky-abe-lieberman-personaje",
+        "kaminsky-lew-fonesca-personaje",
+        "kaminsky-jeremy-butler",
+        "kaminsky-sheldon-minck",
+        "kaminsky-gunther-wherthman",
+        "kaminsky-emil-karpo",
+        "kaminsky-sasha-tkach",
+        "kaminsky-elena-timofeyeva",
+        "kaminsky-bill-hanrahan",
+        "kaminsky-ann-horowitz"
+      ],
+      "series": [
+        "kaminsky-toby-peters",
+        "kaminsky-rostnikov",
+        "kaminsky-abe-lieberman",
+        "kaminsky-lew-fonesca"
+      ],
+      "obras": [
+        "kaminsky-bullet-for-a-star",
+        "kaminsky-murder-on-the-yellow-brick-road",
+        "kaminsky-you-bet-your-life",
+        "kaminsky-the-howard-hughes-affair",
+        "kaminsky-never-cross-a-vampire",
+        "kaminsky-high-midnight",
+        "kaminsky-catch-a-falling-clown",
+        "kaminsky-he-done-her-wrong",
+        "kaminsky-the-fala-factor",
+        "kaminsky-down-for-the-count",
+        "kaminsky-the-man-who-shot-lewis-vance",
+        "kaminsky-smart-moves",
+        "kaminsky-think-fast-mr-peters",
+        "kaminsky-buried-caesars",
+        "kaminsky-poor-butterfly",
+        "kaminsky-the-melting-clock",
+        "kaminsky-the-devil-met-a-lady",
+        "kaminsky-tomorrow-is-another-day",
+        "kaminsky-dancing-in-the-dark",
+        "kaminsky-a-fatal-glass-of-beer",
+        "kaminsky-a-few-minutes-past-midnight",
+        "kaminsky-to-catch-a-spy",
+        "kaminsky-mildred-pierced",
+        "kaminsky-now-you-see-it",
+        "kaminsky-death-of-a-dissident",
+        "kaminsky-black-knight-in-red-square",
+        "kaminsky-red-chameleon",
+        "kaminsky-a-fine-red-rain",
+        "kaminsky-a-cold-red-sunrise",
+        "kaminsky-the-man-who-walked-like-a-bear",
+        "kaminsky-rostnikovs-vacation",
+        "kaminsky-death-of-a-russian-priest",
+        "kaminsky-hard-currency",
+        "kaminsky-blood-and-rubles",
+        "kaminsky-tarnished-icons",
+        "kaminsky-the-dog-who-bit-a-policeman",
+        "kaminsky-fall-of-a-cosmonaut",
+        "kaminsky-murder-on-the-trans-siberian-express",
+        "kaminsky-people-who-walk-in-darkness",
+        "kaminsky-a-whisper-to-the-living",
+        "kaminsky-liebermans-folly",
+        "kaminsky-liebermans-choice",
+        "kaminsky-liebermans-day",
+        "kaminsky-liebermans-thief",
+        "kaminsky-liebermans-law",
+        "kaminsky-the-big-silence",
+        "kaminsky-not-quite-kosher",
+        "kaminsky-the-last-dark-place",
+        "kaminsky-terror-town",
+        "kaminsky-the-dead-dont-lie",
+        "kaminsky-vengeance",
+        "kaminsky-retribution",
+        "kaminsky-midnight-pass",
+        "kaminsky-denial",
+        "kaminsky-always-say-goodbye",
+        "kaminsky-bright-futures",
+        "kaminsky-when-the-dark-man-calls",
+        "kaminsky-exercise-in-terror"
       ]
     }
   ],
@@ -8805,6 +8909,445 @@
       ],
       "nivelArchivo": "principal",
       "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "kaminsky-toby-peters-personaje",
+      "nombre": "Toby Peters",
+      "autor": "kaminsky",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Investigador privado de Los Ángeles, antiguo empleado de seguridad cinematográfica",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "kaminsky-toby-peters",
+      "obras": [
+        "kaminsky-bullet-for-a-star",
+        "kaminsky-murder-on-the-yellow-brick-road",
+        "kaminsky-you-bet-your-life",
+        "kaminsky-the-howard-hughes-affair",
+        "kaminsky-never-cross-a-vampire",
+        "kaminsky-high-midnight",
+        "kaminsky-catch-a-falling-clown",
+        "kaminsky-he-done-her-wrong",
+        "kaminsky-the-fala-factor",
+        "kaminsky-down-for-the-count",
+        "kaminsky-the-man-who-shot-lewis-vance",
+        "kaminsky-smart-moves",
+        "kaminsky-think-fast-mr-peters",
+        "kaminsky-buried-caesars",
+        "kaminsky-poor-butterfly",
+        "kaminsky-the-melting-clock",
+        "kaminsky-the-devil-met-a-lady",
+        "kaminsky-tomorrow-is-another-day",
+        "kaminsky-dancing-in-the-dark",
+        "kaminsky-a-fatal-glass-of-beer",
+        "kaminsky-a-few-minutes-past-midnight",
+        "kaminsky-to-catch-a-spy",
+        "kaminsky-mildred-pierced",
+        "kaminsky-now-you-see-it"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Humor ante el desastre",
+          "descripcion": "Reacciona a amenazas y golpes con ironía, desmitificando la figura del detective imperturbable."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Cine y espectáculos",
+          "etiqueta": "Hollywood clásico",
+          "descripcion": "Su trabajo y su círculo social giran en torno a los grandes estudios y estrellas del cine."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "kaminsky-rostnikov-personaje",
+      "nombre": "Porfiri Petróvich Rostnikov",
+      "autor": "kaminsky",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Inspector de la policía criminal de Moscú",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "kaminsky-rostnikov",
+      "obras": [
+        "kaminsky-death-of-a-dissident",
+        "kaminsky-black-knight-in-red-square",
+        "kaminsky-red-chameleon",
+        "kaminsky-a-fine-red-rain",
+        "kaminsky-a-cold-red-sunrise",
+        "kaminsky-the-man-who-walked-like-a-bear",
+        "kaminsky-rostnikovs-vacation",
+        "kaminsky-death-of-a-russian-priest",
+        "kaminsky-hard-currency",
+        "kaminsky-blood-and-rubles",
+        "kaminsky-tarnished-icons",
+        "kaminsky-the-dog-who-bit-a-policeman",
+        "kaminsky-fall-of-a-cosmonaut",
+        "kaminsky-murder-on-the-trans-siberian-express",
+        "kaminsky-people-who-walk-in-darkness",
+        "kaminsky-a-whisper-to-the-living"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Deporte",
+          "etiqueta": "Levantamiento de pesas",
+          "descripcion": "Practica habitualmente la halterofilia."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura",
+          "etiqueta": "Novelas de Ed McBain",
+          "descripcion": "Lee novelas policiales estadounidenses, especialmente las del Distrito 87."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Bricolaje",
+          "etiqueta": "Fontanería",
+          "descripcion": "Disfruta reparando tuberías y otros problemas de fontanería."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Cojera",
+          "descripcion": "Tiene una lesión en una pierna que condiciona su forma de caminar."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "kaminsky-abe-lieberman-personaje",
+      "nombre": "Abraham «Abe» Lieberman",
+      "autor": "kaminsky",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Veterano detective judío de homicidios de Chicago; apodado el Rabino",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "kaminsky-abe-lieberman",
+      "obras": [
+        "kaminsky-liebermans-folly",
+        "kaminsky-liebermans-choice",
+        "kaminsky-liebermans-day",
+        "kaminsky-liebermans-thief",
+        "kaminsky-liebermans-law",
+        "kaminsky-the-big-silence",
+        "kaminsky-not-quite-kosher",
+        "kaminsky-the-last-dark-place",
+        "kaminsky-terror-town",
+        "kaminsky-the-dead-dont-lie"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos psicológicos",
+          "etiqueta": "Paciencia",
+          "descripcion": "Prefiere la observación y la mediación a las exhibiciones de fuerza."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Comunidad y familia",
+          "descripcion": "Su sinagoga y su entorno familiar desempeñan un papel central en su vida."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "kaminsky-lew-fonesca-personaje",
+      "nombre": "Lew Fonesca",
+      "autor": "kaminsky",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Notificador judicial e investigador informal instalado en Sarasota, Florida",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "kaminsky-lew-fonesca",
+      "obras": [
+        "kaminsky-vengeance",
+        "kaminsky-retribution",
+        "kaminsky-midnight-pass",
+        "kaminsky-denial",
+        "kaminsky-always-say-goodbye",
+        "kaminsky-bright-futures"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos psicológicos",
+          "etiqueta": "Duelo y depresión",
+          "descripcion": "La muerte de su esposa en un atropello condiciona sus relaciones y trabajo."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Aislamiento",
+          "descripcion": "Tiende a encerrarse en una vida limitada mientras intenta recuperarse emocionalmente."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "kaminsky-jeremy-butler",
+      "nombre": "Jeremy Butler",
+      "autor": "kaminsky",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Antiguo luchador profesional convertido en poeta",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "kaminsky-toby-peters",
+      "obras": [
+        "kaminsky-a-few-minutes-past-midnight"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Poesía",
+          "descripcion": "Escribe poesía, actividad que contrasta con su fuerza de antiguo luchador."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "kaminsky-sheldon-minck",
+      "nombre": "Sheldon Minck",
+      "autor": "kaminsky",
+      "ocupacion": "Médico / sanitario",
+      "ocupacionDetalle": "Dentista de métodos estrafalarios y amigo de Toby Peters",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "kaminsky-toby-peters",
+      "obras": [
+        "kaminsky-a-few-minutes-past-midnight",
+        "kaminsky-smart-moves"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Dentista incompetente",
+          "descripcion": "Sus extravagantes técnicas odontológicas son una fuente habitual de humor."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "kaminsky-gunther-wherthman",
+      "nombre": "Gunther Wherthman",
+      "autor": "kaminsky",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Intérprete políglota de pequeña estatura que ayudó a Toby Peters",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "kaminsky-toby-peters",
+      "obras": [
+        "kaminsky-a-few-minutes-past-midnight"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Poliglotismo",
+          "descripcion": "Se comunica en varios idiomas y trabaja como traductor."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "kaminsky-emil-karpo",
+      "nombre": "Emil Karpo",
+      "autor": "kaminsky",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Investigador criminal de Moscú, apodado el Vampiro",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "kaminsky-rostnikov",
+      "obras": [
+        "kaminsky-blood-and-rubles",
+        "kaminsky-murder-on-the-trans-siberian-express",
+        "kaminsky-people-who-walk-in-darkness"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Obstinación",
+          "descripcion": "Investiga con persistencia casi obsesiva y un trato poco expresivo."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "kaminsky-sasha-tkach",
+      "nombre": "Sasha Tkach",
+      "autor": "kaminsky",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Investigador de la brigada de Rostnikov",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "kaminsky-rostnikov",
+      "obras": [
+        "kaminsky-blood-and-rubles",
+        "kaminsky-rostnikovs-vacation",
+        "kaminsky-people-who-walk-in-darkness"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "kaminsky-elena-timofeyeva",
+      "nombre": "Elena Timofeyeva",
+      "autor": "kaminsky",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Investigadora de la brigada policial de Rostnikov",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "kaminsky-rostnikov",
+      "obras": [
+        "kaminsky-blood-and-rubles",
+        "kaminsky-murder-on-the-trans-siberian-express"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "kaminsky-bill-hanrahan",
+      "nombre": "Bill «Father Murphy» Hanrahan",
+      "autor": "kaminsky",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Detective irlandés y compañero de Abe Lieberman en Chicago",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "kaminsky-abe-lieberman",
+      "obras": [
+        "kaminsky-liebermans-folly",
+        "kaminsky-liebermans-day",
+        "kaminsky-liebermans-law"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Alcoholismo",
+          "descripcion": "Su dependencia de la bebida repercute en su vida familiar y en el trabajo."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "kaminsky-ann-horowitz",
+      "nombre": "Ann Horowitz",
+      "autor": "kaminsky",
+      "ocupacion": "Médico / sanitario",
+      "ocupacionDetalle": "Terapeuta octogenaria que atiende a Lew Fonesca",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "kaminsky-lew-fonesca",
+      "obras": [
+        "kaminsky-midnight-pass",
+        "kaminsky-denial"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Escucha y confrontación terapéutica",
+          "descripcion": "Consigue que Lew hable del duelo y cuestione su aislamiento."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
     }
   ],
   "series": [
@@ -9197,6 +9740,30 @@
       "nombre": "Asesinos / Koroshiya",
       "autor": "isaka",
       "descripcion": "Ciclo del hampa japonesa compuesto por Grasshopper / Tres asesinos (2004), Maria Beetle / Tren bala (2010), AX / The Mantis (2017; recopilación de cinco relatos enlazados) y 777 / Hotel Lucky Seven (2023). Los títulos vinculados en el índice son las tres novelas; AX se documenta aquí, pero no se presenta erróneamente como novela. El autor explica que Tren bala y 777 guardan continuidad directa, mientras las demás obras funcionan de modo independiente."
+    },
+    {
+      "id": "kaminsky-toby-peters",
+      "nombre": "Toby Peters",
+      "autor": "kaminsky",
+      "descripcion": "Serie de 24 novelas de detective privado ambientadas en el Hollywood clásico de los años cuarenta, de Bullet for a Star (1977) a Now You See It (2004). Estrellas como Errol Flynn, Judy Garland y los hermanos Marx intervienen como figuras literarias; no se añaden como personajes inventados del archivo."
+    },
+    {
+      "id": "kaminsky-rostnikov",
+      "nombre": "Porfiri Rostnikov",
+      "autor": "kaminsky",
+      "descripcion": "Dieciséis novelas de procedimiento policial ruso, de Death of a Dissident (1981) a A Whisper to the Living (2010, publicada póstumamente). A Cold Red Sunrise (1988) ganó el Edgar de 1989 a la mejor novela."
+    },
+    {
+      "id": "kaminsky-abe-lieberman",
+      "nombre": "Abe Lieberman",
+      "autor": "kaminsky",
+      "descripcion": "Diez novelas de policías de Chicago entre Lieberman's Folly (1991) y The Dead Don't Lie (2007), sobre los investigadores Abraham Lieberman y Bill Hanrahan."
+    },
+    {
+      "id": "kaminsky-lew-fonesca",
+      "nombre": "Lew Fonesca",
+      "autor": "kaminsky",
+      "descripcion": "Seis novelas situadas en Sarasota, Florida, desde Vengeance (1999) a Bright Futures (2009), protagonizadas por un notificador judicial e investigador marcado por el duelo."
     }
   ],
   "obras": [
@@ -19752,6 +20319,760 @@
         "crime thriller",
         "crook story"
       ]
+    },
+    {
+      "id": "kaminsky-bullet-for-a-star",
+      "titulo": "Disparen sobre Errol Flynn",
+      "original": "Bullet for a Star",
+      "anio": 1977,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-murder-on-the-yellow-brick-road",
+      "titulo": "Judy",
+      "original": "Murder on the Yellow Brick Road",
+      "anio": 1977,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-you-bet-your-life",
+      "titulo": "Los hermanos Marx en apuros",
+      "original": "You Bet Your Life",
+      "anio": 1978,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-the-howard-hughes-affair",
+      "titulo": "The Howard Hughes Affair",
+      "original": "The Howard Hughes Affair",
+      "anio": 1979,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-never-cross-a-vampire",
+      "titulo": "Jamás te cruces con un vampiro",
+      "original": "Never Cross a Vampire",
+      "anio": 1980,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-high-midnight",
+      "titulo": "High Midnight",
+      "original": "High Midnight",
+      "anio": 1981,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-catch-a-falling-clown",
+      "titulo": "Catch a Falling Clown",
+      "original": "Catch a Falling Clown",
+      "anio": 1981,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-he-done-her-wrong",
+      "titulo": "He Done Her Wrong",
+      "original": "He Done Her Wrong",
+      "anio": 1983,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-the-fala-factor",
+      "titulo": "El factor Fala",
+      "original": "The Fala Factor",
+      "anio": 1984,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-down-for-the-count",
+      "titulo": "Joe Louis, 10 y K. O.",
+      "original": "Down for the Count",
+      "anio": 1985,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-the-man-who-shot-lewis-vance",
+      "titulo": "The Man Who Shot Lewis Vance",
+      "original": "The Man Who Shot Lewis Vance",
+      "anio": 1986,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-smart-moves",
+      "titulo": "Movimientos inteligentes",
+      "original": "Smart Moves",
+      "anio": 1987,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-think-fast-mr-peters",
+      "titulo": "Think Fast, Mr. Peters",
+      "original": "Think Fast, Mr. Peters",
+      "anio": 1987,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-buried-caesars",
+      "titulo": "Buried Caesars",
+      "original": "Buried Caesars",
+      "anio": 1989,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-poor-butterfly",
+      "titulo": "Poor Butterfly",
+      "original": "Poor Butterfly",
+      "anio": 1990,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-the-melting-clock",
+      "titulo": "The Melting Clock",
+      "original": "The Melting Clock",
+      "anio": 1991,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-the-devil-met-a-lady",
+      "titulo": "The Devil Met a Lady",
+      "original": "The Devil Met a Lady",
+      "anio": 1993,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-tomorrow-is-another-day",
+      "titulo": "Tomorrow Is Another Day",
+      "original": "Tomorrow Is Another Day",
+      "anio": 1995,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-dancing-in-the-dark",
+      "titulo": "Dancing in the Dark",
+      "original": "Dancing in the Dark",
+      "anio": 1996,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-a-fatal-glass-of-beer",
+      "titulo": "A Fatal Glass of Beer",
+      "original": "A Fatal Glass of Beer",
+      "anio": 1997,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-a-few-minutes-past-midnight",
+      "titulo": "A Few Minutes Past Midnight",
+      "original": "A Few Minutes Past Midnight",
+      "anio": 2001,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-to-catch-a-spy",
+      "titulo": "To Catch a Spy",
+      "original": "To Catch a Spy",
+      "anio": 2002,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-mildred-pierced",
+      "titulo": "Mildred Pierced",
+      "original": "Mildred Pierced",
+      "anio": 2003,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-now-you-see-it",
+      "titulo": "Now You See It",
+      "original": "Now You See It",
+      "anio": 2004,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-toby-peters",
+      "generos": [
+        "hardboiled",
+        "whodunit"
+      ]
+    },
+    {
+      "id": "kaminsky-death-of-a-dissident",
+      "titulo": "Death of a Dissident",
+      "original": "Death of a Dissident",
+      "anio": 1981,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-black-knight-in-red-square",
+      "titulo": "Black Knight in Red Square",
+      "original": "Black Knight in Red Square",
+      "anio": 1984,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-red-chameleon",
+      "titulo": "Camaleón rojo",
+      "original": "Red Chameleon",
+      "anio": 1985,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-a-fine-red-rain",
+      "titulo": "A Fine Red Rain",
+      "original": "A Fine Red Rain",
+      "anio": 1987,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-a-cold-red-sunrise",
+      "titulo": "A Cold Red Sunrise",
+      "original": "A Cold Red Sunrise",
+      "anio": 1988,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-the-man-who-walked-like-a-bear",
+      "titulo": "The Man Who Walked Like a Bear",
+      "original": "The Man Who Walked Like a Bear",
+      "anio": 1990,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-rostnikovs-vacation",
+      "titulo": "Rostnikov's Vacation",
+      "original": "Rostnikov's Vacation",
+      "anio": 1991,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-death-of-a-russian-priest",
+      "titulo": "Death of a Russian Priest",
+      "original": "Death of a Russian Priest",
+      "anio": 1992,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-hard-currency",
+      "titulo": "Hard Currency",
+      "original": "Hard Currency",
+      "anio": 1995,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-blood-and-rubles",
+      "titulo": "Blood and Rubles",
+      "original": "Blood and Rubles",
+      "anio": 1996,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-tarnished-icons",
+      "titulo": "Tarnished Icons",
+      "original": "Tarnished Icons",
+      "anio": 1997,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-the-dog-who-bit-a-policeman",
+      "titulo": "The Dog Who Bit a Policeman",
+      "original": "The Dog Who Bit a Policeman",
+      "anio": 1998,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-fall-of-a-cosmonaut",
+      "titulo": "Fall of a Cosmonaut",
+      "original": "Fall of a Cosmonaut",
+      "anio": 2000,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-murder-on-the-trans-siberian-express",
+      "titulo": "Murder on the Trans-Siberian Express",
+      "original": "Murder on the Trans-Siberian Express",
+      "anio": 2001,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-people-who-walk-in-darkness",
+      "titulo": "People Who Walk in Darkness",
+      "original": "People Who Walk in Darkness",
+      "anio": 2008,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-a-whisper-to-the-living",
+      "titulo": "A Whisper to the Living",
+      "original": "A Whisper to the Living",
+      "anio": 2010,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-rostnikov",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-liebermans-folly",
+      "titulo": "Lieberman's Folly",
+      "original": "Lieberman's Folly",
+      "anio": 1991,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-abe-lieberman",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-liebermans-choice",
+      "titulo": "Lieberman's Choice",
+      "original": "Lieberman's Choice",
+      "anio": 1993,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-abe-lieberman",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-liebermans-day",
+      "titulo": "Lieberman's Day",
+      "original": "Lieberman's Day",
+      "anio": 1994,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-abe-lieberman",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-liebermans-thief",
+      "titulo": "Lieberman's Thief",
+      "original": "Lieberman's Thief",
+      "anio": 1995,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-abe-lieberman",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-liebermans-law",
+      "titulo": "Lieberman's Law",
+      "original": "Lieberman's Law",
+      "anio": 1996,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-abe-lieberman",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-the-big-silence",
+      "titulo": "The Big Silence",
+      "original": "The Big Silence",
+      "anio": 2000,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-abe-lieberman",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-not-quite-kosher",
+      "titulo": "Not Quite Kosher",
+      "original": "Not Quite Kosher",
+      "anio": 2002,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-abe-lieberman",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-the-last-dark-place",
+      "titulo": "The Last Dark Place",
+      "original": "The Last Dark Place",
+      "anio": 2004,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-abe-lieberman",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-terror-town",
+      "titulo": "Terror Town",
+      "original": "Terror Town",
+      "anio": 2006,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-abe-lieberman",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-the-dead-dont-lie",
+      "titulo": "The Dead Don't Lie",
+      "original": "The Dead Don't Lie",
+      "anio": 2007,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-abe-lieberman",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-vengeance",
+      "titulo": "Vengeance",
+      "original": "Vengeance",
+      "anio": 1999,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-lew-fonesca",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-retribution",
+      "titulo": "Retribution",
+      "original": "Retribution",
+      "anio": 2001,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-lew-fonesca",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-midnight-pass",
+      "titulo": "Midnight Pass",
+      "original": "Midnight Pass",
+      "anio": 2003,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-lew-fonesca",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-denial",
+      "titulo": "Denial",
+      "original": "Denial",
+      "anio": 2005,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-lew-fonesca",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-always-say-goodbye",
+      "titulo": "Always Say Goodbye",
+      "original": "Always Say Goodbye",
+      "anio": 2006,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-lew-fonesca",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-bright-futures",
+      "titulo": "Bright Futures",
+      "original": "Bright Futures",
+      "anio": 2009,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "kaminsky-lew-fonesca",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-when-the-dark-man-calls",
+      "titulo": "When the Dark Man Calls",
+      "original": "When the Dark Man Calls",
+      "anio": 1983,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "kaminsky-exercise-in-terror",
+      "titulo": "Exercise in Terror",
+      "original": "Exercise in Terror",
+      "anio": 1985,
+      "autor": "kaminsky",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
     }
   ],
   "destacados": {
@@ -20012,12 +21333,17 @@
       "behm-eye-of-the-beholder",
       "behm-ice-maiden",
       "behm-off-the-wall"
+    ],
+    "kaminsky": [
+      "kaminsky-bullet-for-a-star",
+      "kaminsky-a-cold-red-sunrise",
+      "kaminsky-liebermans-folly"
     ]
   },
   "totales": {
-    "autores": 52,
-    "personajes": 190,
-    "series": 65,
-    "obras": 841
+    "autores": 53,
+    "personajes": 202,
+    "series": 69,
+    "obras": 899
   }
 }
