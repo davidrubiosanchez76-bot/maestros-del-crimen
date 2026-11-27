@@ -1,0 +1,361 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "walsh-thomas",
+    "nombre": "Thomas Walsh",
+    "nombreCompleto": "Thomas Francis Morgan Walsh",
+    "nacimiento": "1908",
+    "fallecimiento": "1984",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "Nueva York, Estados Unidos",
+    "fin": "Danbury, Connecticut, Estados Unidos",
+    "debutNegro": 1950,
+    "seudonimos": [],
+    "generos": [
+      "police procedural",
+      "crime thriller",
+      "psychological thriller",
+      "hardboiled"
+    ],
+    "imagen": "",
+    "resumen": "Periodista y escritor estadounidense formado en las revistas pulp, especializado en suspense policial urbano y autores de policías moralmente vulnerables; ganó el Edgar a la mejor primera novela por Pesadilla en Manhattan.",
+    "alcanceBibliografia": "Once novelas documentadas (1950–1968), sin incluir relatos, serializaciones ni volúmenes recopilatorios; la producción de narrativa breve queda fuera.",
+    "articulos": [],
+    "personajes": [
+      "walsh-thomas-ritchie-mccallister",
+      "walsh-thomas-walter-sheridan",
+      "walsh-thomas-paddy-ahern",
+      "walsh-thomas-ray-cassidy",
+      "walsh-thomas-eckstrom"
+    ],
+    "series": [],
+    "obras": [
+      "walsh-thomas-nightmare-in-manhattan",
+      "walsh-thomas-the-night-watch",
+      "walsh-thomas-the-dark-window",
+      "walsh-thomas-dangerous-passenger",
+      "walsh-thomas-the-eye-of-the-needle",
+      "walsh-thomas-a-thief-in-the-night",
+      "walsh-thomas-to-hide-a-rogue",
+      "walsh-thomas-the-tenth-point",
+      "walsh-thomas-the-face-of-the-enemy",
+      "walsh-thomas-the-resurrection-man",
+      "walsh-thomas-the-action-of-the-tiger"
+    ],
+    "bio": [
+      "Thomas Francis Morgan Walsh nació el 19 de septiembre de 1908 en Nueva York y murió el 21 de octubre de 1984 en Danbury (Connecticut). Estudió en la Universidad de Columbia y trabajó como periodista del Baltimore Sun.",
+      "Comenzó a publicar relatos policiales a comienzos de los años treinta en revistas pulp, incluida Black Mask; más tarde colaboró con publicaciones de mayor tirada como The Saturday Evening Post y Ellery Queen's Mystery Magazine. Sus escenarios predilectos fueron las calles, comisarías, estaciones y hoteles de Nueva York.",
+      "Su primera novela, Pesadilla en Manhattan (Nightmare in Manhattan, 1950), obtuvo el premio Edgar a la mejor primera novela en 1951 y fue adaptada al cine como Union Station (Rudolph Maté, 1950). En la adaptación se cambiaron elementos relevantes del argumento, incluida la víctima del secuestro.",
+      "Un ladrón en la noche (The Night Watch, 1952) retrata a un policía que cruza la línea criminal durante una vigilancia; inspiró la película Pushover (Richard Quine, 1954). Los apuros de Mr. Janisek (The Dark Window, 1956) explora la pérdida de confianza de un antiguo policía que trabaja como vigilante de hotel. Walsh publicó once novelas y numerosas narraciones breves. Su relato Chance After Chance recibió un Edgar en 1978."
+    ],
+    "apunte": "Una confusión de traducciones merece prevención: Un ladrón en la noche se editó en español como título de The Night Watch (1952), mientras A Thief in the Night (1962) es otra novela distinta del mismo autor. Pesadilla en Manhattan (1950) fue serializada antes como Manhattan Madness y adaptada al cine ese año como Union Station. La película cambió del niño secuestrado de la novela a una muchacha ciega y desplazó la acción de Nueva York a Chicago. También The Night Watch llegó al cine como Pushover (1954). No deben trasladarse automáticamente los nombres y las características de los personajes cinematográficos a las fichas literarias.",
+    "fuentesDocumentales": [
+      "https://starkhousepress.com/walsh.php",
+      "https://www.fantasticfiction.com/w/thomas-walsh/",
+      "https://www.newyorker.com/magazine/1950/04/15/briefly-noted",
+      "https://www.newyorker.com/magazine/1952/03/15/1952-03-15-118-tny-cards-000039034",
+      "https://www.kirkusreviews.com/book-reviews/a/thomas-walsh-2/the-dark-window-2/",
+      "https://www.tcm.com/articles/193620/union-station",
+      "https://catalog.afi.com/Catalog/moviedetails/26550",
+      "https://www.uniliber.com/ficha/los-apuros-de-mr-janisek_114988602/",
+      "https://rua.ua.es/server/api/core/bitstreams/7362baf4-26a6-421a-bf67-9484eb512627/content",
+      "https://vinpulp.blogspot.com/2008/09/"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "walsh-thomas-ritchie-mccallister",
+      "nombre": "Ritchie McCallister",
+      "autor": "walsh-thomas",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Detective joven destinado a la vigilancia de un atracador",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "walsh-thomas-the-night-watch"
+      ],
+      "articulos": [],
+      "descripcion": "Policía que intenta impedir que la codicia de Walter Sheridan arrastre a sus compañeros a una tragedia.",
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Integridad",
+          "descripcion": "Se resiste a encubrir a un compañero que ha vulnerado su deber profesional."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "walsh-thomas-walter-sheridan",
+      "nombre": "Walter Sheridan",
+      "autor": "walsh-thomas",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Detective implicado en un dispositivo de vigilancia",
+      "sexo": "Masculino",
+      "roles": [
+        "Antagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "",
+      "obras": [
+        "walsh-thomas-the-night-watch"
+      ],
+      "articulos": [],
+      "descripcion": "Agente que mata para apropiarse de un botín y termina siendo perseguido por sus propios compañeros.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Codicia",
+          "descripcion": "La posibilidad de apropiarse del dinero de un atraco precipita sus decisiones criminales."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "walsh-thomas-paddy-ahern",
+      "nombre": "Paddy Ahern",
+      "autor": "walsh-thomas",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Detective veterano próximo a la jubilación",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "walsh-thomas-the-night-watch"
+      ],
+      "articulos": [],
+      "descripcion": "Compañero de Sheridan y McCallister, más preocupado por conservar su empleo y su pensión que por involucrarse en un conflicto.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Alcohol",
+          "descripcion": "Recurre ocasionalmente a la bebida durante las tensiones de su labor policial."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "walsh-thomas-ray-cassidy",
+      "nombre": "Ray Cassidy",
+      "autor": "walsh-thomas",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Responsable de seguridad nocturna en el Hotel Imperial; antiguo policía",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "walsh-thomas-the-dark-window"
+      ],
+      "articulos": [],
+      "descripcion": "Exagente afectado por un tiroteo que perdió su empleo policial y trata de recuperar la confianza mientras investiga una muerte en el hotel.",
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Temor tras el tiroteo",
+          "descripcion": "Las secuelas emocionales de un tiroteo anterior han dañado su confianza y su vida profesional."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "walsh-thomas-eckstrom",
+      "nombre": "Eckstrom",
+      "autor": "walsh-thomas",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Teniente detective que organiza la vigilancia policial",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "walsh-thomas-the-night-watch"
+      ],
+      "articulos": [],
+      "descripcion": "Superior que asigna a McCallister, Ahern y Sheridan la vigilancia de un delincuente buscado.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    }
+  ],
+  "series": [],
+  "obras": [
+    {
+      "id": "walsh-thomas-nightmare-in-manhattan",
+      "titulo": "Pesadilla en Manhattan",
+      "original": "Nightmare in Manhattan",
+      "anio": 1950,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "crime thriller"
+      ],
+      "sinopsis": "La desaparición de un niño de seis años desencadena una carrera contra el tiempo en una gran estación ferroviaria de Nueva York. Una secretaria atenta y un investigador ferroviario ayudan a descubrir la pista de los secuestradores."
+    },
+    {
+      "id": "walsh-thomas-the-night-watch",
+      "titulo": "Un ladrón en la noche",
+      "original": "The Night Watch",
+      "anio": 1952,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "crook story"
+      ],
+      "sinopsis": "Tres detectives vigilan a un atracador de bancos. Walter Sheridan cede a la codicia y acaba convertido en fugitivo; Ritchie McCallister y sus compañeros tratan de detenerlo en una persecución nocturna."
+    },
+    {
+      "id": "walsh-thomas-the-dark-window",
+      "titulo": "Los apuros de Mr. Janisek",
+      "original": "The Dark Window",
+      "anio": 1956,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Ray Cassidy, antiguo policía traumatizado tras un tiroteo, trabaja en seguridad nocturna del Hotel Imperial. La muerte de un empleado a su cargo lo implica en una trama de impostura y crimen."
+    },
+    {
+      "id": "walsh-thomas-dangerous-passenger",
+      "titulo": "Dangerous Passenger",
+      "original": "Dangerous Passenger",
+      "anio": 1959,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "walsh-thomas-the-eye-of-the-needle",
+      "titulo": "The Eye of the Needle",
+      "original": "The Eye of the Needle",
+      "anio": 1961,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "police procedural",
+        "psychological thriller"
+      ],
+      "sinopsis": "Una investigación policial de Nueva York involucra a un sacerdote dividido entre su conciencia, la necesidad de proteger a los inocentes y el deber de mantener ciertas confidencias."
+    },
+    {
+      "id": "walsh-thomas-a-thief-in-the-night",
+      "titulo": "A Thief in the Night",
+      "original": "A Thief in the Night",
+      "anio": 1962,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Novela independiente de 1962. No debe confundirse con Un ladrón en la noche, título español documentado para The Night Watch (1952). Sinopsis detallada pendiente."
+    },
+    {
+      "id": "walsh-thomas-to-hide-a-rogue",
+      "titulo": "Esconder a un canalla",
+      "original": "To Hide a Rogue",
+      "anio": 1964,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Una organización criminal prepara un plan de extorsión contra un sindicato de empleados del metro de Nueva York."
+    },
+    {
+      "id": "walsh-thomas-the-tenth-point",
+      "titulo": "The Tenth Point",
+      "original": "The Tenth Point",
+      "anio": 1965,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "walsh-thomas-the-face-of-the-enemy",
+      "titulo": "The Face of the Enemy",
+      "original": "The Face of the Enemy",
+      "anio": 1966,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "walsh-thomas-the-resurrection-man",
+      "titulo": "The Resurrection Man",
+      "original": "The Resurrection Man",
+      "anio": 1966,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "walsh-thomas-the-action-of-the-tiger",
+      "titulo": "The Action of the Tiger",
+      "original": "The Action of the Tiger",
+      "anio": 1968,
+      "autor": "walsh-thomas",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    }
+  ]
+}
