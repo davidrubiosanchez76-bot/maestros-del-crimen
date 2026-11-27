@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-27-stuart-kaminsky-v1",
+  "version": "2026-11-27-alexis-ravelo-v1",
   "descripcion": "MAESTROS DEL CRIMEN · índice con señas de identidad verificables, filtro por aficiones, particularidades y criterios de relevancia editorial. La ausencia de etiqueta no descarta un rasgo por documentar.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -55,7 +55,8 @@
     "grafton": "fichas/grafton.json",
     "isaka": "fichas/isaka.json",
     "behm": "fichas/behm.json",
-    "kaminsky": "fichas/kaminsky.json"
+    "kaminsky": "fichas/kaminsky.json",
+    "ravelo": "fichas/ravelo.json"
   },
   "autores": [
     {
@@ -2720,6 +2721,63 @@
         "kaminsky-bright-futures",
         "kaminsky-when-the-dark-man-calls",
         "kaminsky-exercise-in-terror"
+      ]
+    },
+    {
+      "id": "ravelo",
+      "nombre": "Alexis Ravelo",
+      "nombreCompleto": "Alexis Ravelo Betancor",
+      "nacimiento": "1971",
+      "fallecimiento": "2023",
+      "origen": "España",
+      "pais": "España",
+      "lugar": "Las Palmas de Gran Canaria, Canarias, España",
+      "fin": "Las Palmas de Gran Canaria, Canarias, España",
+      "debutNegro": 2006,
+      "seudonimos": [
+        "M. A. West"
+      ],
+      "generos": [
+        "hardboiled",
+        "crime thriller",
+        "crook story",
+        "rural noir",
+        "heist fiction",
+        "psychological thriller"
+      ],
+      "imagen": "",
+      "resumen": "Escritor canario de novela negra y crítica social; creador del exmarino Eladio Monroy y autor de La estrategia del pequinés, Las flores no sangran y Un tío con una bolsa en la cabeza.",
+      "alcanceBibliografia": "Selección de quince novelas negrocriminales publicadas entre 2006 y 2022, incluidas las seis de Eladio Monroy y el díptico La iniquidad. No se contabilizan relatos, ficción infantil, la fantasía La otra vida de Ned Blackbird, la novela histórica Los milagros prohibidos, la narración social El hambre y la fe, ni la recopilación Las islas negras (2026).",
+      "articulos": [],
+      "personajes": [
+        "ravelo-eladio-personaje",
+        "ravelo-gloria",
+        "ravelo-el-rubio",
+        "ravelo-cora",
+        "ravelo-gabriel-sanchez-santana",
+        "ravelo-marta-ferrer",
+        "ravelo-tomas"
+      ],
+      "series": [
+        "ravelo-eladio-monroy",
+        "ravelo-la-iniquidad"
+      ],
+      "obras": [
+        "ravelo-tres-funerales",
+        "ravelo-la-noche-de-piedra",
+        "ravelo-solo-los-muertos",
+        "ravelo-los-dias-de-mercurio",
+        "ravelo-los-tipos-duros-no-leen-poesia",
+        "ravelo-morir-despacio",
+        "ravelo-la-estrategia-del-pequines",
+        "ravelo-la-ultima-tumba",
+        "ravelo-el-viento-y-la-sangre",
+        "ravelo-las-flores-no-sangran",
+        "ravelo-el-peor-de-los-tiempos",
+        "ravelo-la-ceguera-del-cangrejo",
+        "ravelo-un-tio-con-una-bolsa-en-la-cabeza",
+        "ravelo-si-no-hubiera-manana",
+        "ravelo-los-nombres-prestados"
       ]
     }
   ],
@@ -9348,6 +9406,225 @@
       ],
       "nivelArchivo": "recurrente",
       "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ravelo-eladio-personaje",
+      "nombre": "Eladio Monroy",
+      "autor": "ravelo",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Antiguo jefe de máquinas de la marina mercante, pensionista y recadero extralegal",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "ravelo-eladio-monroy",
+      "obras": [
+        "ravelo-tres-funerales",
+        "ravelo-solo-los-muertos",
+        "ravelo-los-tipos-duros-no-leen-poesia",
+        "ravelo-morir-despacio",
+        "ravelo-el-peor-de-los-tiempos",
+        "ravelo-si-no-hubiera-manana"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura",
+          "etiqueta": "Libros descatalogados",
+          "descripcion": "Frecuenta la librería de Gloria para buscar libros antiguos."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Café cortado",
+          "descripcion": "Suele tomar un cortado en el bar Casablanca de Casimiro."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Ironía",
+          "descripcion": "Su humor seco y su desconfianza contrastan con su lealtad personal."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ravelo-gloria",
+      "nombre": "Gloria",
+      "autor": "ravelo",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Librera, vecina y compañera sentimental ocasional de Monroy",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador",
+        "Secundario recurrente"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "ravelo-eladio-monroy",
+      "obras": [
+        "ravelo-tres-funerales",
+        "ravelo-solo-los-muertos",
+        "ravelo-los-tipos-duros-no-leen-poesia",
+        "ravelo-morir-despacio",
+        "ravelo-el-peor-de-los-tiempos",
+        "ravelo-si-no-hubiera-manana"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura",
+          "etiqueta": "Libros",
+          "descripcion": "La literatura y el trabajo en una librería constituyen su vínculo permanente con el investigador."
+        }
+      ],
+      "nivelArchivo": "recurrente",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ravelo-el-rubio",
+      "nombre": "El Rubio",
+      "autor": "ravelo",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Exdelincuente y empleado de seguridad hotelera",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "ravelo-la-estrategia-del-pequines"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Lealtad a su esposa",
+          "descripcion": "Su necesidad de conseguir dinero para la enfermedad de su mujer le hace volver a delinquir."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ravelo-cora",
+      "nombre": "Cora",
+      "autor": "ravelo",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Trabajadora sexual que participa en un atraco",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "ravelo-la-estrategia-del-pequines"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Pragmatismo",
+          "descripcion": "Evalúa sus opciones desde la necesidad de sobrevivir en un entorno hostil."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ravelo-gabriel-sanchez-santana",
+      "nombre": "Gabriel Sánchez Santana («Gabrielo»)",
+      "autor": "ravelo",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Alcalde corrupto del pueblo ficticio de San Expósito",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "ravelo-un-tio-con-una-bolsa-en-la-cabeza"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Ambición",
+          "descripcion": "Aprovecha su posición pública para obtener ventajas económicas."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ravelo-marta-ferrer",
+      "nombre": "Marta Ferrer",
+      "autor": "ravelo",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Traductora residente en Nidocuervo",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "ravelo-los-nombres-prestados"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Traducción",
+          "descripcion": "Trabaja como traductora profesional."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ravelo-tomas",
+      "nombre": "Tomás",
+      "autor": "ravelo",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Hombre vinculado al pasado violento de Marta",
+      "sexo": "Masculino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "ravelo-los-nombres-prestados"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
@@ -9764,6 +10041,18 @@
       "nombre": "Lew Fonesca",
       "autor": "kaminsky",
       "descripcion": "Seis novelas situadas en Sarasota, Florida, desde Vengeance (1999) a Bright Futures (2009), protagonizadas por un notificador judicial e investigador marcado por el duelo."
+    },
+    {
+      "id": "ravelo-eladio-monroy",
+      "nombre": "Eladio Monroy",
+      "autor": "ravelo",
+      "descripcion": "Seis novelas ambientadas en Las Palmas de Gran Canaria: Tres funerales para Eladio Monroy (2006), Solo los muertos (2008), Los tipos duros no leen poesía (2011), Morir despacio (2012), El peor de los tiempos (2017), Si no hubiera mañana (2021)."
+    },
+    {
+      "id": "ravelo-la-iniquidad",
+      "nombre": "La iniquidad",
+      "autor": "ravelo",
+      "descripcion": "Díptico temático sobre violencia social, el mal y la corrupción moral: La noche de piedra (2007) y Los días de mercurio (2010). No tiene detective recurrente; la reedición de la primera novela en 2023 no constituye obra nueva."
     }
   ],
   "obras": [
@@ -21073,6 +21362,201 @@
         "psychological thriller",
         "crime thriller"
       ]
+    },
+    {
+      "id": "ravelo-tres-funerales",
+      "titulo": "Tres funerales para Eladio Monroy",
+      "original": "Tres funerales para Eladio Monroy",
+      "anio": 2006,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-eladio-monroy",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ravelo-la-noche-de-piedra",
+      "titulo": "La noche de piedra",
+      "original": "La noche de piedra",
+      "anio": 2007,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-la-iniquidad",
+      "generos": [
+        "rural noir",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ravelo-solo-los-muertos",
+      "titulo": "Solo los muertos",
+      "original": "Solo los muertos",
+      "anio": 2008,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-eladio-monroy",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ravelo-los-dias-de-mercurio",
+      "titulo": "Los días de mercurio",
+      "original": "Los días de mercurio",
+      "anio": 2010,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-la-iniquidad",
+      "generos": [
+        "rural noir",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ravelo-los-tipos-duros-no-leen-poesia",
+      "titulo": "Los tipos duros no leen poesía",
+      "original": "Los tipos duros no leen poesía",
+      "anio": 2011,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-eladio-monroy",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ravelo-morir-despacio",
+      "titulo": "Morir despacio",
+      "original": "Morir despacio",
+      "anio": 2012,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-eladio-monroy",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ravelo-la-estrategia-del-pequines",
+      "titulo": "La estrategia del pequinés",
+      "original": "La estrategia del pequinés",
+      "anio": 2013,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "heist fiction",
+        "crook story"
+      ]
+    },
+    {
+      "id": "ravelo-la-ultima-tumba",
+      "titulo": "La última tumba",
+      "original": "La última tumba",
+      "anio": 2013,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ravelo-el-viento-y-la-sangre",
+      "titulo": "El viento y la sangre",
+      "original": "El viento y la sangre",
+      "anio": 2013,
+      "autor": "ravelo",
+      "seudonimo": "M. A. West",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crook story"
+      ]
+    },
+    {
+      "id": "ravelo-las-flores-no-sangran",
+      "titulo": "Las flores no sangran",
+      "original": "Las flores no sangran",
+      "anio": 2015,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crook story",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ravelo-el-peor-de-los-tiempos",
+      "titulo": "El peor de los tiempos",
+      "original": "El peor de los tiempos",
+      "anio": 2017,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-eladio-monroy",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ravelo-la-ceguera-del-cangrejo",
+      "titulo": "La ceguera del cangrejo",
+      "original": "La ceguera del cangrejo",
+      "anio": 2019,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ]
+    },
+    {
+      "id": "ravelo-un-tio-con-una-bolsa-en-la-cabeza",
+      "titulo": "Un tío con una bolsa en la cabeza",
+      "original": "Un tío con una bolsa en la cabeza",
+      "anio": 2020,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ravelo-si-no-hubiera-manana",
+      "titulo": "Si no hubiera mañana",
+      "original": "Si no hubiera mañana",
+      "anio": 2021,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "ravelo-eladio-monroy",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ravelo-los-nombres-prestados",
+      "titulo": "Los nombres prestados",
+      "original": "Los nombres prestados",
+      "anio": 2022,
+      "autor": "ravelo",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
     }
   ],
   "destacados": {
@@ -21338,12 +21822,17 @@
       "kaminsky-bullet-for-a-star",
       "kaminsky-a-cold-red-sunrise",
       "kaminsky-liebermans-folly"
+    ],
+    "ravelo": [
+      "ravelo-tres-funerales",
+      "ravelo-la-estrategia-del-pequines",
+      "ravelo-un-tio-con-una-bolsa-en-la-cabeza"
     ]
   },
   "totales": {
-    "autores": 53,
-    "personajes": 202,
-    "series": 69,
-    "obras": 899
+    "autores": 54,
+    "personajes": 209,
+    "series": 71,
+    "obras": 914
   }
 }
