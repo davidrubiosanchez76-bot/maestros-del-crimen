@@ -68,7 +68,7 @@
       "La serie El alfabeto del crimen llegó a veinticinco novelas, de la A a la Y, publicadas durante treinta y cinco años. La narrativa conserva una cronología interna situada en la década de 1980, aunque los títulos aparecieran hasta 2017. Las ediciones españolas fueron publicadas por Tusquets, con títulos adaptados al orden alfabético castellano.",
       "Entre sus reconocimientos destacan los premios Anthony y Shamus, el Cartier Diamond Dagger (2008) y el nombramiento de Grand Master por Mystery Writers of America en 2009. La autora falleció tras publicar Y Is for Yesterday y nunca escribió la entrega prevista para la Z."
     ],
-    "apunte": "La letra que falta es una declaración de intenciones: Grafton planeaba cerrar El alfabeto del crimen con Z Is for Zero, pero murió en diciembre de 2017 y la novela nunca fue escrita. Su familia rechazó encargar una conclusión a otro escritor. En total, el ciclo abarca 25 novelas de Kinsey Millhone —no 26—: Kinsey y yo (Kinsey and Me) es una colección de relatos, no otra entrega de la secuencia. Además, la primera novela policial de Grafton fue A de adulterio (1982), no Keziah Dane (1967), un debut literario ajeno al género. Atención a los años: la primera edición de D Is for Deadbeat es de 1987 y la de G Is for Gumshoe de 1990, aunque algunos repertorios las anticipen a 1986 y 1989.",
+    "apunte": "La letra que falta es una declaración de intenciones: Grafton planeaba cerrar El alfabeto del crimen con Z Is for Zero, pero murió en diciembre de 2017 y la novela nunca fue escrita. Su familia rechazó encargar una conclusión a otro escritor. En total, el ciclo abarca 25 novelas de Kinsey Millhone —no 26—: Kinsey y yo (Kinsey and Me) es una colección de relatos, no otra entrega de la secuencia. Además, la primera novela policial de Grafton fue A de adulterio (1982), no Keziah Dane (1967), un debut literario ajeno al género. Atención a los años: la primera edición de D Is for Deadbeat es de 1987 y la de G Is for Gumshoe de 1990, aunque algunos repertorios las anticipen a 1986 y 1989. La relación de secundarios recoge títulos acreditados, sin pretender exhaustividad. Con Dolan figura en A, M, Q y U; Stacey Oliphant en Q y U; Cheney Phillips en K, R y X.",
     "fuentesDocumentales": [
       "https://www.suegrafton.com/pdf/Sue_Grafton_Book_Checklist.pdf",
       "https://www.planetadelibros.com/serie-alfabeto-del-crimen/6725",
@@ -79,7 +79,8 @@
       "https://www.panmacmillan.com/authors/sue-grafton/y-is-for-yesterday/9781447260226",
       "https://www.carnegiecenterlex.org/hall-of-fame/sue-grafton/",
       "https://www.planetadelibros.com/libro-y-de-yesterday/236810",
-      "https://www.penguinrandomhouse.com/series/KMM/a-kinsey-millhone-novel/"
+      "https://www.penguinrandomhouse.com/series/KMM/a-kinsey-millhone-novel/",
+      "https://www.latimes.com/archives/la-xpm-2004-jul-11-bk-lochte11-story.html"
     ]
   },
   "personajes": [
@@ -219,7 +220,7 @@
           "descripcion": "Compone crucigramas como actividad habitual."
         }
       ],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "propuesta_documentada"
     },
     {
@@ -280,7 +281,7 @@
           "descripcion": "Su carácter firme y sus opiniones directas contribuyen a la vida social del entorno de Kinsey."
         }
       ],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "propuesta_documentada"
     },
     {
@@ -300,12 +301,14 @@
       "serie": "grafton-kinsey-millhone",
       "obras": [
         "grafton-a-is-for",
-        "grafton-q-is-for"
+        "grafton-m-is-for",
+        "grafton-q-is-for",
+        "grafton-u-is-for"
       ],
       "articulos": [],
       "descripcion": "Teniente de policía que mantiene relaciones profesionales a veces tensas pero cooperativas con Kinsey; destaca su colaboración en un caso antiguo reabierto en Q de quién.",
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "pendiente_de_documentar"
     },
     {
@@ -330,7 +333,7 @@
       "articulos": [],
       "descripcion": "Detective experimentado contratado para proteger a Kinsey en G de guardaespaldas y colaborador en M de maldad; mantiene una relación intermitente con ella.",
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "pendiente_de_documentar"
     },
     {
@@ -349,12 +352,14 @@
       ],
       "serie": "grafton-kinsey-millhone",
       "obras": [
+        "grafton-k-is-for",
+        "grafton-r-is-for",
         "grafton-x-is-for"
       ],
       "articulos": [],
       "descripcion": "Agente que trabaja con otros detectives del departamento local y establece una relación personal e investigadora con Kinsey.",
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "pendiente_de_documentar"
     },
     {
@@ -372,12 +377,13 @@
       ],
       "serie": "grafton-kinsey-millhone",
       "obras": [
-        "grafton-q-is-for"
+        "grafton-q-is-for",
+        "grafton-u-is-for"
       ],
       "articulos": [],
       "descripcion": "Investigador retirado que colabora con Dolan y Kinsey en la identificación de una víctima hallada años atrás en una cantera.",
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "pendiente_de_documentar"
     },
     {
@@ -401,7 +407,7 @@
       "articulos": [],
       "descripcion": "Hermano de Henry, personaje del entorno afectivo de Kinsey que termina casándose con Rosie.",
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "complementario",
       "estadoSenas": "pendiente_de_documentar"
     }
   ],
