@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-27-burnett-v1",
+  "version": "2026-11-27-ard-v1",
   "descripcion": "MAESTROS DEL CRIMEN · índice con señas de identidad verificables, filtro por aficiones, particularidades y criterios de relevancia editorial. La ausencia de etiqueta no descarta un rasgo por documentar.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -44,7 +44,8 @@
     "gonzalez-ledesma": "fichas/gonzalez-ledesma.json",
     "stout": "fichas/stout.json",
     "bramah": "fichas/bramah.json",
-    "burnett": "fichas/burnett.json"
+    "burnett": "fichas/burnett.json",
+    "ard": "fichas/ard.json"
   },
   "autores": [
     {
@@ -2031,6 +2032,77 @@
         "burnett-underdog",
         "burnett-the-cool-man",
         "burnett-goodbye-chicago"
+      ]
+    },
+    {
+      "id": "ard",
+      "nombre": "William Ard",
+      "nombreCompleto": "William Thomas Ard",
+      "nacimiento": "1922",
+      "fallecimiento": "1960",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "Brooklyn, Nueva York, Estados Unidos",
+      "fin": "Clearwater, Florida, Estados Unidos",
+      "debutNegro": 1951,
+      "debutPorVerificar": true,
+      "seudonimos": [
+        "Ben Kerr",
+        "Thomas Wills",
+        "Mike Moran",
+        "Jonas Ward",
+        "Ken Hamlin"
+      ],
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "imagen": "",
+      "resumen": "Novelista estadounidense de hardboiled, creador de Timothy Dane y Lou Largo; publicó novelas criminales bajo distintos seudónimos durante los años cincuenta.",
+      "alcanceBibliografia": "Selección documentada de novelas criminales no exhaustiva; excluye westerns y continuaciones de otros autores.",
+      "articulos": [],
+      "personajes": [
+        "ard-timothy-dane",
+        "ard-lou-largo",
+        "ard-johnny-stevens",
+        "ard-barney-glines",
+        "ard-danny-fontaine",
+        "ard-tom-doran",
+        "ard-luke-maclane"
+      ],
+      "series": [
+        "ard-timothy-dane",
+        "ard-lou-largo",
+        "ard-johnny-stevens",
+        "ard-barney-glines",
+        "ard-danny-fontaine"
+      ],
+      "obras": [
+        "ard-the-perfect-frame",
+        "ard-point-38",
+        "ard-the-diary",
+        "ard-a-private-party",
+        "ard-dont-come-crying-to-me",
+        "ard-mr-trouble",
+        "ard-hell-is-a-city",
+        "ard-cry-scandal",
+        "ard-the-root-of-his-evil",
+        "ard-shakedown",
+        "ard-down-i-go",
+        "ard-damned-if-he-does",
+        "ard-i-fear-you-not",
+        "ard-club-17",
+        "ard-the-blonde-and-johnny-malloy",
+        "ard-youll-get-yours",
+        "ard-mine-to-avenge",
+        "ard-double-cross",
+        "ard-no-angels-for-me",
+        "ard-as-bad-as-i-am",
+        "ard-when-she-was-bad",
+        "ard-all-i-can-get",
+        "ard-like-ice-she-was",
+        "ard-a-girl-for-danny",
+        "ard-the-sins-of-billy-serene"
       ]
     }
   ],
@@ -6301,6 +6373,201 @@
       ],
       "nivelArchivo": "principal",
       "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ard-timothy-dane",
+      "nombre": "Timothy Dane",
+      "autor": "ard",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Investigador privado exmarine con oficina en Manhattan",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "ard-timothy-dane",
+      "obras": [
+        "ard-the-perfect-frame",
+        "ard-point-38",
+        "ard-the-diary",
+        "ard-a-private-party",
+        "ard-dont-come-crying-to-me",
+        "ard-mr-trouble",
+        "ard-hell-is-a-city",
+        "ard-cry-scandal",
+        "ard-the-root-of-his-evil"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Deportes",
+          "etiqueta": "Béisbol",
+          "descripcion": "Seguidor de los Yankees de Nueva York."
+        },
+        {
+          "categoria": "aficiones",
+          "tema": "Lectura y escritura",
+          "etiqueta": "Lectura",
+          "descripcion": "Lee a Somerset Maugham."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Whisky de centeno",
+          "descripcion": "Disfruta del whisky rye en sus visitas a los bares."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ard-lou-largo",
+      "nombre": "Lou Largo",
+      "autor": "ard",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado de Nueva York",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "ard-lou-largo",
+      "obras": [
+        "ard-all-i-can-get",
+        "ard-like-ice-she-was"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "aficiones",
+          "tema": "Juegos y apuestas",
+          "etiqueta": "Apuestas",
+          "descripcion": "Tiene marcada afición por el juego."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "ard-johnny-stevens",
+      "nombre": "Johnny Stevens",
+      "autor": "ard",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Investigador de la agencia Flannagan de Nueva York",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "ard-johnny-stevens",
+      "obras": [
+        "ard-shakedown",
+        "ard-down-i-go",
+        "ard-damned-if-he-does",
+        "ard-i-fear-you-not",
+        "ard-club-17"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "ard-barney-glines",
+      "nombre": "Barney Glines",
+      "autor": "ard",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado neoyorquino",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "ard-barney-glines",
+      "obras": [
+        "ard-youll-get-yours",
+        "ard-mine-to-avenge"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "ard-danny-fontaine",
+      "nombre": "Danny Fontaine",
+      "autor": "ard",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Exconvicto convertido en investigador privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "ard-danny-fontaine",
+      "obras": [
+        "ard-as-bad-as-i-am",
+        "ard-when-she-was-bad"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "ard-tom-doran",
+      "nombre": "Tom Doran",
+      "autor": "ard",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "ard-double-cross"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "ard-luke-maclane",
+      "nombre": "Luke MacLane",
+      "autor": "ard",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective privado",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "ard-no-angels-for-me"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
@@ -6621,6 +6888,36 @@
       "nombre": "Trilogía urbana",
       "autor": "burnett",
       "descripcion": "Trilogía temática sobre la delincuencia, los poderes económicos y la corrupción de la ciudad: La jungla de asfalto (1949), Little Men, Big World (1951) y Vanity Row (1952). No es una saga de protagonistas recurrentes."
+    },
+    {
+      "id": "ard-timothy-dane",
+      "nombre": "Timothy Dane",
+      "autor": "ard",
+      "descripcion": "Ciclo de nueve novelas de detectives publicados en los años cincuenta. Existen discrepancias sobre el año inicial de The Perfect Frame."
+    },
+    {
+      "id": "ard-lou-largo",
+      "nombre": "Lou Largo",
+      "autor": "ard",
+      "descripcion": "Ard escribió All I Can Get y Like Ice She Was. Tras su muerte hubo cuatro continuaciones firmadas bajo su nombre: Babe in the Woods de Lawrence Block, y Make Mine Mavis, And So to Bed y Give Me This Woman de John Jakes. No se incluyen esas obras en su autoría."
+    },
+    {
+      "id": "ard-johnny-stevens",
+      "nombre": "Johnny Stevens",
+      "autor": "ard",
+      "descripcion": "Novelas protagonizadas por un detective de la agencia Flannagan, publicadas bajo el seudónimo Ben Kerr; la adscripción de The Blonde and Johnny Malloy sigue pendiente."
+    },
+    {
+      "id": "ard-barney-glines",
+      "nombre": "Barney Glines",
+      "autor": "ard",
+      "descripcion": "Dos novelas de investigador privado firmadas Thomas Wills: You'll Get Yours y Mine to Avenge."
+    },
+    {
+      "id": "ard-danny-fontaine",
+      "nombre": "Danny Fontaine",
+      "autor": "ard",
+      "descripcion": "Dos novelas: As Bad As I Am (también Wanted: Danny Fontaine) y When She Was Bad. A Girl for Danny se deja fuera de la serie hasta verificar su relación."
     }
   ],
   "obras": [
@@ -14762,6 +15059,331 @@
       "generos": [
         "crook story"
       ]
+    },
+    {
+      "id": "ard-the-perfect-frame",
+      "titulo": "The Perfect Frame",
+      "original": "The Perfect Frame",
+      "anio": 1951,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "ard-timothy-dane",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-point-38",
+      "titulo": ".38",
+      "original": ".38",
+      "anio": 1952,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "ard-timothy-dane",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-the-diary",
+      "titulo": "The Diary",
+      "original": "The Diary",
+      "anio": 1952,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "ard-timothy-dane",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-a-private-party",
+      "titulo": "A Private Party",
+      "original": "A Private Party",
+      "anio": 1953,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "ard-timothy-dane",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-dont-come-crying-to-me",
+      "titulo": "Don't Come Crying to Me",
+      "original": "Don't Come Crying to Me",
+      "anio": 1954,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "ard-timothy-dane",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-mr-trouble",
+      "titulo": "Mr. Trouble",
+      "original": "Mr. Trouble",
+      "anio": 1954,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "ard-timothy-dane",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-hell-is-a-city",
+      "titulo": "Hell Is a City",
+      "original": "Hell Is a City",
+      "anio": 1955,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "ard-timothy-dane",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-cry-scandal",
+      "titulo": "Cry Scandal",
+      "original": "Cry Scandal",
+      "anio": 1956,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "ard-timothy-dane",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-the-root-of-his-evil",
+      "titulo": "The Root of His Evil",
+      "original": "The Root of His Evil",
+      "anio": 1957,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "ard-timothy-dane",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-shakedown",
+      "titulo": "Shakedown",
+      "original": "Shakedown",
+      "anio": 1952,
+      "autor": "ard",
+      "seudonimo": "Ben Kerr",
+      "serie": "ard-johnny-stevens",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-down-i-go",
+      "titulo": "Down I Go",
+      "original": "Down I Go",
+      "anio": 1955,
+      "autor": "ard",
+      "seudonimo": "Ben Kerr",
+      "serie": "ard-johnny-stevens",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-damned-if-he-does",
+      "titulo": "Damned If He Does",
+      "original": "Damned If He Does",
+      "anio": 1956,
+      "autor": "ard",
+      "seudonimo": "Ben Kerr",
+      "serie": "ard-johnny-stevens",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-i-fear-you-not",
+      "titulo": "I Fear You Not",
+      "original": "I Fear You Not",
+      "anio": 1956,
+      "autor": "ard",
+      "seudonimo": "Ben Kerr",
+      "serie": "ard-johnny-stevens",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-club-17",
+      "titulo": "Club 17",
+      "original": "Club 17",
+      "anio": 1957,
+      "autor": "ard",
+      "seudonimo": "Ben Kerr",
+      "serie": "ard-johnny-stevens",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-the-blonde-and-johnny-malloy",
+      "titulo": "The Blonde and Johnny Malloy",
+      "original": "The Blonde and Johnny Malloy",
+      "anio": 1958,
+      "autor": "ard",
+      "seudonimo": "Ben Kerr",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-youll-get-yours",
+      "titulo": "You'll Get Yours",
+      "original": "You'll Get Yours",
+      "anio": 1952,
+      "autor": "ard",
+      "seudonimo": "Thomas Wills",
+      "serie": "ard-barney-glines",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-mine-to-avenge",
+      "titulo": "Mine to Avenge",
+      "original": "Mine to Avenge",
+      "anio": 1955,
+      "autor": "ard",
+      "seudonimo": "Thomas Wills",
+      "serie": "ard-barney-glines",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-double-cross",
+      "titulo": "Double Cross",
+      "original": "Double Cross",
+      "anio": 1953,
+      "autor": "ard",
+      "seudonimo": "Mike Moran",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-no-angels-for-me",
+      "titulo": "No Angels for Me",
+      "original": "No Angels for Me",
+      "anio": 1954,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-as-bad-as-i-am",
+      "titulo": "As Bad As I Am",
+      "original": "As Bad As I Am",
+      "anio": 1959,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "ard-danny-fontaine",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-when-she-was-bad",
+      "titulo": "When She Was Bad",
+      "original": "When She Was Bad",
+      "anio": 1960,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "ard-danny-fontaine",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-all-i-can-get",
+      "titulo": "All I Can Get",
+      "original": "All I Can Get",
+      "anio": 1959,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "ard-lou-largo",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-like-ice-she-was",
+      "titulo": "Like Ice She Was",
+      "original": "Like Ice She Was",
+      "anio": 1960,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "ard-lou-largo",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-a-girl-for-danny",
+      "titulo": "A Girl for Danny",
+      "original": "A Girl for Danny",
+      "anio": 1953,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "ard-the-sins-of-billy-serene",
+      "titulo": "The Sins of Billy Serene",
+      "original": "The Sins of Billy Serene",
+      "anio": 1960,
+      "autor": "ard",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
     }
   ],
   "destacados": {
@@ -14972,12 +15594,17 @@
       "burnett-little-caesar",
       "burnett-high-sierra",
       "burnett-the-asphalt-jungle"
+    ],
+    "ard": [
+      "ard-the-perfect-frame",
+      "ard-shakedown",
+      "ard-all-i-can-get"
     ]
   },
   "totales": {
-    "autores": 42,
-    "personajes": 125,
-    "series": 53,
-    "obras": 651
+    "autores": 43,
+    "personajes": 132,
+    "series": 58,
+    "obras": 676
   }
 }
