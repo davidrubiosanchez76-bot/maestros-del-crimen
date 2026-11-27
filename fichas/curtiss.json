@@ -1,0 +1,723 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "curtiss",
+    "nombre": "Ursula Curtiss",
+    "nombreCompleto": "Ursula Kieran Reilly Curtiss",
+    "nacimiento": "1923",
+    "fallecimiento": "1984",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "Yonkers, Nueva York, Estados Unidos",
+    "fin": "Albuquerque, Nuevo México, Estados Unidos",
+    "debutNegro": 1948,
+    "seudonimos": [],
+    "generos": [
+      "psychological thriller",
+      "crime thriller",
+      "whodunit"
+    ],
+    "imagen": "",
+    "resumen": "Escritora estadounidense de suspense psicológico y novela criminal, autora de Voice Out of Darkness y The Forbidden Garden; destacó por la amenaza doméstica y las protagonistas femeninas en peligro.",
+    "alcanceBibliografia": "22 novelas criminales documentadas entre 1948 y 1983; lista de novelas cotejada con repertorios bibliográficos, excluidas variantes de título y recopilaciones de relatos. No se considera catálogo completo de toda su producción narrativa breve.",
+    "articulos": [],
+    "personajes": [
+      "curtiss-katie-meredith",
+      "curtiss-victoria-devlin",
+      "curtiss-lou-fabian",
+      "curtiss-sarah-trafton",
+      "curtiss-madeline-potter",
+      "curtiss-cora-applegate",
+      "curtiss-elsa-marrable",
+      "curtiss-alice-dimmock",
+      "curtiss-harriet-crewe",
+      "curtiss-kate-barlow",
+      "curtiss-kit-austen",
+      "curtiss-celia-brett",
+      "curtiss-lydia-peel"
+    ],
+    "series": [],
+    "obras": [
+      "curtiss-voice-out-of-darkness",
+      "curtiss-the-second-sickle",
+      "curtiss-the-noonday-devil",
+      "curtiss-the-iron-cobweb",
+      "curtiss-the-deadly-climate",
+      "curtiss-widows-web",
+      "curtiss-the-stairway",
+      "curtiss-the-face-of-the-tiger",
+      "curtiss-so-dies-the-dreamer",
+      "curtiss-hours-to-kill",
+      "curtiss-the-forbidden-garden",
+      "curtiss-the-wasp",
+      "curtiss-out-of-the-dark",
+      "curtiss-danger-hospital-zone",
+      "curtiss-dont-open-the-door",
+      "curtiss-letter-of-intent",
+      "curtiss-the-birthday-gift",
+      "curtiss-in-cold-pursuit",
+      "curtiss-the-menace-within",
+      "curtiss-the-poisoned-orchard",
+      "curtiss-dog-in-the-manger",
+      "curtiss-death-of-a-crow"
+    ],
+    "bio": [
+      "Ursula Kieran Reilly Curtiss nació el 8 de abril de 1923 en Yonkers (Nueva York) y murió el 10 de octubre de 1984 en Albuquerque (Nuevo México). Era hija de la novelista policiaca Helen Reilly y del artista Paul Reilly; su hermana Mary McMullen también fue autora de misterio. Antes de vivir de la escritura trabajó en publicidad y como articulista.",
+      "Debutó con Voice Out of Darkness (1948), ganadora del premio Red Badge a la mejor primera novela de misterio de su año. Desde entonces escribió una amplia serie de novelas independientes de intriga y suspense, con especial interés en mujeres enfrentadas a la sospecha y a agresores que se esconden en su círculo cotidiano.",
+      "Su estilo combinó la observación psicológica con el misterio criminal y elementos del gótico doméstico. Figuran entre sus títulos The Second Sickle (1950), The Stairway (1957), The Forbidden Garden (1962), The Wasp (1963), Out of the Dark (1964) y Letter of Intent (1971).",
+      "Dos de sus novelas llegaron al cine: Out of the Dark inspiró I Saw What You Did (1965) de William Castle, reinterpretada en televisión en 1988; The Forbidden Garden dio origen a What Ever Happened to Aunt Alice? (1969). Sus novelas fueron reeditadas en otros países y circularon también con títulos alternativos."
+    ],
+    "apunte": "La especialidad de Curtiss no era el detective heroico, sino el terror que entra por la puerta de casa. En The Forbidden Garden (1962) la viuda Elsa Marrable convierte un jardín en escondite de crímenes; en Out of the Dark (1964), dos adolescentes creen gastar una broma por teléfono sin saber que han llamado a un asesino. Ambas historias llegaron al cine: What Ever Happened to Aunt Alice? (1969) e I Saw What You Did (1965, rehecha en 1988). Para evitar duplicados, Noche de terror es The Deadly Climate (1954), y Jugando con la muerte es Out of the Dark (1964): no son obras distintas. La bibliografía separa también The Second Sickle / The Hollow House, The Noonday Devil / Catch a Killer, The Birthday Gift / Dig a Little Deeper y Dog in the Manger / The Graveyard Shift.",
+    "fuentesDocumentales": [
+      "https://www.stopyourekillingme.com/C_Authors/Curtiss_Ursula.html",
+      "https://embden11.home.xs4all.nl/Engels/curtiss.htm",
+      "https://www.encyclopedia.com/arts/news-wires-white-papers-and-books/curtiss-ursula-reilly",
+      "https://www.fantasticfiction.com/c/ursula-curtiss/",
+      "https://catalog.afi.com/Film/22685-I-SAWWHATYOUDID",
+      "https://catalog.afi.com/Catalog/moviedetails/23221",
+      "https://www.uniliber.com/ficha/noche-de-terror_114988616/",
+      "https://datos.bne.es/resource/XX924386",
+      "https://www.kirkusreviews.com/book-reviews/a/ursula-gurtiss/the-wasp/"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "curtiss-katie-meredith",
+      "nombre": "Katie Meredith",
+      "autor": "curtiss",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Mujer acusada retrospectivamente de causar una muerte durante una excursión sobre hielo",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "curtiss-voice-out-of-darkness"
+      ],
+      "articulos": [],
+      "descripcion": "Regresa al escenario de una antigua tragedia y afronta sospechas renovadas sobre la muerte de su hermana de acogida.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "curtiss-victoria-devlin",
+      "nombre": "Victoria Devlin",
+      "autor": "curtiss",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Joven empeñada en cumplir una promesa pese al peligro",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "curtiss-the-second-sickle"
+      ],
+      "articulos": [],
+      "descripcion": "Su insistencia en mantener una promesa la expone a amenazas y a un crimen.",
+      "senasIdentidad": [
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos de personalidad",
+          "etiqueta": "Fidelidad a la palabra",
+          "descripcion": "Se empeña en respetar una promesa incluso cuando la pone en peligro."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "curtiss-lou-fabian",
+      "nombre": "Lou Fabian",
+      "autor": "curtiss",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Mujer sobre la que recae la sospecha de secuestro",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "curtiss-the-face-of-the-tiger"
+      ],
+      "articulos": [],
+      "descripcion": "Se ve acusada por segunda vez de estar implicada en la desaparición de un menor.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "curtiss-sarah-trafton",
+      "nombre": "Sarah Trafton",
+      "autor": "curtiss",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Esposa que intenta esclarecer muertes familiares",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "curtiss-so-dies-the-dreamer"
+      ],
+      "articulos": [],
+      "descripcion": "Busca al culpable de un asesinato para entender también el aparente suicidio de su marido.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "curtiss-madeline-potter",
+      "nombre": "Madeline Potter",
+      "autor": "curtiss",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Viuda sometida a chantaje psicológico",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "curtiss-the-stairway"
+      ],
+      "articulos": [],
+      "descripcion": "Intenta resistir la presión de Cora Applegate mientras lidia con las consecuencias de la muerte de su marido.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "curtiss-cora-applegate",
+      "nombre": "Cora Applegate",
+      "autor": "curtiss",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Chantajista y asesina que aparenta docilidad",
+      "sexo": "Femenino",
+      "roles": [
+        "Antagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "",
+      "obras": [
+        "curtiss-the-stairway"
+      ],
+      "articulos": [],
+      "descripcion": "Manipula y chantajea a Madeline Potter bajo una fachada aparentemente sumisa.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Falsa mansedumbre",
+          "descripcion": "Se presenta como una mujer dócil para ocultar su agresividad y sus propósitos criminales."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "curtiss-elsa-marrable",
+      "nombre": "Elsa Marrable",
+      "autor": "curtiss",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Viuda anciana que mata por interés económico",
+      "sexo": "Femenino",
+      "roles": [
+        "Antagonista"
+      ],
+      "perfiles": [
+        "Villano"
+      ],
+      "serie": "",
+      "obras": [
+        "curtiss-the-forbidden-garden"
+      ],
+      "articulos": [],
+      "descripcion": "Su comportamiento homicida se agrava mientras intenta conservar una posición económica precaria.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "curtiss-alice-dimmock",
+      "nombre": "Alice Dimmock",
+      "autor": "curtiss",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Mujer que investiga la desaparición de una amiga",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "curtiss-the-forbidden-garden"
+      ],
+      "articulos": [],
+      "descripcion": "Se presenta en el entorno de Elsa Marrable para descubrir qué fue de una mujer desaparecida.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "curtiss-harriet-crewe",
+      "nombre": "Harriet Crewe",
+      "autor": "curtiss",
+      "ocupacion": "Sin ocupación relevante",
+      "ocupacionDetalle": "Vecina y testigo involuntaria",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "curtiss-the-forbidden-garden"
+      ],
+      "articulos": [],
+      "descripcion": "Espectadora no voluntaria de una trama homicida mientras cuida a su sobrino James.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "curtiss-kate-barlow",
+      "nombre": "Kate Barlow",
+      "autor": "curtiss",
+      "ocupacion": "Sin ocupación relevante",
+      "ocupacionDetalle": "Joven viuda que vive con sus parientes políticos",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "curtiss-the-wasp"
+      ],
+      "articulos": [],
+      "descripcion": "Sufre hostigamiento cuando un familiar explota su miedo a las avispas.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Temor a las avispas",
+          "descripcion": "Un accidente con una avispa desencadena el aprovechamiento cruel de ese miedo por parte de su familia política."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "curtiss-kit-austen",
+      "nombre": "Kit Austen",
+      "autor": "curtiss",
+      "ocupacion": "Sin ocupación relevante",
+      "ocupacionDetalle": "Adolescente que participa en una broma telefónica",
+      "sexo": "Femenino",
+      "roles": [
+        "Coprotagonista"
+      ],
+      "perfiles": [
+        "Moralmente ambiguo"
+      ],
+      "serie": "",
+      "obras": [
+        "curtiss-out-of-the-dark"
+      ],
+      "articulos": [],
+      "descripcion": "Una llamada telefónica realizada como travesura la relaciona con un homicida que intenta encontrarla.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Bromas telefónicas",
+          "descripcion": "Participa en llamadas de broma cuyas consecuencias desencadenan la intriga criminal."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "curtiss-celia-brett",
+      "nombre": "Celia Brett",
+      "autor": "curtiss",
+      "ocupacion": "Delincuente",
+      "ocupacionDetalle": "Mujer que delinque para escapar de la pobreza",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "curtiss-letter-of-intent"
+      ],
+      "articulos": [],
+      "descripcion": "Recurre al delito en busca de estabilidad y ascenso económico.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "curtiss-lydia-peel",
+      "nombre": "Lydia Peel",
+      "autor": "curtiss",
+      "ocupacion": "Investigador aficionado",
+      "ocupacionDetalle": "Mujer arrastrada a una trama por un encargo rutinario",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "",
+      "obras": [
+        "curtiss-the-birthday-gift"
+      ],
+      "articulos": [],
+      "descripcion": "Un simple recado la introduce en una red de identidades fingidas y crímenes.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    }
+  ],
+  "series": [],
+  "obras": [
+    {
+      "id": "curtiss-voice-out-of-darkness",
+      "titulo": "Voice Out of Darkness",
+      "original": "Voice Out of Darkness",
+      "anio": 1948,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Katie Meredith regresa a su pasado tras una tragedia ocurrida años atrás sobre el hielo. La acusan de haber provocado la muerte de su hermana de acogida y nuevos acontecimientos mortales reabren el caso."
+    },
+    {
+      "id": "curtiss-the-second-sickle",
+      "titulo": "The Second Sickle",
+      "original": "The Second Sickle",
+      "anio": 1950,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "whodunit",
+        "psychological thriller"
+      ],
+      "sinopsis": "Victoria Devlin cumple una promesa pese a la amenaza creciente que rodea una casa y un crimen. En Reino Unido apareció también como The Hollow House."
+    },
+    {
+      "id": "curtiss-the-noonday-devil",
+      "titulo": "The Noonday Devil",
+      "original": "The Noonday Devil",
+      "anio": 1951,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "crime thriller",
+        "psychological thriller"
+      ],
+      "sinopsis": "Novela de misterio de 1951, reeditada con el título Catch a Killer. Sinopsis detallada pendiente de documentar."
+    },
+    {
+      "id": "curtiss-the-iron-cobweb",
+      "titulo": "The Iron Cobweb",
+      "original": "The Iron Cobweb",
+      "anio": 1953,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental completa pendiente de documentar."
+    },
+    {
+      "id": "curtiss-the-deadly-climate",
+      "titulo": "Noche de terror",
+      "original": "The Deadly Climate",
+      "anio": 1954,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Suspense criminal publicado en español por Editorial Molino como Noche de terror. Sinopsis argumental completa pendiente de documentar."
+    },
+    {
+      "id": "curtiss-widows-web",
+      "titulo": "Widow's Web",
+      "original": "Widow's Web",
+      "anio": 1956,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental completa pendiente de documentar."
+    },
+    {
+      "id": "curtiss-the-stairway",
+      "titulo": "The Stairway",
+      "original": "The Stairway",
+      "anio": 1957,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Tras la muerte de su marido, Madeline Potter sufre la presión psicológica y el chantaje de la aparentemente dócil Cora Applegate, cuya conducta oculta intenciones criminales."
+    },
+    {
+      "id": "curtiss-the-face-of-the-tiger",
+      "titulo": "The Face of the Tiger",
+      "original": "The Face of the Tiger",
+      "anio": 1958,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Lou Fabian vuelve a verse sospechosa de un secuestro. Los equívocos y el ocultamiento de un niño alimentan una intriga de apariencias y culpabilidad."
+    },
+    {
+      "id": "curtiss-so-dies-the-dreamer",
+      "titulo": "So Dies the Dreamer",
+      "original": "So Dies the Dreamer",
+      "anio": 1960,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Sarah Trafton intenta esclarecer la muerte de la madrastra de su marido y las circunstancias del presunto suicidio de este, mientras afloran conflictos familiares."
+    },
+    {
+      "id": "curtiss-hours-to-kill",
+      "titulo": "Hours to Kill",
+      "original": "Hours to Kill",
+      "anio": 1961,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental completa pendiente de documentar."
+    },
+    {
+      "id": "curtiss-the-forbidden-garden",
+      "titulo": "The Forbidden Garden",
+      "original": "The Forbidden Garden",
+      "anio": 1962,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Elsa Marrable, una viuda que necesita dinero, emplea métodos mortíferos contra mujeres que contrata para trabajar en su casa. Alice Dimmock intenta averiguar qué ocurrió con una amiga desaparecida; Harriet Crewe se convierte en testigo involuntaria. Adaptada al cine en 1969."
+    },
+    {
+      "id": "curtiss-the-wasp",
+      "titulo": "The Wasp",
+      "original": "The Wasp",
+      "anio": 1963,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Kate Barlow, viuda reciente, se refugia junto a sus parientes políticos. Un incidente con una avispa permite convertir su miedo a los insectos en instrumento de hostigamiento."
+    },
+    {
+      "id": "curtiss-out-of-the-dark",
+      "titulo": "Jugando con la muerte",
+      "original": "Out of the Dark",
+      "anio": 1964,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Una broma telefónica de unas adolescentes llega a un hombre involucrado en un asesinato y pone a las jóvenes y a sus familiares en peligro. Filmada como I Saw What You Did (1965), con adaptación televisiva de 1988."
+    },
+    {
+      "id": "curtiss-danger-hospital-zone",
+      "titulo": "Danger: Hospital Zone",
+      "original": "Danger: Hospital Zone",
+      "anio": 1966,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental completa pendiente de documentar."
+    },
+    {
+      "id": "curtiss-dont-open-the-door",
+      "titulo": "Don't Open the Door",
+      "original": "Don't Open the Door",
+      "anio": 1968,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental completa pendiente de documentar."
+    },
+    {
+      "id": "curtiss-letter-of-intent",
+      "titulo": "Letter of Intent",
+      "original": "Letter of Intent",
+      "anio": 1971,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crook story"
+      ],
+      "sinopsis": "Celia Brett está dispuesta a delinquir para escapar de la pobreza y alcanzar una vida de comodidad. Sus acciones implican a las hermanas Vestry, Mary Ellen y Susan."
+    },
+    {
+      "id": "curtiss-the-birthday-gift",
+      "titulo": "The Birthday Gift",
+      "original": "The Birthday Gift",
+      "anio": 1976,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Un encargo sencillo conduce a Lydia Peel a una sucesión de identidades falsas, engaños y asesinatos. También se publicó como Dig a Little Deeper."
+    },
+    {
+      "id": "curtiss-in-cold-pursuit",
+      "titulo": "In Cold Pursuit",
+      "original": "In Cold Pursuit",
+      "anio": 1977,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental completa pendiente de documentar."
+    },
+    {
+      "id": "curtiss-the-menace-within",
+      "titulo": "The Menace Within",
+      "original": "The Menace Within",
+      "anio": 1979,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental completa pendiente de documentar."
+    },
+    {
+      "id": "curtiss-the-poisoned-orchard",
+      "titulo": "The Poisoned Orchard",
+      "original": "The Poisoned Orchard",
+      "anio": 1980,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental completa pendiente de documentar."
+    },
+    {
+      "id": "curtiss-dog-in-the-manger",
+      "titulo": "Dog in the Manger",
+      "original": "Dog in the Manger",
+      "anio": 1982,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Novela criminal publicada en 1982 y reeditada con el título The Graveyard Shift. Sinopsis detallada pendiente de documentar."
+    },
+    {
+      "id": "curtiss-death-of-a-crow",
+      "titulo": "Death of a Crow",
+      "original": "Death of a Crow",
+      "anio": 1983,
+      "autor": "curtiss",
+      "seudonimo": "",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental completa pendiente de documentar."
+    }
+  ]
+}
