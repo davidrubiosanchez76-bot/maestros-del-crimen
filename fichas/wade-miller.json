@@ -77,7 +77,7 @@
       "Escribieron bajo las firmas Wade Miller, Whit Masterson, Dale Wilmer y Will Daemer. En 1956 publicaron Badge of Evil como Whit Masterson, obra que dio origen al largometraje Sed de mal (Touch of Evil, 1958), de Orson Welles. También se adaptaron Guilty Bystander (1950) y Kitten with a Whip (1964).",
       "Tras la muerte de Bill Miller en 1961, Robert Wade continuó publicando principalmente como Whit Masterson. Esta producción personal posterior no se considera obra del dúo."
     ],
-    "apunte": "El nombre Wade Miller es la suma de los apellidos de dos escritores distintos. Max Thursday protagonizó seis novelas, aunque algunos catálogos le adjudican una séptima: Deadly Weapon (1946), donde sí aparece su colaborador Austin Clapp, pero el protagonista es Walter James. Por otra parte, Sed de mal (Touch of Evil, 1958), de Orson Welles, adapta Badge of Evil (1956), publicada con el seudónimo colectivo Whit Masterson. Robert Wade siguió empleando ese seudónimo tras la muerte de Bill Miller; esas novelas posteriores no deben atribuirse a ambos.",
+    "apunte": "El nombre Wade Miller es la suma de los apellidos de dos escritores distintos. Max Thursday protagonizó seis novelas, aunque algunos catálogos le adjudican una séptima: Deadly Weapon (1946), donde sí aparece su colaborador Austin Clapp, pero el protagonista es Walter James. Por otra parte, Sed de mal (Touch of Evil, 1958), de Orson Welles, adapta Badge of Evil (1956), publicada con el seudónimo colectivo Whit Masterson. Robert Wade siguió empleando ese seudónimo tras la muerte de Bill Miller; esas novelas posteriores no deben atribuirse a ambos. Se corrige la continuidad de Merle Osborn: cinco apariciones desde Fatal Step a Shoot to Kill. La primera novela Guilty Bystander no cuenta con ella.",
     "fuentesDocumentales": [
       "https://stopyourekillingme.com/M_Authors/Miller_Wade.html",
       "https://thrillingdetective.com/2021/06/18/wade-miller/",
@@ -85,7 +85,8 @@
       "https://titanbooks.com/creators/wade-miller/",
       "https://www.fantasticfiction.com/m/wade-miller/",
       "https://detectivesdelibro.blogspot.com/2017/10/max-thursday-wade-miller.html",
-      "https://thrillingdetective.com/2021/06/18/mort-hagen/"
+      "https://thrillingdetective.com/2021/06/18/mort-hagen/",
+      "https://www.sandiegoreader.com/news/1993/feb/25/cover-Robert-Wade-Bill-Miller-chandler-hammett/"
     ]
   },
   "personajes": [
@@ -269,12 +270,16 @@
       ],
       "serie": "wade-miller-serie-max-thursday",
       "obras": [
-        "wade-miller-guilty-bystander"
+        "wade-miller-fatal-step",
+        "wade-miller-uneasy-street",
+        "wade-miller-calamity-fair",
+        "wade-miller-murder-charge",
+        "wade-miller-shoot-to-kill"
       ],
       "articulos": [],
-      "descripcion": "Periodista vinculada sentimentalmente a Max Thursday durante la serie.",
+      "descripcion": "Reportera del San Diego Sentinel y pareja de Max Thursday. Aparece por primera vez en Fatal Step y en las cuatro entregas posteriores, no en Guilty Bystander.",
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "recurrente",
       "estadoSenas": "pendiente_de_documentar"
     },
     {
