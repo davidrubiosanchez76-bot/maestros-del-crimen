@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-27-matsumoto-v1",
+  "version": "2026-11-27-wade-miller-v1",
   "descripcion": "MAESTROS DEL CRIMEN · índice con señas de identidad verificables, filtro por aficiones, particularidades y criterios de relevancia editorial. La ausencia de etiqueta no descarta un rasgo por documentar.",
   "fichas": {
     "chandler": "fichas/chandler.json",
@@ -47,7 +47,8 @@
     "burnett": "fichas/burnett.json",
     "ard": "fichas/ard.json",
     "mcgivern": "fichas/mcgivern.json",
-    "matsumoto-seicho": "fichas/matsumoto-seicho.json"
+    "matsumoto-seicho": "fichas/matsumoto-seicho.json",
+    "wade-miller": "fichas/wade-miller.json"
   },
   "autores": [
     {
@@ -2224,6 +2225,78 @@
         "matsumoto-seicho-kikanakatta-basho",
         "matsumoto-seicho-kurokawa-no-techo",
         "matsumoto-seicho-yakou-no-kaidan"
+      ]
+    },
+    {
+      "id": "wade-miller",
+      "nombre": "Wade Miller",
+      "nombreCompleto": "Robert Allison Wade y H. William «Bill» Miller",
+      "nacimiento": "1920 (ambos)",
+      "fallecimiento": "2012 (Wade) / 1961 (Miller)",
+      "origen": "Estados Unidos",
+      "pais": "Estados Unidos",
+      "lugar": "San Diego, California (Wade) y Garrett, Indiana (Miller), Estados Unidos",
+      "fin": "San Diego, California, Estados Unidos",
+      "debutNegro": 1946,
+      "seudonimos": [
+        "Whit Masterson",
+        "Dale Wilmer",
+        "Will Daemer"
+      ],
+      "generos": [
+        "hardboiled",
+        "crime thriller",
+        "psychological thriller"
+      ],
+      "imagen": "",
+      "resumen": "Seudónimo colectivo de Robert Wade y Bill Miller, creadores de Max Thursday y autores de Badge of Evil, origen literario de la película Sed de mal.",
+      "alcanceBibliografia": "Selección amplia de novelas criminales conjuntas hasta 1961, no exhaustiva. Se excluyen relatos y obras posteriores escritas individualmente por Robert Wade.",
+      "articulos": [],
+      "personajes": [
+        "wade-miller-max-thursday",
+        "wade-miller-austin-clapp",
+        "wade-miller-walter-james",
+        "wade-miller-mort-hagen",
+        "wade-miller-biggo-venn",
+        "wade-miller-merle-osborn",
+        "wade-miller-cay-morgan"
+      ],
+      "series": [
+        "wade-miller-serie-max-thursday"
+      ],
+      "obras": [
+        "wade-miller-deadly-weapon",
+        "wade-miller-guilty-bystander",
+        "wade-miller-pop-goes-the-queen",
+        "wade-miller-fatal-step",
+        "wade-miller-uneasy-street",
+        "wade-miller-devil-on-two-sticks",
+        "wade-miller-calamity-fair",
+        "wade-miller-devil-may-care",
+        "wade-miller-murder-charge",
+        "wade-miller-stolen-woman",
+        "wade-miller-the-killer",
+        "wade-miller-shoot-to-kill",
+        "wade-miller-the-tigers-wife",
+        "wade-miller-case-of-lonely-lovers",
+        "wade-miller-memo-for-murder",
+        "wade-miller-branded-woman",
+        "wade-miller-south-of-the-sun",
+        "wade-miller-the-big-guy",
+        "wade-miller-dead-fall",
+        "wade-miller-jungle-heat",
+        "wade-miller-all-through-the-night",
+        "wade-miller-dead-she-was-beautiful",
+        "wade-miller-mad-baxter",
+        "wade-miller-kiss-her-goodbye",
+        "wade-miller-badge-of-evil",
+        "wade-miller-a-shadow-in-the-wild",
+        "wade-miller-kitten-with-a-whip",
+        "wade-miller-the-dark-fantastic",
+        "wade-miller-sinner-take-all",
+        "wade-miller-a-hammer-in-his-hand",
+        "wade-miller-nightmare-cruise",
+        "wade-miller-evil-come-evil-go"
       ]
     }
   ],
@@ -7068,6 +7141,210 @@
       ],
       "nivelArchivo": "principal",
       "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "wade-miller-max-thursday",
+      "nombre": "Max Thursday",
+      "autor": "wade-miller",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Exmarine y detective en San Diego",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "wade-miller-serie-max-thursday",
+      "obras": [
+        "wade-miller-guilty-bystander",
+        "wade-miller-fatal-step",
+        "wade-miller-uneasy-street",
+        "wade-miller-calamity-fair",
+        "wade-miller-murder-charge",
+        "wade-miller-shoot-to-kill"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Alcohol",
+          "descripcion": "El alcoholismo ha complicado sus relaciones familiares y su vida profesional."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Alto y delgado",
+          "descripcion": "Cabello negro, ojos azules y figura alta y delgada."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Evita la pistola",
+          "descripcion": "A veces prefiere no ir armado por temor a dejarse arrastrar por su mal genio."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Autobuses",
+          "descripcion": "Suele desplazarse por San Diego en transporte público."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "wade-miller-austin-clapp",
+      "nombre": "Austin Clapp",
+      "autor": "wade-miller",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Teniente de Homicidios de San Diego",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "wade-miller-serie-max-thursday",
+      "obras": [
+        "wade-miller-deadly-weapon",
+        "wade-miller-guilty-bystander",
+        "wade-miller-fatal-step",
+        "wade-miller-uneasy-street",
+        "wade-miller-calamity-fair",
+        "wade-miller-murder-charge",
+        "wade-miller-shoot-to-kill"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Experiencia policial",
+          "descripcion": "Conoce a los criminales de San Diego y los procedimientos de investigación de homicidios."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "wade-miller-walter-james",
+      "nombre": "Walter James",
+      "autor": "wade-miller",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Investigador privado en San Diego",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "wade-miller-deadly-weapon"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "wade-miller-mort-hagen",
+      "nombre": "Mort Hagen",
+      "autor": "wade-miller",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective de divorcios y veterano de Inteligencia militar",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "wade-miller-dead-she-was-beautiful"
+      ],
+      "articulos": [],
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Cinismo",
+          "descripcion": "Su visión del mundo está marcada por la guerra y un matrimonio fracasado."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "wade-miller-biggo-venn",
+      "nombre": "Biggo Venn",
+      "autor": "wade-miller",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Aventurero y antiguo soldado de fortuna",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "wade-miller-devil-may-care"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "wade-miller-merle-osborn",
+      "nombre": "Merle Osborn",
+      "autor": "wade-miller",
+      "ocupacion": "Periodista",
+      "ocupacionDetalle": "Reportera de sucesos del San Diego Sentinel",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "wade-miller-serie-max-thursday",
+      "obras": [
+        "wade-miller-guilty-bystander"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "wade-miller-cay-morgan",
+      "nombre": "Cay Morgan",
+      "autor": "wade-miller",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Mujer decidida a vengarse de un contrabandista",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "wade-miller-branded-woman"
+      ],
+      "articulos": [],
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
@@ -7424,6 +7701,12 @@
       "nombre": "Mihara y Torigai",
       "autor": "matsumoto-seicho",
       "descripcion": "Díptico policial formado por El expreso de Tokio (Ten to sen, 1958) y Jikan no shūzoku (1962). El segundo título reúne otra vez a los policías Mihara y Torigai; no es una serie extensa de entregas regulares."
+    },
+    {
+      "id": "wade-miller-serie-max-thursday",
+      "nombre": "Max Thursday",
+      "autor": "wade-miller",
+      "descripcion": "Ciclo de seis novelas de detective privado entre 1947 y 1951. Deadly Weapon (1946) es un antecedente con Austin Clapp, pero no aparece Max Thursday; por ello queda fuera de la serie."
     }
   ],
   "obras": [
@@ -16396,6 +16679,397 @@
         "crime thriller",
         "psychological thriller"
       ]
+    },
+    {
+      "id": "wade-miller-deadly-weapon",
+      "titulo": "Arma mortal",
+      "original": "Deadly Weapon",
+      "anio": 1946,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-guilty-bystander",
+      "titulo": "Nadie es inocente",
+      "original": "Guilty Bystander",
+      "anio": 1947,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "wade-miller-serie-max-thursday",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "wade-miller-pop-goes-the-queen",
+      "titulo": "El galeón perdido",
+      "original": "Pop Goes the Queen",
+      "anio": 1947,
+      "autor": "wade-miller",
+      "seudonimo": "Bob Wade y Bill Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-fatal-step",
+      "titulo": "Paso fatal",
+      "original": "Fatal Step",
+      "anio": 1948,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "wade-miller-serie-max-thursday",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "wade-miller-uneasy-street",
+      "titulo": "Calle siniestra",
+      "original": "Uneasy Street",
+      "anio": 1948,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "wade-miller-serie-max-thursday",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "wade-miller-devil-on-two-sticks",
+      "titulo": "La elección del asesino",
+      "original": "Devil on Two Sticks",
+      "anio": 1949,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-calamity-fair",
+      "titulo": "Extorsión",
+      "original": "Calamity Fair",
+      "anio": 1950,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "wade-miller-serie-max-thursday",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "wade-miller-devil-may-care",
+      "titulo": "De armas tomar",
+      "original": "Devil May Care",
+      "anio": 1950,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-murder-charge",
+      "titulo": "Pedido recomendado",
+      "original": "Murder Charge",
+      "anio": 1950,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "wade-miller-serie-max-thursday",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "wade-miller-stolen-woman",
+      "titulo": "Stolen Woman",
+      "original": "Stolen Woman",
+      "anio": 1950,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-the-killer",
+      "titulo": "The Killer",
+      "original": "The Killer",
+      "anio": 1951,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-shoot-to-kill",
+      "titulo": "Manos fuertes",
+      "original": "Shoot to Kill",
+      "anio": 1951,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "wade-miller-serie-max-thursday",
+      "generos": [
+        "hardboiled"
+      ]
+    },
+    {
+      "id": "wade-miller-the-tigers-wife",
+      "titulo": "The Tiger's Wife",
+      "original": "The Tiger's Wife",
+      "anio": 1951,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-case-of-lonely-lovers",
+      "titulo": "The Case of the Lonely Lovers",
+      "original": "The Case of the Lonely Lovers",
+      "anio": 1951,
+      "autor": "wade-miller",
+      "seudonimo": "Will Daemer",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-memo-for-murder",
+      "titulo": "Memo for Murder",
+      "original": "Memo for Murder",
+      "anio": 1951,
+      "autor": "wade-miller",
+      "seudonimo": "Dale Wilmer",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-branded-woman",
+      "titulo": "Branded Woman",
+      "original": "Branded Woman",
+      "anio": 1952,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-south-of-the-sun",
+      "titulo": "Al sur del sol",
+      "original": "South of the Sun",
+      "anio": 1953,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-the-big-guy",
+      "titulo": "The Big Guy",
+      "original": "The Big Guy",
+      "anio": 1953,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-dead-fall",
+      "titulo": "Dead Fall",
+      "original": "Dead Fall",
+      "anio": 1954,
+      "autor": "wade-miller",
+      "seudonimo": "Dale Wilmer",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-jungle-heat",
+      "titulo": "Jungle Heat",
+      "original": "Jungle Heat",
+      "anio": 1954,
+      "autor": "wade-miller",
+      "seudonimo": "Dale Wilmer",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-all-through-the-night",
+      "titulo": "All Through the Night",
+      "original": "All Through the Night",
+      "anio": 1955,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-dead-she-was-beautiful",
+      "titulo": "Dead, She Was Beautiful",
+      "original": "Dead, She Was Beautiful",
+      "anio": 1955,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-mad-baxter",
+      "titulo": "Mad Baxter",
+      "original": "Mad Baxter",
+      "anio": 1955,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-kiss-her-goodbye",
+      "titulo": "Kiss Her Goodbye",
+      "original": "Kiss Her Goodbye",
+      "anio": 1956,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-badge-of-evil",
+      "titulo": "Sed de mal",
+      "original": "Badge of Evil",
+      "anio": 1956,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-a-shadow-in-the-wild",
+      "titulo": "A Shadow in the Wild",
+      "original": "A Shadow in the Wild",
+      "anio": 1957,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-kitten-with-a-whip",
+      "titulo": "Kitten with a Whip",
+      "original": "Kitten with a Whip",
+      "anio": 1959,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-the-dark-fantastic",
+      "titulo": "The Dark Fantastic",
+      "original": "The Dark Fantastic",
+      "anio": 1959,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-sinner-take-all",
+      "titulo": "Los políticos mueren en jueves",
+      "original": "Sinner Take All",
+      "anio": 1960,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-a-hammer-in-his-hand",
+      "titulo": "A Hammer in His Hand",
+      "original": "A Hammer in His Hand",
+      "anio": 1960,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-nightmare-cruise",
+      "titulo": "Nightmare Cruise",
+      "original": "Nightmare Cruise",
+      "anio": 1961,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
+    },
+    {
+      "id": "wade-miller-evil-come-evil-go",
+      "titulo": "El caso de la cuna vacía",
+      "original": "Evil Come, Evil Go",
+      "anio": 1961,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ]
     }
   ],
   "destacados": {
@@ -16621,12 +17295,17 @@
       "matsumoto-seicho-ten-to-sen",
       "matsumoto-seicho-suna-no-utsuwa",
       "matsumoto-seicho-zero-no-shoten"
+    ],
+    "wade-miller": [
+      "wade-miller-guilty-bystander",
+      "wade-miller-badge-of-evil",
+      "wade-miller-branded-woman"
     ]
   },
   "totales": {
-    "autores": 45,
-    "personajes": 146,
-    "series": 59,
-    "obras": 716
+    "autores": 46,
+    "personajes": 153,
+    "series": 60,
+    "obras": 748
   }
 }
