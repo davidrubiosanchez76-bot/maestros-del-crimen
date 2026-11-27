@@ -1,0 +1,737 @@
+{
+  "tipo": "expediente",
+  "autor": {
+    "id": "wade-miller",
+    "nombre": "Wade Miller",
+    "nombreCompleto": "Robert Allison Wade y H. William «Bill» Miller",
+    "nacimiento": "1920 (ambos)",
+    "fallecimiento": "2012 (Wade) / 1961 (Miller)",
+    "origen": "Estados Unidos",
+    "pais": "Estados Unidos",
+    "lugar": "San Diego, California (Wade) y Garrett, Indiana (Miller), Estados Unidos",
+    "fin": "San Diego, California, Estados Unidos",
+    "debutNegro": 1946,
+    "seudonimos": [
+      "Whit Masterson",
+      "Dale Wilmer",
+      "Will Daemer"
+    ],
+    "generos": [
+      "hardboiled",
+      "crime thriller",
+      "psychological thriller"
+    ],
+    "imagen": "",
+    "resumen": "Seudónimo colectivo de Robert Wade y Bill Miller, creadores de Max Thursday y autores de Badge of Evil, origen literario de la película Sed de mal.",
+    "alcanceBibliografia": "Selección amplia de novelas criminales conjuntas hasta 1961, no exhaustiva. Se excluyen relatos y obras posteriores escritas individualmente por Robert Wade.",
+    "articulos": [],
+    "personajes": [
+      "wade-miller-max-thursday",
+      "wade-miller-austin-clapp",
+      "wade-miller-walter-james",
+      "wade-miller-mort-hagen",
+      "wade-miller-biggo-venn",
+      "wade-miller-merle-osborn",
+      "wade-miller-cay-morgan"
+    ],
+    "series": [
+      "wade-miller-serie-max-thursday"
+    ],
+    "obras": [
+      "wade-miller-deadly-weapon",
+      "wade-miller-guilty-bystander",
+      "wade-miller-pop-goes-the-queen",
+      "wade-miller-fatal-step",
+      "wade-miller-uneasy-street",
+      "wade-miller-devil-on-two-sticks",
+      "wade-miller-calamity-fair",
+      "wade-miller-devil-may-care",
+      "wade-miller-murder-charge",
+      "wade-miller-stolen-woman",
+      "wade-miller-the-killer",
+      "wade-miller-shoot-to-kill",
+      "wade-miller-the-tigers-wife",
+      "wade-miller-case-of-lonely-lovers",
+      "wade-miller-memo-for-murder",
+      "wade-miller-branded-woman",
+      "wade-miller-south-of-the-sun",
+      "wade-miller-the-big-guy",
+      "wade-miller-dead-fall",
+      "wade-miller-jungle-heat",
+      "wade-miller-all-through-the-night",
+      "wade-miller-dead-she-was-beautiful",
+      "wade-miller-mad-baxter",
+      "wade-miller-kiss-her-goodbye",
+      "wade-miller-badge-of-evil",
+      "wade-miller-a-shadow-in-the-wild",
+      "wade-miller-kitten-with-a-whip",
+      "wade-miller-the-dark-fantastic",
+      "wade-miller-sinner-take-all",
+      "wade-miller-a-hammer-in-his-hand",
+      "wade-miller-nightmare-cruise",
+      "wade-miller-evil-come-evil-go"
+    ],
+    "bio": [
+      "Wade Miller fue un seudónimo compartido por Robert Allison «Bob» Wade (1920-2012) y H. William «Bill» Miller (1920-1961). Ambos se conocieron de adolescentes en San Diego, asistieron a San Diego State y prestaron servicio durante la Segunda Guerra Mundial.",
+      "Formaron su nombre literario al unir sus apellidos. Su primera novela fue Deadly Weapon (Arma mortal, 1946), protagonizada por Walter James y el teniente Austin Clapp. En 1947 introdujeron a Max Thursday en Guilty Bystander (Nadie es inocente), primera de seis novelas de detective privado ambientadas en San Diego.",
+      "Escribieron bajo las firmas Wade Miller, Whit Masterson, Dale Wilmer y Will Daemer. En 1956 publicaron Badge of Evil como Whit Masterson, obra que dio origen al largometraje Sed de mal (Touch of Evil, 1958), de Orson Welles. También se adaptaron Guilty Bystander (1950) y Kitten with a Whip (1964).",
+      "Tras la muerte de Bill Miller en 1961, Robert Wade continuó publicando principalmente como Whit Masterson. Esta producción personal posterior no se considera obra del dúo."
+    ],
+    "apunte": "El nombre Wade Miller es la suma de los apellidos de dos escritores distintos. Max Thursday protagonizó seis novelas, aunque algunos catálogos le adjudican una séptima: Deadly Weapon (1946), donde sí aparece su colaborador Austin Clapp, pero el protagonista es Walter James. Por otra parte, Sed de mal (Touch of Evil, 1958), de Orson Welles, adapta Badge of Evil (1956), publicada con el seudónimo colectivo Whit Masterson. Robert Wade siguió empleando ese seudónimo tras la muerte de Bill Miller; esas novelas posteriores no deben atribuirse a ambos.",
+    "fuentesDocumentales": [
+      "https://stopyourekillingme.com/M_Authors/Miller_Wade.html",
+      "https://thrillingdetective.com/2021/06/18/wade-miller/",
+      "https://mysteryfile.com/Wade/Miller.html",
+      "https://titanbooks.com/creators/wade-miller/",
+      "https://www.fantasticfiction.com/m/wade-miller/",
+      "https://detectivesdelibro.blogspot.com/2017/10/max-thursday-wade-miller.html",
+      "https://thrillingdetective.com/2021/06/18/mort-hagen/"
+    ]
+  },
+  "personajes": [
+    {
+      "id": "wade-miller-max-thursday",
+      "nombre": "Max Thursday",
+      "autor": "wade-miller",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Exmarine y detective en San Diego",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "wade-miller-serie-max-thursday",
+      "obras": [
+        "wade-miller-guilty-bystander",
+        "wade-miller-fatal-step",
+        "wade-miller-uneasy-street",
+        "wade-miller-calamity-fair",
+        "wade-miller-murder-charge",
+        "wade-miller-shoot-to-kill"
+      ],
+      "articulos": [],
+      "descripcion": "Veterano de guerra divorciado y detective privado de temperamento explosivo, protagonista de seis novelas.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Alcohol",
+          "descripcion": "El alcoholismo ha complicado sus relaciones familiares y su vida profesional."
+        },
+        {
+          "categoria": "rasgos",
+          "tema": "Rasgos físicos",
+          "etiqueta": "Alto y delgado",
+          "descripcion": "Cabello negro, ojos azules y figura alta y delgada."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Evita la pistola",
+          "descripcion": "A veces prefiere no ir armado por temor a dejarse arrastrar por su mal genio."
+        },
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Autobuses",
+          "descripcion": "Suele desplazarse por San Diego en transporte público."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "wade-miller-austin-clapp",
+      "nombre": "Austin Clapp",
+      "autor": "wade-miller",
+      "ocupacion": "Policía",
+      "ocupacionDetalle": "Teniente de Homicidios de San Diego",
+      "sexo": "Masculino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "wade-miller-serie-max-thursday",
+      "obras": [
+        "wade-miller-deadly-weapon",
+        "wade-miller-guilty-bystander",
+        "wade-miller-fatal-step",
+        "wade-miller-uneasy-street",
+        "wade-miller-calamity-fair",
+        "wade-miller-murder-charge",
+        "wade-miller-shoot-to-kill"
+      ],
+      "articulos": [],
+      "descripcion": "Teniente de Homicidios, amigo de Thursday; ya aparecía en la novela anterior protagonizada por Walter James.",
+      "senasIdentidad": [
+        {
+          "categoria": "habilidades",
+          "tema": "Habilidades singulares",
+          "etiqueta": "Experiencia policial",
+          "descripcion": "Conoce a los criminales de San Diego y los procedimientos de investigación de homicidios."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "wade-miller-walter-james",
+      "nombre": "Walter James",
+      "autor": "wade-miller",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Investigador privado en San Diego",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "wade-miller-deadly-weapon"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador de la muerte de su compañero en la primera novela del dúo.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "wade-miller-mort-hagen",
+      "nombre": "Mort Hagen",
+      "autor": "wade-miller",
+      "ocupacion": "Detective privado",
+      "ocupacionDetalle": "Detective de divorcios y veterano de Inteligencia militar",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Héroe desencantado"
+      ],
+      "serie": "",
+      "obras": [
+        "wade-miller-dead-she-was-beautiful"
+      ],
+      "articulos": [],
+      "descripcion": "Investigador contratado para vigilar a una mujer que resulta ser su exesposa; acusado de asesinarla cuando aparece muerta.",
+      "senasIdentidad": [
+        {
+          "categoria": "manias",
+          "tema": "Manías y costumbres",
+          "etiqueta": "Cinismo",
+          "descripcion": "Su visión del mundo está marcada por la guerra y un matrimonio fracasado."
+        }
+      ],
+      "nivelArchivo": "principal",
+      "estadoSenas": "propuesta_documentada"
+    },
+    {
+      "id": "wade-miller-biggo-venn",
+      "nombre": "Biggo Venn",
+      "autor": "wade-miller",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Aventurero y antiguo soldado de fortuna",
+      "sexo": "Masculino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "wade-miller-devil-may-care"
+      ],
+      "articulos": [],
+      "descripcion": "Hombre contratado para obtener en México una confesión que interesa a un jefe del hampa.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "wade-miller-merle-osborn",
+      "nombre": "Merle Osborn",
+      "autor": "wade-miller",
+      "ocupacion": "Periodista",
+      "ocupacionDetalle": "Reportera de sucesos del San Diego Sentinel",
+      "sexo": "Femenino",
+      "roles": [
+        "Aliado / colaborador"
+      ],
+      "perfiles": [
+        "Héroe"
+      ],
+      "serie": "wade-miller-serie-max-thursday",
+      "obras": [
+        "wade-miller-guilty-bystander"
+      ],
+      "articulos": [],
+      "descripcion": "Periodista vinculada sentimentalmente a Max Thursday durante la serie.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    },
+    {
+      "id": "wade-miller-cay-morgan",
+      "nombre": "Cay Morgan",
+      "autor": "wade-miller",
+      "ocupacion": "Otras ocupaciones",
+      "ocupacionDetalle": "Mujer decidida a vengarse de un contrabandista",
+      "sexo": "Femenino",
+      "roles": [
+        "Protagonista"
+      ],
+      "perfiles": [
+        "Antihéroe"
+      ],
+      "serie": "",
+      "obras": [
+        "wade-miller-branded-woman"
+      ],
+      "articulos": [],
+      "descripcion": "Viajera que busca al hombre que la marcó con una X en la frente.",
+      "senasIdentidad": [],
+      "nivelArchivo": "principal",
+      "estadoSenas": "pendiente_de_documentar"
+    }
+  ],
+  "series": [
+    {
+      "id": "wade-miller-serie-max-thursday",
+      "nombre": "Max Thursday",
+      "autor": "wade-miller",
+      "descripcion": "Ciclo de seis novelas de detective privado entre 1947 y 1951. Deadly Weapon (1946) es un antecedente con Austin Clapp, pero no aparece Max Thursday; por ello queda fuera de la serie."
+    }
+  ],
+  "obras": [
+    {
+      "id": "wade-miller-deadly-weapon",
+      "titulo": "Arma mortal",
+      "original": "Deadly Weapon",
+      "anio": 1946,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Walter James, detective de San Diego, investiga el asesinato de su compañero con el apoyo del teniente Austin Clapp. También traducida como El factor desconocido."
+    },
+    {
+      "id": "wade-miller-guilty-bystander",
+      "titulo": "Nadie es inocente",
+      "original": "Guilty Bystander",
+      "anio": 1947,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "wade-miller-serie-max-thursday",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Max Thursday, veterano de guerra y detective con problemas de alcohol, busca a su hijo secuestrado por petición de su exesposa. Otras ediciones: El espectador culpable y Nada para mí."
+    },
+    {
+      "id": "wade-miller-pop-goes-the-queen",
+      "titulo": "El galeón perdido",
+      "original": "Pop Goes the Queen",
+      "anio": 1947,
+      "autor": "wade-miller",
+      "seudonimo": "Bob Wade y Bill Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Una serie de sucesos criminales afecta a un hotel turístico. Reedición como Murder—Queen High."
+    },
+    {
+      "id": "wade-miller-fatal-step",
+      "titulo": "Paso fatal",
+      "original": "Fatal Step",
+      "anio": 1948,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "wade-miller-serie-max-thursday",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Max Thursday investiga un caso de violencia vinculado a una feria ambulante. También publicada como El vendado."
+    },
+    {
+      "id": "wade-miller-uneasy-street",
+      "titulo": "Calle siniestra",
+      "original": "Uneasy Street",
+      "anio": 1948,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "wade-miller-serie-max-thursday",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "La entrega de una vieja caja de música lleva a Thursday tras un cargamento oculto de cien mil dólares."
+    },
+    {
+      "id": "wade-miller-devil-on-two-sticks",
+      "titulo": "La elección del asesino",
+      "original": "Devil on Two Sticks",
+      "anio": 1949,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Novela criminal reeditada como Killer's Choice (1950). Sinopsis detallada pendiente."
+    },
+    {
+      "id": "wade-miller-calamity-fair",
+      "titulo": "Extorsión",
+      "original": "Calamity Fair",
+      "anio": 1950,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "wade-miller-serie-max-thursday",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "wade-miller-devil-may-care",
+      "titulo": "De armas tomar",
+      "original": "Devil May Care",
+      "anio": 1950,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Biggo Venn viaja a México para obtener una declaración que permitiría el retorno de un capo mafioso expulsado de Estados Unidos. También titulada Nido de avispas."
+    },
+    {
+      "id": "wade-miller-murder-charge",
+      "titulo": "Pedido recomendado",
+      "original": "Murder Charge",
+      "anio": 1950,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "wade-miller-serie-max-thursday",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Max Thursday se infiltra en una organización criminal para esclarecer sus delitos."
+    },
+    {
+      "id": "wade-miller-stolen-woman",
+      "titulo": "Stolen Woman",
+      "original": "Stolen Woman",
+      "anio": 1950,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "wade-miller-the-killer",
+      "titulo": "The Killer",
+      "original": "The Killer",
+      "anio": 1951,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Un experto cazador es contratado para rastrear a un hombre acusado de matar al hijo de su cliente."
+    },
+    {
+      "id": "wade-miller-shoot-to-kill",
+      "titulo": "Manos fuertes",
+      "original": "Shoot to Kill",
+      "anio": 1951,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "wade-miller-serie-max-thursday",
+      "generos": [
+        "hardboiled"
+      ],
+      "sinopsis": "Última novela del detective Max Thursday, ambientada en San Diego."
+    },
+    {
+      "id": "wade-miller-the-tigers-wife",
+      "titulo": "The Tiger's Wife",
+      "original": "The Tiger's Wife",
+      "anio": 1951,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "wade-miller-case-of-lonely-lovers",
+      "titulo": "The Case of the Lonely Lovers",
+      "original": "The Case of the Lonely Lovers",
+      "anio": 1951,
+      "autor": "wade-miller",
+      "seudonimo": "Will Daemer",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Novela publicada como Will Daemer; reeditada como Murder Bait (1956)."
+    },
+    {
+      "id": "wade-miller-memo-for-murder",
+      "titulo": "Memo for Murder",
+      "original": "Memo for Murder",
+      "anio": 1951,
+      "autor": "wade-miller",
+      "seudonimo": "Dale Wilmer",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "wade-miller-branded-woman",
+      "titulo": "Branded Woman",
+      "original": "Branded Woman",
+      "anio": 1952,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Cay Morgan llega a México para vengarse del hombre que le grabó una X en la frente. La investigación alcanza una red de contrabando internacional de joyas."
+    },
+    {
+      "id": "wade-miller-south-of-the-sun",
+      "titulo": "Al sur del sol",
+      "original": "South of the Sun",
+      "anio": 1953,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "wade-miller-the-big-guy",
+      "titulo": "The Big Guy",
+      "original": "The Big Guy",
+      "anio": 1953,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "wade-miller-dead-fall",
+      "titulo": "Dead Fall",
+      "original": "Dead Fall",
+      "anio": 1954,
+      "autor": "wade-miller",
+      "seudonimo": "Dale Wilmer",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "wade-miller-jungle-heat",
+      "titulo": "Jungle Heat",
+      "original": "Jungle Heat",
+      "anio": 1954,
+      "autor": "wade-miller",
+      "seudonimo": "Dale Wilmer",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Novela criminal firmada como Dale Wilmer y después reeditada bajo la firma Wade Miller."
+    },
+    {
+      "id": "wade-miller-all-through-the-night",
+      "titulo": "All Through the Night",
+      "original": "All Through the Night",
+      "anio": 1955,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Un secuestro pone en marcha una investigación marcada por la tensión psicológica. Publicada también como A Cry in the Night."
+    },
+    {
+      "id": "wade-miller-dead-she-was-beautiful",
+      "titulo": "Dead, She Was Beautiful",
+      "original": "Dead, She Was Beautiful",
+      "anio": 1955,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Mort Hagen recibe el encargo de vigilar a la esposa de un promotor inmobiliario. Resulta ser su exmujer; cuando ella aparece muerta, él es el principal sospechoso."
+    },
+    {
+      "id": "wade-miller-mad-baxter",
+      "titulo": "Mad Baxter",
+      "original": "Mad Baxter",
+      "anio": 1955,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "wade-miller-kiss-her-goodbye",
+      "titulo": "Kiss Her Goodbye",
+      "original": "Kiss Her Goodbye",
+      "anio": 1956,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Emily Darnell, una joven con discapacidad intelectual, se ve envuelta en una trama de manipulación y violencia en el desierto estadounidense."
+    },
+    {
+      "id": "wade-miller-badge-of-evil",
+      "titulo": "Sed de mal",
+      "original": "Badge of Evil",
+      "anio": 1956,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "hardboiled",
+        "crime thriller"
+      ],
+      "sinopsis": "Una investigación por asesinato revela abusos y corrupción policial. Fue la base de la película Sed de mal (Touch of Evil, 1958), de Orson Welles."
+    },
+    {
+      "id": "wade-miller-a-shadow-in-the-wild",
+      "titulo": "A Shadow in the Wild",
+      "original": "A Shadow in the Wild",
+      "anio": 1957,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "wade-miller-kitten-with-a-whip",
+      "titulo": "Kitten with a Whip",
+      "original": "Kitten with a Whip",
+      "anio": 1959,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "psychological thriller",
+        "crime thriller"
+      ],
+      "sinopsis": "Una fugitiva de un centro de menores consigue introducirse en casa de un hombre respetable y lo somete a chantajes y amenazas."
+    },
+    {
+      "id": "wade-miller-the-dark-fantastic",
+      "titulo": "The Dark Fantastic",
+      "original": "The Dark Fantastic",
+      "anio": 1959,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "wade-miller-sinner-take-all",
+      "titulo": "Los políticos mueren en jueves",
+      "original": "Sinner Take All",
+      "anio": 1960,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    },
+    {
+      "id": "wade-miller-a-hammer-in-his-hand",
+      "titulo": "A Hammer in His Hand",
+      "original": "A Hammer in His Hand",
+      "anio": 1960,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Thriller protagonizado por una mujer policía."
+    },
+    {
+      "id": "wade-miller-nightmare-cruise",
+      "titulo": "Nightmare Cruise",
+      "original": "Nightmare Cruise",
+      "anio": 1961,
+      "autor": "wade-miller",
+      "seudonimo": "Wade Miller",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Novela criminal publicada también como The Sargasso People."
+    },
+    {
+      "id": "wade-miller-evil-come-evil-go",
+      "titulo": "El caso de la cuna vacía",
+      "original": "Evil Come, Evil Go",
+      "anio": 1961,
+      "autor": "wade-miller",
+      "seudonimo": "Whit Masterson",
+      "serie": "",
+      "generos": [
+        "crime thriller"
+      ],
+      "sinopsis": "Sinopsis argumental pendiente de documentar."
+    }
+  ]
+}
