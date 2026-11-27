@@ -30,7 +30,6 @@
       "the-gordons-crystal-benson",
       "the-gordons-kelly-sherwood",
       "the-gordons-frank-mitchell",
-      "the-gordons-hawk",
       "the-gordons-chris-roberts"
     ],
     "series": [
@@ -192,7 +191,7 @@
       "articulos": [],
       "descripcion": "Hermana de Patti, implicada en las peripecias de D. C.",
       "senasIdentidad": [],
-      "nivelArchivo": "principal",
+      "nivelArchivo": "complementario",
       "estadoSenas": "pendiente_de_documentar"
     },
     {
@@ -261,29 +260,6 @@
       ],
       "articulos": [],
       "descripcion": "Abogado vinculado a dos novelas de intriga y suspense.",
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "the-gordons-hawk",
-      "nombre": "Inspector Hawk",
-      "autor": "the-gordons",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Inspector de la policía de Los Ángeles",
-      "sexo": "Masculino",
-      "roles": [
-        "Aliado / colaborador"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "the-gordons-serie-frank-mitchell",
-      "obras": [
-        "the-gordons-night-after-wedding"
-      ],
-      "articulos": [],
-      "descripcion": "Inspector que colabora con Frank Mitchell para investigar una situación inquietante.",
       "senasIdentidad": [],
       "nivelArchivo": "principal",
       "estadoSenas": "pendiente_de_documentar"
