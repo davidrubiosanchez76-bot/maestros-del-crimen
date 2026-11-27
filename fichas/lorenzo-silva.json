@@ -28,13 +28,8 @@
       "silva-arnau",
       "silva-ines-salgado",
       "silva-manuela-mauri",
-      "silva-guadalupe-larbi",
       "silva-sonia-ruiz",
-      "silva-pau-soria",
-      "silva-pua",
-      "silva-mazo",
-      "silva-tortosa",
-      "silva-fonseca"
+      "silva-pua"
     ],
     "series": [
       "silva-bevilacqua-chamorro",
@@ -266,29 +261,6 @@
       "estadoSenas": "propuesta_documentada"
     },
     {
-      "id": "silva-guadalupe-larbi",
-      "nombre": "Guadalupe Larbi",
-      "autor": "lorenzo-silva",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Oficial que reclama el regreso de Mauri a una investigación",
-      "sexo": "Femenino",
-      "roles": [
-        "Aliado / colaborador"
-      ],
-      "perfiles": [
-        "Sin clasificar"
-      ],
-      "serie": "silva-manuela-mauri",
-      "obras": [
-        "silva-si-esto-es-una-mujer"
-      ],
-      "articulos": [],
-      "descripcion": "Busca a Manuela Mauri para pedirle que se reincorpore y dirija la Operación Vertedero.",
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
       "id": "silva-sonia-ruiz",
       "nombre": "Sonia Ruiz",
       "autor": "lorenzo-silva",
@@ -307,29 +279,6 @@
       ],
       "articulos": [],
       "descripcion": "Detective que afronta su primer caso con ayuda de Pau Soria.",
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "silva-pau-soria",
-      "nombre": "Pau Soria",
-      "autor": "lorenzo-silva",
-      "ocupacion": "Otras ocupaciones",
-      "ocupacionDetalle": "Amigo y ayudante de Sonia Ruiz",
-      "sexo": "Masculino",
-      "roles": [
-        "Compañero / ayudante"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "",
-      "obras": [
-        "silva-nada-sucio"
-      ],
-      "articulos": [],
-      "descripcion": "Joven colaborador de Sonia Ruiz en la investigación de un caso de acoso.",
       "senasIdentidad": [],
       "nivelArchivo": "principal",
       "estadoSenas": "pendiente_de_documentar"
@@ -363,75 +312,6 @@
       ],
       "nivelArchivo": "principal",
       "estadoSenas": "propuesta_documentada"
-    },
-    {
-      "id": "silva-mazo",
-      "nombre": "Mazo",
-      "autor": "lorenzo-silva",
-      "ocupacion": "Otras ocupaciones",
-      "ocupacionDetalle": "Antiguo compañero de operaciones clandestinas de Púa",
-      "sexo": "Masculino",
-      "roles": [
-        "Aliado / colaborador"
-      ],
-      "perfiles": [
-        "Moralmente ambiguo"
-      ],
-      "serie": "",
-      "obras": [
-        "silva-pua"
-      ],
-      "articulos": [],
-      "descripcion": "Su petición de ayuda impulsa el regreso de Púa a un mundo que había abandonado.",
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "silva-tortosa",
-      "nombre": "Jueza Tortosa",
-      "autor": "lorenzo-silva",
-      "ocupacion": "Abogado / justicia",
-      "ocupacionDetalle": "Jueza instructora de un asesinato en un programa televisivo",
-      "sexo": "Femenino",
-      "roles": [
-        "Coprotagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "",
-      "obras": [
-        "silva-muerte-en-el-reality-show"
-      ],
-      "articulos": [],
-      "descripcion": "Investiga, junto al comisario Fonseca, el asesinato de una concursante.",
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
-    },
-    {
-      "id": "silva-fonseca",
-      "nombre": "Comisario Fonseca",
-      "autor": "lorenzo-silva",
-      "ocupacion": "Policía",
-      "ocupacionDetalle": "Comisario investigador del asesinato en un reality show",
-      "sexo": "Masculino",
-      "roles": [
-        "Coprotagonista"
-      ],
-      "perfiles": [
-        "Héroe"
-      ],
-      "serie": "",
-      "obras": [
-        "silva-muerte-en-el-reality-show"
-      ],
-      "articulos": [],
-      "descripcion": "Colabora con la jueza Tortosa para esclarecer el homicidio cometido en un plató.",
-      "senasIdentidad": [],
-      "nivelArchivo": "principal",
-      "estadoSenas": "pendiente_de_documentar"
     }
   ],
   "series": [
